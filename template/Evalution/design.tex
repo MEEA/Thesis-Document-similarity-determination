@@ -1,0 +1,34 @@
+\section{ESB Performance Evaluation Architecture}
+\label{sec:esbevaluationdesign}
+
+% explain the figure
+% the evaluation is done for SOAP over HTTP protocols based on a in only message exchange patter, so that we are only masuring how much time does it take to reach the backend service. explain that the dashed lines are because those calls are optional, this means, we divide in to more than one scenario, each scenario testing 1, 2, 4, and 10 endpoints
+% for the two instances of servicemix, we provide 10 endpoints in total, and 5in each instance, and the load is divided into the endpoitns. we start with the scenario with 2 endpoints
+% explain a little bit the java bench androitlogic driver
+% explain that we will use differente messages for the scenarios so that we can decouple them from the scenarios, being able to modify messages independently. results are in a format (I can paste an example of a result from the java benchmark) and then the driver provided by androit to be able to convert it to a csv file
+% for concurrent calls between endpoints, we are going to create as many instances of the java benchmark as many endpoints we want to call concurrently by using shell scripting and the & (background task). Explain how many messages we are sending, in factor 2..., and the warmup phase of the esb, so that we ensure that the heap mamory is cleaned (garbage collector)
+% system monitoring for the %CPU and %sys memory using the top command and then converting the output data to csv
+% jconsole usage for heap measurements
+% wireshark just for counting the packages that arrived and pack lost
+% to fill the messages, we fill it with random characters and create a <attachment> part in the body
+
+AndroitLogic has developed in their \ac{ESB} Performance Evaluation Round 3 a load generator for different scenarios. After analyzing its main features, we found it suitable for our work, but only if we can include tenant-awareness in the execution. We evaluate the \ac{SOAP} over \ac{HTTP} communication protocol in both native ServiceMix \ac{HTTP} \ac{BC} and in the multi-tenant \ac{HTTP} \ac{BC}. With this we want to evaluate not only the performance of the \ac{ESB} solution we are using in our Cloud infrastructure, but also the penalty caused by the multi-tenant awareness implementation. The \ac{SOAP} over \ac{HTTP} protocol is well known for its usage in Web services. In this evaluation we use as a backend Web service an Echo Service which logs the received requests. For this purpose, we must push the scenarios as close as possible to a real Web service consumption. Therefore, we divide the evaluation system in two virtual machines connected by a network (see Figure \ref{fig:evaluationarchitecture}). 
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{figure}[htb]
+	\centering
+		\includegraphics[width=.95\textwidth, trim=0.0cm 0.0cm 0.0cm 0.0cm, clip]{./gfx/evaluationarchitecture.pdf}
+	\caption[ESB Performance Evaluation Architecture]{Architectural overview of the components used for the evaluation of the \ac{ESB} performance. \textbf{Note:} We evaluate only ServiceMix, not the integrated version of ServiceMix with the JBIMulti2 application, in order to be able to perform a direct comparison between the multi-tenant and the non multi-tenant ServiceMix.}
+	\label{fig:evaluationarchitecture}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+The virtual machine one hosts the front and backends components: performance benchmark and the Web service. The Web service is deployed in an Apache Tomcat server. The extended performance benchmark is built of the following components: AndroitLogic driver, shell scripts and data converters. The AndroitLogic driver support concurrent users invoking the same endpoint, but not concurrent users between two or more endpoints. Furthermore, it does not support message modification for including tenant information. For this purpose, we have designed the shell scripts which can give support on those two requirements (see Figure \ref{fig:evaluationarchitecture}). In the first place, the shell script modifies or does not modify the message which will be sent by the driver. In the second place, we perform concurrent invocations between endpoints by creating several Unix background tasks of the driver. Each of the tasks results can be dumped in a shared file between the driver instances. However, the results come in non structured format for analysis. Therefore, we convert the data using a converter provided by AndroitLogic \cite{androit2012}. For monitoring the packet lost rate, we will listen on the server's port where the Web service listens with a well known monitoring tool, Wireshark \cite{wireshark}.
+
+We use the virtual machines two and three for hosting the ServiceMix instances. The two instances are used only in non multi-tenant scenarios. For both multi-tenant and non multi-tenant scenarios we must increase the number of concurrent calls to the endpoints. In the requirement we specify scenarios of one, two, four, and ten endpoints. The system performance measurement can be done by system commands. We provide a component which take CPU and Memory measurements and converts its output to structured data for analysis. However, the system memory usage measurements do not give variable percentages over time. The percentage shown is the one associated with the memory consumption of the JVM the \ac{ESB} runs on, which is previously reserved and fixed over time. To get more representative data, we measure the heap consumption of ServiceMix in the JVM using Java Console, which give us a better representation of the variability between the different scenarios (See Figure \ref{fig:evaluationarchitecture}). For monitoring the communication, an instance of Wireshark can also be used, but in our evaluation it is optional.
+
+
+\FloatBarrier
+\clearpage

@@ -1,0 +1,96 @@
+\section{Evaluation}
+\label{sec:evaluation}
+
+In this section we first describe the components we implemented to be able to reuse the existing load performance driver from AndroitLogic \ac{ESB} Performance Round 6 and adapt it to the required multi-tenant scenarios \cite{androit2012}. In Section \ref{sec:evaluationanalysis} we shortly describe the deployment and initialization in the virtual machines under the Flexiscale network \cite{flexiscale} and we evaluate the results obtained from the different scenarios. 
+
+\subsection{ESB Performance Evaluation Benchmark}
+% put a figure of the folder skeleton
+% explain the androit benchmark (we can put an example of the inputs of the java call)
+% explain the endpoint configuration (both multi-tenant and non multi-tenant)
+% echo service at the end
+% message sample (and explain that we will use the message sample to include the tenant id and user id in the to and from values) so that we can see them in the echo service
+% endpoint configuration, for both multi tenant and non multi tenant
+
+AndoitLogic has developed an ESB Performance Benchmark in their Round 6 \cite{androit2012}. Their benchmark evaluates the ServiceMix behavior under different scenarios, which vary in the request message size, number of requests per endpoint, and number of concurrent users per endpoint. Their load generator is included in the \term{org.adroitlogic.toolbox.javabench} package in their Management Toolbox application \cite{androit2012}. They provide an HttpBenchmark and a \term{data to csv format} converter. The former makes \ac{HTTP} POST requests to the specified endpoint URL, and generates performance statistics, e.g. response time, throughput. The latter converts the driver's results to structured data for analysis. We reuse both components, but develop components on top which create several instances of the \term{javabench} to invoke multiple endpoints concurrently. Furthermore, we need to add tenant context information before invoking the driver. The components are implemented in UNIX shell scripts.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{figure}[htb]
+	\centering
+		\includegraphics[width=.95\textwidth, trim=0.0cm 0.0cm 0.0cm 0.0cm, clip]{./gfx/folderorganizationesbperformance.pdf}
+	\caption[ESB Performance Evaluation Package Structure]{Overview of the package used for the evaluation of the \ac{ESB} performance}
+	\label{fig:folderarch}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+In Figure \ref{fig:folderarch} we describe the overall structure of our loader package. We define three scenarios: scenario 1 is non multi-tenant aware and with one instance of ServiceMix, scenario 2 is non multi-tenant aware with two instances of ServiceMix, and scenario 3 is multi-tenant aware with 1 instance of ServiceMix \cite{EvalESB}, \cite{EnablingMT}. The \ac{SOAP} messages and the endpoints' URLs are read from \ac{XML} files stored in the \term{scenariox} folder. The messages vary from 500B to 100K. However, in this student thesis we perform the analysis for the 500B and 1K messages' sizes. The main and secondary scripts used in this analysis are located under the main scripts folders and the results generated are stored in the \term{ResultsScenariox} folder. In addition, for the multi-tenant scenarios, the endpoint URL file must also contain the tenant context information, e.g. tenantId and userId. 
+
+For the evaluation scenarios we create using the ServiceMix \ac{HTTP} maven archetype 11 \ac{SU}s. Ten \ac{SU}s contain non multi-tenant endpoint configurations of 10 consumer and 10 providers which support the \ac{SOAP} over \ac{HTTP} communication protocol, while one \ac{SU} is configured to be deployed on the multi-tenant \ac{HTTP} \ac{BC} by 10 tenants, generating 10 tenant-aware endpoints (10 tenant-aware consumer and provider endpoints). The deployment phase is described in Section \ref{sec:evaluationanalysis}.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\lstinputlisting[label={lst:scenarioinvokationi},caption={[ESB Performance Analysis Main Shell Script Invocation] Invocation parameters in the main shell scripts of the benchmark.},basicstyle=\scriptsize]{./gfx/androitinvokation.txt}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+For the non multi-tenant scenarios, we specify the needed invocation parameters in Listings \ref{lst:scenarioinvokationi}, \ref{lst:loopinvokation}, and \ref{lst:loopinvokation2}. The non multi-tenant aware shell script takes as one of the input parameters the file path where the \ac{SOAP} message is stored and creates the result scenario file name based on the message size and the running scenario. Furthermore, the endpoints' URLs are retrieved from the endpoint configuration file and the script reads as many URLs as tenants we specify. For supporting concurrent calls between endpoints, we create as many instances of the \term{javabench} as endpoints by running a secondary script, the loop script (see Figure \ref{fig:folderarch}), which is executed as a Linux background task. The scenario is divided in two phases: warm-up and performance test. In the warm-up phase an amount of requests are concurrently sent to the endpoints in order to warm-up the \ac{ESB} and get consistent results, while in the performance test phase we perform the measurements which can be analyzed. In the warmup phase the initial request number is set to 10240 requests. This value is then increased exponentially, and divided by the number of endpoints, as described in the following explanation. The loop script increments exponentially the number of requests and divides it by the number of endpoints in the \ac{ESB}, e.g. during the performance test phase if an initial request number is set to 20, then it sends to each endpoint \begin{math} 20 * 2^i, i = [1,2,3,5,6] \end{math} divided by the number of invoked endpoints in the scenario. The same sequence is applied for the multi-tenant scenario. 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\lstinputlisting[label={lst:loopinvokation},caption={[ESB Performance Analysis Non Multi-tenant Shell Script Invocation]Invocation parameters in the non multi-tenant shell script of the benchmark.},basicstyle=\scriptsize]{./gfx/loopinvokation.txt}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+The approaches taken into account for the non multi-tenant scenarios are similar to the multi-tenant scenario, as it is shown in Listing \ref{lst:loopinvokation}. The main difference relies on the need of tenant context information injection before the \ac{SOAP} message is read and sent over \ac{HTTP} concurrently to the tenant-aware endpoints. The concurrent reading of messages leads us to the need of using temporal files to store the messages containing tenant context information. The temporal files are created in the same directory as the requests files, and we modify the content by reading the original request in the loop2 script shown in Listing \ref{lst:loopinvokation2} and using the Linux \term{sed} command to inject the tenant context information read from the endpoints' URL definition file. 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\lstinputlisting[label={lst:loopinvokation2},caption={[ESB Performance Analysis Multi-tenant Shell Script Invocation]Invocation parameters in the multi-tenant shell script of the benchmark.},basicstyle=\scriptsize]{./gfx/loopinvokation2.txt}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+With the above approaches we fulfill the requirement of getting the response time and the throughput when invoking and external Web service through an \ac{ESB}. We have also implemented scripts for monitoring the system resources with the \term{top} Linux command and with the Java Console \cite{jconsole}. The former provides data at the system level, e.g. JVM memory consumption, while the latter provides data about the exact amount of JVM resources the ServiceMix process consumes.
+
+
+\subsection{ESB Performance Evaluation Analysis}
+\label{sec:evaluationanalysis}
+
+	In this student thesis we extend and add extra functionality to ServiceMix. Therefore we need to measure its behavior and compare it with the baseline, which is the non multi-tenant version of Apache ServiceMix 4.3.0 \cite{ASM}. In the following sections we describe the systems we use for evaluating the performance of the \ac{ESB}, and we discuss some of the results we obtained. 
+
+	\subsubsection{Deployment and Initialization}
+	
+	The different scenarios we run in this evaluation must approximate as much as possible to real scenarios. Thus we utilize three Ubuntu 10.04 virtual machines in this evaluation connected by the network in the Flexiscale infrastructure \cite{flexiscale}. One virtual machine hosts the evaluation package and an echo Web service which implements the In-Only \ac{MEP} and is deployed in Tomcat 7.0.23. Wireshark 1.2.7 is installed for monitoring incoming and outgoing requests to and from the echo Web service. In a second and third virtual machine we install one instance of ServiceMix 4.3.0 and the system resources measurement scripts. We have listed in Section \ref{sec:evaluationspecification} a set of multi-tenant and non multi-tenant scenarios. For the non multi-tenant scenarios we have deployed in the ServiceMix \term{deploy} directory a \ac{SA} containing the configuration of 10 consumer and 10 provider endpoints. For the multi-tenant scenarios we performed the operations described in Section \ref{sec:multitenanttest} and deploy through JBIMulti2 10 tenant-aware consumer and 10 tenant-aware provider endpoints. Both tenant-aware and non tenant-aware endpoints must be specified in the endpoint file the extended driver reads for sending the \ac{SOAP} requests.
+	
+	
+	\subsubsection{Evaluation Analysis}
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\begin{figure}[htb]
+		\centering
+			\includegraphics[clip, scale=0.5]{./gfx/response1K.pdf}
+		\caption[ESB Performance Evaluation Response time for 1KB Messages]{Response time of the different scenarios for 1KB \ac{SOAP} over \ac{HTTP} requests \cite{EvalESB}.}
+		\label{fig:responsetime}
+	\end{figure}
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	The numerical values obtained from the communication driver are distributed per endpoint. Therefore, we make the average between the endpoints for each set of sent requests. The latency when increasing the number of endpoints in the system increases between 25\% and 45\% for concurrent requests sent to 2, 4 and 10 endpoints (see Figure \ref{fig:responsetime}). We can see that our extended version declines the original ServiceMix's performance approximately 30\% \cite{EvalESB}. Furthermore, we can observe that the response time for the different multi-tenant scenarios does not increase proportional to the number of tenants, but shows a better performance per endpoint. When distributing the requests between two ServiceMix instances we have observed that the response time is substantially reduced when increasing the number of endpoints.	
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\begin{figure}[htb]
+		\centering
+			\includegraphics[clip, scale=0.7]{./gfx/evaluation_throughput.pdf}
+		\caption[ESB Performance Evaluation Throughput for 1KB Messages]{Throughput of the different scenarios for 1KB \ac{SOAP} over \ac{HTTP} requests \cite{EvalESB}.}
+		\label{fig:evaluationthroughput}
+	\end{figure}
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	
+		
+	When measuring the throughput, the analysis took us to the same deduction we discussed above. When the number of endpoints decreases, we can observe a bigger gap between the native and the extended version of ServiceMix. As we increase the number of endpoints, e.g. 10 endpoints, we can see that the gap between approaches is exponentially narrowed (see Figure \ref{fig:evaluationthroughput}).  
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\begin{figure}[htb]
+		\centering
+			\includegraphics[clip, scale=0.5]{./gfx/evaluation_cpu.pdf}
+		\caption[ESB Performance Evaluation CPU Consumption]{Overview of the CPU consumption over the different scenarios \cite{EvalESB}.}
+		\label{fig:evaluationcpu}
+	\end{figure}
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	Finally, we have analyzed the CPU consumption of the process running the ServiceMix instance. We can observe in the average CPU consumption that there is a gap between both multi-tenant and non multi-tenant scenarios which increases when the number of endpoints increases. However, when increasing the number of endpoints the average CPU consumption stabilizes and maintains close to a constant value. The maximum CPU consumption values decreases in the non multi-tenant scenarios when increasing the number of endpoints, while for the multi-tenant scenario it linearly increases from two endpoints. In the 4 or 10 endpoints scenarios, the maximum CPU consumption difference between the native and the extended approaches are between 250\% and 320\% approximately (see Figure \ref{fig:evaluationcpu}).
+
+The tenant authentication procedure demands a greater number of resources when parsing the \ac{SOAP} headers and the \ac{XML} data from the tenant context file. However, this decline caused by the implemented authentication procedure and the marshaling of tenant context information within the process is much lower that the decline caused by establishing a connection with an external database system and retrieving the tenant context information from an external source to the process.  
+	
+	
+
