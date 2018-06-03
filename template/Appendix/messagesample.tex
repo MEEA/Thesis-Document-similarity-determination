@@ -1,0 +1,63 @@
+\chapter{Messages}
+
+%This chapter lists \ac{XSD}s that WS-Policy Assertion language and Rules XML file must conform. Furthermore, there are given several policy documents of Cloud data stores that are used for validation.
+In this chapter we provide an overview of the requests which are sent to, and received from the extended ServiceMix-mt. For MySQL requests we provide the \ac{TCP} packets which are transferred between the application, ServiceMix-mt, and the backend MySQL database system. For NoSQL requests we present messages samples which are in \ac{JSON} format, but its content varies among the different backend Cloud data store providers. 
+
+\section{Normalized Message Format Content Description}
+\label{appendix:nmfcontent}
+
+In this section we provide an overview of the data structures which are sent in the \ac{NMF}. The sections of the \ac{NMF} where the data and meta-data are sent are the \term{properties}, and the \term{attachment}.  In the Listing \ref{lst:nmfcontent} we detail the contents sent in each of the sections, and the data structures in which the data and meta-data are stored.
+
+%\vspace*{0.5cm}
+
+%\lstinputlisting[label={lst:policy_language_syntax},caption={[Syntax of WS-Policy Assertion Language Schema]Syntax of WS-Policy Assertion Language Schema.},style=xml]{./gfx/master_thesis/cdhs-ws.xml}
+
+%\vspace*{1cm}
+\vspace*{0.5cm}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\lstinputlisting[label={lst:nmfcontent},caption={[Data and Meta-data Detail in the Normalized Message Format]Detail of the content and data structures used to send the requests' data and meta-data.},style=ebnf]{./gfx/NMF_v3_0.txt}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\vspace*{1cm}
+
+\section{MySQL TCP Stream}
+\label{appendix:messagemysql}
+
+In this section we provide two \ac{TCP} streams which are captured with the \term{ngrep} program for UNIX \cite{ngrep}. The first stream captures the \ac{TCP} packets on port 3311, where the MySQL component in ServiceMix-mt listens for incoming connections (see Listing \ref{lst:tcpstream3311}). The second stream captures the \ac{TCP} packets on port 3306, where the a locally deployed MySQL server listens for incoming connections (see Listing \ref{lst:tcpstream3306}).
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\lstinputlisting[float=htb,label={lst:tcpstream3311},caption={[TCP Stream for a MySQL Communication Captured on Port 3311]TCP Stream for a MySQL communication captured on port 3311 with the program \term{ngrep} \cite{ngrep}.},style=ebnf]{./gfx/tcpstreamoutput3311.txt}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\lstinputlisting[float=htb,label={lst:tcpstream3306},caption={[TCP Stream for a MySQL Communication Captured on Port 3306]TCP Stream for a MySQL communication captured on port 3306 with the program \term{ngrep} \cite{ngrep}.},style=ebnf]{./gfx/tcpstream3306.txt}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\vspace*{0.5cm}
+
+%\lstinputlisting[label={lst:policy_language_syntax},caption={[Syntax of WS-Policy Assertion Language Schema]Syntax of WS-Policy Assertion Language Schema.},style=xml]{./gfx/master_thesis/cdhs-ws.xml}
+
+\vspace*{1cm}
+
+\vspace*{0.5cm}
+
+%\lstinputlisting[label={lst:policy_language_schema},caption={[CDHS WS-Policy Assertion Language Schema]CDHS WS-Policy Assertion Language Schema.},style=xml]{./gfx/master_thesis/cdhs_properties.xsd}
+
+\vspace*{1cm}
+
+\FloatBarrier
+
+
+%\section{JSON in POST Request}
+%\label{subsec:jsonpost}
+
+%to be filled
+
+\vspace*{0.5cm}
+
+%\lstinputlisting[label={lst:rules_schema},caption={[Post-Processing Rules XML Schema]Post-Processing Rules XML Schema.},style=xml]{./gfx/master_thesis/rules.xsd}
+
+\vspace*{1cm}
+
+\FloatBarrier
+
+\clearpage

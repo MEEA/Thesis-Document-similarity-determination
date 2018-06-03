@@ -1,0 +1,69 @@
+\chapter{Components}
+
+%This chapter lists \ac{XSD}s that WS-Policy Assertion language and Rules XML file must conform. Furthermore, there are given several policy documents of Cloud data stores that are used for validation.
+
+\section{CDASMix MySQL Proxy}
+\label{appendix:cdasmixmysqlproxy}
+
+The MySQL proxy \ac{OSGi} bundle is implemented on the Continuent Tungsten Connector \cite{tungstenwiki}, which is a Java MySQL proxy which directly connects with the backend MySQL database system. We extend and adapt this proxy in order to integrate it with ServiceMix, aggregate transparency, multi-tenant awareness, cashing, and dynamic connection with the backend Cloud data sources.
+
+\begin{figure}[htb]
+	\centering
+		\includegraphics[clip, scale=0.4]{./gfx/mysql-osgi/mysql-proxy-v3.pdf}
+	\caption[ServiceMix-mt MySQL OSGi Bundle]{OSGi bundle providing MySQL support in ServiceMix-mt}
+	\label{fig:mysqlclassdiagram}
+\end{figure}
+
+\FloatBarrier
+
+\vspace*{0.5cm}
+
+%\lstinputlisting[label={lst:policy_language_syntax},caption={[Syntax of WS-Policy Assertion Language Schema]Syntax of WS-Policy Assertion Language Schema.},style=xml]{./gfx/master_thesis/cdhs-ws.xml}
+
+%\vspace*{1cm}
+
+%\vspace*{0.5cm}
+
+%\lstinputlisting[label={lst:policy_language_schema},caption={[CDHS WS-Policy Assertion Language Schema]CDHS WS-Policy Assertion Language Schema.},style=xml]{./gfx/master_thesis/cdhs_properties.xsd}
+
+%\vspace*{1cm}
+
+\section{CDASMix Camel JDBC}
+\label{subsec:cdasmixcameljdbc}
+
+The \term{cdasmixjdbc} component is a custom component which is built and deployed as an \ac{OSGi} bundle in ServiceMix-mt. It provides support for connections with backend \ac{SQL} Cloud data stores, and message marshaling and demarshaling.
+
+\begin{sidewaysfigure}[htb]
+	\centering
+		\includegraphics[clip, scale=0.6]{./gfx/cdasmix-camel-jdbc/cdasmix-camel-jdbc.pdf}
+	\caption[ServiceMix-mt Camel CDASMix-JDBC Component]{OSGi bundle and Camel component providing JDBC support in ServiceMix-mt}
+	\label{fig:cdasmixjdbcclassdiagram}
+\end{sidewaysfigure}
+
+\vspace*{0.5cm}
+
+\FloatBarrier
+
+%\lstinputlisting[label={lst:rules_schema},caption={[Post-Processing Rules XML Schema]Post-Processing Rules XML Schema.},style=xml]{./gfx/master_thesis/rules.xsd}
+
+%\vspace*{1cm}
+
+%\section{Multi-tenant ServiceMix HTTP Binding Component}
+%\label{appendix:httpmtbc}
+
+%to be filled
+%\vspace*{0.5cm}
+
+%\lstinputlisting[label={lst:googleCloudSQL-policy},caption={[Google Cloud SQL Service Provider Policy]Google Cloud SQL Service Provider Policy.},style=xml]{./gfx/master_thesis/provider_policies/GoogleCloudSQL.wspolicy}
+
+%\vspace*{1cm}
+
+%\vspace*{0.5cm}
+
+%\lstinputlisting[label={lst:sqlDatabase-policy},caption={[SQL Database Service Provider Policy]SQL Database Service Provider Policy.},style=xml]{./gfx/master_thesis/provider_policies/SQLDatabase.wspolicy}
+
+%\vspace*{1cm}
+\FloatBarrier
+
+
+\clearpage
