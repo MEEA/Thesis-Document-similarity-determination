@@ -1,0 +1,469 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Template für Diplomarbeiten 
+% (im speziellen für Diplomarbeiten an der Universität Stuttgart)
+%
+% Copyright (c) 2005 by Tim Schönleber
+%
+% This template is free; you can redistribute it and/or modify
+% it under the terms of the GNU General Public License as published by
+% the Free Software Foundation; either version 2 of the License, or
+% (at your option) any later version.
+%
+% This program is distributed in the hope that it will be useful,
+% but WITHOUT ANY WARRANTY; without even the implied warranty of
+% MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+% GNU General Public License for more details.
+%
+% You should have received a copy of the GNU General Public License
+% along with this program; if not, write to the Free Software
+% Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
+%
+% Author: Tim Schönleber
+% Datum: 11.04.2005
+% Version: 1.0
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[paper=a4,       % Papiergröße A4
+					 11pt,
+					 BCOR0mm,  % Bindekorrektur
+					 DIV10,    % Satzspiegel mit 10er-Teilung
+					 automark, % lebende Kolumnentitel
+					 twoside,
+					 halfparskip,
+					 bibtotoc,
+					 headsepline,
+					 normalheadings,
+					 appendixprefix,
+					 pagesize  % Seitengröße wird bei dvi und pdf richtig gesetzt
+ ]{scrbook}
+
+% gängige Standardpakete
+\usepackage[english]{babel}
+\usepackage{graphicx}
+\usepackage{microtype}
+\usepackage{url}
+\usepackage{mparhack, fixltx2e, ellipsis} % JW: diverse Bugfixes
+\usepackage{colortbl, longtable, tabularx, lscape} %JW: farbige Tabellen, umgebrochene Tabellen, Tabellen mit Skalierung auf Seitenbreite, Querformat
+\usepackage[pdftex]{xcolor} % benötigt um Schriftfarbe für Todos oder Hinweise zu ändern JW: Option hinzugefügt
+\usepackage[english]{varioref} %JW: Verweise wie "Abbildung 4 auf der gegenüberliegenden Seite"
+
+
+%%%%%%%%%%%% Schriften %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[T1]{fontenc}				% T1-Schriften verwenden
+\usepackage[utf8]{inputenc}
+
+%Schriftart = Palatino
+\usepackage{mathpazo}
+\usepackage[scaled=0.9]{helvet}
+\usepackage[scaled=0.885]{luximono}		% TeleType-Schrift: Luxi Mono
+
+\usepackage{setspace}					% 1.05-facher Zeilenabstand wegen Palatino
+\linespread{1.05}
+%%%%%%%%%%%% Schriften %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Package A4wide, um den Platz auf einem A4 Papier besser auszunutzen   
+\usepackage{a4wide} %JW: Dieses Paket widerspricht jeglicher Regel für schöne Typografie
+
+%Package Booktabs für "`schönere"' Tabellen
+\usepackage{booktabs}
+
+%Paket Listings für "`schöne"' Code-Umgebungen
+\usepackage{listings}
+
+\usepackage{rotating}
+
+\usepackage{placeins}
+
+\usepackage{subfigure}
+
+\usepackage[htt]{hyphenat}
+
+\usepackage{array}
+
+\usepackage[printonlyused]{acronym}
+
+\usepackage[pass]{geometry}
+
+\usepackage{mathtools}
+
+%Paket Caption zur Formatierung von Tabellen- und Bildunterschriften 
+\usepackage[margin=25pt,font=small,labelfont=bf, format=hang]{caption}
+
+%Paket Hyperref für den pdf-Export
+\usepackage[pdfpagelabels]{hyperref}
+\hypersetup
+	{%
+	pdftitle = {Diploma Thesis Santiago G\'omez S\'aez},
+	pdfsubject = {Extending an Open Source Enterprise Service Bus for Cloud Data Access Support},
+	pdfauthor = {Santiago G\'omez S\'aez},
+	pdfkeywords = {},
+	colorlinks = {true},
+	citecolor = {black},
+	linkcolor = {black},
+	urlcolor  = {black},
+	a4paper
+	}
+
+% Package ntheorem für Definitionen, Sätze, etc.
+\usepackage[standard,hyperref]{ntheorem}
+\newtheorem{Def}{Definition}[chapter]
+\newtheorem{Begriff}{Term}[chapter]
+
+%----------------  Kopf- und Fußzeilen  --------------------------------------
+\usepackage{scrpage2}
+\pagestyle{scrheadings}
+
+\cfoot[]{}
+\ifoot[]{}
+\ofoot[\pagemark]{\pagemark}
+\ohead[]{}
+\chead[]{}
+\ihead{\headmark}
+%-----------------------------------------------------------------------------
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Änderung der Kapitelüberschriften
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%-----------------------------------------------------------------------------
+\renewcommand*{\chapterheadstartvskip}{}
+%-----------------------------------------------------------------------------
+
+\newcommand*{\ORIGchapterheadstartvskip}{}
+\let\ORIGchapterheadstartvskip\chapterheadstartvskip
+ \renewcommand*{\chapterheadstartvskip}{
+   \ORIGchapterheadstartvskip
+   {
+     \setlength{\parskip}{0pt}
+     \noindent\rule[.3\baselineskip]{\linewidth}{1pt}
+   }
+ }
+\newcommand*{\ORIGchapterheadendvskip}{}
+\let\ORIGchapterheadendvskip\chapterheadendvskip
+\renewcommand*{\chapterheadendvskip}{
+{
+\setlength{\parskip}{0pt}
+\noindent\rule[.3\baselineskip]{\linewidth}{1pt}\par
+}
+\ORIGchapterheadendvskip
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Ende Änderung der Kapitelüberschriften
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%Trennungsliste
+\hyphenation{}
+
+%%%%%%% Custom Commands %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\term}[1]{\textit{#1}}
+\newcommand{\code}[1]{\texttt{#1}}
+\newcommand{\refsection}[1]{(see~Sect.~\ref{#1})}
+\newcommand{\refappendix}[1]{(see~Appendix~\ref{#1})}
+\newcommand{\reflisting}[1]{(see~Listing~\ref{#1})}
+\newcommand{\reffig}[1]{(see~Fig.~\ref{#1})}
+\newcommand{\reftable}[1]{(see~Table~\ref{#1})}
+
+\newcommand{\acrodep}[2]{\acro{#1}{#2 \acroextra{ \textit{(deprecated)}}}\acused{#1}}
+
+%%%%%%% Listings %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%Setzen der Einstellungen für das Listings-Paket am Beispiel Java
+%\definecolor{comments-eclipse-style}{rgb}{0.25,0.5,0.37}
+%\definecolor{keywords-eclipse-style}{rgb}{0.5,0.0,0.33}
+%\definecolor{strings-eclipse-style}{rgb}{0.16,0.0,1.0}
+
+% JW: Beachte, dass jede farbige Seite Geld kostet oder im Ausdruck anders rüberkommt. Ich hab alles schwarz-weiß gemacht. Außerdem helfen Nummerierungen für Verweise. Kommentiere den Stil aus, der Dir mehr zusagt.
+\definecolor{comments-eclipse-style}{rgb}{0.5,0.5,0.5}
+\definecolor{keywords-eclipse-style}{rgb}{0.35,0.35,0.35}
+\definecolor{strings-eclipse-style}{rgb}{0.0,0.0,0.0}
+
+\newcommand\myKeywordStyle{\bfseries}
+
+\definecolor{black}{rgb}{0.0,0.0,0.0}
+
+\lstset{%
+	basicstyle=\ttfamily,
+	numbers=left,
+	numberstyle=\tiny,
+	stepnumber=1,
+	numbersep=10pt,
+	frame=tb,
+	framerule=\heavyrulewidth,
+	tabsize=2,
+	captionpos=b,
+	breaklines=true,
+    breakatwhitespace=false,
+    aboveskip=1.5em,
+    belowskip=1em,
+	keywordstyle=\color{keywords-eclipse-style},
+	commentstyle=\color{comments-eclipse-style},
+	stringstyle=\color{strings-eclipse-style}
+}
+
+%JW: Original
+%\lstdefinestyle{java}
+%	{language=Java,
+%	 basicstyle=\ttfamily,
+%	 identifierstyle=\ttfamily,
+%	 keywordstyle=\color{keywords-eclipse-style},
+%	 commentstyle=\color{comments-eclipse-style},
+%	 stringstyle=\color{strings-eclipse-style},
+%	 %numbers=left,
+%	 %numberstyle=\tiny,
+%	 %stepnumber=1,
+%	 %numbersep=10pt,
+%	 frame=single,
+%	 captionpos=b
+%}
+
+%\lstdefinestyle{xml}
+%	{language=XML,	 
+%	 basicstyle=\ttfamily,
+%	 identifierstyle=\ttfamily,
+%	 keywordstyle=\color{keywords-eclipse-style},
+%	 commentstyle=\color{comments-eclipse-style},
+%	 stringstyle=\color{strings-eclipse-style},	 
+%	 captionpos=b,
+%	 showstringspaces=false
+%}
+
+%\lstdefinestyle{xml}
+%	{language=XML,	 
+%	 basicstyle=\ttfamily \small,
+%	 captionpos=b,
+%	 showstringspaces=false
+%}
+%
+\lstdefinestyle{Java}
+	{language=Java,	 	 
+	 basicstyle=\ttfamily \footnotesize
+}
+\lstdefinestyle{xml}
+	{language=XML,	 	 
+	 basicstyle=\ttfamily \footnotesize
+}
+\lstdefinelanguage{EBNF} {
+	morecomment=[s]{/*}{*/},
+	morestring=[b]"
+}
+\lstdefinestyle{ebnf}
+	{language=EBNF,	 	 
+	 basicstyle=\ttfamily \footnotesize,
+	 stringstyle=\color{keywords-eclipse-style}
+}
+%%%%%%% Ende Listings %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%Chapter-Überschriften linksbündig
+\renewcommand*{\chapterformat}{%
+\chapappifchapterprefix{\ \hspace{0.75cm}}
+\makebox[5pt][r]{\thechapter\autodot\enskip}}
+
+%%% Intelligente Querverweise (Verwendung siehe meine Arbeit) %%%%%%%%%%%%%%%%%%
+%% Copied from the TeXbook
+\newcommand \jwIfundefined[1]{%
+\expandafter\ifx\csname#1\endcsname\relax}
+
+\newcommand \myRefRange[3]{%
+\newcount\myCounter
+\myCounter=#3
+\advance \myCounter by -#2%
+\advance \myCounter by -1 %
+\ifnum \myCounter=0\relax
+	\ref{#1} auf Seite~#2\,f.%
+\else
+	{\ref{#1} auf Seite~#2\ bis~\pageref{#1:end}}%
+\fi
+}
+
+\newcommand \myRefi[1]{%
+\jwIfundefined{r@#1:end}{\vref{#1}}\else
+{% 3 Fälle:
+%  - nur eine Seite: kein Bereich, sondern wie \vref
+%  - 2 Seiten -> f
+%  - > 2 Seiten: Bereich
+\vrefpagenum\jwFirstnum{#1}%
+\vrefpagenum\jwSecondnum{#1:end}%
+%
+\ifthenelse{\equal\jwFirstnum\jwSecondnum}%
+{\vref{#1}}% Fall 1
+{\myRefRange{#1}\jwFirstnum\jwSecondnum}% Secondnum >= firstnum + 1
+}\fi
+}
+
+\newcommand\myVref[1]{%
+\jwIfundefined{r@#1}{\vref{#1}}\else
+{\myRefi{#1}}\fi
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Erzeugung des Titelblatts
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Deckblatt zentrieren
+%\newlength\oddsidemarginorig
+%\oddsidemarginorig=\oddsidemargin
+%\oddsidemargin 1.05cm
+%\newgeometry{a4paper,left=20.05mm,right=10mm, top=29.7mm, bottom=29.7mm}
+%\thispagestyle{plain}
+\pagestyle{plain}
+\begin{titlepage}
+\begin{sffamily}
+\begin{center}
+Institute of Architecture of Application Systems\\
+University of Stuttgart\\
+Universitätsstraße 38\\
+D-70569 Stuttgart\\
+\end{center}
+
+\vspace{3.5cm}
+
+\begin{center}
+{Diploma Thesis No. 3419}\\
+\vspace{0.5cm}
+\begin{minipage}{8.5cm}
+\begin{center}
+ 
+  \Large \textbf{Extending an Open Source Enterprise Service Bus for Cloud Data Access Support}
+ 
+\end{center}
+\end{minipage}
+\\
+\vspace{1cm}
+{Santiago G\'omez S\'aez}
+\end{center}
+
+\vspace{1.0cm}
+
+\begin{center}
+\begin{minipage}{3cm}
+\begin{center}
+	\includegraphics[width=0.9\textwidth]{./gfx/unilogo.pdf}
+	%\includegraphics{./gfx/uni_logo.png}
+\end{center}
+\end{minipage}
+\begin{minipage}{3cm}
+\begin{center}
+	\includegraphics{./gfx/iaas.jpg}
+\end{center}
+\end{minipage}
+\end{center}
+%
+\vspace{1.0cm}
+%
+\begin{center}
+\begin{tabular}{ll}
+\textbf{Course of Study:} & Computer Science\\
+&\\&\\
+\textbf{Examiner:}   & Prof. Dr. Frank Leymann\\
+\textbf{Supervisor:}   & Steve Strauch\\
+                     
+\textbf{Commenced:} &  November 15, 2012\\
+\textbf{Completed:}  &  March 22, 2013\\
+&\\
+\textbf{CR-Classification:} & C.2.4, C.4, D.2.11, H.2.0, H.2.4\\
+
+\end{tabular}
+\end{center}
+\end{sffamily}
+\end{titlepage}
+%\oddsidemargin=\oddsidemarginorig
+\restoregeometry
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Ende Titelblatt
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\cleardoubleemptypage
+
+\setlength{\parindent}{0.0em}
+
+\pagenumbering{roman}
+
+\begin{center}
+\section*{Abstract}
+\end{center}
+\pagestyle{empty}
+
+In the last years Cloud computing has become popular among IT organizations aiming to reduce its operational costs. Applications can be designed to be run on the Cloud, and utilize its technologies, or can be partially or totally migrated to the Cloud. The application's architecture contains three layers: presentation, business logic, and data layer. The presentation layer provides a user friendly interface, and acts as intermediary between the user and the application logic. The business logic separates the business logic from the underlaying layers of the application. The Data Layer (DL) abstracts the underlaying database storage system from the business layer. It is responsible for storing the application's data. The DL is divided into two sublayers: Data Access Layer (DAL), and Database Layer (DBL). The former provides the abstraction to the business layer of the database operations, while the latter is responsible for the data persistency, and manipulation. 
+
+When migrating an application to the Cloud, it can be fully or partially migrated. Each application layer can be hosted using different Cloud deployment models. Possible Cloud deployment models are: Private Cloud, Public Cloud, Community Cloud, and Hybrid Cloud. In this diploma thesis we focus on the database layer, which is one of the most expensive layers to build and maintain in an IT infrastructure. Application data is typically moved to the Cloud because of , e. g. Cloud bursting, data analysis, or backup and archiving. Currently, there is little support and guidance how to enable appropriate data access to the Cloud. 
+
+In this diploma thesis the we extend an Open Source Enterprise Service Bus to provide support for enabling transparent data access in the Cloud. After a research in the different protocols used by the Cloud providers to manage and store data, we design and implement the needed components in the Enterprise Service Bus to provide the user transparent access to his data previously migrated to the Cloud.
+
+\cleardoubleemptypage
+\pagestyle{scrheadings}
+
+\tableofcontents
+\newpage
+
+\listoffigures
+\listoftables
+\renewcommand{\lstlistlistingname}{List of Listings}
+\lstlistoflistings
+
+\cleardoubleemptypage
+
+%\sloppy
+
+\pagenumbering{arabic}
+\newpage
+\input{introduction/introduction}
+\input{fundamentals/fundamentals}
+\input{relatedworks/relatedworks}
+\input{specification/specification}
+\input{design/design}
+\input{implementation/implementation1}
+\input{validationEvaluation/validationevaluation}
+%\input{evaluation/evaluation}
+\input{conclusion/conclusion}
+\input{Appendix/appendix}
+
+\bibliographystyle{alphancex}
+\bibliography{literatur/literatur}
+
+All links were last followed on March 21, 2013.
+
+\clearpage
+\pagestyle{empty}
+\vspace{9cm}
+\begin{center}
+\begin{minipage}{11cm}
+\vspace{6cm}
+
+\textbf{\Large Acknowledgement}\\\\
+I am heartily thankful to my supervisor Steve Strauch from the University of Stuttgart for his encouragement, guidance and support in all the phases of this diploma thesis. I am also grateful to Dr. Vasilios Andrikopoulos for his advices and useful tips.
+Special thanks to my family, friends and girlfriend for their moral support.
+
+\vspace{1cm}
+Santiago G\'omez S\'aez
+
+\end{minipage}
+\end{center}
+
+\clearpage
+\pagestyle{empty}
+\vspace{9cm}
+\begin{center}
+\begin{minipage}{11cm}
+\vspace{6cm}
+
+\textbf{\Large Declaration}\\\\
+\vspace{0.4cm}
+
+All the work contained within this thesis,
+except where otherwise acknowledged, was
+solely the effort of the author. At no
+stage was any collaboration entered into
+with any other party.
+\vspace{1cm}
+
+Stuttgart, 22nd March 2013 \hspace{1cm}--------------------------------\\
+\phantom{Stuttgart, March 22 2013} \hspace{1.3cm} (Santiago G\'omez S\'aez)
+\end{minipage}
+\end{center}
+
+\end{document}
