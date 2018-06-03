@@ -1,0 +1,19 @@
+\section{Deployment and Initialization}
+\label{sec:deploymentandinit}
+
+The validation and evaluation of the prototype must close to the motivating scenario. Therefore, we must perform the testing of the prototype in a Cloud environment. We are provided with a VM image in the FlexiScale Cloud infrastructure \cite{flexiscale}, which runs the operative system Ubuntu 10.04 64 bits. The following components are deployed in the VM:
+\begin{itemize}
+	\item ServiceMix-mt 4.3.0: the multi-tenant aware ServiceMix 4.3.0. In addition to the \ac{OSGi} bundles, \ac{JBI} \ac{SA}s, and JBIMulti2 shared library \cite{JBIMulti2Man}, in its deploy folder we store the \ac{JBI} ServiceMix Registry, CDASMix MySQL Proxy, and the CamelJDBCCdasmix \ac{OSGi} bundles for deployment. 
+	\item JOnAS 5.2.2: the Java application server which hosts the JBIMulti2 application. 
+	\item MySQL database 5.1: MySQL database system for performing evaluation and validation of the prototype with a local database instance.
+	\item PostgreSQL 9.1.1:  PostgreSQL database system which stores the tenant-aware configuration data in the Service Registry, Configuration Registry, and Tenant Registry. 
+\end{itemize} 
+
+For more information about the deployment, and initialization of the ServiceMix-mt and JBIMulti2 please refer to the document "Manual for the JBIMulti2 Implementation" \cite{JBIMulti2Man}. On the other hand, we utilize de following off-premise instances:
+\begin{itemize}
+	\item Amazon RDS db.m1.micro instance: MySQL 5.5 database system hosted in the Amazon RDS Cloud infrastructure. 
+	\item Amazon DynamoDB table: \ac{NoSQL} key-value database for storing objects in the created tables. 
+	\item Google Cloud Storage: \ac{NoSQL} key-value database for storing buckets and objects.
+\end{itemize} 
+
+We must maximize the approximation of the testing and evaluation scenarios with the motivating scenario. Therefore, we perform the testing cases from a local machine in the University of Stuttgart network infrastructure, in order to simulate the access to the data from an on-premise data access layer. Communication with the JBIMulti2 application for tenant configuration, and deployment of \ac{SA}s is established using soapUI 3.6. Communication with the MySQL endpoint in ServiceMix-mt is established using the MySQL Connector/J 5.1.22, while for the different tenant-aware \ac{HTTP} endpoints we use the Java libraries provided by the Cloud data store providers. 
