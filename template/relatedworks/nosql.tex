@@ -1,0 +1,17 @@
+\section{NoSQL Approaches}
+\label{sec:relatedworksnosql}
+
+%% Review on the different cloud providers, where they provide its own java sdk for accessing their storage. camel provides a aws component, but put the advantages and disadvantages
+%% put the table from the seminar work to demonstrate that most of the providers support rest and json
+%% put a table where we differentiate how the providers name each info structure
+%% cdmi spec about json and about the http
+
+In this section we discuss the different supports for accessing \ac{NoSQL} databases of the main Cloud data stores vendors in the market, emphasizing on the communication protocols supported, the interfaces provided, and the Cloud storage standard CDMI.
+
+Schilling provides an overview on the different supported communication protocols, \ac{API}, \ac{CLI}, and message payload formats in Cloud providers offering \ac{NoSQL} storage solutions. Amazon \ac{NoSQL} provides two main supports for accessing and modifying data in their data stores: AWS SDK for Java, or a REST \ac{API}. The former requires the installation and the adaptation of the DAL to the set of functionalities provided by their JAVA SDK \cite{amazondynamodb}. Therefore, due to our main goal of minimizing changes in the on-premise application, we discard this approach, and do not provide further information. The latter consists in a set of functions accessible through \ac{HTTP} messages and supporting a \ac{JSON} payload format. Google Cloud Storage provides a REST \ac{API} where \ac{XML} payload is supported as default, and \ac{JSON} in an experimental phase \cite{googlecloudstorage}. MongoDB provides both a Java API and a REST API for accessing the databases \cite{mongodb}.
+
+In the first place, we note that most of the \ac{NoSQL} database providers offer their own API developed in different languages for accessing their data stores. However, as discussed before, the installation of an external API forces to make a considerable number of modifications. Most of the Cloud data store providers support for REST operations. The CDMI standard defines a Cloud data access standardized protocol \ac{JSON} over \ac{HTTP} and provides a set of operations on the stored data \cite{cdmispec2012}. Therefore, we consider this as the standardized access method and provide support for it in our prototype. 
+
+In the second place, we notice that one or more Cloud data store providers offering a \ac{NoSQL} database categorized into a specific \ac{NoSQL} family name their data storage structures in different ways. For example, Amazon DynamoDB stores tables and items, Google Cloud Storage buckets and objects, Amazon SympleDB domains and items, and Amazon S3 bucket and Object. However, we find that the different vendor's storage structures can be grouped into two main groups: main information structure, and secondary information structure. This grouping solution for this difference is discussed in detail in Chapter \ref{chap:design}.
+
+\clearpage  
