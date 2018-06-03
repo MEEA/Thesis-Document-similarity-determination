@@ -1,0 +1,26 @@
+\section{Multi-tenancy}
+\label{sec:specificationmultitenancy}
+
+In this section we detail the multi-tenant requirements the system must fulfill in order to ensure tenant-isolation at two levels: communication and storage. The final prototype must ensure a multi-tenant aware transparent access to data hosted in the Cloud. Although we provide storage support in our system for hosting migrated tenant's data (see Section \ref{sec:systemoverview}), it does not implement a multi-tenant storage model, because this is not a goal in our design. Therefore, we rely on the multi-tenant storage models different Cloud providers implement.
+
+\subsection{Communication Requirements}
+
+The final prototype must not only support a multi-tenant, but also a multi-protocol communication between endpoints. ServiceMix-mt is shipped with the following multi-tenant aware \ac{BC}s: \ac{HTTP}, \ac{JMS}, and E-mail \cite{gomez2012}. However, the existing communication protocols for data transfer purposes leads us to discard the \ac{JMS} and E-mail. \ac{RDBMS}, e.g. MySQL and PostgreSQL, implement their own protocol in their client/server model, at the \ac{TCP} level of the network stack. At the client side the protocol is supported by the native drivers provided to the developers, e.g. MySQL Connector/J, and at the server side by the different components which build the database server \cite{mysqlmanual}. This fact forces us to provide a vendor-oriented communication protocol environment, by providing support for the different protocols in independent components, rather than in a single standardized component.
+
+Communication in, and from the \ac{ESB} must be multi-tenant aware. We divide the required isolation between tenants into the following sub-requirements: 
+
+	\begin{itemize}
+		\item \textbf{Tenant-aware messaging}: messages received in the \ac{ESB} and routed between the tenant-aware endpoints should be enriched with tenant and user information. 
+		\item \textbf{Tenant-aware endpoints}: in ServiceMix-mt tenants pack a common endpoint configuration packed in a \ac{SU}, which is then deployed as a \ac{SA} in ServiceMix-mt's \ac{JBI} container \cite{gomez2012}. The multi-tenant aware \ac{BC} dynamically modify the endpoint's URL by injecting tenant context in it. In a database system in our scenario we do not have only tenants as the main actors, but also the different users which can access a tenant's database. Therefore, the tenant-aware endpoints should be dynamically created by injecting tenant and user information in the endpoint's URL. Furthermore, we must ensure tenant and user authentication in the system. 
+		\item \textbf{Tenant-aware routing and context}: the deployment of tenant-aware endpoints should be followed by the creation of a tenant-aware context. Resources involved in a routing operation from one consumer endpoint to one provider endpoint can be shared between different tenants, but they must manage the routing operations in different tenant-aware contexts. The routing operations between two endpoints must identity the tenant and user who initiated the routing. 
+		\item \textbf{Tenant configuration isolation}: configuration data persisted in our system should be isolated between tenants. A tenant's endpoint configuration data contains sensible information which identifies and allows access to the tenant's backend data stores. 
+		\item \textbf{Tenant-aware correlation}: in a request-response operations, the response obtained from the backend data store must be correlated with the tenant's request to the system, and ensure that one tenant does not receive responses from another tenant's request.
+	\end{itemize}
+
+\subsection{Storage Requirements}
+
+Due to the fact that our system does not primarily requires multi-tenant aware storage support, but we rely on multi-tenant aware storage systems in the Cloud, we summarize the main requirements for isolating data between tenants in database systems. 
+
+Curino et al. identify as a primary requirement for a Cloud provider offering a \ac{DBaaS} model security and privacy \cite{relationalcloud2010}. A system running multiple database servers and each server multiple database instances must contain the necessary meta-data to provide tenant-aware routing in the system, and ensure that one tenant can only access the information in his database instance. Furthermore, privacy of stored data between tenants can be ensure by encrypting all tuples \cite{relationalcloud2}. Curino et al. introduce \term{CryptDB}, a subsystem of a relational Cloud which provide data encryption and unencryption functionalities for persisting data, and for accessing data via \ac{SQL} queries which are not aware of the encrypted storage mechanism in the system. However, it is known that the key challenge in managing encrypted data in the Cloud is doing it efficiently.
+
+\FloatBarrier
