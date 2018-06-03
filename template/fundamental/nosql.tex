@@ -1,0 +1,38 @@
+\section{NoSQL Databases}
+\label{sec:fundamentalsnosqldb}  
+
+\ac{RDBMS}s ensure data persistency over time and provide a wide set of features. However, the functionalities supported require a complexity, which is sometimes not needed for some applications, and harms important requirements in Web applications or in \ac{SOA} based applications, e.g. throughput. \ac{NoSQL} data stores aim to improve the efficiency of large amount of data storage while reducing its management cost \cite{nosqlcomputerworld}. NoSQL databases are designed to support horizontal scalability without relying on the highly available hardware \cite{strauchnosql}. In a Cloud storage environment where the user sees the available computing and storage resources as unlimited, a \ac{NoSQL} support in a Cloud storage environment might be adequate.
+
+\ac{NoSQL} \ac{DBS} operate as a schema-less storage system, allowing the user to access, modify or freely insert his data without having to make first changes in the data structure \cite{nosql2012}. Cloud providers provide the users with an \ac{API} for accessing, modifying, and inserting data into his isolated container. For example, a user's Amazon Dynamo DB table and item can be accessed by its RESTful \ac{API}, or by installing at the user's side application the Amazon Web Services SDK \cite{amazondynamodb}. Furthermore, it provides the users through its Web-based management console the available management operations. 
+
+Due to the growth of the \ac{NoSQL} support along different Cloud vendors, in this diploma thesis we provide a multi-tenant and transparent communication support for \ac{NoSQL} backend data stores in different Cloud providers. In the following sections we introduce the categorization of the different \ac{NoSQL} databases we aim to support in this diploma thesis, mentioning and giving examples of Cloud data stores available nowadays in the market.
+
+\subsection{Key-value Databases}
+
+In a key-value datastore elements are uniquely identified by an id, which the data store does not take into account its type, and are simply stored as a \ac{BLOB} . A user can get the value for the key, put a value for the key, or delete a key from the data store \cite{nosql2012}. Its storage model can be compared to a map/dictionary \cite{strauchnosql}. Products offering this data storage model in a Cloud infrastructure are Amazon DynamoDB \cite{amazondynamodb}, Google Cloud Storage \cite{googlecloudstorage}, Amazon SimpleDB  \cite{amazonsimpledb} , Amazon S3 \cite{amazons3}, etc. In this diploma thesis we mainly focus on the following key-value data stores: DynamoDB, and Google Cloud Storage.
+
+Amazon DynamoDB's data model includes the following concepts: tables, items, and attributes \cite{amazondynamodb}. The attributes are a key-value, where the value is binary data. Attributes are stored in items, and these are stored in tables. Items stored in a table can be retrieved by referencing its unique id. The number of attributes is not limited by Amazon, but each item must have a maximum size of 64 KB. Accessing stored data in this data store can be mainly done in two ways: using the functionalities provided by the AWS SDK, or using the Cloud storage RESTful \ac{API}. 
+
+Google Cloud Storage's data model includes the following concepts: buckets and objects \cite{googlecloudstorage}. Buckets contain on or more objects. The objects are identified within a bucket with its unique id. Users can perform I/O operations on both buckets and objects. For this purpose, Google Cloud storage provides RESTful \ac{API}.
+
+In this diploma thesis we use an \ac{ESB} for accessing transparently tenant's databases migrated to the Cloud. Servicemix-mt provides multi-tenant \ac{HTTP} support \cite{gomez2012}. Therefore, we reuse and extend the multi-tenant \ac{HTTP} \ac{BC} in order to provide dynamic routing between the different data stores.
+
+\subsection{Document Databases}
+
+Document databases can be considered as a next step in improving the key-value storage model. In this storage model, documents are stored in the value part of the key-value store, making the value content examinable \cite{nosql2012}. Documents with different schemas are supported in the same collection, and can be referenced by the collection's key or by the document's attributes. One of the main difference in the attributes specification regarding \ac{RDBMS} is that in document stores document's attributes cannot be null. When there is an attribute without value, the attribute does not exist in the document's schema. Products implementing this data storage model are Apache CouchDB, MongoDB, etc. \cite{couchdb} \cite{mongodb}.
+
+Mongo DB defines two storage structures: collections and documents \cite{mongodb}. A specific database contains one or more collections identified by its unique id. A specific collection stores one or more documents. Collections and documents stored in a database can be accessed, inserted and modified using the RESTful \ac{API} supported by the database system.
+
+Apache CouchDB defines two storage structures: databases and documents. Data stored in CouchDB are \ac{JSON} documents. The main difference between this two described databases is that MongoDB implements a two step access to the documents: database, collection, and document. Apache CouchDB provides a RESTful \ac{API} for I/O operations.
+
+This databases are not offered by Cloud providers like Amazon or Google, but as a software which can be deployed in user instances, e.g. Amazon EC2 AMI \cite{amazonec2}. 
+
+\subsection{Column-family Stores}
+
+One of the most known Column-family data stores is Cassandra. Column-family data stores store data in column families (groups of related columns which are often accessed together) as rows that have many columns associated with a row key \cite{nosql2012}. This approach allows to store and process data by column instead of by row, providing a higher performance when accessing large amount of data, e.g. allowing the application to access common accessed information in less time.
+
+Cassandra has as its smallest unit of storage the column, which consists of a timestamp and a name-value pair where the name acts as a key \cite{nosql2012}. As in the relational model, a set of columns form up a row, which is identified by a key. A column family is a collection of similar rows. The main difference with the relational model is that each of the rows must not have the same columns, allowing the designer and the application consuming large amounts of data to customize the columns in each row, and the rows in each column family.
+
+Cassandra is not shipped with a RESTful API for I/O operations. However, there are several open-source services layers for Cassandra, e.g. Virgil \cite{virgil}.
+
+\FloatBarrier
