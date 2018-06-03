@@ -1,0 +1,23 @@
+\section{Extensions}
+\label{sec:extensions}
+
+Apart from the components which we implement in this diploma thesis, we extend existing components developed in the works from Muhler \cite{Muhler2012}, and Uralov \cite{Uralov2012}. We extend the JBIMulti2 application developed by Muhler, and adapt the \ac{JBI} ServiceMix Registry performed by Uralov. 
+
+
+\subsection{JBIMulti2} 
+
+The multi-tenant aware administration and management application JBIMulti2 offers a list of operations through its Web service interface in order to allow tenants to deploy multi-tenant aware endpoints in ServiceMix-mt. However, it does not provide support for persisting the tenant's Cloud data stores communication meta-data. In Chapter \ref{chap:design} we describe the necessary modifications on the service registry, and the need of extending the application's Web service interface to avoid a connection from the \term{Cloud Data Migration Application} to the database system which stores the tenant configuration data. 
+
+The Service Registry database schema is created using the Java Persistence \ac{API}, and annotating the Java classes with meta-data. We extend the Java class \term{ServiceAssembly}, which stores the \ac{SA}s deployed by the tenant. The \term{ServiceAssembly} class contains the schema representation, and the data storage and retrieval operations.
+
+The Web service interface developed by Muhler \cite{Muhler2012}, and extended by Uralov \cite{Uralov2012}, contains several management operations, e.g. deploy service assembly, create tenant, create user, deploy \ac{JBI} BC, etc., which allows the system administrator and tenants to perform management operations on ServiceMix-mt. The \term{Cloud Data Migration Application} described in Chapter \ref{chap:fundamentals} retrieves from the user the backend database system meta-data, such as access credentials, database name, etc. The application may be hosted on a separate server as JBIMulti2. In order to avoid a direct connection from the \term{Cloud Data Migration Application} to the Service Registry, which contains sensible data, we extend the JBIMulti2 Web service interface, and provide the operations for registering the tenant's backend Cloud data store meta-data. 
+
+\subsection{Cache}
+
+The cashing support in ServiceMix-mt is provided in the \ac{OSGi} component \ac{JBI} ServiceMix Registry. Uralov provides a set of operations to set up a cache instance, store elements, and retrieve stored elements \cite{Uralov2012}. However, the \ac{JBI} ServiceMix Registry \ac{OSGi} bundle libraries are not registered as an \ac{OSGi} service. Therefore, this component is not accessible from third party \ac{OSGi} bundles in the \ac{OSGi} container. We modify its original \term{BundleActivator} class and include the \ac{OSGi} service registration to allow its usage from external \ac{OSGi} bundles.
+
+\lstinputlisting[label={lst:ehcacheconfig},caption={[EhCache Configuration for SQL Support]Eh cache configuration for \ac{SQL} support.},style=xml]{./gfx/ehcacheconfig.xml}
+
+The cache instances are created on the Ehcache 2.6.0 component \cite{ehcache}, which provides support to store serializable objects indexed by a key. A cache instance configuration in the Ehcache component must be specified in an \ac{XML} file, which is described in Listing \ref{lst:ehcacheconfig}. However, the cashing support is not multi-tenant aware. We implement a dynamic creation of multi-tenant aware cache keys in order to ensure isolation between the cashed tenant's information, and data (see Listing \ref{lst:cachekey}). 
+
+\FloatBarrier
