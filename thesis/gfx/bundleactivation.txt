@@ -1,0 +1,21 @@
+-- Spring --
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+...
+
+	<bean id="nmr" class="iaas.unistuttgart.de.mysqlproxy.osgi.OSGIHandler">
+	        <property name="nmr">
+	            <osgi:reference interface="org.apache.servicemix.nmr.api.NMR" />
+	        </property>
+	</bean>
+</beans>
+
+-- Java --
+
+...
+
+ServiceReference sr = context.getServiceReference(SERVICE_REGISTRY_BUNDLE_NAME);
+		
+this.serviceRegistry = (ServiceRegistry) context.getService(sr);
+
+...

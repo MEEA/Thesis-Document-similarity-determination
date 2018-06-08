@@ -1,0 +1,22 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:wsdl="http://jbimulti2.iaas.uni-stuttgart.de/wsdl">
+   <soapenv:Header>
+      <ctxjmu2:TenantContext xmlns:ctxjmu2="http://jbimulti2.iaas.uni-stuttgart.de/tenant-context">
+         <ctxjmu2:TenantId>${tenantProperties#taxiCompany-UUID}</ctxjmu2:TenantId>
+         <ctxjmu2:UserId>${tenantUserProperties#tenantOperatorA}</ctxjmu2:UserId>
+         <ctxjmu2:OptionalEntry>
+       	     <ctxjmu2:Key>password</ctxjmu2:Key>
+       	     <ctxjmu2:Value>tenantOperatorApw</ctxjmu2:Value>
+         </ctxjmu2:OptionalEntry>
+      </ctxjmu2:TenantContext>
+   </soapenv:Header>
+   <soapenv:Body>
+      <wsdl:attachDataSourceMainInformationStructure>
+         <wsdl:serviceAssemblyName>servicemix.cdasmix.jbi.camel-SA</wsdl:serviceAssemblyName>
+		 <wsdl:sourceDataSourceName>tenant1tpchaws</wsdl:sourceDataSourceName>
+		 <wsdl:targetDataSourceName>tenant1tpchaws</wsdl:targetDataSourceName>
+		 <wsdl:sourceDataSourceType>mysql-database-table-5.1.3</wsdl:sourceDataSourceType>
+		 <wsdl:targetDataSourceType>mysql-database-table-5.1.3</wsdl:targetDataSourceType>
+		 <wsdl:mainInformationStructureName>customer</wsdl:mainInformationStructureName>
+      </wsdl:attachDataSourceMainInformationStructure>
+   </soapenv:Body>
+</soapenv:Envelope>

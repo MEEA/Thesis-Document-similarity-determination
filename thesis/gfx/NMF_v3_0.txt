@@ -1,0 +1,114 @@
+########## Normalized Message Adaptation for CDASMix ###########
+
+Properties for the backend connections are stored in this format. At this time, only joins which involve tables in the same backend db are supported:
+
+////////////////////////////////////////////////////////////////////////
+
+	- MySQL || NoSql -> NMF	(Request Message)
+		// Main properties		
+		- target_data_sources : number of target data sources. This number will set the length of the properties vector and will set the length of the vector queries
+		- tenantId : string (UUID)
+		- userId : string (UUID)
+		if (mysql)
+			- mysqlServerPropsQueries:vector<string>			// server configuration queries that the proxy has received from the jdbc driver, e.g. SET names, SET character_set_* 
+		
+		// Backend datasource dependent properties : stored as Properties in vector<properties>. 
+		- Tenant configuration data
+			- source & target dataSource name : string
+			- source & target dataSource type : family-mainInfoStructure-secondaryInfoStructure-version
+			- source & target dataSource protocol : mysql | http.[xml|rest]
+			- target datasource endpoint url: string
+			- target datasource user and password : string, string
+			- source & target endpoint type: endpoint.type.jdbc | endpoint.type.http | endpoint.type.jms
+			- targetJBIEndpointURI: QName
+			- source and target information structure information: 
+							if source is sql
+								- src_main_info_structure_name : string
+								- target_main_info_structure_name : string
+							if source is nosql
+								- src_main_info_structure_name : string
+								- target_main_info_structure_name : string
+								- src_secondary_info_structure_name : string
+								- target_secondary_info_structure_name : string
+							
+			- if the target protocol == mysql
+				- target native driver name : native driver name, e.g. "com.mysql.jdbc.driver" 
+				- bean DS name (if exists)
+				- escapeProcessing : true | false 							//statement property of mysql
+				- fetchSize : int (statement property of mysql)
+				- returnGeneratedKeys : true | false 						//statement property of mysql
+		
+		// Attachment
+		if (SQL)
+			- Query/ies go/es in the NMF body as a vector<String>, with query data (for insert queries).
+		else
+			- NoSQL JSON payload
+		
+		
+////////////////////////////////////////////////////////////////////////
+		
+	- NMF -> MySQL || NoSql	(Response Message)
+		// Main properties		
+		- target_data_sources : number of target data sources. This number will set the length of the properties vector and the length of the result
+		- tenantId : string (UUID)
+		- userId : string (UUID)
+		- target_op_status = ok | error
+		
+		- if source protocol == mysql 
+
+			- updateCount = int						// the current result as an update count
+			- resultSetMetadataNumber: int			// number of result set in the vector of response (index in the result set metadata vector)
+		
+		// Backend datasource dependent properties : stored as Properties in the vector<properties>.
+		- source & target dataSource name : string
+		- source & target dataSource type : family-mainInfoStructure-secondaryInfoStructure-version
+		- source & target dataSource protocol : mysql | http.[xml|rest]
+		- source & target endpoint type: endpoint.type.jdbc | endpoint.type.http | endpoint.type.jms
+		- source and target information structure information: 
+						if source is sql
+							- src_main_info_structure_name : string
+							- target_main_info_structure_name : string
+						if source is nosql
+							- src_main_info_structure_name : string
+							- target_main_info_structure_name : string
+							- src_secondary_info_structure_name : string
+							- target_secondary_info_structure_name : string
+		
+		// Attachment
+		- if target_op_status == error
+			- target_op_error : vector<Hashmap<String,String>> 						// map of error code and error message per backend db
+		  else
+			
+			
+			- if source protocol == mysql 
+
+				- vector<arraylist[HashMap<columnName,value>]]>						// result sets are inserted as arraylist in the body
+				
+				- ResultSetMetadata: Vector<HashMap<String,Object>>
+					- columncount : int												// number of columns in this ResultSet object.
+					- columntype : arraylist<int>									// the designated column's SQL type.
+					- isnullable : arraylist<int>									// if the column can contain null values
+					- isAutoIncrement : arraylist<int>								// if the column values increment when the rows do
+					- tableName : arraylist<string>									// name of the table where a column is contained
+					- stringcolumnlabel : arraylist<string>							// label which sql proposes for printing reasons
+					- stringcolumnname : arraylist<string>							// column name
+					- ColumnDisplaySize : arraylist<int>							// Indicates the designated column's normal maximum width in characters.
+					- Scale : arraylist<int>										// column's number of digits to right of the decimal point
+					- RowCount : int												// number of rows
+					- ColumnMapper : Hashmap<int,String> (column index, name)		// mapping of the column index with the column name
+					- ColumnSigned : arraylist<int>									// if the values of the columns are signed or unsigned
+			  else
+				- versionControl
+				- nosql metadata
+				- nosql JSON payload
+				
+////////////////////////////////////////////////////////////////////////				
+		
+		Note: response to the user -> distributed atomic transaction mechanism used. If one of the backend datasources reports an error as a response, the final response to the tenant is an error response:
+		
+			- Error response: string of the error + the datasource/s which gave the error.
+			
+			- OK response: the full result set, this means, the vector<arraylist[HashMap<columnName,value>]]> created in the data transformation SE or jdbccdasmix component.
+		
+		
+////////////////////////////////////////////////////////////////////////			

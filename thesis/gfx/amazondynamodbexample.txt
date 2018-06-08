@@ -1,0 +1,21 @@
+POST / HTTP/1.1
+host: dynamodb.us-east-1.amazonaws.com
+x-amz-date: Mon, 16 Jan 2012 17:49:52 GMT
+x-amz-target: DynamoDB_20111205.CreateTable
+Authorization: AWS4-HMAC-SHA256 Credential=AccessKeyID/20120116/us-east-1/dynamodb/aws4_request,SignedHeaders=host;x-amz-date;x-amz-target,Signature=145b1567ab3c50d929412f28f52c45dbf1e63ec5c66023d232a539a4afd11fd9
+content-type: application/x-amz-json-1.0
+content-length: 23
+connection: Keep-Alive
+
+
+{"RequestItems":
+    {"highscores":
+        {"Keys":
+            [{"HashKeyElement":{"S":"Dave"}},
+            {"HashKeyElement":{"S":"John"}},
+            {"HashKeyElement":{"S":"Jane"}}],
+        "AttributesToGet":
+            ["score"]
+        }
+    }
+}

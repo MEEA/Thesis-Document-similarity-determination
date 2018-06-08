@@ -1,0 +1,3 @@
+CACHE_TENANT_INFO_ID_TAG 		+ "#" + tenantId + "#" + userId + "#" + srcdb + "#" + srcTable;
+CACHE_TENANT_AUTHENTICATION_TAG + "#" + tenantId + "#" + userId + "#" + srcdb;
+CACHE_QUERY_RESULT_TAG 			+ "#" + tenantId + "#" + userId + "#" + targetdb + "#" + query;

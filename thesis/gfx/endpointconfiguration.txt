@@ -1,0 +1,7 @@
+/* 
+  input: tenantId, userId, serviceLocalPart, endpointName, configuredServiceNamespacePrefix
+  example: {jbimulti2:tenant-endpoints/<tenantId>-<userId>}CamelJBIService:CamelJBIEndpoint
+ */
+serviceEndpoint      ::= serviceName ":" endpointName
+serviceName          ::= "{" serviceNamespacePrefix tenantId "-" userId "}" serviceLocalPart
+serviceNamespacePref.::= "jbimulti2:tenant-endpoints/" | configuredServiceNamespacePrefix

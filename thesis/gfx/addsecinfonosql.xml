@@ -1,0 +1,25 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:wsdl="http://jbimulti2.iaas.uni-stuttgart.de/wsdl">
+   <soapenv:Header>
+      <ctxjmu2:TenantContext xmlns:ctxjmu2="http://jbimulti2.iaas.uni-stuttgart.de/tenant-context">
+         <ctxjmu2:TenantId>${tenantProperties#taxiCompany-UUID}</ctxjmu2:TenantId>
+         <ctxjmu2:UserId>${tenantUserProperties#tenantOperatorA}</ctxjmu2:UserId>
+         <ctxjmu2:OptionalEntry>
+       	     <ctxjmu2:Key>password</ctxjmu2:Key>
+       	     <ctxjmu2:Value>tenantOperatorApw</ctxjmu2:Value>
+         </ctxjmu2:OptionalEntry>
+      </ctxjmu2:TenantContext>
+   </soapenv:Header>
+   <soapenv:Body>
+      <wsdl:attachDataSourceSecInformationStructure>
+         <wsdl:serviceAssemblyName>servicemix.cdasmix.jbi.http-SA</wsdl:serviceAssemblyName>
+         <wsdl:dataSourceName>dataSourceTest1</wsdl:dataSourceName>
+         <wsdl:dataSourceType>nosql-bucket-object-5.1.3</wsdl:dataSourceType>
+         <wsdl:sourceDataSourceName>dynamodb</wsdl:sourceDataSourceName>
+		 <wsdl:targetDataSourceName>dynamodb#datasourcej</wsdl:targetDataSourceName>
+		 <wsdl:sourceDataSourceType>nosqlKeyValue-table-item-1.0</wsdl:sourceDataSourceType>
+		 <wsdl:targetDataSourceType>nosqlKeyValue-table-item-1.0</wsdl:targetDataSourceType>
+		 <wsdl:mainInformationStructureName>customers</wsdl:mainInformationStructureName>
+         <wsdl:secondaryInformationStructureName>customer1</wsdl:secondaryInformationStructureName>
+      </wsdl:attachDataSourceSecInformationStructure>
+   </soapenv:Body>
+</soapenv:Envelope>

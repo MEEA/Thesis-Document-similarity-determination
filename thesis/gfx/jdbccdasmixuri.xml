@@ -1,0 +1,9 @@
+...
+<camelContext id="camel"
+        xmlns="http://camel.apache.org/schema/spring">
+        <route>
+            <from uri="jbi:endpoint:http://jbimulti2.iaas.uni-stuttgart.de/CamelJBIJdbcService/CamelJBIJdbcEndpoint?serialization=nocheck" />
+            <to uri="jdbccdasmix:myDataSource" />
+        </route>
+</camelContext>
+...

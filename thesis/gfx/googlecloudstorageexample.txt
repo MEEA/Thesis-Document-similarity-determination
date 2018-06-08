@@ -1,0 +1,17 @@
+- Request -
+POST /upload/storage/v1beta1/b/myBucket/o?uploadType=media&name=myObject HTTP/1.1
+Host: www.googleapis.com
+Content-Type: image/jpeg
+Content-Length: number_of_bytes_in_JPEG_file
+Authorization: your_auth_token
+
+{JPEG data}
+
+
+- Response -
+HTTP/1.1 200
+Content-Type: application/json
+
+{
+  "name": "myObject"
+}
