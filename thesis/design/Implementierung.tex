@@ -1,0 +1,10 @@
+\chapter{Implementierung einer Teilmenge ausgewählten Ansätzen}
+\label{chap:Implementierung}
+
+%In this chapter we present the architectural and technological solution taken into account to integrate two approaches for enabling multi-tenancy in a \ac{ESB} solution \cite{Essl2011}, \cite{Muhler2012}. Furthermore, it fulfills the requirements described in the Chapter \ref{chap:spec} and provides a detailed design for easing the implementation cycle described in Chapter \ref{chap:implementation}. We start defining the architecture of the prototype we should implement in this thesis and we continue by giving more details on specific components that need to be extended or modified. As discussed in the previous chapters, some communication approaches taken into account in the master's thesis \cite{Essl2011} need to be improved. When describing them, we specify the main differences and the main advantages of the design approach we take. 
+
+In this chapter we present the architectural solution taken into account to build the system which fulfills the requirements specified in Chapter \ref{chap:spec}. Due to the required communication support for \ac{SQL} and \ac{NoSQL} databases, we separate the architectural approaches and provide them separately. JBIMulti2 and ServiceMix-mt are the subsystems we must reengineer in order to aggregate transparent and dynamic routing functionalities. Therefore, we also provide in this chapter the needed extensions in the components conforming the system, e.g. service registry in JBIMulti2, and \ac{NMF} in ServiceMix-mt.
+
+
+
+\FloatBarrier
