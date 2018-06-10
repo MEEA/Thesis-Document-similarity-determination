@@ -52,7 +52,13 @@
 
 %%%%%%%%%%%% Schriften %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage[T1]{fontenc}				% T1-Schriften verwenden
-\usepackage[utf8]{inputenc}
+%\usepackage[utf8]{inputenc}
+\usepackage[utf8x]{inputenc} %von Lisa hinzugefügt
+%\usepackage[postscript]{ucs} %von Lisa hinzugefügt
+%\usepackage{textcomp} %von Lisa hinzugefügt
+%\usepackage{newunicodechar} %von Lisa hinzugefügt
+%\newunicodechar{〈}{\langle} %von Lisa hinzugefügt
+
 
 %Schriftart = Palatino
 \usepackage{mathpazo}
@@ -424,7 +430,7 @@ In this diploma thesis the we extend an Open Source Enterprise Service Bus to pr
 \input{validationEvaluation/Zusammenfassung}
 \input{Appendix/appendix}
 \bibliographystyle{alphancex}
-%\bibliography{literatur/literatur}
+bibliography{literatur/literatur}
 
 \bibliography{literatur/Literatur_Mpessa}
 
