@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1529333861325.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3767651299",
+    "id" : "4E9E2067",
+    "lastKnownWriteTime" : 1529396964,
+    "last_content_update" : 1529396964759,
+    "path" : "~/Textreuse/lsh_compare.R",
+    "project_path" : "lsh_compare.R",
+    "properties" : {
+        "cursorPosition" : "7,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

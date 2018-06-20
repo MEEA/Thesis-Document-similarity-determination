@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1529405092057.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "435678848",
+    "id" : "46D7D595",
+    "lastKnownWriteTime" : 1529405405,
+    "last_content_update" : 1529405405075,
+    "path" : "~/Textreuse/lsh_candidates.R",
+    "project_path" : "lsh_candidates.R",
+    "properties" : {
+        "cursorPosition" : "9,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

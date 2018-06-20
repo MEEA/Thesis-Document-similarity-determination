@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1529434704753.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4BC6F1FA",
+    "lastKnownWriteTime" : 7308626840221134689,
+    "last_content_update" : 1529434704753,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "430b2142fa934909a5ca1869acfe708f",
+        "name" : "corpus",
+        "title" : "corpus"
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}
