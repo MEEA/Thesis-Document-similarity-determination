@@ -1,0 +1,52 @@
+\babel@toc {english}{}
+\contentsline {chapter}{\numberline {1}Einleitung}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Motivation}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Problemstellung}{2}{section.1.2}
+\contentsline {section}{\numberline {1.3}Zielsetzung}{2}{section.1.3}
+\contentsline {section}{\numberline {1.4}Aufbau der Arbeit}{3}{section.1.4}
+\contentsline {chapter}{\numberline {2}Grundlagen, Analyse von Use Cases zur Dokument\"ahnlichkeitsbestimmung}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}Grundlagen der Informationsr\IeC {\"u}ckgewinnung}{5}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Definition}{5}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Nutzen}{5}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Mechanismus}{5}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Informationsr\IeC {\"u}ckgewinnungsmodelle}{6}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.5}Web Informationsr\IeC {\"u}ckgewinnung}{12}{subsection.2.1.5}
+\contentsline {section}{\numberline {2.2}Grundlagen der Bayesschen Statistik}{12}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Definition und Hintergrund}{12}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Anwendungsgebiete und Nutzen}{12}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Modelle, Parameter und \IeC {\"U}berzeugungen}{12}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Die Wahrscheinlichkeit}{12}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}Der Satz von Bayes}{12}{subsection.2.2.5}
+\contentsline {section}{\numberline {2.3}Analyse von Use Cases f\IeC {\"u}r die Dokument\IeC {\"a}hnlichkeitsbestimmung}{12}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Finden von Dokumenten mit \IeC {\"a}hnlichen Inhalten(Duplikaten Findung)}{12}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Verwendung von a priori Wissen}{13}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}System\IeC {\"u}bergreifende \IeC {\quotedblbase }Fremdschl\IeC {\"u}ssel"}{13}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}Profil Matching}{13}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.5}Email Klassifikation (Spamfilter)}{14}{subsection.2.3.5}
+\contentsline {section}{\numberline {2.4}Analyse existierender Ans\IeC {\"a}tze zur Dokument\IeC {\"a}hnlichkeitsbestimmung basierend auf Bayesscher Statistik}{14}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}More Like This}{14}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Naive Bayes}{15}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}BayesLSH}{15}{subsection.2.4.3}
+\contentsline {chapter}{\numberline {3}Die Informationsr\IeC {\"u}ckgewinnung-Middleware-L\IeC {\"o}sung}{17}{chapter.3}
+\contentsline {section}{\numberline {3.1}Vorstellung}{17}{section.3.1}
+\contentsline {section}{\numberline {3.2}Anforderungen}{17}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Funktionelle Anforderungen}{17}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Nicht funktionelle Anforderungen}{18}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Plattformanforderungen}{18}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Komponentenanforderungen}{19}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}Anforderungen an dem \IeC {\"A}hnlichkeitsalgorithmus}{23}{subsection.3.2.5}
+\contentsline {section}{\numberline {3.3}High-Level Architektur}{23}{section.3.3}
+\contentsline {chapter}{\numberline {4}Auswahl von Ans\IeC {\"a}tzen zur Dokument\IeC {\"a}hnlichkeitsbestimmung in der Information-Retrieval-Middleware-L\IeC {\"o}sung}{27}{chapter.4}
+\contentsline {section}{\numberline {4.1}Kriterien der Auswahl}{27}{section.4.1}
+\contentsline {section}{\numberline {4.2}Funktionsweise des Ansatzes}{29}{section.4.2}
+\contentsline {chapter}{\numberline {5}Implementierung einer Teilmenge ausgew\IeC {\"a}hlten Ans\IeC {\"a}tzen}{31}{chapter.5}
+\contentsline {chapter}{\numberline {6}Evaluierung der Skalierbarkeit von den realisierten Ans\IeC {\"a}tzen basierend auf ausgew\IeC {\"a}hlten Probendaten}{33}{chapter.6}
+\contentsline {section}{\numberline {6.1}F\IeC {\"a}higkeiten und Grenzen ausgew\IeC {\"a}hlter Ans\IeC {\"a}tze}{33}{section.6.1}
+\contentsline {chapter}{\numberline {7}zusammenfassung und Ausblick}{35}{chapter.7}
+\contentsline {chapter}{\numberline {A}Components}{37}{appendix.A}
+\contentsline {section}{\numberline {A.1}CDASMix MySQL Proxy}{37}{section.A.1}
+\contentsline {section}{\numberline {A.2}CDASMix Camel JDBC}{38}{section.A.2}
+\contentsline {chapter}{\numberline {B}Messages}{41}{appendix.B}
+\contentsline {section}{\numberline {B.1}Normalized Message Format Content Description}{41}{section.B.1}
+\contentsline {section}{\numberline {B.2}MySQL TCP Stream}{44}{section.B.2}
+\contentsline {chapter}{\nonumberline Bibliography}{49}{chapter*.24}
