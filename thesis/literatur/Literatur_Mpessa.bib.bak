@@ -243,4 +243,21 @@
   url       = {http://infolab.stanford.edu/~ullman/mmds/book.pdf},
 }
 
+@Article{Yatsko2014,
+  author        = {Yatsko, V. A.},
+  title         = {Computational linguistics or linguistic informatics?},
+  journal       = {Automatic Documentation and Mathematical Linguistics},
+  year          = {2014},
+  volume        = {48},
+  number        = {3},
+  pages         = {149--157},
+  month         = {May},
+  issn          = {1934-8371},
+  __markedentry = {[Lisa:6]},
+  abstract      = {The concept of ``linguistic informatics'' is introduced in order to refer to a scientific domain that studies the distribution patterns of text information, as well as problems, principles, methods, and algorithms applied for the development of linguistic software and hardware. The key terms and concepts in the related field are investigated; a classification of linguistic software is introduced.},
+  day           = {01},
+  doi           = {10.3103/S0005105514030042},
+  url           = {https://doi.org/10.3103/S0005105514030042},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
