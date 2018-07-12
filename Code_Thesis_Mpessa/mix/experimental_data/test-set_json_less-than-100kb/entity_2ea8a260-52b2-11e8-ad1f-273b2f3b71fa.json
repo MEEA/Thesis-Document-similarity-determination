@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17841",
+  "eid" : "2ea8a260-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778587526,
+  "textBody" : "A large technical system (LTS) is a system or network of enormous proportions or complexity.  The study of LTSs is a subdiscipline of history of science and technology.\n\nThe book Rescuing Prometheus by Thomas P. Hughes documents the development of four such systems, including the Boston central artery tunnel and the Internet.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Large technical system" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17841" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A large technical system (LTS) is a system or network of enormous proportions or complexity.  The study of LTSs is a subdiscipline of history of science and technology.\n\nThe book Rescuing Prometheus by Thomas P. Hughes documents the development of four such systems, including the Boston central artery tunnel and the Internet. Large technical system. http://en.wikipedia.org/?curid=17841."
+  }
+}

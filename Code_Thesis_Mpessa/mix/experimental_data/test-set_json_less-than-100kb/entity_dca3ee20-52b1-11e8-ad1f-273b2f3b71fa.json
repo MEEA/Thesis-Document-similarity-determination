@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=6646",
+  "eid" : "dca3ee20-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778449922,
+  "textBody" : "The following are some historical Germanic Confederations:\n\n*230 BC - Bastarnae, a mixture of Germanic tribes, at the Black Sea; they participated in the siege of Olbia (modern South Ukraine) in 220 BC.\n*109 BC - Huge confederation composed of the Germanic of Cimbri and Teutones and the Celtic-Germanic Helvetii formed near Miltenberg in Franconia. The confederation attempts an invasion of Italy but is defeated by Gaius Marius in the battles of Aquae Sextiae (102 BC) and Vercellae (101 BC)\n*8-6 BC - Marcomanni from the northern Bavarian and Main river area went to the original homeland of the Boii in Boemia Bohemia and under king Marbod formed a Confederation of Marcomanni, Lugii, Semnones, Lombards, and others. Under king Ariovistus they fought against take-overs by Roman emperor Caesar Augustus.\n*5 AD - Pliny reported that Cimbri and Charydes sent ambassadors to Rome.\n*6 AD - Marcomannic Confederation.\n*98 - Tacitus reports on the Germanic tribes that the Suiones (Swedes) were one nation composed of several tribes (civitates).\n*167 - Marcomannic Confederation, that also includes Quadi, Sarmatians, Suebi, Iazyges and others, crosses the Danube and invades Dacia. Roman emperor Marcus Aurelius eventually defeats them in 180.\n*400 - Thuringian regna (loosely translated as kingdom or realm). Thuringii are reputed to have held the territory from the Danube to the Lower Elbe river. This regna  was destroyed by the victory of Theuderic I of Austrasia, who in 530  defeated  the Thuringian king Hermanafrid in the Battle at the Unstrut and killed him at Zülpich.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "List of confederations of Germanic tribes" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=6646" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The following are some historical Germanic Confederations:\n\n*230 BC - Bastarnae, a mixture of Germanic tribes, at the Black Sea; they participated in the siege of Olbia (modern South Ukraine) in 220 BC.\n*109 BC - Huge confederation composed of the Germanic of Cimbri and Teutones and the Celtic-Germanic Helvetii formed near Miltenberg in Franconia. The confederation attempts an invasion of Italy but is defeated by Gaius Marius in the battles of Aquae Sextiae (102 BC) and Vercellae (101 BC)\n*8-6 BC - Marcomanni from the northern Bavarian and Main river area went to the original homeland of the Boii in Boemia Bohemia and under king Marbod formed a Confederation of Marcomanni, Lugii, Semnones, Lombards, and others. Under king Ariovistus they fought against take-overs by Roman emperor Caesar Augustus.\n*5 AD - Pliny reported that Cimbri and Charydes sent ambassadors to Rome.\n*6 AD - Marcomannic Confederation.\n*98 - Tacitus reports on the Germanic tribes that the Suiones (Swedes) were one nation composed of several tribes (civitates).\n*167 - Marcomannic Confederation, that also includes Quadi, Sarmatians, Suebi, Iazyges and others, crosses the Danube and invades Dacia. Roman emperor Marcus Aurelius eventually defeats them in 180.\n*400 - Thuringian regna (loosely translated as kingdom or realm). Thuringii are reputed to have held the territory from the Danube to the Lower Elbe river. This regna  was destroyed by the victory of Theuderic I of Austrasia, who in 530  defeated  the Thuringian king Hermanafrid in the Battle at the Unstrut and killed him at Zülpich. List of confederations of Germanic tribes. http://en.wikipedia.org/?curid=6646."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17231",
+  "eid" : "2ae1af52-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778581189,
+  "textBody" : "KSL may refer to:\n\nCompanies and organizations\n\n* KSL (radio) — KSL-AM and KSL-FM — radio stations in Utah, United States\n* KSL-TV, a TV station in Utah, United States \n* KSL Holdings Bhd, a property developer in Malaysia \n* Key Sounds Label, a Japanese record label\n* Knights of St Lazarus, a medieval Catholic military ordet\n* Knowledge Systems Laboratory, an artificial intelligence research lab at Stanford\n\nLocations and transportation\n\n* Kate Sharpley Library, a library of anarchist publications \n* Kearsley railway station, England\n* Kowloon Southern Link, a section of the MTR West Rail Line in Hong Kong\n* KSL City, a shopping mall/residential/hotel complex in Johor, Malaysia \n\nOther\n\n* Kenyan Sign Language\n* Korean Sign Language\n* KSL cells, early form of hematopoietic stem cells",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "KSL" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17231" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "KSL may refer to:\n\nCompanies and organizations\n\n* KSL (radio) — KSL-AM and KSL-FM — radio stations in Utah, United States\n* KSL-TV, a TV station in Utah, United States \n* KSL Holdings Bhd, a property developer in Malaysia \n* Key Sounds Label, a Japanese record label\n* Knights of St Lazarus, a medieval Catholic military ordet\n* Knowledge Systems Laboratory, an artificial intelligence research lab at Stanford\n\nLocations and transportation\n\n* Kate Sharpley Library, a library of anarchist publications \n* Kearsley railway station, England\n* Kowloon Southern Link, a section of the MTR West Rail Line in Hong Kong\n* KSL City, a shopping mall/residential/hotel complex in Johor, Malaysia \n\nOther\n\n* Kenyan Sign Language\n* Korean Sign Language\n* KSL cells, early form of hematopoietic stem cells. KSL. http://en.wikipedia.org/?curid=17231."
+  }
+}

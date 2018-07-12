@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17102",
+  "eid" : "2a8f4990-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778580649,
+  "textBody" : "Kesgrave is a small town containing two large estates in the English county of Suffolk on the eastern edge of Ipswich.\n\nHistory\n\nEarly history\n\nThe area was recorded as Gressgrava in the Domesday Book, by the late 15th century its name had become Kesgrave.  Kesgrave remained a small agricultural settlement with just a church, inn and a few farmsteads for over 700 years.\nIn 1921 the population was only 103 housed in 20 dwellings. Since then great changes have taken place.\n\nRecent history\n\nBy 1988 Kesgrave covered an area of more than 800 acre. \nKesgrave parish council officially adopted the title of a town in January 2000.\n\nSchools\n\nKesgrave High School is a large 11-18 comprehensive co-educational school with nearly 2000 pupils. A study for Sustrans noted that 61% of the pupils cycled to the school. This is largely due to the installation of a large cycle lane through the local housing development and along the main road. The school actively encourages walking or cycling and provides bicycle storage facilities.\n\nThe five primary schools in the immediate vicinity of Kesgrave are Beacon Hill Primary School, Birchwood Primary School, Cedarwood Primary School the building of which was awarded a Civic Trust Award in 2003,[http://www.civictrustawards.org.uk/winners/2003/CTA001219/ Cedarwood Primary School] , Civic Trust Awards, 2003. Retrieved 2009-09-01 Gorseland Primary School and Heath Primary School.\n\nKesgrave was home to a number of private day and boarding schools based at Kesgrave Hall\n* St. Edmund's School (1946–1975),\n* Kesgrave Hall School (1976–1993),\n* Shawe Manor (1993) and\n* Ryes School (2004–2007).",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Kesgrave" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17102" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Kesgrave is a small town containing two large estates in the English county of Suffolk on the eastern edge of Ipswich.\n\nHistory\n\nEarly history\n\nThe area was recorded as Gressgrava in the Domesday Book, by the late 15th century its name had become Kesgrave.  Kesgrave remained a small agricultural settlement with just a church, inn and a few farmsteads for over 700 years.\nIn 1921 the population was only 103 housed in 20 dwellings. Since then great changes have taken place.\n\nRecent history\n\nBy 1988 Kesgrave covered an area of more than 800 acre. \nKesgrave parish council officially adopted the title of a town in January 2000.\n\nSchools\n\nKesgrave High School is a large 11-18 comprehensive co-educational school with nearly 2000 pupils. A study for Sustrans noted that 61% of the pupils cycled to the school. This is largely due to the installation of a large cycle lane through the local housing development and along the main road. The school actively encourages walking or cycling and provides bicycle storage facilities.\n\nThe five primary schools in the immediate vicinity of Kesgrave are Beacon Hill Primary School, Birchwood Primary School, Cedarwood Primary School the building of which was awarded a Civic Trust Award in 2003,[http://www.civictrustawards.org.uk/winners/2003/CTA001219/ Cedarwood Primary School] , Civic Trust Awards, 2003. Retrieved 2009-09-01 Gorseland Primary School and Heath Primary School.\n\nKesgrave was home to a number of private day and boarding schools based at Kesgrave Hall\n* St. Edmund's School (1946–1975),\n* Kesgrave Hall School (1976–1993),\n* Shawe Manor (1993) and\n* Ryes School (2004–2007). Kesgrave. http://en.wikipedia.org/?curid=17102."
+  }
+}

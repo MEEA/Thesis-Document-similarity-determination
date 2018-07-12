@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8071",
+  "eid" : "e53d9ef0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778464351,
+  "textBody" : "The Dominican Republic has a close relationship with the United States and with the other states of the Inter-American system. It has accredited diplomatic missions in most Western Hemisphere countries and in principal European capitals.\n\nBilateral relations\n\nMultilateral relations\n\nThe Dominican Republic is a founding member of the United Nations and many of its specialized and related agencies, including the World Bank, International Labour Organization, International Atomic Energy Agency, and International Civil Aviation Organization. It also is a member of the OAS, World Trade Organization, World Health Organization, World Customs Organization the Inter-American Development Bank, Central American Integration System, and ACP Group.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Foreign relations of the Dominican Republic" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8071" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The Dominican Republic has a close relationship with the United States and with the other states of the Inter-American system. It has accredited diplomatic missions in most Western Hemisphere countries and in principal European capitals.\n\nBilateral relations\n\nMultilateral relations\n\nThe Dominican Republic is a founding member of the United Nations and many of its specialized and related agencies, including the World Bank, International Labour Organization, International Atomic Energy Agency, and International Civil Aviation Organization. It also is a member of the OAS, World Trade Organization, World Health Organization, World Customs Organization the Inter-American Development Bank, Central American Integration System, and ACP Group. Foreign relations of the Dominican Republic. http://en.wikipedia.org/?curid=8071."
+  }
+}

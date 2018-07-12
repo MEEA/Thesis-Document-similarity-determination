@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=5850",
+  "eid" : "d839b630-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778442515,
+  "textBody" : "Telephones - main lines in use:\n2.888 million (2006) \n\nTelephones - mobile cellular:\n13.075 million (2007)\n\nTelephone system:\ndomestic:\n86% of exchanges now digital; existing copper subscriber systems now being improved with Asymmetric Digital Subscriber Line (ADSL) equipment to accommodate Internet and other digital signals; trunk systems include fibre-optic cable and microwave radio relay \nIndian Ocean regions), 1 Intelsat, 1 Eutelsat, 1 Inmarsat, 1 Globalstar \n\nRadio broadcast stations:\nAM 31, FM 304, shortwave 17 (2000) \n\nRadios:\n3,159,134 (December 2000) \n\nTelevision broadcast stations:\n150 (plus 1,434 repeaters) (2000) \n\nTelevisions:\n3,405,834 (December 2000) \n\nInternet Service Providers (ISPs):\nmore than 300 (2000) \n\nInternet users:\n4.4 million (2007) \n\nCountry code: CZ\n\nSee also : Czech Republic",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Telecommunications in the Czech Republic" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=5850" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Telephones - main lines in use:\n2.888 million (2006) \n\nTelephones - mobile cellular:\n13.075 million (2007)\n\nTelephone system:\ndomestic:\n86% of exchanges now digital; existing copper subscriber systems now being improved with Asymmetric Digital Subscriber Line (ADSL) equipment to accommodate Internet and other digital signals; trunk systems include fibre-optic cable and microwave radio relay \nIndian Ocean regions), 1 Intelsat, 1 Eutelsat, 1 Inmarsat, 1 Globalstar \n\nRadio broadcast stations:\nAM 31, FM 304, shortwave 17 (2000) \n\nRadios:\n3,159,134 (December 2000) \n\nTelevision broadcast stations:\n150 (plus 1,434 repeaters) (2000) \n\nTelevisions:\n3,405,834 (December 2000) \n\nInternet Service Providers (ISPs):\nmore than 300 (2000) \n\nInternet users:\n4.4 million (2007) \n\nCountry code: CZ\n\nSee also : Czech Republic. Telecommunications in the Czech Republic. http://en.wikipedia.org/?curid=5850."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17690",
+  "eid" : "2d6489a0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778585402,
+  "textBody" : "In logic, equivocation ('calling two different things by the same name') is an informal fallacy resulting from the use of a particular word/expression in multiple senses throughout an argument leading to a false conclusion. Abbott and Costello's \"Who's on first?\" routine is a well known example of equivocation.\n\nIt is a type of ambiguity that stems from a phrase having two distinct meanings, not from the grammar or structure of the sentence.\n\nSome examples of equivocation in syllogisms (a logical chain of reasoning) are below:\n\n*Since only man [human] is rational,\nand no woman is a man [male],\nTherefore, no woman is rational.\n\n*A feather is light [not heavy].\nWhat is light [bright] cannot be dark.\nTherefore, a feather cannot be dark.\n\nIn the above example, distinct meanings of the word \"light\" are implied in contexts of the first and second statements. \n\n*All jackasses have long ears.\nCarl is a jackass.\nTherefore, Carl has long ears.\n\nHere, the equivocation is the metaphorical use of \"jackass\" to imply a simple-minded or obnoxious person instead of a male donkey.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Equivocation" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17690" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "In logic, equivocation ('calling two different things by the same name') is an informal fallacy resulting from the use of a particular word/expression in multiple senses throughout an argument leading to a false conclusion. Abbott and Costello's \"Who's on first?\" routine is a well known example of equivocation.\n\nIt is a type of ambiguity that stems from a phrase having two distinct meanings, not from the grammar or structure of the sentence.\n\nSome examples of equivocation in syllogisms (a logical chain of reasoning) are below:\n\n*Since only man [human] is rational,\nand no woman is a man [male],\nTherefore, no woman is rational.\n\n*A feather is light [not heavy].\nWhat is light [bright] cannot be dark.\nTherefore, a feather cannot be dark.\n\nIn the above example, distinct meanings of the word \"light\" are implied in contexts of the first and second statements. \n\n*All jackasses have long ears.\nCarl is a jackass.\nTherefore, Carl has long ears.\n\nHere, the equivocation is the metaphorical use of \"jackass\" to imply a simple-minded or obnoxious person instead of a male donkey. Equivocation. http://en.wikipedia.org/?curid=17690."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18012",
+  "eid" : "3033fd50-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778590117,
+  "textBody" : "Limit may refer to:\n\n* Extreme value or boundary\n\nArts and media\n\n* Limit (music), a way to characterize harmony\n* The Limit (manga), a manga by Keiko Suenobu\n* Limits (collection), a collection of short stories and essays by Larry Niven\n* The Limit, a 1980s band\n\nMathematics\n\n* Limit (mathematics), the value that a function or sequence \"approaches\" as the input or index approaches some value\n** Limit of a function\n** Limit of a sequence\n** One-sided limit, either of the two limits of a function as a specified point is approached from below or from above\n** Limit superior and limit inferior, limiting bound functions on a sequence\n** Limit of a net\n** Limit point, in topological spaces\n** Limit (category theory)\n*** Direct limit and Inverse limit\n\nOther uses\n\n* Limits (BDSM), activities that a partner feels strongly about, and to which special attention is pretended to be paid\n* limits.h, the header of a general purpose standard library of the C programming language\n* Els Límits, a village in the municipality of La Jonquera, Catalonia (Spain)\n* Limit order, a type of order to buy a security at no more (or sell at no less) than a specific price on an exchange.\n* Speed limit, the maximum speed at which road vehicles may legally travel on particular stretches of road\n* Setting limits, a life skill for protecting against having personal values compromised or violated",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Limit" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18012" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Limit may refer to:\n\n* Extreme value or boundary\n\nArts and media\n\n* Limit (music), a way to characterize harmony\n* The Limit (manga), a manga by Keiko Suenobu\n* Limits (collection), a collection of short stories and essays by Larry Niven\n* The Limit, a 1980s band\n\nMathematics\n\n* Limit (mathematics), the value that a function or sequence \"approaches\" as the input or index approaches some value\n** Limit of a function\n** Limit of a sequence\n** One-sided limit, either of the two limits of a function as a specified point is approached from below or from above\n** Limit superior and limit inferior, limiting bound functions on a sequence\n** Limit of a net\n** Limit point, in topological spaces\n** Limit (category theory)\n*** Direct limit and Inverse limit\n\nOther uses\n\n* Limits (BDSM), activities that a partner feels strongly about, and to which special attention is pretended to be paid\n* limits.h, the header of a general purpose standard library of the C programming language\n* Els Límits, a village in the municipality of La Jonquera, Catalonia (Spain)\n* Limit order, a type of order to buy a security at no more (or sell at no less) than a specific price on an exchange.\n* Speed limit, the maximum speed at which road vehicles may legally travel on particular stretches of road\n* Setting limits, a life skill for protecting against having personal values compromised or violated. Limit. http://en.wikipedia.org/?curid=18012."
+  }
+}

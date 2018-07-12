@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8461",
+  "eid" : "e7eedc40-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778468868,
+  "textBody" : "Diet may refer to:\n\nFood\n\n* Diet (nutrition), the sum of the food consumed by an organism or group\n* Dieting, the deliberate selection of food to control body weight or nutrient intake\n** Diet food, foods that aid in creating a diet for weight loss\n* Healthy diet, the process of helping to maintain or improve overall health\n\nPolitical bodies\n\n*Diet (assembly), a formal deliberative assembly\n\nCurrent\n\n* National Diet, Japan's bicameral legislature, in its current form since 1947, composed of the House of Representatives and the House of Councillors\n* Landtag, a diet of states and provinces in Germany, Austria, South Tyrol in Italy, and the national parliament of Liechtenstein\n* Bundestag (Deutscher Bundestag), the lower house of Germany's Parliament, established in West Germany in 1949, and all of Germany in 1990\n\nHistorical\n\n* Diet of Finland, the legislative assembly of the Grand Duchy of Finland from 1809 to 1906\n* Diet of Hungary, the legislative assembly of the Kingdom of Hungary from 15th century to 1946\n* Imperial Diet (Holy Roman Empire), the imperial assembly of the princes of the Holy Roman Empire until 1806\n* Reichstag\n** Reichstag (German Empire) (Reichstag), the Diet of the Empire, the legislative assembly of the German Empire, 1871–1917\n** Reichstag (Weimar Republic), (Reichstag), the Diet of the Weimar Republic, from 1919 to 1933\n** Reichstag (Nazi Germany), (Reichstag), the Diet of Nazi Germany, from 1933 to 1945, a purely ceremonial \"parliament\" in a totalitarian dictatorship without elections\n\nMedia\n\n* \"Diet\", an episode of the Adult Swim animated television series, Aqua Teen Hunger Force\n* Santa Clarita Diet, a 2017 Netflix Original series\n* The Diet (cartoon), a Beetle Bailey animated short\n\nOther uses\n\n* DIET, an open-source middleware for high-performance computing\n* District Institute of Education and Training in India",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Diet" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8461" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Diet may refer to:\n\nFood\n\n* Diet (nutrition), the sum of the food consumed by an organism or group\n* Dieting, the deliberate selection of food to control body weight or nutrient intake\n** Diet food, foods that aid in creating a diet for weight loss\n* Healthy diet, the process of helping to maintain or improve overall health\n\nPolitical bodies\n\n*Diet (assembly), a formal deliberative assembly\n\nCurrent\n\n* National Diet, Japan's bicameral legislature, in its current form since 1947, composed of the House of Representatives and the House of Councillors\n* Landtag, a diet of states and provinces in Germany, Austria, South Tyrol in Italy, and the national parliament of Liechtenstein\n* Bundestag (Deutscher Bundestag), the lower house of Germany's Parliament, established in West Germany in 1949, and all of Germany in 1990\n\nHistorical\n\n* Diet of Finland, the legislative assembly of the Grand Duchy of Finland from 1809 to 1906\n* Diet of Hungary, the legislative assembly of the Kingdom of Hungary from 15th century to 1946\n* Imperial Diet (Holy Roman Empire), the imperial assembly of the princes of the Holy Roman Empire until 1806\n* Reichstag\n** Reichstag (German Empire) (Reichstag), the Diet of the Empire, the legislative assembly of the German Empire, 1871–1917\n** Reichstag (Weimar Republic), (Reichstag), the Diet of the Weimar Republic, from 1919 to 1933\n** Reichstag (Nazi Germany), (Reichstag), the Diet of Nazi Germany, from 1933 to 1945, a purely ceremonial \"parliament\" in a totalitarian dictatorship without elections\n\nMedia\n\n* \"Diet\", an episode of the Adult Swim animated television series, Aqua Teen Hunger Force\n* Santa Clarita Diet, a 2017 Netflix Original series\n* The Diet (cartoon), a Beetle Bailey animated short\n\nOther uses\n\n* DIET, an open-source middleware for high-performance computing\n* District Institute of Education and Training in India. Diet. http://en.wikipedia.org/?curid=8461."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19664",
+  "eid" : "3ce3ab90-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778611401,
+  "textBody" : "Mallow or mallows may refer to:\n\nNature\n\n* Malvaceae, family  of plants; in particular the following genera:\n** Abelmoschus\n** Althaea (plant) – marsh mallow\n** Callirhoe (genus) – poppy mallow\n** Corchorus – mallow, molokia, mlukhia\n** Eremalche\n** Hibiscus – rosemallow\n** Kosteletzkya – seashore mallow\n** Lavatera – tree mallow or rose mallow\n** Malacothamnus – bush-mallow\n** Malva – mallow\n** Malvaviscus – Turk's cap mallow, wax mallow\n** Sidalcea – Greek mallow, chequer-mallow\n** Sphaeralcea – globemallow\n*insects:\n** Larentia clavaria – mallow, species of moth\n** Mallow skipper, butterfly\n\nPlaces\n\n* Mallow, Iran, a village in Razavi Khorasan Province, Iran\n* Mallow, County Cork, a town in the Republic of Ireland\n** Mallow (Parliament of Ireland constituency)\n** Mallow GAA\n* Mallow, Virginia, United States\n* Mallows Bay, Maryland, United States\n\nPeople\n\n* Dave Mallow (born 1948), U.S. voice actor, also known as Colin Phillips\n* Johannes Mallow (born 1981) German memory-sports competitor\n\nFictional characters\n\n* Hober Mallow, character in the Foundation series of novels of Isaac Asimov\n* Prince Mallow, a playable cloud-like character in Super Mario RPG, a 1996 adventure/console role-playing game\n* Mallow, cook and one of the Trial Captains of Akala Island in Pokémon Sun & Moon\n\nVehicles\n\n* Beriev Be-10, Soviet jet-engined flying boat (NATO reporting name \"Mallow\")\n*  (later HMAS Mallow), sloop launched in 1915\n* , corvette from World War II\n\nOther\n\n* Mallow, a toy line by Shocker Toys\n* Marshmallow, a sweet originally made from the marsh mallow\n* Malvi language of the Malwa region of India\n* Mallows's Cp, in statistics, a stopping rule for stepwise regression\n* Mauve (also known as mallow), a color",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Mallow" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19664" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Mallow or mallows may refer to:\n\nNature\n\n* Malvaceae, family  of plants; in particular the following genera:\n** Abelmoschus\n** Althaea (plant) – marsh mallow\n** Callirhoe (genus) – poppy mallow\n** Corchorus – mallow, molokia, mlukhia\n** Eremalche\n** Hibiscus – rosemallow\n** Kosteletzkya – seashore mallow\n** Lavatera – tree mallow or rose mallow\n** Malacothamnus – bush-mallow\n** Malva – mallow\n** Malvaviscus – Turk's cap mallow, wax mallow\n** Sidalcea – Greek mallow, chequer-mallow\n** Sphaeralcea – globemallow\n*insects:\n** Larentia clavaria – mallow, species of moth\n** Mallow skipper, butterfly\n\nPlaces\n\n* Mallow, Iran, a village in Razavi Khorasan Province, Iran\n* Mallow, County Cork, a town in the Republic of Ireland\n** Mallow (Parliament of Ireland constituency)\n** Mallow GAA\n* Mallow, Virginia, United States\n* Mallows Bay, Maryland, United States\n\nPeople\n\n* Dave Mallow (born 1948), U.S. voice actor, also known as Colin Phillips\n* Johannes Mallow (born 1981) German memory-sports competitor\n\nFictional characters\n\n* Hober Mallow, character in the Foundation series of novels of Isaac Asimov\n* Prince Mallow, a playable cloud-like character in Super Mario RPG, a 1996 adventure/console role-playing game\n* Mallow, cook and one of the Trial Captains of Akala Island in Pokémon Sun & Moon\n\nVehicles\n\n* Beriev Be-10, Soviet jet-engined flying boat (NATO reporting name \"Mallow\")\n*  (later HMAS Mallow), sloop launched in 1915\n* , corvette from World War II\n\nOther\n\n* Mallow, a toy line by Shocker Toys\n* Marshmallow, a sweet originally made from the marsh mallow\n* Malvi language of the Malwa region of India\n* Mallows's Cp, in statistics, a stopping rule for stepwise regression\n* Mauve (also known as mallow), a color. Mallow. http://en.wikipedia.org/?curid=19664."
+  }
+}

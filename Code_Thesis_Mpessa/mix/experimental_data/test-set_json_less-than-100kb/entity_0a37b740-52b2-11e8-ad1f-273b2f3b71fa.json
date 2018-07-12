@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13501",
+  "eid" : "0a37b740-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778526388,
+  "textBody" : "Source tracking pertains to the ability of some hypertext systems to rigorously track the exact source of every document or partial document included in the system; that is, they remember who entered the information, when it was entered, when it was updated and by whom, and so on. This allows determining the exact history of every document (and even small parts of documents).\n\nPresent HTML and HTTP do not have this feature, but certain systems on the World Wide Web (such as WikiWiki and Everything Engine) may have limited versions of the capability.\n\nOne application of digital watermarking is source tracking.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Source tracking" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13501" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Source tracking pertains to the ability of some hypertext systems to rigorously track the exact source of every document or partial document included in the system; that is, they remember who entered the information, when it was entered, when it was updated and by whom, and so on. This allows determining the exact history of every document (and even small parts of documents).\n\nPresent HTML and HTTP do not have this feature, but certain systems on the World Wide Web (such as WikiWiki and Everything Engine) may have limited versions of the capability.\n\nOne application of digital watermarking is source tracking. Source tracking. http://en.wikipedia.org/?curid=13501."
+  }
+}

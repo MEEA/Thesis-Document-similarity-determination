@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=4884",
+  "eid" : "d1108550-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778430501,
+  "textBody" : "Balmoral may refer to:\n\nPlaces \n\nAustralia \n\n* Balmoral, New South Wales, a locality of Sydney\n* Balmoral, New South Wales (Lake Macquarie)\n* Balmoral, New South Wales (Southern Highlands)\n* Balmoral, Queensland\n* Balmoral, Victoria\n\nBelgium \n\n* Balmoral, a hamlet near the town of Spa, Belgium\n\nCanada \n\n* Balmoral, British Columbia\n* Balmoral, New Brunswick\n* Balmoral Parish, New Brunswick\n* Balmoral Mills, Nova Scotia\n* Balmoral, Ontario, a community in Haldimand County\n* Balmoral Grist Mill Museum, Balmoral Mills, Nova Scotia\n* Balmoral, Manitoba\n\nNew Zealand \n\n* Balmoral, New Zealand, a suburb of Auckland\n\nNorthern Ireland \n\n* Balmoral (), an area of Belfast\n* Balmoral railway station, Belfast\n* Balmoral Golf Club, Belfast\n* The Balmoral Show, an agricultural show that takes place annually in the Kings Hall, Belfast\n\nScotland \n\n* Balmoral Castle, a residence of Queen Elizabeth II in Aberdeenshire, Scotland\n* The Balmoral Hotel, a luxury hotel located in Edinburgh\n\nSouth Africa \n\n* Balmoral, Mpumalanga, a village and colliery near Witbank\n\nUnited States \n\n* Balmoral, Louisiana\n* Balmoral, Maryland\n* Balmoral, Tennessee\n* Balmoral, Wisconsin\n* Balmoral Park, horse racing track in Crete, Illinois\n* Lakewood Balmoral Historic District, Chicago, Illinois\n\nClothing \n\n* Balmoral bonnet, an unbrimmed cap common in Highland dress, named for the Scottish village and castle\n* Balmoral (shoe), a type of men's dress shoe\n* Balmoral tartan, a tartan pattern worn by the British Royal Family\n\nEducation \n\n* Balmoral College, Banfield, Buenos Aires, Argentina\n* Balmoral Hall School, Winnipeg, Canada\n* Balmoral High School (Belfast, Northern Ireland)\n* Balmoral Jr Secondary School, North Vancouver, British Columbia, Canada\n* Balmoral State High School, Queensland, Australia\n\nShips \n\n*  is a passenger ship used for pleasure cruises in the United Kingdom\n*  of Fred. Olsen Cruise Lines\n\nTheater \n\n* Balmoral (play), a 1987 play by Michael Frayn",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Balmoral" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=4884" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Balmoral may refer to:\n\nPlaces \n\nAustralia \n\n* Balmoral, New South Wales, a locality of Sydney\n* Balmoral, New South Wales (Lake Macquarie)\n* Balmoral, New South Wales (Southern Highlands)\n* Balmoral, Queensland\n* Balmoral, Victoria\n\nBelgium \n\n* Balmoral, a hamlet near the town of Spa, Belgium\n\nCanada \n\n* Balmoral, British Columbia\n* Balmoral, New Brunswick\n* Balmoral Parish, New Brunswick\n* Balmoral Mills, Nova Scotia\n* Balmoral, Ontario, a community in Haldimand County\n* Balmoral Grist Mill Museum, Balmoral Mills, Nova Scotia\n* Balmoral, Manitoba\n\nNew Zealand \n\n* Balmoral, New Zealand, a suburb of Auckland\n\nNorthern Ireland \n\n* Balmoral (), an area of Belfast\n* Balmoral railway station, Belfast\n* Balmoral Golf Club, Belfast\n* The Balmoral Show, an agricultural show that takes place annually in the Kings Hall, Belfast\n\nScotland \n\n* Balmoral Castle, a residence of Queen Elizabeth II in Aberdeenshire, Scotland\n* The Balmoral Hotel, a luxury hotel located in Edinburgh\n\nSouth Africa \n\n* Balmoral, Mpumalanga, a village and colliery near Witbank\n\nUnited States \n\n* Balmoral, Louisiana\n* Balmoral, Maryland\n* Balmoral, Tennessee\n* Balmoral, Wisconsin\n* Balmoral Park, horse racing track in Crete, Illinois\n* Lakewood Balmoral Historic District, Chicago, Illinois\n\nClothing \n\n* Balmoral bonnet, an unbrimmed cap common in Highland dress, named for the Scottish village and castle\n* Balmoral (shoe), a type of men's dress shoe\n* Balmoral tartan, a tartan pattern worn by the British Royal Family\n\nEducation \n\n* Balmoral College, Banfield, Buenos Aires, Argentina\n* Balmoral Hall School, Winnipeg, Canada\n* Balmoral High School (Belfast, Northern Ireland)\n* Balmoral Jr Secondary School, North Vancouver, British Columbia, Canada\n* Balmoral State High School, Queensland, Australia\n\nShips \n\n*  is a passenger ship used for pleasure cruises in the United Kingdom\n*  of Fred. Olsen Cruise Lines\n\nTheater \n\n* Balmoral (play), a 1987 play by Michael Frayn. Balmoral. http://en.wikipedia.org/?curid=4884."
+  }
+}

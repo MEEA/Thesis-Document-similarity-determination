@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19217",
+  "eid" : "38c6a940-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778604500,
+  "textBody" : "The telecommunications in Mayotte consist of an estimated 10,000 main telephone lines in use as of 2002, and an estimated 48,100 cellular phones in use as of 2004. The telephone system is small, and is administered by French Department of Posts and Telecommunications. There is some international interconnectivity, with microwave radio relay and HF radiotelephone communications to Comoros as of 2001. There are also three television broadcast stations according to a 2001 figure, with an estimated 3,500 televisions as of 1994. The country code for top-level domain is .yt.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Telecommunications in Mayotte" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19217" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The telecommunications in Mayotte consist of an estimated 10,000 main telephone lines in use as of 2002, and an estimated 48,100 cellular phones in use as of 2004. The telephone system is small, and is administered by French Department of Posts and Telecommunications. There is some international interconnectivity, with microwave radio relay and HF radiotelephone communications to Comoros as of 2001. There are also three television broadcast stations according to a 2001 figure, with an estimated 3,500 televisions as of 1994. The country code for top-level domain is .yt. Telecommunications in Mayotte. http://en.wikipedia.org/?curid=19217."
+  }
+}

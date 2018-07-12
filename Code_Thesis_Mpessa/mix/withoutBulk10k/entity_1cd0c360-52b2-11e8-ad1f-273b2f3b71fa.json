@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15517",
+  "eid" : "1cd0c360-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778557590,
+  "textBody" : "ITSO may stand for:\n* ITSO Ltd, previously Integrated Transport Smartcard Organisation, who maintain the ITSO standard for smart ticketing in the UK\n* International Telecommunications Satellite Organization, an intergovernmental consortium\n* Information Technology Student Organization, a student organization at Rochester Institute of Technology\n* International Technical Support Organization, the IBM group that produces IBM Redbooks.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "ITSO" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15517" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "ITSO may stand for:\n* ITSO Ltd, previously Integrated Transport Smartcard Organisation, who maintain the ITSO standard for smart ticketing in the UK\n* International Telecommunications Satellite Organization, an intergovernmental consortium\n* Information Technology Student Organization, a student organization at Rochester Institute of Technology\n* International Technical Support Organization, the IBM group that produces IBM Redbooks. ITSO. http://en.wikipedia.org/?curid=15517."
+  }
+}

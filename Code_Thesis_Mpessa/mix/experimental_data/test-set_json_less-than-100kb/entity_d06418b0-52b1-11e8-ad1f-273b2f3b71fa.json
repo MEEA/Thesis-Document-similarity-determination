@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=4787",
+  "eid" : "d06418b0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778429371,
+  "textBody" : "The bell curve is typical of the normal distribution.\n\nBell curve may also refer to:\n\n* Gaussian function, a specific kind of function whose graph is a bell-shaped curve\n* The Bell Curve, a 1994 book by Richard J. Herrnstein and Charles Murray\n* Bell curve grading, a method of evaluating scholastic performance",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Bell curve (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=4787" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The bell curve is typical of the normal distribution.\n\nBell curve may also refer to:\n\n* Gaussian function, a specific kind of function whose graph is a bell-shaped curve\n* The Bell Curve, a 1994 book by Richard J. Herrnstein and Charles Murray\n* Bell curve grading, a method of evaluating scholastic performance. Bell curve (disambiguation). http://en.wikipedia.org/?curid=4787."
+  }
+}

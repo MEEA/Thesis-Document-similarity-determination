@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10589",
+  "eid" : "f64cd6c0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778492972,
+  "textBody" : "Function may refer to:\n\nMathematics, computing and engineering \n\n* Function (mathematics), a relation that associates an input to a single output according to some rule\n* Function model, a structured representation of the functions, activities or processes\n* Function (engineering), related to the selected property of a system\n* Subroutine, also called a function, a sequence of instructions within a larger computer program\n* Function object, or functor or functionoid, a concept of object-oriented programming\n* Functor, a type of mapping between categories\n* A function key on keyboards\n\nMusic \n\n* Diatonic function, a term in music theory\n* \"Function\" (song), a 2012 song by American rapper E-40 featuring YG, Iamsu! & Problem\n* \"Function\", song by Dana Kletter from Boneyard Beach 1995\n\nOther uses \n\n* A social event\n* Function (biology), explaining why a feature survived selection\n* Function (language), in linguistics, a way of achieving an aim using language\n* Function Drinks, a beverage company based in Redondo Beach, California",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Function" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10589" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Function may refer to:\n\nMathematics, computing and engineering \n\n* Function (mathematics), a relation that associates an input to a single output according to some rule\n* Function model, a structured representation of the functions, activities or processes\n* Function (engineering), related to the selected property of a system\n* Subroutine, also called a function, a sequence of instructions within a larger computer program\n* Function object, or functor or functionoid, a concept of object-oriented programming\n* Functor, a type of mapping between categories\n* A function key on keyboards\n\nMusic \n\n* Diatonic function, a term in music theory\n* \"Function\" (song), a 2012 song by American rapper E-40 featuring YG, Iamsu! & Problem\n* \"Function\", song by Dana Kletter from Boneyard Beach 1995\n\nOther uses \n\n* A social event\n* Function (biology), explaining why a feature survived selection\n* Function (language), in linguistics, a way of achieving an aim using language\n* Function Drinks, a beverage company based in Redondo Beach, California. Function. http://en.wikipedia.org/?curid=10589."
+  }
+}

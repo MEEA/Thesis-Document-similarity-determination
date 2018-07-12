@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13039",
+  "eid" : "06347e80-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778519656,
+  "textBody" : "Gordon Michael Woolvett (born June 12, 1970) is a Canadian actor from Hamilton, Ontario, best known for his work as Seamus Zelazny Harper on the television series Andromeda (2000–2005). Prior to Andromeda he starred in another science fiction television series, Deepwater Black. He was also credited as playing Mitch in the \"Pariah\" episode of the short-lived 1980s science-fiction/action series Captain Power and the Soldiers of the Future. He also was in an episode of PSI Factor: Chronicles of the Paranormal. He's the younger brother of actor Jaimz Woolvett.\n\nWoolvett was also one of the first program jockeys for YTV's The Zone (then called The After-School Zone) and the original main host for a program called Video & Arcade Top 10 which also aired on YTV. Woolvett acted in the 1999 made-for-TV film Ultimate Deception with Yasmine Bleeth. Most recently, Woolvett could be seen on the Canadian television series The Guard, which aired from 2008-2009 on Global Television Network.\n\nFilmography \n\nFilm\n\nTelevision",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Gordon Michael Woolvett" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13039" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Gordon Michael Woolvett (born June 12, 1970) is a Canadian actor from Hamilton, Ontario, best known for his work as Seamus Zelazny Harper on the television series Andromeda (2000–2005). Prior to Andromeda he starred in another science fiction television series, Deepwater Black. He was also credited as playing Mitch in the \"Pariah\" episode of the short-lived 1980s science-fiction/action series Captain Power and the Soldiers of the Future. He also was in an episode of PSI Factor: Chronicles of the Paranormal. He's the younger brother of actor Jaimz Woolvett.\n\nWoolvett was also one of the first program jockeys for YTV's The Zone (then called The After-School Zone) and the original main host for a program called Video & Arcade Top 10 which also aired on YTV. Woolvett acted in the 1999 made-for-TV film Ultimate Deception with Yasmine Bleeth. Most recently, Woolvett could be seen on the Canadian television series The Guard, which aired from 2008-2009 on Global Television Network.\n\nFilmography \n\nFilm\n\nTelevision. Gordon Michael Woolvett. http://en.wikipedia.org/?curid=13039."
+  }
+}

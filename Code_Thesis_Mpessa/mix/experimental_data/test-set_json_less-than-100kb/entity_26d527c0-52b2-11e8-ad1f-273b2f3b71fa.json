@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16580",
+  "eid" : "26d527c0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778574396,
+  "textBody" : "Jacobite means follower of Jacob or James. Jacobite may refer to:\n\nReligion\n\n* Jacobites, Biblical name for Israelites, who were descended from Jacob\n* Jacobites, followers of Jacob Baradaeus in the 6th century \n* Jacobite Church, rejected nickname for the Syriac Orthodox Church\n* Malankara Jacobite Syrian Orthodox Church, branch of the Syriac Orthodox Church in Kerala, India\n* Jacobites, mistaken nickname for the Malankara Orthodox Syrian Church, based in Kerala, India\n* Jacobite, follower of Henry Jacob (1563–1624), English clergyman\n\nPolitics\n\n* Jacobites, followers of Jacobitism, political movement to resurrect the Stuart kingship, 1688–1780s\n** Jacobite risings, series of rebellions in the British Isles, 1688–1746\n* Jacobite succession, the line through which the British crown in pretence has descended since 1688\n* Jacobite consorts, those who were married to Jacobite pretenders since 1688\n* Jacobite Peerage, peers and baronetcies granted by Jacobite claimants since 1688\n* Scottish Jacobite Party, political party, 2005–2011\n\nMusic\n\n* \"Ye Jacobites by Name\", Scottish folk song originating in the Jacobite Risings\n* Jacobite Reliques, collection of songs related to the Jacobite risings, compiled by James Hogg in 1817\n* Jacobites (band), English rock band formed in 1982\n\nOther\n\n* Jacobite Gold,1745 shipment of Spanish gold to Scotland, rumoured to still be hidden at Loch Arkaig\n* The Jacobite (steam train), a train in Scotland",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Jacobite" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16580" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Jacobite means follower of Jacob or James. Jacobite may refer to:\n\nReligion\n\n* Jacobites, Biblical name for Israelites, who were descended from Jacob\n* Jacobites, followers of Jacob Baradaeus in the 6th century \n* Jacobite Church, rejected nickname for the Syriac Orthodox Church\n* Malankara Jacobite Syrian Orthodox Church, branch of the Syriac Orthodox Church in Kerala, India\n* Jacobites, mistaken nickname for the Malankara Orthodox Syrian Church, based in Kerala, India\n* Jacobite, follower of Henry Jacob (1563–1624), English clergyman\n\nPolitics\n\n* Jacobites, followers of Jacobitism, political movement to resurrect the Stuart kingship, 1688–1780s\n** Jacobite risings, series of rebellions in the British Isles, 1688–1746\n* Jacobite succession, the line through which the British crown in pretence has descended since 1688\n* Jacobite consorts, those who were married to Jacobite pretenders since 1688\n* Jacobite Peerage, peers and baronetcies granted by Jacobite claimants since 1688\n* Scottish Jacobite Party, political party, 2005–2011\n\nMusic\n\n* \"Ye Jacobites by Name\", Scottish folk song originating in the Jacobite Risings\n* Jacobite Reliques, collection of songs related to the Jacobite risings, compiled by James Hogg in 1817\n* Jacobites (band), English rock band formed in 1982\n\nOther\n\n* Jacobite Gold,1745 shipment of Spanish gold to Scotland, rumoured to still be hidden at Loch Arkaig\n* The Jacobite (steam train), a train in Scotland. Jacobite. http://en.wikipedia.org/?curid=16580."
+  }
+}

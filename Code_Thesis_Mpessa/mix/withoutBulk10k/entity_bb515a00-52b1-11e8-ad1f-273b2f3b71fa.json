@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1700",
+  "eid" : "bb515a00-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778394016,
+  "textBody" : "August Wilhelm Ambros (17 November 181628 June 1876)Blom, Eric (2005) Everyman's Dictionary of Music, Kessinger Publishing. p. 15. . was an Austrian composer and music historian of Czech descent.\n\nLife \n\nHe was born at Mýto, Rokycany District, Bohemia. His father was a cultured man, and his mother was the sister of Raphael Georg KiesewetterTodd. R. Larry. (1991) Mendelssohn and His World, Princeton University Press. p. 304. . (1773–1850), the musical archaeologist and collector. Ambros studied at the University of Prague and was well-educated in music and the arts, which were his abiding passion. He was, however, destined for the law and an official career in the Austrian civil service, and he occupied various important posts under the ministry of justice, music being an avocation.\n\nFrom 1850 onwards he became well known as a critic and essay-writer, and in 1860 he began working on his magnum opus, his History of Music, which was published at intervals from 1862Lang, Paul Henry. (1997) Music in Western Civilization, W. W. Norton & Company. p. 987. . in five volumes, the last two (1878, 1882) being edited and completed by Otto Kade and Wilhelm Langhans.\n\nAmbros was professor of the history of music at Prague from 1869 to 1871.Meinong, Alexius & Adler, Guido (1995) Eine Freundschaft in Briefen Alexius, Rodopi. p. 8. . Also in Prague, he seated on the board of governors in the Prague Royal Conservatory. By 1872, he was living in Vienna and was employed by the Department of Justice as an officer and by Prince Rudolf's family as his tutor. Through his work in Vienna, he was given leave of absence for half the year in order to let him travel the world to collect musical information to include in his History of Music book. He was an excellent pianist, and the author of numerous compositions somewhat reminiscent of Felix Mendelssohn.\n\nAmbros died at Vienna, Austria at the age of 59.\n\nNotes",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "August Wilhelm Ambros" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1700" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "August Wilhelm Ambros (17 November 181628 June 1876)Blom, Eric (2005) Everyman's Dictionary of Music, Kessinger Publishing. p. 15. . was an Austrian composer and music historian of Czech descent.\n\nLife \n\nHe was born at Mýto, Rokycany District, Bohemia. His father was a cultured man, and his mother was the sister of Raphael Georg KiesewetterTodd. R. Larry. (1991) Mendelssohn and His World, Princeton University Press. p. 304. . (1773–1850), the musical archaeologist and collector. Ambros studied at the University of Prague and was well-educated in music and the arts, which were his abiding passion. He was, however, destined for the law and an official career in the Austrian civil service, and he occupied various important posts under the ministry of justice, music being an avocation.\n\nFrom 1850 onwards he became well known as a critic and essay-writer, and in 1860 he began working on his magnum opus, his History of Music, which was published at intervals from 1862Lang, Paul Henry. (1997) Music in Western Civilization, W. W. Norton & Company. p. 987. . in five volumes, the last two (1878, 1882) being edited and completed by Otto Kade and Wilhelm Langhans.\n\nAmbros was professor of the history of music at Prague from 1869 to 1871.Meinong, Alexius & Adler, Guido (1995) Eine Freundschaft in Briefen Alexius, Rodopi. p. 8. . Also in Prague, he seated on the board of governors in the Prague Royal Conservatory. By 1872, he was living in Vienna and was employed by the Department of Justice as an officer and by Prince Rudolf's family as his tutor. Through his work in Vienna, he was given leave of absence for half the year in order to let him travel the world to collect musical information to include in his History of Music book. He was an excellent pianist, and the author of numerous compositions somewhat reminiscent of Felix Mendelssohn.\n\nAmbros died at Vienna, Austria at the age of 59.\n\nNotes. August Wilhelm Ambros. http://en.wikipedia.org/?curid=1700."
+  }
+}

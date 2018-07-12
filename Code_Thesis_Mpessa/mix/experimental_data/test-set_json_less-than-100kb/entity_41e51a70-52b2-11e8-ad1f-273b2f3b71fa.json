@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=20391",
+  "eid" : "41e51a70-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778619799,
+  "textBody" : "",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Economy of Myanmar" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=20391" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : " Economy of Myanmar. http://en.wikipedia.org/?curid=20391."
+  }
+}

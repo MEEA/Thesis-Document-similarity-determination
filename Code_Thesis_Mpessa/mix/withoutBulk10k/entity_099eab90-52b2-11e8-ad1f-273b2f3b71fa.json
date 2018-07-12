@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13455",
+  "eid" : "099eab90-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778525385,
+  "textBody" : "Haakon VII (1872–1957) was King of Norway from 1905 to 1957.\n\nHaakon VII may also refer to:\n* HNoMS King Haakon VII, a Royal Norwegian Navy escort ship in commission from 1942 to 1951\n* HNoMS Haakon VII (A537), a Royal Norwegian Navy training ship in commission from 1958 to 1974",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Haakon VII (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13455" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Haakon VII (1872–1957) was King of Norway from 1905 to 1957.\n\nHaakon VII may also refer to:\n* HNoMS King Haakon VII, a Royal Norwegian Navy escort ship in commission from 1942 to 1951\n* HNoMS Haakon VII (A537), a Royal Norwegian Navy training ship in commission from 1958 to 1974. Haakon VII (disambiguation). http://en.wikipedia.org/?curid=13455."
+  }
+}

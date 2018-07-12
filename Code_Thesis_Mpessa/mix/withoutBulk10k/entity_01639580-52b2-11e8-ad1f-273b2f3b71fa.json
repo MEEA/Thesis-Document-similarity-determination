@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12278",
+  "eid" : "01639580-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778511576,
+  "textBody" : "A ganglion  is a nerve cell cluster or a group of nerve cell bodies located in the autonomic nervous system and sensory system. Ganglia house the cell bodies of afferent nerves and efferent nerves.\n\nA pseudoganglion looks like a ganglion, but only has nerve fibers and has no nerve cell bodies.\n\nStructure\n\nGanglia are primarily made up of somata and dendritic structures which are bundled or connected. Ganglia often interconnect with other ganglia to form a complex system of ganglia known as a plexus. Ganglia provide relay points and intermediary connections between different neurological structures in the body, such as the peripheral and central nervous systems.\n\nAmong vertebrates there are three major groups of ganglia:\n*Dorsal root ganglia (also known as the spinal ganglia) contain the cell bodies of sensory (afferent) neurons.\n*Cranial nerve ganglia contain the cell bodies of cranial nerve neurons.\n*Autonomic ganglia contain the cell bodies of autonomic nerves.\n\nIn the autonomic nervous system, fibers from the central nervous system to the ganglia are known as preganglionic fibers, while those from the ganglia to the effector organ are called postganglionic fibers.\n\nBasal ganglia\n\nThe term \"ganglion\" refers to the peripheral nervous system.\n\nHowever, in the brain (part of the central nervous system), the \"basal ganglia\" is a group of nuclei interconnected with the cerebral cortex, thalamus, and brainstem, associated with a variety of functions: motor control, cognition, emotions, and learning.\n\nPartly due to this ambiguity, the Terminologia Anatomica recommends using the term basal nuclei instead of basal ganglia; however, this usage has not been generally adopted.\n\nPseudoganglion\n\nA pseudoganglion is a localized thickening of the main part or trunk of a nerve that has the appearance of a ganglion but has only nerve fibers and no nerve cell bodies.\n\nPseudoganglia are found in the teres minor muscle and radial nerve.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Ganglion" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12278" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A ganglion  is a nerve cell cluster or a group of nerve cell bodies located in the autonomic nervous system and sensory system. Ganglia house the cell bodies of afferent nerves and efferent nerves.\n\nA pseudoganglion looks like a ganglion, but only has nerve fibers and has no nerve cell bodies.\n\nStructure\n\nGanglia are primarily made up of somata and dendritic structures which are bundled or connected. Ganglia often interconnect with other ganglia to form a complex system of ganglia known as a plexus. Ganglia provide relay points and intermediary connections between different neurological structures in the body, such as the peripheral and central nervous systems.\n\nAmong vertebrates there are three major groups of ganglia:\n*Dorsal root ganglia (also known as the spinal ganglia) contain the cell bodies of sensory (afferent) neurons.\n*Cranial nerve ganglia contain the cell bodies of cranial nerve neurons.\n*Autonomic ganglia contain the cell bodies of autonomic nerves.\n\nIn the autonomic nervous system, fibers from the central nervous system to the ganglia are known as preganglionic fibers, while those from the ganglia to the effector organ are called postganglionic fibers.\n\nBasal ganglia\n\nThe term \"ganglion\" refers to the peripheral nervous system.\n\nHowever, in the brain (part of the central nervous system), the \"basal ganglia\" is a group of nuclei interconnected with the cerebral cortex, thalamus, and brainstem, associated with a variety of functions: motor control, cognition, emotions, and learning.\n\nPartly due to this ambiguity, the Terminologia Anatomica recommends using the term basal nuclei instead of basal ganglia; however, this usage has not been generally adopted.\n\nPseudoganglion\n\nA pseudoganglion is a localized thickening of the main part or trunk of a nerve that has the appearance of a ganglion but has only nerve fibers and no nerve cell bodies.\n\nPseudoganglia are found in the teres minor muscle and radial nerve. Ganglion. http://en.wikipedia.org/?curid=12278."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13461",
+  "eid" : "09c4d130-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778525635,
+  "textBody" : "Harald Tveit Alvestrand (born 29 June 1959) is a Norwegian computer scientist. He was the chairman of the Internet Engineering Task Force from 2001 until 2005. He is an author of several important RFCs, many in the general area of Internationalization and localization.\n\nHe was born in Namsos, Norway, received his education from Bergen Katedralskole and the Norwegian Institute of Technology, and has worked for Norsk Data, UNINETT, EDB Maxware and Cisco Systems, Inc..\nHe currently (2008) lives in Trondheim, Norway, and works for Google.\n\nAt the end of 2007 Harald Alvestrand was selected for the ICANN Board., where he remained until December 2010. In 2001 he became a member of the Unicode Board of Directors. He has more recently been a co-Chair of the IETF EAI and USEFOR WGs.\n\nHarald Alvestrand is the Executive Director of the Linux Counter Organization., He is a member of the Norid Board, and the RFC Independent Submissions Editorial Board.\n\nPublications\n\nBest Current Practices\n\n* RFC 2148 (BCP 15) Deployment of the Internet White Pages Service\n* RFC 2277 (BCP 18) IETF Policy on Character Sets and Languages\n* RFC 5226 (BCP 26) Guidelines for Writing an IANA Considerations Section in RFCs\n* RFC 2438 (BCP 27) Advancement of MIB specifications on the IETF Standards Track\n* RFC 1766 + RFC 3066 Tags for the Identification of Languages (was BCP 47)\n* RFC 3932 (BCP 92) The IESG and RFC Editor Documents: Procedures\n* RFC 3935 (BCP 95) A Mission Statement for the IETF\n\nOther important RFCs\n\n* RFC 2130  (this memo prepared the UTF-8 50-years plan in RFC 2277)\n* RFC 2157 Mapping between X.400 and RFC-822/MIME Message Bodies\n* RFC 3282 Content Language Headers (draft standard)\n* RFC 4450 Getting Rid of the Cruft (major RFC cleanup work)\n* RFC 5242 A Generalized Unified Character Code: Western European and CJK Sections (with John Klensin) April 1, 2008",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Harald Tveit Alvestrand" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13461" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Harald Tveit Alvestrand (born 29 June 1959) is a Norwegian computer scientist. He was the chairman of the Internet Engineering Task Force from 2001 until 2005. He is an author of several important RFCs, many in the general area of Internationalization and localization.\n\nHe was born in Namsos, Norway, received his education from Bergen Katedralskole and the Norwegian Institute of Technology, and has worked for Norsk Data, UNINETT, EDB Maxware and Cisco Systems, Inc..\nHe currently (2008) lives in Trondheim, Norway, and works for Google.\n\nAt the end of 2007 Harald Alvestrand was selected for the ICANN Board., where he remained until December 2010. In 2001 he became a member of the Unicode Board of Directors. He has more recently been a co-Chair of the IETF EAI and USEFOR WGs.\n\nHarald Alvestrand is the Executive Director of the Linux Counter Organization., He is a member of the Norid Board, and the RFC Independent Submissions Editorial Board.\n\nPublications\n\nBest Current Practices\n\n* RFC 2148 (BCP 15) Deployment of the Internet White Pages Service\n* RFC 2277 (BCP 18) IETF Policy on Character Sets and Languages\n* RFC 5226 (BCP 26) Guidelines for Writing an IANA Considerations Section in RFCs\n* RFC 2438 (BCP 27) Advancement of MIB specifications on the IETF Standards Track\n* RFC 1766 + RFC 3066 Tags for the Identification of Languages (was BCP 47)\n* RFC 3932 (BCP 92) The IESG and RFC Editor Documents: Procedures\n* RFC 3935 (BCP 95) A Mission Statement for the IETF\n\nOther important RFCs\n\n* RFC 2130  (this memo prepared the UTF-8 50-years plan in RFC 2277)\n* RFC 2157 Mapping between X.400 and RFC-822/MIME Message Bodies\n* RFC 3282 Content Language Headers (draft standard)\n* RFC 4450 Getting Rid of the Cruft (major RFC cleanup work)\n* RFC 5242 A Generalized Unified Character Code: Western European and CJK Sections (with John Klensin) April 1, 2008. Harald Tveit Alvestrand. http://en.wikipedia.org/?curid=13461."
+  }
+}

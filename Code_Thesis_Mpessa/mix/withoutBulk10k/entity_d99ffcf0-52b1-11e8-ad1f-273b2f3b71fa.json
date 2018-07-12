@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=6050",
+  "eid" : "d99ffcf0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778444863,
+  "textBody" : "Classical mechanics is the branch of physics used to describe the motion of macroscopic objects. It is the most familiar of the theories of physics. The concepts it covers, such as mass, acceleration, and force, are commonly used and known. The subject is based upon a three-dimensional Euclidean space with fixed axes, called a frame of reference. The point of concurrency of the three axes is known as the origin of the particular space.\n\nClassical mechanics utilises many equations—as well as other mathematical concepts—which relate various physical quantities to one another. These include differential equations, manifolds, Lie groups, and ergodic theory. This page gives a summary of the most important of these.\n\nThis article lists equations from Newtonian mechanics, see analytical mechanics for the more general formulation of classical mechanics (which includes Lagrangian and Hamiltonian mechanics).\n\nClassical mechanics\n\nMass and inertia\n\nDerived kinematic quantities\n\nDerived dynamic quantities\n\nGeneral energy definitions\n\nEvery conservative force has a potential energy. By following two principles one can consistently assign a non-relative value to U:\n\n* Wherever the force is zero, its potential energy is defined to be zero as well.\n* Whenever the force does work, potential energy is lost.\n\nGeneralized mechanics\n\nKinematics\n\nIn the following rotational definitions, the angle can be any angle about the specified axis of rotation. It is customary to use θ, but this does not have to be the polar angle used in polar coordinate systems. The unit axial vector\n\n\\bold{\\hat{n}} = \\bold{\\hat{e}}_r\\times\\bold{\\hat{e}}_\\theta \n\ndefines the axis of rotation,  \\scriptstyle \\bold{\\hat{e}}_r  unit vector in direction of r,  \\scriptstyle \\bold{\\hat{e}}_\\theta  \n unit vector tangential to the angle.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "List of equations in classical mechanics" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=6050" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Classical mechanics is the branch of physics used to describe the motion of macroscopic objects. It is the most familiar of the theories of physics. The concepts it covers, such as mass, acceleration, and force, are commonly used and known. The subject is based upon a three-dimensional Euclidean space with fixed axes, called a frame of reference. The point of concurrency of the three axes is known as the origin of the particular space.\n\nClassical mechanics utilises many equations—as well as other mathematical concepts—which relate various physical quantities to one another. These include differential equations, manifolds, Lie groups, and ergodic theory. This page gives a summary of the most important of these.\n\nThis article lists equations from Newtonian mechanics, see analytical mechanics for the more general formulation of classical mechanics (which includes Lagrangian and Hamiltonian mechanics).\n\nClassical mechanics\n\nMass and inertia\n\nDerived kinematic quantities\n\nDerived dynamic quantities\n\nGeneral energy definitions\n\nEvery conservative force has a potential energy. By following two principles one can consistently assign a non-relative value to U:\n\n* Wherever the force is zero, its potential energy is defined to be zero as well.\n* Whenever the force does work, potential energy is lost.\n\nGeneralized mechanics\n\nKinematics\n\nIn the following rotational definitions, the angle can be any angle about the specified axis of rotation. It is customary to use θ, but this does not have to be the polar angle used in polar coordinate systems. The unit axial vector\n\n\\bold{\\hat{n}} = \\bold{\\hat{e}}_r\\times\\bold{\\hat{e}}_\\theta \n\ndefines the axis of rotation,  \\scriptstyle \\bold{\\hat{e}}_r  unit vector in direction of r,  \\scriptstyle \\bold{\\hat{e}}_\\theta  \n unit vector tangential to the angle. List of equations in classical mechanics. http://en.wikipedia.org/?curid=6050."
+  }
+}

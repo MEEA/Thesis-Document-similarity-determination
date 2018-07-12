@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7540",
+  "eid" : "e2138820-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778459042,
+  "textBody" : "Cultural evolution is cultural change viewed from an evolutionary perspective.\n\nIt may also refer to:\n* Cultural selection theory, studies of cultural change modelled on evolutionary biology\n* Dual-inheritance theory, a specific framework for studying cultural evolution\n* Memetics, neo-Darwinist view of the transmission of cultural traits\n* Social evolution, the evolution of social behaviour\n* Sociocultural evolution, a historic theory of social change based on linear progress",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Cultural evolution (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7540" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Cultural evolution is cultural change viewed from an evolutionary perspective.\n\nIt may also refer to:\n* Cultural selection theory, studies of cultural change modelled on evolutionary biology\n* Dual-inheritance theory, a specific framework for studying cultural evolution\n* Memetics, neo-Darwinist view of the transmission of cultural traits\n* Social evolution, the evolution of social behaviour\n* Sociocultural evolution, a historic theory of social change based on linear progress. Cultural evolution (disambiguation). http://en.wikipedia.org/?curid=7540."
+  }
+}

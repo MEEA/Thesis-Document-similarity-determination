@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12481",
+  "eid" : "02e02360-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778514070,
+  "textBody" : "Giovanni Aldini (April 10, 1762 – January 17, 1834), was an Italian physicist born in Bologna. He was a brother of the statesman Count Antonio Aldini (1756–1826) and nephew of Luigi Galvani, whose treaties on muscular electricity he edited with notes in 1791.\n\nHe became professor of physics at Bologna in 1798, in succession to his uncle Luigi Galvani (1734–1819).  His scientific work was chiefly concerned with galvanism, anatomy and its medical applications, with the construction and illumination of lighthouses, and with experiments for preserving human life and material objects from destruction by fire. He wrote in French and English in addition to his native Italian.  In recognition of his merits, the emperor of Austria made him a knight of the Iron Crown and a councillor of state at Milan, where he died. He bequeathed a considerable sum to found a school of natural science for artisans at Bologna.\n\nExperiments\n\nAldini's most famous public demonstration of the electro-stimulation technique of deceased limbs was performed on the executed criminal George Forster at Newgate in London in 1803. The Newgate Calendar describes what happened when the galvanic process was used on the body:\n\nShelley's Frankenstein association\n\nMary Shelley (born Mary Godwin 30 August 1797) would have been only 5 years old in January 1803 when Aldini experimented on the corpse of George Foster. In her introduction to the 1831 edition of Frankenstein she does not mention Aldini, but \"galvanism\" was among the evening discussion topicst be manufactured, brought together, and endued with vital warmth.\" Chapter 5, the creature awakened:",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Giovanni Aldini" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12481" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Giovanni Aldini (April 10, 1762 – January 17, 1834), was an Italian physicist born in Bologna. He was a brother of the statesman Count Antonio Aldini (1756–1826) and nephew of Luigi Galvani, whose treaties on muscular electricity he edited with notes in 1791.\n\nHe became professor of physics at Bologna in 1798, in succession to his uncle Luigi Galvani (1734–1819).  His scientific work was chiefly concerned with galvanism, anatomy and its medical applications, with the construction and illumination of lighthouses, and with experiments for preserving human life and material objects from destruction by fire. He wrote in French and English in addition to his native Italian.  In recognition of his merits, the emperor of Austria made him a knight of the Iron Crown and a councillor of state at Milan, where he died. He bequeathed a considerable sum to found a school of natural science for artisans at Bologna.\n\nExperiments\n\nAldini's most famous public demonstration of the electro-stimulation technique of deceased limbs was performed on the executed criminal George Forster at Newgate in London in 1803. The Newgate Calendar describes what happened when the galvanic process was used on the body:\n\nShelley's Frankenstein association\n\nMary Shelley (born Mary Godwin 30 August 1797) would have been only 5 years old in January 1803 when Aldini experimented on the corpse of George Foster. In her introduction to the 1831 edition of Frankenstein she does not mention Aldini, but \"galvanism\" was among the evening discussion topicst be manufactured, brought together, and endued with vital warmth.\" Chapter 5, the creature awakened:. Giovanni Aldini. http://en.wikipedia.org/?curid=12481."
+  }
+}

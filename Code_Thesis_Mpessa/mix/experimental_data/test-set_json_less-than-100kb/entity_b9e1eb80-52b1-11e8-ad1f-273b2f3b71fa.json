@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1439",
+  "eid" : "b9e1eb80-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778391608,
+  "textBody" : "Abydos may mean:\n\n*Abydos, Egypt, an Ancient Egyptian city\n*Abydos (Hellespont), an ancient city of Mysia, in Asia Minor\n*Abydos (Stargate), name of a fictional planet in the Stargate science fiction universe\n* Abydos Station, a pastoral lease and cattle station in Western Australia\n\nAbidos may mean:\n*Abidos, Pyrénées-Atlantiques, a commune of the Pyrénées-Atlantiques département, in southwestern France",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Abydos" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1439" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Abydos may mean:\n\n*Abydos, Egypt, an Ancient Egyptian city\n*Abydos (Hellespont), an ancient city of Mysia, in Asia Minor\n*Abydos (Stargate), name of a fictional planet in the Stargate science fiction universe\n* Abydos Station, a pastoral lease and cattle station in Western Australia\n\nAbidos may mean:\n*Abidos, Pyrénées-Atlantiques, a commune of the Pyrénées-Atlantiques département, in southwestern France. Abydos. http://en.wikipedia.org/?curid=1439."
+  }
+}

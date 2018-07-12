@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3088",
+  "eid" : "c422bca0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778408810,
+  "textBody" : "Alexandria is the capital city of the Teleorman County, Romania. It is located south-west of Bucharest, towards the Bulgarian border. The city is situated on the Vedea River and has 45,434 inhabitants.\n\nEarly history\n\nAlexandria was named after its founder, Alexandru D. Ghica, Prince of Wallachia from April 1834 to 7 October 1842. Its population in 1900 was 1,675. Its chief trade then, was in grain, dispatched by rail to the Danubian port of Zimnicea, or by river to Giurgiu.\n\nAlexandria before the 1989 Revolution\n\nIn 1989, the city had over 63,000 inhabitants and more than six large factories.\n\nNatives \n\n* Cătălin Botezatu (1966 -), fashion creator\n* Alexandru Colfescu (1899 - 1976), mayor, lawyer, writer\n* Anghel Demetriescu (1847 - 1903), historian\n\nGallery\n\nAlexandria, Teleorman - Catedrala Episcopală \" Sf. Alexandru\".jpg\nAlexandria.Catedrala.6.jpg\nAlexandria-Teleorman- Scoala5 in florar 2011.jpg\nStatuia.Liviu.Vasilica.Alexandria.2.jpg\nFile:Prefectura Teleorman.jpg",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Alexandria, Romania" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3088" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Alexandria is the capital city of the Teleorman County, Romania. It is located south-west of Bucharest, towards the Bulgarian border. The city is situated on the Vedea River and has 45,434 inhabitants.\n\nEarly history\n\nAlexandria was named after its founder, Alexandru D. Ghica, Prince of Wallachia from April 1834 to 7 October 1842. Its population in 1900 was 1,675. Its chief trade then, was in grain, dispatched by rail to the Danubian port of Zimnicea, or by river to Giurgiu.\n\nAlexandria before the 1989 Revolution\n\nIn 1989, the city had over 63,000 inhabitants and more than six large factories.\n\nNatives \n\n* Cătălin Botezatu (1966 -), fashion creator\n* Alexandru Colfescu (1899 - 1976), mayor, lawyer, writer\n* Anghel Demetriescu (1847 - 1903), historian\n\nGallery\n\nAlexandria, Teleorman - Catedrala Episcopală \" Sf. Alexandru\".jpg\nAlexandria.Catedrala.6.jpg\nAlexandria-Teleorman- Scoala5 in florar 2011.jpg\nStatuia.Liviu.Vasilica.Alexandria.2.jpg\nFile:Prefectura Teleorman.jpg. Alexandria, Romania. http://en.wikipedia.org/?curid=3088."
+  }
+}

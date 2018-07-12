@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1740",
+  "eid" : "bb792d50-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778394277,
+  "textBody" : "Ancyra is a genus of southeast Asian planthoppers. Members of the genus are well known for having a pair of prolonged filaments at the tips of the forewings that arise near a pair of small glossy spots; this creates the impression of a pair of antennae, with corresponding \"eyes\" (a remarkable case of automimicry).Wickler, W. 1968. Mimicry in plants and animals. McGraw-Hill, New York The \"false head\" effect is further reinforced by the bugs' habit of walking backwards when it detects movement nearby, so as to misdirect predators to strike at its rear, rather than at its actual head.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Ancyra (genus)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1740" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Ancyra is a genus of southeast Asian planthoppers. Members of the genus are well known for having a pair of prolonged filaments at the tips of the forewings that arise near a pair of small glossy spots; this creates the impression of a pair of antennae, with corresponding \"eyes\" (a remarkable case of automimicry).Wickler, W. 1968. Mimicry in plants and animals. McGraw-Hill, New York The \"false head\" effect is further reinforced by the bugs' habit of walking backwards when it detects movement nearby, so as to misdirect predators to strike at its rear, rather than at its actual head. Ancyra (genus). http://en.wikipedia.org/?curid=1740."
+  }
+}

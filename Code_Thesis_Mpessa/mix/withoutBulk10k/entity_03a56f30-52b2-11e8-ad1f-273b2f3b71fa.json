@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12600",
+  "eid" : "03a56f30-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778515363,
+  "textBody" : "A grid network is a computer network consisting of a number of (computer) systems connected in a grid topology.\n\nIn a regular grid topology, each node in the network is connected with two neighbors along one or more dimensions.  If the network is one-dimensional, and the chain of nodes is connected to form a circular loop, the resulting topology is known as a ring.  Network systems such as FDDI use two counter-rotating token-passing rings to achieve high reliability and performance.  In general, when an n-dimensional grid network is connected circularly in more than one dimension, the resulting network topology is a torus, and the network is called \"toroidal\".  When the number of nodes along each dimension of a toroidal network is 2, the resulting network is called\na hypercube.\n\nA parallel computing cluster or multi-core processor is often connected in regular interconnection network such as a\nde Bruijn graph,\n[http://www.era.lib.ed.ac.uk/bitstream/1842/860/1/Spadavecchia_thesis.pdf \"A Network-based Asynchronous Architecture for Cryptographic Devices\"]\nby Ljiljana Spadavecchia 2005.\nsection \"5.6.1.2 De Bruijn graphs\", and section \"5.6.2.2 Randomised routing in de Bruijn graphs\".\n\na hypercube graph,\na hypertree network,\na fat tree network,\na torus, or cube-connected cycles.\n\nNote that a grid network is not the same as a grid computer (or computational grid) (even though the nodes in a grid network are usually computers, and grid computing obviously requires some kind of computer network or \"universal coding\" to interconnect the computers).",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Grid network" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12600" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A grid network is a computer network consisting of a number of (computer) systems connected in a grid topology.\n\nIn a regular grid topology, each node in the network is connected with two neighbors along one or more dimensions.  If the network is one-dimensional, and the chain of nodes is connected to form a circular loop, the resulting topology is known as a ring.  Network systems such as FDDI use two counter-rotating token-passing rings to achieve high reliability and performance.  In general, when an n-dimensional grid network is connected circularly in more than one dimension, the resulting network topology is a torus, and the network is called \"toroidal\".  When the number of nodes along each dimension of a toroidal network is 2, the resulting network is called\na hypercube.\n\nA parallel computing cluster or multi-core processor is often connected in regular interconnection network such as a\nde Bruijn graph,\n[http://www.era.lib.ed.ac.uk/bitstream/1842/860/1/Spadavecchia_thesis.pdf \"A Network-based Asynchronous Architecture for Cryptographic Devices\"]\nby Ljiljana Spadavecchia 2005.\nsection \"5.6.1.2 De Bruijn graphs\", and section \"5.6.2.2 Randomised routing in de Bruijn graphs\".\n\na hypercube graph,\na hypertree network,\na fat tree network,\na torus, or cube-connected cycles.\n\nNote that a grid network is not the same as a grid computer (or computational grid) (even though the nodes in a grid network are usually computers, and grid computing obviously requires some kind of computer network or \"universal coding\" to interconnect the computers). Grid network. http://en.wikipedia.org/?curid=12600."
+  }
+}

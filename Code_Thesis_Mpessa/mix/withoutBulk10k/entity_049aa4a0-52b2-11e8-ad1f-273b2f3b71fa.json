@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12738",
+  "eid" : "049aa4a0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778516970,
+  "textBody" : "Grampus may refer to:\n*A common name historically used for the orca\n*Grampus (genus), the genus that includes Risso's dolphin as its only species\n*CSS Grampus, a Confederate States of America river steamer\n*, the name of a number of Royal Navy ships and submarines\n*USFC Grampus, a fisheries research ship of the United States Commission of Fish and Fisheries and later the United States Bureau of Fisheries, commissioned in 1886\n*, the name of a number of ships of the United States Navy\n*the Grampus class submarines, built in the style of HMS Grampus\n\n*Grampus (TUGS) a character from the children's series TUGS\n*Nagoya Grampus, a Japanese soccer club\n\n*A versatile attack, reconnaissance and research sub used by the Blue Fleet in the anime series Blue Submarine No. 6\n*Another name for the hellbender salamander\n*Another name for a hellgrammite, the dobsonfly larva\n*Another name for Mastigoproctus giganteus, a species of whipscorpion\n* The code name for a British Railways engineering department 4 wheeled wagon",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Grampus" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12738" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Grampus may refer to:\n*A common name historically used for the orca\n*Grampus (genus), the genus that includes Risso's dolphin as its only species\n*CSS Grampus, a Confederate States of America river steamer\n*, the name of a number of Royal Navy ships and submarines\n*USFC Grampus, a fisheries research ship of the United States Commission of Fish and Fisheries and later the United States Bureau of Fisheries, commissioned in 1886\n*, the name of a number of ships of the United States Navy\n*the Grampus class submarines, built in the style of HMS Grampus\n\n*Grampus (TUGS) a character from the children's series TUGS\n*Nagoya Grampus, a Japanese soccer club\n\n*A versatile attack, reconnaissance and research sub used by the Blue Fleet in the anime series Blue Submarine No. 6\n*Another name for the hellbender salamander\n*Another name for a hellgrammite, the dobsonfly larva\n*Another name for Mastigoproctus giganteus, a species of whipscorpion\n* The code name for a British Railways engineering department 4 wheeled wagon. Grampus. http://en.wikipedia.org/?curid=12738."
+  }
+}

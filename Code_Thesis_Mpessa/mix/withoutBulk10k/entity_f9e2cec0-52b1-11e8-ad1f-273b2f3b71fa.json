@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11143",
+  "eid" : "f9e2cec0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778498988,
+  "textBody" : "FDR or Franklin D. Roosevelt (1882–1945) was the 32nd President of the United States.\n\nFDR may also refer to:\n\nEntertainment \n\n* Fan Death Records, an American record label\n* FDR Music Charts, an official record chart of Ukraine\n* Franklin Delano Romanowski, a character from the television show Seinfeld\n* Freedomain Radio, a podcast\n\nPolitics \n\n* Foundation for Democratic Reforms, an Indian think tank\n*  or Revolutionary Democratic Front, a political organization in El Salvador\n* People's Democratic Front (Indonesia) or '\n* Front for Democracy and the Republic, a political coalition in Mali\n\nTechnology \n\n* FDR (software), a refinement checking software tool\n* Firearm discharge residue\n* Flight data recorder\n* Frequency disturbance recorder\n* Full depth recycling\n\nOther uses \n\n* FDR Drive, a road in New York City\n* False discovery rate\n* Felix McTeigue or FDR, American musician\n* Fluid Dynamics Research, a scholarly journal\n* Fonciere des Regions, a French holding company\n* Frederick Regional Airport's IATA code",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "FDR (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11143" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "FDR or Franklin D. Roosevelt (1882–1945) was the 32nd President of the United States.\n\nFDR may also refer to:\n\nEntertainment \n\n* Fan Death Records, an American record label\n* FDR Music Charts, an official record chart of Ukraine\n* Franklin Delano Romanowski, a character from the television show Seinfeld\n* Freedomain Radio, a podcast\n\nPolitics \n\n* Foundation for Democratic Reforms, an Indian think tank\n*  or Revolutionary Democratic Front, a political organization in El Salvador\n* People's Democratic Front (Indonesia) or '\n* Front for Democracy and the Republic, a political coalition in Mali\n\nTechnology \n\n* FDR (software), a refinement checking software tool\n* Firearm discharge residue\n* Flight data recorder\n* Frequency disturbance recorder\n* Full depth recycling\n\nOther uses \n\n* FDR Drive, a road in New York City\n* False discovery rate\n* Felix McTeigue or FDR, American musician\n* Fluid Dynamics Research, a scholarly journal\n* Fonciere des Regions, a French holding company\n* Frederick Regional Airport's IATA code. FDR (disambiguation). http://en.wikipedia.org/?curid=11143."
+  }
+}

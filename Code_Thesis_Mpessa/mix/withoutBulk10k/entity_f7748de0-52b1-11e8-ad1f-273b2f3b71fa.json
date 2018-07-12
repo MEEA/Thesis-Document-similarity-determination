@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10739",
+  "eid" : "f7748de0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778494910,
+  "textBody" : "This article describes the geography of French Polynesia.\n\nFrench Polynesia is located in Oceania. It is an archipelago in the South Pacific Ocean, about halfway between South America and Australia (Geographic coordinates: ).\nIts area is about 4,167 km² (around 130 islands),Kingfisher Geography Encyclopedia. . Page 546 of which 3,827 km² is land and 340 km² is (inland) water. It has a coastline of 2,525 km but no land borders with order countries.\n\n; Maritime claims:\n* Territorial sea: 12 nautical mile\n* Exclusive economic zone: 200 nautical mile\n; Climate:\nTropical, but moderate\n; Terrain:\nMixture of rugged high islands and low islands with reefs\n; Elevation extremes:\n* Lowest point: Pacific Ocean 0 m\n* Highest point: Mont Orohena  ( Tahiti ) 2,241 m\n; Natural resources:\nTimber, fish, cobalt, hydropower\n; Land use:\n* Arable land: 0.68%\n* Permanent crops: 6.28%\n* Other: 93.03% (2012)\n; Irrigated land:\n10 km2 (2003)\n; Natural hazards:\nOccasional cyclonic storms in January\n; Environment - current issues:\nNA\n; Geography - note:\nIncludes five archipelagoes: four volcanic islands and one coral; Makatea in French Polynesia is one of the three great phosphate rock islands in the Pacific Ocean - the others are Banaba (Ocean Island) in Kiribati and Nauru",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Geography of French Polynesia" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10739" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "This article describes the geography of French Polynesia.\n\nFrench Polynesia is located in Oceania. It is an archipelago in the South Pacific Ocean, about halfway between South America and Australia (Geographic coordinates: ).\nIts area is about 4,167 km² (around 130 islands),Kingfisher Geography Encyclopedia. . Page 546 of which 3,827 km² is land and 340 km² is (inland) water. It has a coastline of 2,525 km but no land borders with order countries.\n\n; Maritime claims:\n* Territorial sea: 12 nautical mile\n* Exclusive economic zone: 200 nautical mile\n; Climate:\nTropical, but moderate\n; Terrain:\nMixture of rugged high islands and low islands with reefs\n; Elevation extremes:\n* Lowest point: Pacific Ocean 0 m\n* Highest point: Mont Orohena  ( Tahiti ) 2,241 m\n; Natural resources:\nTimber, fish, cobalt, hydropower\n; Land use:\n* Arable land: 0.68%\n* Permanent crops: 6.28%\n* Other: 93.03% (2012)\n; Irrigated land:\n10 km2 (2003)\n; Natural hazards:\nOccasional cyclonic storms in January\n; Environment - current issues:\nNA\n; Geography - note:\nIncludes five archipelagoes: four volcanic islands and one coral; Makatea in French Polynesia is one of the three great phosphate rock islands in the Pacific Ocean - the others are Banaba (Ocean Island) in Kiribati and Nauru. Geography of French Polynesia. http://en.wikipedia.org/?curid=10739."
+  }
+}

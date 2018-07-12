@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3827",
+  "eid" : "c901d670-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778416983,
+  "textBody" : "Bilge Khagan (Old Turkic: 𐰋𐰃𐰠𐰏𐰀 𐰴𐰍𐰣, Bilge qaγan)[http://irq.kaznpu.kz/?lang\ne&mod1&tid\n1&oid16&m\n1 Bilge kagan’s Memorial Complex, TÜRIK BITIG] (683 – 25 November 734) was the khagan of the Second Turkic Khaganate. His accomplishments were described in the Orkhon inscriptions.\n\nNames\n\nAs was the custom, his personal name and the name after assuming the title khagan were different. His personal name was recorded in Chinese characters as  (). His name after assuming the title was Bilge qaγan. (Old Turkic: , Bilge qaγan, ), official title: , Teŋіriteg Тeŋiride bolmuš Türük Bilge qaγan,[http://irq.kaznpu.kz/index.php?l\nt&wi726&lang\ne&mod=3 Ethno Cultural Dictionary, TÜRIK BITIG] His wife was Po Beg, Tonyukuk's daughter.\n\nAs khagan\n\nIn 716, Qapaghan Qaghan, the second khagan, was killed in his campaign against the Toquz Oghuz alliance and his severed head was sent to Chang'an.Old Book of Tang, Vol. 194-I Although his son Inel Khagan succeeded him, the legal claimant of the throne was his cousin, Ashǐnà Mòjílián. Mòjílián's brother Kul Tigin and Tonyukuk carried out a coup d'état against Inel Khaghan. They killed him and made Mòjílián khagan. His name literally means \"wise king\".\n\nBilge's khaganate included Mongolia and parts of Manchuria and Dzungaria. He also invaded the western sections of the Chinese territories. After his death from poisoning, several steles were erected in the capital area by the Orkhon River. These Orkhon inscriptions are the first known texts in the Old Turkic language. He was poisoned by Buyruk Chor[http://mtad.humanity.ankara.edu.tr/IV-3_Eylul2007/240_47_MTAD4-3_EEkrem.pdf Erkin Ekrem, \"Sarı Uygurların Kökeni\", Modern Türklük Araştırma Dergisi, Vol. 4, No. 3, 2007, p. 175.] (). He didn't die immediately and he had time to punish the family of Buyruk Chor with death.\n\nSources",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Bilge Khagan" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3827" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Bilge Khagan (Old Turkic: 𐰋𐰃𐰠𐰏𐰀 𐰴𐰍𐰣, Bilge qaγan)[http://irq.kaznpu.kz/?lang\ne&mod1&tid\n1&oid16&m\n1 Bilge kagan’s Memorial Complex, TÜRIK BITIG] (683 – 25 November 734) was the khagan of the Second Turkic Khaganate. His accomplishments were described in the Orkhon inscriptions.\n\nNames\n\nAs was the custom, his personal name and the name after assuming the title khagan were different. His personal name was recorded in Chinese characters as  (). His name after assuming the title was Bilge qaγan. (Old Turkic: , Bilge qaγan, ), official title: , Teŋіriteg Тeŋiride bolmuš Türük Bilge qaγan,[http://irq.kaznpu.kz/index.php?l\nt&wi726&lang\ne&mod=3 Ethno Cultural Dictionary, TÜRIK BITIG] His wife was Po Beg, Tonyukuk's daughter.\n\nAs khagan\n\nIn 716, Qapaghan Qaghan, the second khagan, was killed in his campaign against the Toquz Oghuz alliance and his severed head was sent to Chang'an.Old Book of Tang, Vol. 194-I Although his son Inel Khagan succeeded him, the legal claimant of the throne was his cousin, Ashǐnà Mòjílián. Mòjílián's brother Kul Tigin and Tonyukuk carried out a coup d'état against Inel Khaghan. They killed him and made Mòjílián khagan. His name literally means \"wise king\".\n\nBilge's khaganate included Mongolia and parts of Manchuria and Dzungaria. He also invaded the western sections of the Chinese territories. After his death from poisoning, several steles were erected in the capital area by the Orkhon River. These Orkhon inscriptions are the first known texts in the Old Turkic language. He was poisoned by Buyruk Chor[http://mtad.humanity.ankara.edu.tr/IV-3_Eylul2007/240_47_MTAD4-3_EEkrem.pdf Erkin Ekrem, \"Sarı Uygurların Kökeni\", Modern Türklük Araştırma Dergisi, Vol. 4, No. 3, 2007, p. 175.] (). He didn't die immediately and he had time to punish the family of Buyruk Chor with death.\n\nSources. Bilge Khagan. http://en.wikipedia.org/?curid=3827."
+  }
+}

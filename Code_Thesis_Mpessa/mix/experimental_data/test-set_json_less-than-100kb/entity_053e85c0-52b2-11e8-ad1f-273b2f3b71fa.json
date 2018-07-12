@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12875",
+  "eid" : "053e85c0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778518044,
+  "textBody" : "Glaucus (; , \"greyish blue\" or \"bluish green\" and \"glimmering\") is a Greek name. In modern Greek usage, the name is usually transliterated Glafkos. It may refer to:\n\nFigures in Greek mythology\n\n* Glaucus, a sea-god\n* Glaucus (soldier), a mythical Lycian captain in the Trojan War\n* Glaucus (son of Sisyphus), a mythical Corinthian king\n* Glaucus (son of Minos), a mythical prince\n* Glaucus, one of the sons of Priam\n* Glaucus, a son of Aepytus\n* Glaucus, one of the twelve younger Panes\n\nPeople\n\n*Glaucus of Carystus, an Ancient Greek athlete\n*Glaucus of Rhegium, author of a treatise on Ancient Greek poets and musicians\n*Glaucus of Chios (ca. 7th century BCE), a statuary in metal credited with invention of welding\n*Glaucos of Argos, a sculptor\n*Glaucus (author of Arabica), author of a treatise on the history of Arabia\n*Glaucus of Samos, who wrote on Greek accent and prosody\n*Glaucus (sophist), hierophant of the Eleusinian Mysteries\n*Glaucus (disciple), a 1st-century disciple of Peter and teacher of Basilides\n*Apollonius Glaucus, a 2nd-century Roman physician\n*Glafkos Klerides, the former President of Cyprus\n\nGeographic names\n\n*Glaucus (river of Asia Minor), rivers in Asia Minor\n*Glafkos (river), a river in Patras, Greece\n*Glaucus Sinus, now Gulf of Fethiye in Turkey\n\nIn astronomy\n\n*1870 Glaukos, a Trojan asteroid\n*Glaukos Linea, a linea on Europa\n\nIn biology \n\n* Glaucus (gastropod), a genus of nudibranchs in the family Glaucidae\n\nNavy\n\n*USS Glaucus (1863), a steamship of the Union Navy during the American Civil War\n*SS Glaucus (1871), a sister ship of SS Antenor (1872)\n*Greek submarine Glafkos (Υ-6), a Protefs class submarine of the Hellenic Navy\n\nOther\n\n*Glaucus, the protagonist in the novel The Last Days of Pompeii\n*Glaucus Research Group, a securities firm",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Glaucus (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12875" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Glaucus (; , \"greyish blue\" or \"bluish green\" and \"glimmering\") is a Greek name. In modern Greek usage, the name is usually transliterated Glafkos. It may refer to:\n\nFigures in Greek mythology\n\n* Glaucus, a sea-god\n* Glaucus (soldier), a mythical Lycian captain in the Trojan War\n* Glaucus (son of Sisyphus), a mythical Corinthian king\n* Glaucus (son of Minos), a mythical prince\n* Glaucus, one of the sons of Priam\n* Glaucus, a son of Aepytus\n* Glaucus, one of the twelve younger Panes\n\nPeople\n\n*Glaucus of Carystus, an Ancient Greek athlete\n*Glaucus of Rhegium, author of a treatise on Ancient Greek poets and musicians\n*Glaucus of Chios (ca. 7th century BCE), a statuary in metal credited with invention of welding\n*Glaucos of Argos, a sculptor\n*Glaucus (author of Arabica), author of a treatise on the history of Arabia\n*Glaucus of Samos, who wrote on Greek accent and prosody\n*Glaucus (sophist), hierophant of the Eleusinian Mysteries\n*Glaucus (disciple), a 1st-century disciple of Peter and teacher of Basilides\n*Apollonius Glaucus, a 2nd-century Roman physician\n*Glafkos Klerides, the former President of Cyprus\n\nGeographic names\n\n*Glaucus (river of Asia Minor), rivers in Asia Minor\n*Glafkos (river), a river in Patras, Greece\n*Glaucus Sinus, now Gulf of Fethiye in Turkey\n\nIn astronomy\n\n*1870 Glaukos, a Trojan asteroid\n*Glaukos Linea, a linea on Europa\n\nIn biology \n\n* Glaucus (gastropod), a genus of nudibranchs in the family Glaucidae\n\nNavy\n\n*USS Glaucus (1863), a steamship of the Union Navy during the American Civil War\n*SS Glaucus (1871), a sister ship of SS Antenor (1872)\n*Greek submarine Glafkos (Υ-6), a Protefs class submarine of the Hellenic Navy\n\nOther\n\n*Glaucus, the protagonist in the novel The Last Days of Pompeii\n*Glaucus Research Group, a securities firm. Glaucus (disambiguation). http://en.wikipedia.org/?curid=12875."
+  }
+}

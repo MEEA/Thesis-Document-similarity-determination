@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17302",
+  "eid" : "2b3e7550-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778581797,
+  "textBody" : "is a Japanese politician who was the 76th and 77th Prime Minister of Japan from 1989 to 1991.\n\nEarly life and education\n\nKaifu was born in Nagoya City, Aichi Prefecture, on 2 January 1931. He was educated at Chuo University and Waseda University.\n\nCareer\n\nA member of the Liberal Democratic Party (LDP), Kaifu ran successfully for the Diet in 1960 and served for sixteen terms totaling 49 years. He was education minister before rising to lead the party after the resignations of Takeshita Noboru and Sōsuke Uno, elected on the platform of \"clean leadership.\" Kaifu became the 76th Prime Minister of Japan in August 1989, but his faction was too small to push through the reforms Kaifu sought, and the continuing repercussions of the Sagawa Express scandal caused problems. He resigned in February 1991 and was replaced by Kiichi Miyazawa.\n\nIn 1994, he left the LDP to become head of the newly founded Shinshinto (New Frontier Party). He supported Ichirō Ozawa's party until he returned to LDP in 2003. He was defeated in the election of 2009 by DPJ candidate Mitsunori Okamoto, which witnessed the end of almost uninterrupted LDP dominance since 1955. At the time of his defeat, he was the longest-serving member of the lower house of the Diet, and he was also the first former prime minister to be defeated at a re-election since 1963.\n\nHonours\n\nFrom the corresponding article in the Japanese Wikipedia\n*Grand Cordon of the Order of the Paulownia Flowers (July 2011)\n\nIn popular culture\n\nKaifu is one of several world leaders depicted on the cover of Megadeth's 1990 album Rust in Peace.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Toshiki Kaifu" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17302" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "is a Japanese politician who was the 76th and 77th Prime Minister of Japan from 1989 to 1991.\n\nEarly life and education\n\nKaifu was born in Nagoya City, Aichi Prefecture, on 2 January 1931. He was educated at Chuo University and Waseda University.\n\nCareer\n\nA member of the Liberal Democratic Party (LDP), Kaifu ran successfully for the Diet in 1960 and served for sixteen terms totaling 49 years. He was education minister before rising to lead the party after the resignations of Takeshita Noboru and Sōsuke Uno, elected on the platform of \"clean leadership.\" Kaifu became the 76th Prime Minister of Japan in August 1989, but his faction was too small to push through the reforms Kaifu sought, and the continuing repercussions of the Sagawa Express scandal caused problems. He resigned in February 1991 and was replaced by Kiichi Miyazawa.\n\nIn 1994, he left the LDP to become head of the newly founded Shinshinto (New Frontier Party). He supported Ichirō Ozawa's party until he returned to LDP in 2003. He was defeated in the election of 2009 by DPJ candidate Mitsunori Okamoto, which witnessed the end of almost uninterrupted LDP dominance since 1955. At the time of his defeat, he was the longest-serving member of the lower house of the Diet, and he was also the first former prime minister to be defeated at a re-election since 1963.\n\nHonours\n\nFrom the corresponding article in the Japanese Wikipedia\n*Grand Cordon of the Order of the Paulownia Flowers (July 2011)\n\nIn popular culture\n\nKaifu is one of several world leaders depicted on the cover of Megadeth's 1990 album Rust in Peace. Toshiki Kaifu. http://en.wikipedia.org/?curid=17302."
+  }
+}

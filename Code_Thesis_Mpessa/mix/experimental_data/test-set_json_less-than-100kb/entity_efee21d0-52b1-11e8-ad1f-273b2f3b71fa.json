@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=9567",
+  "eid" : "efee21d0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778482285,
+  "textBody" : "Egoism is an ethical theory that treats self-interest as the foundation of morality.\n\nOrigin\n\nLatin word \"ego\" meaning \"I\".\n\nForms \n\n* Ethical egoism, the doctrine that holds that individuals ought to do what is in their self-interest\n* Psychological egoism, the doctrine that holds that individuals are always motivated by self-interest\n* Rational egoism, the belief that it is rational to act in one's self-interest\n\nThe terms \"egoism\" and \"egotism\" may also refer to:\n* Egotism, an excessive or exaggerated sense of self-importance\n* Solipsism (sometimes called egoism), the belief that only one's self exists, or that only the experiences of one's self can be verified\n* Egoist anarchism, a form of anarchism, as most often represented by Max Stirner\n* Egocentrism, lack of emotional obligation to \"put oneself in other peoples' shoes\"\n\nPhilosophers who developed philosophical systems of egoism\n\n* Friedrich Nietzsche\n* Ayn Rand\n* Max Stirner",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Egoism" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=9567" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Egoism is an ethical theory that treats self-interest as the foundation of morality.\n\nOrigin\n\nLatin word \"ego\" meaning \"I\".\n\nForms \n\n* Ethical egoism, the doctrine that holds that individuals ought to do what is in their self-interest\n* Psychological egoism, the doctrine that holds that individuals are always motivated by self-interest\n* Rational egoism, the belief that it is rational to act in one's self-interest\n\nThe terms \"egoism\" and \"egotism\" may also refer to:\n* Egotism, an excessive or exaggerated sense of self-importance\n* Solipsism (sometimes called egoism), the belief that only one's self exists, or that only the experiences of one's self can be verified\n* Egoist anarchism, a form of anarchism, as most often represented by Max Stirner\n* Egocentrism, lack of emotional obligation to \"put oneself in other peoples' shoes\"\n\nPhilosophers who developed philosophical systems of egoism\n\n* Friedrich Nietzsche\n* Ayn Rand\n* Max Stirner. Egoism. http://en.wikipedia.org/?curid=9567."
+  }
+}

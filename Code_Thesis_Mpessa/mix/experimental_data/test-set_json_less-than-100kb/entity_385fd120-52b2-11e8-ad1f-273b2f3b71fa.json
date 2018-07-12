@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19151",
+  "eid" : "385fd120-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778603826,
+  "textBody" : "#REDIRECT Government of the Marshall Islands",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Politics of the Marshall Islands" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19151" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "#REDIRECT Government of the Marshall Islands. Politics of the Marshall Islands. http://en.wikipedia.org/?curid=19151."
+  }
+}

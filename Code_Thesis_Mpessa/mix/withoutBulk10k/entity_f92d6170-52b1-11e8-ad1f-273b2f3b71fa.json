@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11017",
+  "eid" : "f92d6170-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778497799,
+  "textBody" : "Francesco Andreini (c. 1548 – 1624) was an Italian actor mainly of commedia dell'arte plays.  He began his career playing the role of the unsophisticated love-stricken young man. Later he played the role of Capitan Spavento (\"Captain Fright\"), a Pickwickian character of excessive fatigueBoni, F., page 9\n\nLife\n\nAndreini was born at Pistoia.  He was a member of the company of i Gelosi which Henry IV of France summoned to Paris to his bride, the young queen Marie de Medici, thus introducing the commedia dell'arte style to France.\n\nBoth his wife, Isabella Andreini, and their son, Giambattista Andreini, were also distinguished in the arts.\n\nNotes",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Francesco Andreini" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11017" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Francesco Andreini (c. 1548 – 1624) was an Italian actor mainly of commedia dell'arte plays.  He began his career playing the role of the unsophisticated love-stricken young man. Later he played the role of Capitan Spavento (\"Captain Fright\"), a Pickwickian character of excessive fatigueBoni, F., page 9\n\nLife\n\nAndreini was born at Pistoia.  He was a member of the company of i Gelosi which Henry IV of France summoned to Paris to his bride, the young queen Marie de Medici, thus introducing the commedia dell'arte style to France.\n\nBoth his wife, Isabella Andreini, and their son, Giambattista Andreini, were also distinguished in the arts.\n\nNotes. Francesco Andreini. http://en.wikipedia.org/?curid=11017."
+  }
+}

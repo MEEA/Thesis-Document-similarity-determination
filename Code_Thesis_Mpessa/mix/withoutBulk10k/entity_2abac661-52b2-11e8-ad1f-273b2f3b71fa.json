@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17151",
+  "eid" : "2abac661-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778580934,
+  "textBody" : "Kilobaud may refer to:\n\n*One thousand baud\n*P.H.I.R.M., a 1980s computer hacking group originally known as Kilobaud\n*Kilobaud Microcomputing, a homebrew computer magazine from the 1980s",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Kilobaud" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17151" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Kilobaud may refer to:\n\n*One thousand baud\n*P.H.I.R.M., a 1980s computer hacking group originally known as Kilobaud\n*Kilobaud Microcomputing, a homebrew computer magazine from the 1980s. Kilobaud. http://en.wikipedia.org/?curid=17151."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2822",
+  "eid" : "c27b4e30-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778406035,
+  "textBody" : "Ash or ashes are the solid remains of fires. Specifically, it refers to all non-aqueous, non-gaseous residues that remain after something is burned. In analytical chemistry, in order to analyse the mineral and metal content of chemical samples,  ash is the non-gaseous, non-liquid residue after a complete combustion.\n\nAshes as the end product of incomplete combustion will be mostly mineral, but usually still contain an amount of combustible organic or other oxidizable residues. The best-known type of ash is wood ash, as a product of wood combustion in campfires, fireplaces, etc. The darker the wood ashes, the higher the content of remaining charcoal will be due to incomplete combustion.\n\nLike soap, ash is also a disinfecting agent (alkaline).Howard et al. 2002: Healthy Villages A guide for communities and community health workers. CHAPTER 8 Personal, domestic and community hygiene. WHO. Accessed Oct. 2014.    http://www.who.int/water_sanitation_health/hygiene/settings/hvchap8.pdf The World Health Organization recommends ash or sand as alternative to soap when soap is not available.WHO 2014: Water Sanitation Health. How can personal hygiene be maintained in difficult circumstances? Accessed Oct. 2014 http://www.who.int/water_sanitation_health/emergencies/qa/emergencies_qa17/en/\n\nSpecific types\n\n* Wood ash\n* Products of coal combustion\n** Bottom ash\n** Fly ash, product of coal combustion\n* Cigar ash, the ash produced when a cigar is smoked\n* Incinerator bottom ash, a form of ash produced in incinerators\n* Vibhuti, ash used in Hindu rituals\n* Ashes and dried bone fragments, or \"cremains\", left from cremation\n* Volcanic ash, ash that consists of glass, rock, and other minerals that appears during an eruption",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Ash" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2822" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Ash or ashes are the solid remains of fires. Specifically, it refers to all non-aqueous, non-gaseous residues that remain after something is burned. In analytical chemistry, in order to analyse the mineral and metal content of chemical samples,  ash is the non-gaseous, non-liquid residue after a complete combustion.\n\nAshes as the end product of incomplete combustion will be mostly mineral, but usually still contain an amount of combustible organic or other oxidizable residues. The best-known type of ash is wood ash, as a product of wood combustion in campfires, fireplaces, etc. The darker the wood ashes, the higher the content of remaining charcoal will be due to incomplete combustion.\n\nLike soap, ash is also a disinfecting agent (alkaline).Howard et al. 2002: Healthy Villages A guide for communities and community health workers. CHAPTER 8 Personal, domestic and community hygiene. WHO. Accessed Oct. 2014.    http://www.who.int/water_sanitation_health/hygiene/settings/hvchap8.pdf The World Health Organization recommends ash or sand as alternative to soap when soap is not available.WHO 2014: Water Sanitation Health. How can personal hygiene be maintained in difficult circumstances? Accessed Oct. 2014 http://www.who.int/water_sanitation_health/emergencies/qa/emergencies_qa17/en/\n\nSpecific types\n\n* Wood ash\n* Products of coal combustion\n** Bottom ash\n** Fly ash, product of coal combustion\n* Cigar ash, the ash produced when a cigar is smoked\n* Incinerator bottom ash, a form of ash produced in incinerators\n* Vibhuti, ash used in Hindu rituals\n* Ashes and dried bone fragments, or \"cremains\", left from cremation\n* Volcanic ash, ash that consists of glass, rock, and other minerals that appears during an eruption. Ash. http://en.wikipedia.org/?curid=2822."
+  }
+}

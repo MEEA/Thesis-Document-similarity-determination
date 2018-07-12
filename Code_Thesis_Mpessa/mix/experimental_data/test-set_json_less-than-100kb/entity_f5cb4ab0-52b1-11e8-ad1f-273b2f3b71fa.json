@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10478",
+  "eid" : "f5cb4ab0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778492123,
+  "textBody" : "Eduardo Blasco Ferrer (1956 – 12 January 2017) was a Spanish-Italian linguist and a professor at the University of Cagliari, Sardinia.  He is best known as the author of several studies about the Paleo-Sardinian and Sardinian language. He was born in Barcelona and died in Bastia.\n\nBooks\n\n*Grammatica storica del catalano e dei suoi dialetti con speciale riguardo all'algherese. Tübingen: G. Narr, c1984.\n*La lingua sarda contemporanea : grammatica del logudorese e del campidanese : norma e varietà dell'uso : sintesi storica. Cagliari : Della Torre, c1986.\n*Storia linguistica della Sardegna. Tübingen : Niemeyer, 1984.\n*Le parlate dell'alta Ogliastra : analisi dialettologica : saggio di storia linguistica e culturale. Cagliari : Edizioni Della Torre, 1988.\n*Ello, ellus : grammatica sarda. Nuoro : Poliedro, c1994.\n*La lingua nel tempo : variazione e cambiamento in latino, italiano e sardo. Cagliari : CUEC, 1995.\n*Breve corso di linguistica italiana : con facsimili, edizione e commento d'un testo quattrocentesco ad uso di seminari ed esercitazioni. Cagliari : CUEC, 1996.\n*Pro domo : grammatica essenziale della lingua sarda. Cagliari : Condaghes, 1998.\n*Italiano e tedesco : un confronto linguistico. Torino : Paravia scriptorium, c1999.\n*Italiano, sardo e lingue moderne a scuola. Milano : F. Angeli, 2003.\n*Storia della lingua sarda. Cagliari : CUEC, 2009.\n*Paleosardo. Le radici linguistiche della Sardegna neolitica. [http://www.degruyter.com/cont/fb/sk/detailEn.cfm?isbn9783110235609&sel\nfgs] Berlin : De Gruyter, 2010.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Eduardo Blasco Ferrer" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10478" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Eduardo Blasco Ferrer (1956 – 12 January 2017) was a Spanish-Italian linguist and a professor at the University of Cagliari, Sardinia.  He is best known as the author of several studies about the Paleo-Sardinian and Sardinian language. He was born in Barcelona and died in Bastia.\n\nBooks\n\n*Grammatica storica del catalano e dei suoi dialetti con speciale riguardo all'algherese. Tübingen: G. Narr, c1984.\n*La lingua sarda contemporanea : grammatica del logudorese e del campidanese : norma e varietà dell'uso : sintesi storica. Cagliari : Della Torre, c1986.\n*Storia linguistica della Sardegna. Tübingen : Niemeyer, 1984.\n*Le parlate dell'alta Ogliastra : analisi dialettologica : saggio di storia linguistica e culturale. Cagliari : Edizioni Della Torre, 1988.\n*Ello, ellus : grammatica sarda. Nuoro : Poliedro, c1994.\n*La lingua nel tempo : variazione e cambiamento in latino, italiano e sardo. Cagliari : CUEC, 1995.\n*Breve corso di linguistica italiana : con facsimili, edizione e commento d'un testo quattrocentesco ad uso di seminari ed esercitazioni. Cagliari : CUEC, 1996.\n*Pro domo : grammatica essenziale della lingua sarda. Cagliari : Condaghes, 1998.\n*Italiano e tedesco : un confronto linguistico. Torino : Paravia scriptorium, c1999.\n*Italiano, sardo e lingue moderne a scuola. Milano : F. Angeli, 2003.\n*Storia della lingua sarda. Cagliari : CUEC, 2009.\n*Paleosardo. Le radici linguistiche della Sardegna neolitica. [http://www.degruyter.com/cont/fb/sk/detailEn.cfm?isbn9783110235609&sel\nfgs] Berlin : De Gruyter, 2010. Eduardo Blasco Ferrer. http://en.wikipedia.org/?curid=10478."
+  }
+}

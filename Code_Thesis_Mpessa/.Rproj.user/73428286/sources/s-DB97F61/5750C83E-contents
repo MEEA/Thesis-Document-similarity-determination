@@ -1,0 +1,42 @@
+BayesLSH_JSim_Lisa <- function (candidates,corpus, f, h ) 
+{
+  assert_that(is.data.frame(candidates), is.function(f), 
+              is.TextReuseCorpus(corpus), is.number(h))
+  
+
+  num_rows <- nrow(candidates)
+#Falsch: nächste Zeile schauen Epsilon <- 0.232 # VIP:Recall parameter vary from 0.01 to 0.09 in increments of 0.02
+#Recall is the proportion of relevant items retrieved, measured by the ratio of the number
+#of relevant retrieved items to the total number of relevant items in the collection; 
+#vllt function ratio_of_matches 
+
+    for (i in seq_len(num_rows)) {
+   # while(n < h){
+    if (!is.na(candidates[i, "score"])) 
+      (next)()
+    a <- candidates$a[i]
+    b <- candidates$b[i]
+    score <- f(corpus[[a]], corpus[[b]])
+    candidates[i, "score"] <- score
+    Corp_length <- length(corpus)
+  #Bayes rule
+  # bayes_df <- data.frame(Likelihood <- likelihood(candidates$score), Prior = 1/Corp_length)
+                           #Prior = rep(1/Corp_length, Corp_length))
+   
+   ##Prior= 1/Corp_length
+    ##Likelihood <- likelihood(bayes_df$score)
+    
+    ##P <-sum(bayes_df$Prior * bayes_df$Likelihood)
+    #Prior = rep(1/Corp_length, Corp_length)
+    # Teil Problematique a retoucher    
+    ##Posterior <- bayes_df$Prior * bayes_df$likelihood/bayes_df$P
+    ##bayes_df <- cbind ( bayes_df,"Posterior" = Posterior)
+   
+    #prior_post_plot(bayes_df)
+    #if( bayes_df$Posterior<Epsilon){
+     # lsh_compare(candidates,corpus,f)
+      
+    }
+    
+    }
+    

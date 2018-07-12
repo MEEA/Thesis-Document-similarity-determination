@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16648",
+  "eid" : "2769edb0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778575371,
+  "textBody" : "This article provides an overview of the communications infrastructure of the country of Kazakhstan.\n\nThe information was taken from CIA World FactBook (March 20, 2008):[https://www.cia.gov/library/publications/the-world-factbook/geos/kz.html CIA World FactBook: Kazakhstan]\n\nTelephones - main lines in use:\n5.928 million (2009)\n\nTelephones - mobile cellular:\n14,830,000 (2009)\n\nCountry phone code: +7\n\nTelephone system:\ndomestic:\nintercity by landline, microwave radio relay and satellite communication (KazSat); number of fixed-line connections is gradually increasing and fixed-line teledensity is about 20 per 100 persons; mobile-cellular usage is increasing rapidly and subscriptions now exceed 50 per 100 persons\ninternational:\ninternational traffic with other former Soviet republics and China carried by landline and microwave radio relay; with other countries by satellite and by the Trans-Asia-Europe (TAE) fiber-optic cable; satellite earth stations - 2 Intelsat, KazSat\n\nRadio broadcast stations:\nAM 60, FM 17, shortwave 9 (1998)\n\nRadios:\n6.47 million (1997); 12 million (2009);\n\nTelevision broadcast stations:\n12 (plus 9 repeaters) (1998); 149 (2009);\n\nInternet Service Providers (ISPs):\n10 (with their own international channels) (2001); 22 (2009);\n\nInternet hosts:\n33,217 (2007);\n80,000 (2009);\n\nInternet users:\n100,000 (2002);\n400,000 (2005);\n1,247,000 (2006);\n3,130,000 (2008);\n4,700,000 [http://www.bit.prime-tass.ru/news/show.asp?id69452&ct\nnews] (2009);\n\nInternet country code (Top level domain): KZ",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Telecommunications in Kazakhstan" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16648" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "This article provides an overview of the communications infrastructure of the country of Kazakhstan.\n\nThe information was taken from CIA World FactBook (March 20, 2008):[https://www.cia.gov/library/publications/the-world-factbook/geos/kz.html CIA World FactBook: Kazakhstan]\n\nTelephones - main lines in use:\n5.928 million (2009)\n\nTelephones - mobile cellular:\n14,830,000 (2009)\n\nCountry phone code: +7\n\nTelephone system:\ndomestic:\nintercity by landline, microwave radio relay and satellite communication (KazSat); number of fixed-line connections is gradually increasing and fixed-line teledensity is about 20 per 100 persons; mobile-cellular usage is increasing rapidly and subscriptions now exceed 50 per 100 persons\ninternational:\ninternational traffic with other former Soviet republics and China carried by landline and microwave radio relay; with other countries by satellite and by the Trans-Asia-Europe (TAE) fiber-optic cable; satellite earth stations - 2 Intelsat, KazSat\n\nRadio broadcast stations:\nAM 60, FM 17, shortwave 9 (1998)\n\nRadios:\n6.47 million (1997); 12 million (2009);\n\nTelevision broadcast stations:\n12 (plus 9 repeaters) (1998); 149 (2009);\n\nInternet Service Providers (ISPs):\n10 (with their own international channels) (2001); 22 (2009);\n\nInternet hosts:\n33,217 (2007);\n80,000 (2009);\n\nInternet users:\n100,000 (2002);\n400,000 (2005);\n1,247,000 (2006);\n3,130,000 (2008);\n4,700,000 [http://www.bit.prime-tass.ru/news/show.asp?id69452&ct\nnews] (2009);\n\nInternet country code (Top level domain): KZ. Telecommunications in Kazakhstan. http://en.wikipedia.org/?curid=16648."
+  }
+}

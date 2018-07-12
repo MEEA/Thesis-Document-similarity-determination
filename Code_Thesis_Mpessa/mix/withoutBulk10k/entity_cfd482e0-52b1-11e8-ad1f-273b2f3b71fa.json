@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=4680",
+  "eid" : "cfd482e0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778428430,
+  "textBody" : "Balboa may refer to:\n\nPlaces \n\n* Balboa, León, a Spanish village and municipality\n* Balboa Peninsula, Newport Beach, California, also called Balboa\n* Balboa, Cauca, a town and municipality in Colombia\n* Balboa High School (California), an American public high school of San Francisco, California\n* Balboa Island, Newport Beach, California\n* Balboa (lunar crater), a lunar crater that is located near the western limb of the Moon\n* Balboa, Panama, a port city in Panama\n** Balboa District, a district of Panamá Province in Panama\n* Balboa Park (disambiguation), any of several\n* Balboa (Los Angeles Metro station), a station on the Los Angeles Metro Orange Line\n* Balboa, Risaralda\n* Naval Medical Center San Diego, a US Navy medical treatment facility informally known as \"Balboa Hospital\"\n\nPeople \n\n* Vasco Núñez de Balboa, a Spanish explorer, governor, and conquistador\n* Javier Balboa (born 1985), Equatoguinean football midfielder\n* Marcelo Balboa (born 1967), American former soccer defender\n\nEntertainment \n\n* Balboa (dance), a close embrace style of swing dancing\n* Balboa (band), a hardcore band from Philadelphia\n* Rocky Balboa, protagonist of the Rocky film series\n* Balboa, the merged tribe name in Survivor: Pearl Islands\n* Balboa, a probe featured in Alien Planet\n* Balboa County, a fictional county home to Neptune, California, the setting for Veronica Mars\n\nOther uses \n\n* Balboa, a genus of dirt-colored seed bugs\n* Chrysochlamys, a genus of plants\n* Panamanian balboa, the official currency of Panama\n* Balboa Beer, a Panamanian Lager Beer",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Balboa" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=4680" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Balboa may refer to:\n\nPlaces \n\n* Balboa, León, a Spanish village and municipality\n* Balboa Peninsula, Newport Beach, California, also called Balboa\n* Balboa, Cauca, a town and municipality in Colombia\n* Balboa High School (California), an American public high school of San Francisco, California\n* Balboa Island, Newport Beach, California\n* Balboa (lunar crater), a lunar crater that is located near the western limb of the Moon\n* Balboa, Panama, a port city in Panama\n** Balboa District, a district of Panamá Province in Panama\n* Balboa Park (disambiguation), any of several\n* Balboa (Los Angeles Metro station), a station on the Los Angeles Metro Orange Line\n* Balboa, Risaralda\n* Naval Medical Center San Diego, a US Navy medical treatment facility informally known as \"Balboa Hospital\"\n\nPeople \n\n* Vasco Núñez de Balboa, a Spanish explorer, governor, and conquistador\n* Javier Balboa (born 1985), Equatoguinean football midfielder\n* Marcelo Balboa (born 1967), American former soccer defender\n\nEntertainment \n\n* Balboa (dance), a close embrace style of swing dancing\n* Balboa (band), a hardcore band from Philadelphia\n* Rocky Balboa, protagonist of the Rocky film series\n* Balboa, the merged tribe name in Survivor: Pearl Islands\n* Balboa, a probe featured in Alien Planet\n* Balboa County, a fictional county home to Neptune, California, the setting for Veronica Mars\n\nOther uses \n\n* Balboa, a genus of dirt-colored seed bugs\n* Chrysochlamys, a genus of plants\n* Panamanian balboa, the official currency of Panama\n* Balboa Beer, a Panamanian Lager Beer. Balboa. http://en.wikipedia.org/?curid=4680."
+  }
+}

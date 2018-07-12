@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16528",
+  "eid" : "266d1720-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778573714,
+  "textBody" : "The History of Java can refer to:\n* The history of the island of Java\n* The History of Java, an 1817 book on the history of the Java by Stamford Raffles, founder of modern Singapore\n* The version history of the Java programming language\n* The history of the Java platform",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "History of Java" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16528" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The History of Java can refer to:\n* The history of the island of Java\n* The History of Java, an 1817 book on the history of the Java by Stamford Raffles, founder of modern Singapore\n* The version history of the Java programming language\n* The history of the Java platform. History of Java. http://en.wikipedia.org/?curid=16528."
+  }
+}

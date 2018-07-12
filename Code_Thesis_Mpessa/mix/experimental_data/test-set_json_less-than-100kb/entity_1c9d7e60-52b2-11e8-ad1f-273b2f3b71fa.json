@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15478",
+  "eid" : "1c9d7e60-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778557254,
+  "textBody" : "IDF or idf may refer to:\n\nMilitary\n\nOrganizations\n\n*Israel Defense Forces\n*Iceland Defense Force\n*Indian Defence Force\n\nEquipment\n\n*AIDC F-CK-1 Ching-kuo, Indigenous Defense Fighter, Taiwanese fighter aircraft\n\nOther uses\n\n*Idiofa Airport, Idiofa, Democratic Republic of the Congo (IATA airport code)\n*Île-de-France\n*Intel Developer Forum\n*Intermediate distribution frame, a cable rack for telecommunications wiring\n*Intermediate Data Format, a file format for electronic design automation\n*International Diabetes Federation, a worldwide alliance of diabetes associations\n*Inverse Document Frequency, a factor in the tf–idf principle\n*International DOI Foundation, the developer of the digital object identifier",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "IDF" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15478" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "IDF or idf may refer to:\n\nMilitary\n\nOrganizations\n\n*Israel Defense Forces\n*Iceland Defense Force\n*Indian Defence Force\n\nEquipment\n\n*AIDC F-CK-1 Ching-kuo, Indigenous Defense Fighter, Taiwanese fighter aircraft\n\nOther uses\n\n*Idiofa Airport, Idiofa, Democratic Republic of the Congo (IATA airport code)\n*Île-de-France\n*Intel Developer Forum\n*Intermediate distribution frame, a cable rack for telecommunications wiring\n*Intermediate Data Format, a file format for electronic design automation\n*International Diabetes Federation, a worldwide alliance of diabetes associations\n*Inverse Document Frequency, a factor in the tf–idf principle\n*International DOI Foundation, the developer of the digital object identifier. IDF. http://en.wikipedia.org/?curid=15478."
+  }
+}

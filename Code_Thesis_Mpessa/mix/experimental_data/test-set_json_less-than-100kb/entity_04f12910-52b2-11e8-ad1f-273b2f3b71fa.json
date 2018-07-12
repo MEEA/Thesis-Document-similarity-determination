@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12830",
+  "eid" : "04f12910-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778517537,
+  "textBody" : "Gipsy or GIPSY may refer to:\n\nLiterature\n\n* Gipsy (comics), a graphic novel series\n\nTransport\n\n* Austin Gipsy, a British off-road vehicle produced 1958–1967\n* de Havilland Gipsy, a British aircraft engine designed in 1927 \n* HMS Gipsy, the name of several Royal Navy ships\n* Gipsy-class destroyer, a Royal Navy ship class\n\nMusic\n\n* Gipsy.cz, a Romani hip hop group\n* Gipsy Kings, a French rumba flamenco group\n\nPeople\n\n* Gipsy Daniels (1903–1967), Welsh boxer\n* Gipsy Petulengro (1859–1957), British Romani businessman and broadcaster\n* Rodney \"Gipsy\" Smith (1860–1947), British evangelist\n* Radoslav Banga also known as  Gipsy, lead singer of Gipsy.cz\n\nPlaces\n\n* Gipsy, Missouri\n* Gipsy, Pennsylvania\n* Gipsy-1,  a system of adits in Tatarstan, Russia, where gypsum was mined\n\nOther uses\n\n* Gipsy (term), an English term for Roma/Romani people\n* Gipsies Football Club, a 19th-century rugby football club notable for being one of the founding members of the Rugby Football Union\n* The General Intentional Programming System (GIPSY), for the compilation and evaluation of Lucid (programming language) dialects\n* Gipsy Row, a hamlet in the county of Suffolk, England\n* Gipsey (pulley) A pulley on a windlass designed to handle chain without slipping, typically used on the anchor windlass on a ship or boat.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Gipsy" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12830" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Gipsy or GIPSY may refer to:\n\nLiterature\n\n* Gipsy (comics), a graphic novel series\n\nTransport\n\n* Austin Gipsy, a British off-road vehicle produced 1958–1967\n* de Havilland Gipsy, a British aircraft engine designed in 1927 \n* HMS Gipsy, the name of several Royal Navy ships\n* Gipsy-class destroyer, a Royal Navy ship class\n\nMusic\n\n* Gipsy.cz, a Romani hip hop group\n* Gipsy Kings, a French rumba flamenco group\n\nPeople\n\n* Gipsy Daniels (1903–1967), Welsh boxer\n* Gipsy Petulengro (1859–1957), British Romani businessman and broadcaster\n* Rodney \"Gipsy\" Smith (1860–1947), British evangelist\n* Radoslav Banga also known as  Gipsy, lead singer of Gipsy.cz\n\nPlaces\n\n* Gipsy, Missouri\n* Gipsy, Pennsylvania\n* Gipsy-1,  a system of adits in Tatarstan, Russia, where gypsum was mined\n\nOther uses\n\n* Gipsy (term), an English term for Roma/Romani people\n* Gipsies Football Club, a 19th-century rugby football club notable for being one of the founding members of the Rugby Football Union\n* The General Intentional Programming System (GIPSY), for the compilation and evaluation of Lucid (programming language) dialects\n* Gipsy Row, a hamlet in the county of Suffolk, England\n* Gipsey (pulley) A pulley on a windlass designed to handle chain without slipping, typically used on the anchor windlass on a ship or boat. Gipsy. http://en.wikipedia.org/?curid=12830."
+  }
+}

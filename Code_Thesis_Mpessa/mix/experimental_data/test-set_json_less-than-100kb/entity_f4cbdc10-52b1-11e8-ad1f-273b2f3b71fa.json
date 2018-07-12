@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10278",
+  "eid" : "f4cbdc10-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778490449,
+  "textBody" : "Almost all the common explosives listed here were mixtures of several common components:\n\n* Ammonium picrate\n* TNT (Trinitrotoluene)\n* PETN (Pentaerythritol tetranitrate)\n* RDX\n* Powdered aluminium.\n\nThis is only a partial list; there were many others. Many of these compositions are now obsolete and only encountered in legacy munitions and unexploded ordnance.\n\nTwo nuclear explosives, containing mixtures of uranium and plutonium, respectively, were also used at the bombings of Hiroshima and Nagasaki",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "List of explosives used during World War II" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10278" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Almost all the common explosives listed here were mixtures of several common components:\n\n* Ammonium picrate\n* TNT (Trinitrotoluene)\n* PETN (Pentaerythritol tetranitrate)\n* RDX\n* Powdered aluminium.\n\nThis is only a partial list; there were many others. Many of these compositions are now obsolete and only encountered in legacy munitions and unexploded ordnance.\n\nTwo nuclear explosives, containing mixtures of uranium and plutonium, respectively, were also used at the bombings of Hiroshima and Nagasaki. List of explosives used during World War II. http://en.wikipedia.org/?curid=10278."
+  }
+}

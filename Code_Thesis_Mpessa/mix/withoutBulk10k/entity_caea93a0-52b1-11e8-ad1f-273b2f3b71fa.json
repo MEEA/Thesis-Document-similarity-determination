@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=4036",
+  "eid" : "caea93a0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778420186,
+  "textBody" : "Black Flag or black flag may refer to:\n\nPlaces\n\n* Black Flag, Western Australia, an abandoned town named after the Black Flag gold mine and farm\n*Black Flag to Ora Banda Road, the road in Western Australia on which the abovementioned town is located\n\nFlags\n\n* Black Standard, the Black Flag of Islam\n* Jolly Roger, flag associated with piracy\n* Pan-African flag, a trans-national unity symbol\n* One of the main symbols of anarchism\n* A type of racing flag\n* A signal to parley\n* One of various flags that are primarily black: list of black flags\n\nArts, entertainment, and media\n\nMusic\n\n* Black Flag (band), a punk rock band\n* Black Flag (Ektomorf album), a 2012 album by Ektomorf\n* Black Flag (MGK mixtape), a MGK mixtape\n\nOther arts, entertainment, and media\n\n* Black Flag (newspaper), a publication in Britain\n* Assassin's Creed IV: Black Flag, 2013 videogame by Ubisoft\n* Black Flags: The Rise of ISIS, a 2015 Pulitzer prize-winning book by Joby Warrick\n\nOther uses\n\n* Black Flag (insecticide), a brand of pesticide\n* Black Flag Army, a militia in Vietnam\n* Chernoe Znamia (Чёрное знамя), an organisation in Russia\n* Ferraria crispa, a plant\n* The Black Flag is said to be a nom de guerre of terror suspect Ali Charaf Damache",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Black Flag" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=4036" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Black Flag or black flag may refer to:\n\nPlaces\n\n* Black Flag, Western Australia, an abandoned town named after the Black Flag gold mine and farm\n*Black Flag to Ora Banda Road, the road in Western Australia on which the abovementioned town is located\n\nFlags\n\n* Black Standard, the Black Flag of Islam\n* Jolly Roger, flag associated with piracy\n* Pan-African flag, a trans-national unity symbol\n* One of the main symbols of anarchism\n* A type of racing flag\n* A signal to parley\n* One of various flags that are primarily black: list of black flags\n\nArts, entertainment, and media\n\nMusic\n\n* Black Flag (band), a punk rock band\n* Black Flag (Ektomorf album), a 2012 album by Ektomorf\n* Black Flag (MGK mixtape), a MGK mixtape\n\nOther arts, entertainment, and media\n\n* Black Flag (newspaper), a publication in Britain\n* Assassin's Creed IV: Black Flag, 2013 videogame by Ubisoft\n* Black Flags: The Rise of ISIS, a 2015 Pulitzer prize-winning book by Joby Warrick\n\nOther uses\n\n* Black Flag (insecticide), a brand of pesticide\n* Black Flag Army, a militia in Vietnam\n* Chernoe Znamia (Чёрное знамя), an organisation in Russia\n* Ferraria crispa, a plant\n* The Black Flag is said to be a nom de guerre of terror suspect Ali Charaf Damache. Black Flag. http://en.wikipedia.org/?curid=4036."
+  }
+}

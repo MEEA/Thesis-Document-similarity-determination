@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10369",
+  "eid" : "f56005c0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778491420,
+  "textBody" : "Echolocation is the use of \"sound\" as a form of navigation \n\nNavigation using sound\n\n* Acoustic location, the general use of sound to locate objects\n** Animal echolocation, non-human animals emitting sound waves and listening to the echo in order to locate objects or navigate\n** Human echolocation, the use of sound by people to navigate\n** Sonar (sound navigation and ranging), the use of sound on water or underwater, to navigate or to locate other watercraft, usually by submarines\n** Echo sounding, listening to the echo of sound pulses to measure the distance to the bottom of the sea, a special case of Sonar\n** Medical ultrasonography, the use of ultrasound echoes to look inside the body\n\nOther\n\n* Echolocation (album), a 2001 album by Fruit Bats",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Echolocation" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10369" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Echolocation is the use of \"sound\" as a form of navigation \n\nNavigation using sound\n\n* Acoustic location, the general use of sound to locate objects\n** Animal echolocation, non-human animals emitting sound waves and listening to the echo in order to locate objects or navigate\n** Human echolocation, the use of sound by people to navigate\n** Sonar (sound navigation and ranging), the use of sound on water or underwater, to navigate or to locate other watercraft, usually by submarines\n** Echo sounding, listening to the echo of sound pulses to measure the distance to the bottom of the sea, a special case of Sonar\n** Medical ultrasonography, the use of ultrasound echoes to look inside the body\n\nOther\n\n* Echolocation (album), a 2001 album by Fruit Bats. Echolocation. http://en.wikipedia.org/?curid=10369."
+  }
+}

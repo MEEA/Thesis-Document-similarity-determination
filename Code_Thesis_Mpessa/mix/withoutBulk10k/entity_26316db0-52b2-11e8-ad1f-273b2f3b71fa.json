@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16458",
+  "eid" : "26316db0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778573323,
+  "textBody" : "JMS may refer to:\n\nBuildings \n\n* EverBank Field, formerly known as Jacksonville Municipal Stadium, a sports stadium in Jacksonville, Florida\n* Johannesburg Muslim School, a private school in Johannesburg, South Africa\n* John Mason School, a secondary school in Abingdon, Oxfordshire\n\nComputing \n\n* Japanese MapleStory, a version of the Korean game, Maplestory\n* Java Message Service, a Java message-oriented middleware application programming interface for sending messages between two or more clients\n* Java Module System, a Java specification for collections of Java code and related resources\n\nPeople \n\n* J. Michael Straczynski (born 1954), contemporary fiction and television writer\n* John Maynard Smith (1920–2004), geneticist and evolutionary theorist\n* John Michael Stipe, known as Michael Stipe (born 1960), lead singer of the band R.E.M.\n* Jung Myung Seok (born 1945), leader of Providence religious movement\n\nPublications \n\n* Journal of Management Studies, Management studies journal\n* Journal of Mass Spectrometry, a scientific journal dedicated to mass spectrometry\n* Journal of Materials Science, materials science journal\n* The Journal of Men's Studies, Social studies journal\n\nOthers \n\n* Jesus Morning Star, also known as Providence, a religious movement founded by Jung Myung Seok",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "JMS" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16458" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "JMS may refer to:\n\nBuildings \n\n* EverBank Field, formerly known as Jacksonville Municipal Stadium, a sports stadium in Jacksonville, Florida\n* Johannesburg Muslim School, a private school in Johannesburg, South Africa\n* John Mason School, a secondary school in Abingdon, Oxfordshire\n\nComputing \n\n* Japanese MapleStory, a version of the Korean game, Maplestory\n* Java Message Service, a Java message-oriented middleware application programming interface for sending messages between two or more clients\n* Java Module System, a Java specification for collections of Java code and related resources\n\nPeople \n\n* J. Michael Straczynski (born 1954), contemporary fiction and television writer\n* John Maynard Smith (1920–2004), geneticist and evolutionary theorist\n* John Michael Stipe, known as Michael Stipe (born 1960), lead singer of the band R.E.M.\n* Jung Myung Seok (born 1945), leader of Providence religious movement\n\nPublications \n\n* Journal of Management Studies, Management studies journal\n* Journal of Mass Spectrometry, a scientific journal dedicated to mass spectrometry\n* Journal of Materials Science, materials science journal\n* The Journal of Men's Studies, Social studies journal\n\nOthers \n\n* Jesus Morning Star, also known as Providence, a religious movement founded by Jung Myung Seok. JMS. http://en.wikipedia.org/?curid=16458."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17721",
+  "eid" : "2d7356b0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778585499,
+  "textBody" : "Lysator is an academic computer club at Linköping University, Sweden with almost 600 members. It is an independent non-profit society, separate from the students' union and the faculties of the university.\n\nHistory \n\nLysator was founded on 29 March 1973. The first computer used at Lysator was a Datasaab D21, delivered to Lysator on 25 May 1973. Later in the decade, members of Lysator developed and initially built a microcomputer, the Lys-16, which was advanced for its time due to its 16-bit word size.http://www.lysator.liu.se/history/lys16.html\n\nIn February 1993, Lysator put up the first web server in Sweden, among the first 10–15 in the world.\n\nOn 30 July 2010, Lysator began migrating to a new 3U home rack, increasing their available storage space from 700GB to 13TB.\n\nProjects hosted by Lysator \n\nLysator has been a starting ground for many notable projects, some of which have since become independent from the club:\n* Project Runeberg\n* LysKOM\n* Elfwood\n* SvenskMud\n* NannyMUD\n* Sprite Animation Toolkit\n* Pike (programming language)https://pike.lysator.liu.se/about/history/",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Lysator" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17721" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Lysator is an academic computer club at Linköping University, Sweden with almost 600 members. It is an independent non-profit society, separate from the students' union and the faculties of the university.\n\nHistory \n\nLysator was founded on 29 March 1973. The first computer used at Lysator was a Datasaab D21, delivered to Lysator on 25 May 1973. Later in the decade, members of Lysator developed and initially built a microcomputer, the Lys-16, which was advanced for its time due to its 16-bit word size.http://www.lysator.liu.se/history/lys16.html\n\nIn February 1993, Lysator put up the first web server in Sweden, among the first 10–15 in the world.\n\nOn 30 July 2010, Lysator began migrating to a new 3U home rack, increasing their available storage space from 700GB to 13TB.\n\nProjects hosted by Lysator \n\nLysator has been a starting ground for many notable projects, some of which have since become independent from the club:\n* Project Runeberg\n* LysKOM\n* Elfwood\n* SvenskMud\n* NannyMUD\n* Sprite Animation Toolkit\n* Pike (programming language)https://pike.lysator.liu.se/about/history/. Lysator. http://en.wikipedia.org/?curid=17721."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19316",
+  "eid" : "39c358c1-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778606156,
+  "textBody" : "Maugham is a surname most commonly associated with the English literary family. The name is a variant of Malham, Malgham, and Malghum. Families with the name originate from the area surrounding Malham and Kirkby Malham.\n\nWell-known persons with this surname include:\n* Robert Ormond Maugham, English barrister and father of Somerset Maugham\n** Frederic Maugham, 1st Viscount Maugham, English statesman, the eldest son of the previous\n*** Robin Maugham, English writer, the only son of the previous\n** W. Somerset Maugham, English writer, best known of the Maughams",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Maugham" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19316" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Maugham is a surname most commonly associated with the English literary family. The name is a variant of Malham, Malgham, and Malghum. Families with the name originate from the area surrounding Malham and Kirkby Malham.\n\nWell-known persons with this surname include:\n* Robert Ormond Maugham, English barrister and father of Somerset Maugham\n** Frederic Maugham, 1st Viscount Maugham, English statesman, the eldest son of the previous\n*** Robin Maugham, English writer, the only son of the previous\n** W. Somerset Maugham, English writer, best known of the Maughams. Maugham. http://en.wikipedia.org/?curid=19316."
+  }
+}

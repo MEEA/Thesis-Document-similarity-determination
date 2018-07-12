@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14829",
+  "eid" : "17f63d70-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778549447,
+  "textBody" : "Given a set S with a partial order ≤, an infinite descending chain is an infinite, strictly decreasing sequence of elements x1 > x2 > ... > xn > ...\n\nAs an example, in the set of integers, the chain −1, −2, −3, ... is an infinite descending chain, but there exists no infinite descending chain on the natural numbers, as every chain of natural numbers has a minimal element.\n\nIf a partially ordered set does not possess any infinite descending chains, it is said then, that it satisfies the descending chain condition. Assuming the axiom of choice, the descending chain condition on a partially ordered set is equivalent to requiring that the corresponding strict order is well-founded. A stronger condition, that there be no infinite descending chains and no infinite antichains, defines the well-quasi-orderings.  A totally ordered set without infinite descending chains is called well-ordered.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Infinite descending chain" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14829" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Given a set S with a partial order ≤, an infinite descending chain is an infinite, strictly decreasing sequence of elements x1 > x2 > ... > xn > ...\n\nAs an example, in the set of integers, the chain −1, −2, −3, ... is an infinite descending chain, but there exists no infinite descending chain on the natural numbers, as every chain of natural numbers has a minimal element.\n\nIf a partially ordered set does not possess any infinite descending chains, it is said then, that it satisfies the descending chain condition. Assuming the axiom of choice, the descending chain condition on a partially ordered set is equivalent to requiring that the corresponding strict order is well-founded. A stronger condition, that there be no infinite descending chains and no infinite antichains, defines the well-quasi-orderings.  A totally ordered set without infinite descending chains is called well-ordered. Infinite descending chain. http://en.wikipedia.org/?curid=14829."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2582",
+  "eid" : "c1168e10-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778403697,
+  "textBody" : "Alph may refer to:\n*Alpheus River, a river on the Peloponnese\n*Alph River, a river in Antarctica\n*Alph Lake, a lake in Antarctica\n*Alph, a fictional river in the poem Kubla Khan by Samuel Taylor Coleridge\n*Alph, a character from Luminous Arc\n*Alph, a character from Pikmin 3",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Alph" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2582" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Alph may refer to:\n*Alpheus River, a river on the Peloponnese\n*Alph River, a river in Antarctica\n*Alph Lake, a lake in Antarctica\n*Alph, a fictional river in the poem Kubla Khan by Samuel Taylor Coleridge\n*Alph, a character from Luminous Arc\n*Alph, a character from Pikmin 3. Alph. http://en.wikipedia.org/?curid=2582."
+  }
+}

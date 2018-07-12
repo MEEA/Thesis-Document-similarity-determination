@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12780",
+  "eid" : "04bc8480-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778517192,
+  "textBody" : "Glitnir (glit, nitor, splendor, OHG. kliz, E. shining) is the hall of Forseti, the Norse god of law and justice, and the seat of justice amongst gods and men. It is also noted to have been a place of dwelling for Balder, Forseti's father in Norse and Germanic mythologies. Glitnir is symbolic of the importance of discussion rather than violence as a means of resolution of conflict within the Norse tradition. It has pillars of gold and is roofed with silver.[http://www.northvegr.org/lore/grimmst/011_03.php Northvegr - Grimm's TM - Chap. 11]",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Glitnir" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12780" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Glitnir (glit, nitor, splendor, OHG. kliz, E. shining) is the hall of Forseti, the Norse god of law and justice, and the seat of justice amongst gods and men. It is also noted to have been a place of dwelling for Balder, Forseti's father in Norse and Germanic mythologies. Glitnir is symbolic of the importance of discussion rather than violence as a means of resolution of conflict within the Norse tradition. It has pillars of gold and is roofed with silver.[http://www.northvegr.org/lore/grimmst/011_03.php Northvegr - Grimm's TM - Chap. 11]. Glitnir. http://en.wikipedia.org/?curid=12780."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17530",
+  "eid" : "2c7bd750-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778583877,
+  "textBody" : "Lattice may refer to:\n\nArts and design\n\n* Latticework, an ornamental criss-crossed framework, an arrangement of crossing laths or other thin strips of material\n* Lattice (music), an organized grid model of pitch ratios\n* Lattice (pastry), an ornamental pattern of crossing strips of pastry\n\nCompanies\n\n* Lattice Engines, a technology company specializing in business applications for marketing and sales\n* Lattice Group, a former British gas transmission business\n* Lattice Semiconductor, a US-based integrated circuit manufacturer\n\nScience, technology, and mathematics\n\nMathematics\n\n* Lattice (group), a repeating arrangement of points\n** Lattice (discrete subgroup), a discrete subgroup of a topological group whose quotient carries an invariant finite Borel measure\n** Lattice (module), a module over a ring which is embedded in a vector space over a field\n** Lattice graph, a graph that can be drawn within a repeating arrangement of points\n** Lattice-based cryptography, encryption systems based on repeating arrangements of points\n* Lattice (order), a partially ordered set with unique least upper bounds and greatest lower bounds\n** Lattice-based access control, computer security systems based on partially ordered access privileges\n** Skew lattice, a non-commutative generalization of order-theoretic lattices\n* Lattice multiplication, a multiplication algorithm suitable for hand calculation\n\nOther uses in science and technology\n\n* Bethe lattice, a regular infinite tree structure used in statistical mechanics\n* Crystal lattice, a repetitive arrangement of atoms\n* Lattice C, a compiler for the C programming language\n* Lattice model (physics), a model defined not on a continuum, but on a grid\n* Lattice truss bridge, a type of truss bridge that uses many closely spaced diagonal elements\n\nOther uses\n\n* Lattice model (finance), a method for evaluating stock options that divides time into discrete intervals",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Lattice" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17530" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Lattice may refer to:\n\nArts and design\n\n* Latticework, an ornamental criss-crossed framework, an arrangement of crossing laths or other thin strips of material\n* Lattice (music), an organized grid model of pitch ratios\n* Lattice (pastry), an ornamental pattern of crossing strips of pastry\n\nCompanies\n\n* Lattice Engines, a technology company specializing in business applications for marketing and sales\n* Lattice Group, a former British gas transmission business\n* Lattice Semiconductor, a US-based integrated circuit manufacturer\n\nScience, technology, and mathematics\n\nMathematics\n\n* Lattice (group), a repeating arrangement of points\n** Lattice (discrete subgroup), a discrete subgroup of a topological group whose quotient carries an invariant finite Borel measure\n** Lattice (module), a module over a ring which is embedded in a vector space over a field\n** Lattice graph, a graph that can be drawn within a repeating arrangement of points\n** Lattice-based cryptography, encryption systems based on repeating arrangements of points\n* Lattice (order), a partially ordered set with unique least upper bounds and greatest lower bounds\n** Lattice-based access control, computer security systems based on partially ordered access privileges\n** Skew lattice, a non-commutative generalization of order-theoretic lattices\n* Lattice multiplication, a multiplication algorithm suitable for hand calculation\n\nOther uses in science and technology\n\n* Bethe lattice, a regular infinite tree structure used in statistical mechanics\n* Crystal lattice, a repetitive arrangement of atoms\n* Lattice C, a compiler for the C programming language\n* Lattice model (physics), a model defined not on a continuum, but on a grid\n* Lattice truss bridge, a type of truss bridge that uses many closely spaced diagonal elements\n\nOther uses\n\n* Lattice model (finance), a method for evaluating stock options that divides time into discrete intervals. Lattice. http://en.wikipedia.org/?curid=17530."
+  }
+}

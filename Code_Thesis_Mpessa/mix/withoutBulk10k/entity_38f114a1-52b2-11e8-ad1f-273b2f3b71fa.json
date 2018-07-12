@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19228",
+  "eid" : "38f114a1-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778604778,
+  "textBody" : "Transportation and Communications in Mexico may refer to:\n\n* Communications in Mexico\n* Transportation in Mexico",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Transportation and Communications in Mexico" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19228" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Transportation and Communications in Mexico may refer to:\n\n* Communications in Mexico\n* Transportation in Mexico. Transportation and Communications in Mexico. http://en.wikipedia.org/?curid=19228."
+  }
+}

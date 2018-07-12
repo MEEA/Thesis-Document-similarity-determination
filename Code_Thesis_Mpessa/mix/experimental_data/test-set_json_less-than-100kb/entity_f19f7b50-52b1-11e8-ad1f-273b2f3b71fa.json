@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=9720",
+  "eid" : "f19f7b50-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778485125,
+  "textBody" : "Echidnas are Australian egg-laying mammals also known as spiny anteaters.\n\nEchidna may also refer to:\n\n*Echidna (mythology), monster in Greek mythology and namesake of the mammal\n*(42355) Typhon I Echidna, the natural satellite of the asteroid 42355 Typhon\n*ECHIDNA, high-resolution neutron powder diffractometer at Australia's research reactor OPAL\n*Echidna, character in the video game The Bouncer\n\nTaxonomic genera\n\n*Echidna (genus) , a genus of moray eels\n*Echidna , a junior homonym referring to the mammals commonly known as echidnas\n*Echidna , junior homonym for a genus of African snakes now treated as Bitis",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Echidna (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=9720" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Echidnas are Australian egg-laying mammals also known as spiny anteaters.\n\nEchidna may also refer to:\n\n*Echidna (mythology), monster in Greek mythology and namesake of the mammal\n*(42355) Typhon I Echidna, the natural satellite of the asteroid 42355 Typhon\n*ECHIDNA, high-resolution neutron powder diffractometer at Australia's research reactor OPAL\n*Echidna, character in the video game The Bouncer\n\nTaxonomic genera\n\n*Echidna (genus) , a genus of moray eels\n*Echidna , a junior homonym referring to the mammals commonly known as echidnas\n*Echidna , junior homonym for a genus of African snakes now treated as Bitis. Echidna (disambiguation). http://en.wikipedia.org/?curid=9720."
+  }
+}

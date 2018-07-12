@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17812",
+  "eid" : "2e6afd20-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778587122,
+  "textBody" : "The principality of Liechtenstein encompasses most of the right (eastern) half of the Rhine Valley, wedged between Austria and Switzerland.\n\nAlong with Uzbekistan, Liechtenstein is one of only two doubly landlocked countries in the world; it contains a great variety of microclimates based on elevation.\n\nData from the  CIA Factbook:\n*Geographic coordinates:\n\n*Area: 160 km² (land, 0 km² water)\n*Land boundaries: total: 76 km; border countries: Austria 35 km, Switzerland 41 km\n*Coastline: 0 km (landlocked)\n*Maritime claims: none (landlocked)\n*Climate: continental; cold, cloudy winters with frequent snow or rain; cool to moderately warm, cloudy, humid summers, great variety of microclimates based on elevation\n*Terrain: mostly mountainous (Alps) with Rhine Valley in western third\n*Natural resources: hydroelectric potential, arable land\n*Lake: The only lake in Liechtenstein is the Gampriner Seele.\n*Land use: arable land: 21.88%, permanent crops: 0%, other: 78.12% (2011)\n*Natural hazards: NA\n*Environment - international agreements:\n** party to:\nAir Pollution,\nAir Pollution-Persistent Organic Pollutants,\nAir Pollution-Nitrogen Oxides,\nAir Pollution-Sulphur 85, Air Pollution-Sulphur 94,\nAir Pollution-Volatile Organic Compounds,\nBiodiversity,\nClimate Change,\nClimate Change-Kyoto Protocol,\nDesertification,\nEndangered Species,\nHazardous Wastes,\nOzone Layer Protection,\nWetlands,\n**signed, but not ratified:\nLaw of the Sea\n\n*Extreme points:\n** North - river Rhine, Ruggell  This point is also the westernmost point in Austria.\n** South - summit of Mazorakopf/Falknishorn (2452 m), Triesen \n** East - border post 28, above Nenzinger Himmel \n** West - river Rhine, Balzers \n** highest - Vorder Grauspitz (2599 m), Triesen \n** lowest - Bangserfeld (429 m), Ruggell",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Geography of Liechtenstein" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17812" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The principality of Liechtenstein encompasses most of the right (eastern) half of the Rhine Valley, wedged between Austria and Switzerland.\n\nAlong with Uzbekistan, Liechtenstein is one of only two doubly landlocked countries in the world; it contains a great variety of microclimates based on elevation.\n\nData from the  CIA Factbook:\n*Geographic coordinates:\n\n*Area: 160 km² (land, 0 km² water)\n*Land boundaries: total: 76 km; border countries: Austria 35 km, Switzerland 41 km\n*Coastline: 0 km (landlocked)\n*Maritime claims: none (landlocked)\n*Climate: continental; cold, cloudy winters with frequent snow or rain; cool to moderately warm, cloudy, humid summers, great variety of microclimates based on elevation\n*Terrain: mostly mountainous (Alps) with Rhine Valley in western third\n*Natural resources: hydroelectric potential, arable land\n*Lake: The only lake in Liechtenstein is the Gampriner Seele.\n*Land use: arable land: 21.88%, permanent crops: 0%, other: 78.12% (2011)\n*Natural hazards: NA\n*Environment - international agreements:\n** party to:\nAir Pollution,\nAir Pollution-Persistent Organic Pollutants,\nAir Pollution-Nitrogen Oxides,\nAir Pollution-Sulphur 85, Air Pollution-Sulphur 94,\nAir Pollution-Volatile Organic Compounds,\nBiodiversity,\nClimate Change,\nClimate Change-Kyoto Protocol,\nDesertification,\nEndangered Species,\nHazardous Wastes,\nOzone Layer Protection,\nWetlands,\n**signed, but not ratified:\nLaw of the Sea\n\n*Extreme points:\n** North - river Rhine, Ruggell  This point is also the westernmost point in Austria.\n** South - summit of Mazorakopf/Falknishorn (2452 m), Triesen \n** East - border post 28, above Nenzinger Himmel \n** West - river Rhine, Balzers \n** highest - Vorder Grauspitz (2599 m), Triesen \n** lowest - Bangserfeld (429 m), Ruggell. Geography of Liechtenstein. http://en.wikipedia.org/?curid=17812."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2163",
+  "eid" : "be46a530-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778398979,
+  "textBody" : "In Greek mythology, AeolusChaucer's Eolus ([http://www.columbia.edu/dlc/garland/deweever/E/eolus.htm de Weever, Jacqueline (1996). Chaucer Name Dictionary, s.v. \"Eolus\". (Garland Publishing)] Retrieved on 2009-10-06 (; , Aiolos, Modern Greek: \"quick-moving, nimble\") is a name shared by three mythical characters. These three personages are often difficult to tell apart, and even the ancient mythographers appear to have been perplexed about which Aeolus was which. Diodorus Siculus made an attempt to define each of these three (although it is clear that he also became muddled), and his opinion is followed here. \n* The first Aeolus was a son of Hellen and eponymous founder of the Aeolian race.\n* The second Aeolus was a son of Poseidon, who led a colony to islands in the Tyrrhenian Sea.\n* The third Aeolus was a son of Hippotes who is mentioned in Odyssey and the Aeneid as the Keeper of the Winds.\nAll three men named Aeolus appear to be connected genealogically, although the precise relationship, especially regarding the second and third Aeolus, is often ambiguous as their identities seem to have been merged by many ancient writers.\n\nAeolus was also the name of the following minor characters:\n* Aeolus was a defender of Thebes against the Seven Against Thebes. He was killed by Parthenopaeus.Statius. Thebaid, 9.765\n* Aeolus was a Trojan, companion of Aeneas in Italy, where he was killed by Turnus, King of the Rutulians. Aeolus was father of Clytius and Misenus.Virgil. Aeneid, Book 6.163ff; 9.774; 12.542",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Aeolus" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2163" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "In Greek mythology, AeolusChaucer's Eolus ([http://www.columbia.edu/dlc/garland/deweever/E/eolus.htm de Weever, Jacqueline (1996). Chaucer Name Dictionary, s.v. \"Eolus\". (Garland Publishing)] Retrieved on 2009-10-06 (; , Aiolos, Modern Greek: \"quick-moving, nimble\") is a name shared by three mythical characters. These three personages are often difficult to tell apart, and even the ancient mythographers appear to have been perplexed about which Aeolus was which. Diodorus Siculus made an attempt to define each of these three (although it is clear that he also became muddled), and his opinion is followed here. \n* The first Aeolus was a son of Hellen and eponymous founder of the Aeolian race.\n* The second Aeolus was a son of Poseidon, who led a colony to islands in the Tyrrhenian Sea.\n* The third Aeolus was a son of Hippotes who is mentioned in Odyssey and the Aeneid as the Keeper of the Winds.\nAll three men named Aeolus appear to be connected genealogically, although the precise relationship, especially regarding the second and third Aeolus, is often ambiguous as their identities seem to have been merged by many ancient writers.\n\nAeolus was also the name of the following minor characters:\n* Aeolus was a defender of Thebes against the Seven Against Thebes. He was killed by Parthenopaeus.Statius. Thebaid, 9.765\n* Aeolus was a Trojan, companion of Aeneas in Italy, where he was killed by Turnus, King of the Rutulians. Aeolus was father of Clytius and Misenus.Virgil. Aeneid, Book 6.163ff; 9.774; 12.542. Aeolus. http://en.wikipedia.org/?curid=2163."
+  }
+}

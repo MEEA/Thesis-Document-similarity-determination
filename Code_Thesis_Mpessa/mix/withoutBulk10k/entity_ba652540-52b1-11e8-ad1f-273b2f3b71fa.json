@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1538",
+  "eid" : "ba652540-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778392468,
+  "textBody" : "Adder may refer to:\n\nSnakes\n\n* Any of several groups of venomous snakes of the family Viperidae\n**Vipera berus, the common European adder, found in Europe and northern Asia\n* Acanthophis sp., death adders, elapid snakes found in Southeast Asia and Australia\n* Heterodon sp., hog-nosed snakes, a genus of harmless colubrid snakes found in North America\n* Agkistrodon contortrix mokasen, the northern copperhead, a venomous viper found in the eastern US\n\nOther uses\n\n* Adder (Farthing Wood), a character from The Animals of Farthing Wood\n* Adder (electronics), an electronic circuit designed to do addition\n* AA-12 Adder, a Russian air-to-air missile\n* HMS Adder, any of seven ships of the Royal Navy\n* USS Adder (SS-3), an early US submarine\n* Adder Technology, a KVM and A/V Manufacturing company\n*Adder, a fictional commanding officer in the Advance Wars video games\n*Addition, a mathematical operation\n*Armstrong Siddeley Adder, a late 1940s British turbojet engine\n*Blackadder, the title character in a series of BBC sitcoms",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Adder" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1538" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Adder may refer to:\n\nSnakes\n\n* Any of several groups of venomous snakes of the family Viperidae\n**Vipera berus, the common European adder, found in Europe and northern Asia\n* Acanthophis sp., death adders, elapid snakes found in Southeast Asia and Australia\n* Heterodon sp., hog-nosed snakes, a genus of harmless colubrid snakes found in North America\n* Agkistrodon contortrix mokasen, the northern copperhead, a venomous viper found in the eastern US\n\nOther uses\n\n* Adder (Farthing Wood), a character from The Animals of Farthing Wood\n* Adder (electronics), an electronic circuit designed to do addition\n* AA-12 Adder, a Russian air-to-air missile\n* HMS Adder, any of seven ships of the Royal Navy\n* USS Adder (SS-3), an early US submarine\n* Adder Technology, a KVM and A/V Manufacturing company\n*Adder, a fictional commanding officer in the Advance Wars video games\n*Addition, a mathematical operation\n*Armstrong Siddeley Adder, a late 1940s British turbojet engine\n*Blackadder, the title character in a series of BBC sitcoms. Adder. http://en.wikipedia.org/?curid=1538."
+  }
+}

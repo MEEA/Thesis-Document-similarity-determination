@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=9734",
+  "eid" : "f1b9ba10-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778485297,
+  "textBody" : "The American Prisoner is a British novel written by Eden Phillpotts and published in 1904\n and adapted into a film by the same name in 1929.  The story concerns an English woman who lives at Fox Tor farm, and an American captured during the American Revolutionary War and held at the prison at Princetown on Dartmoor.\n\nThe heroine's father, Maurice Malherb, is based on Thomas Windeatt.\n\nIn the novel Malherb is a miscreant who destroys Childe's tomb and beats his servant.  He is depicted as a victim of his own bad temper rather than a sadist.\n\nMalherb is introduced as the younger son of a noble family and he builds the Fox Tor house to be the impressive gentleman's residence suggested by William Crossing rather than the humble cottage which it actually is.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "The American Prisoner" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=9734" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The American Prisoner is a British novel written by Eden Phillpotts and published in 1904\n and adapted into a film by the same name in 1929.  The story concerns an English woman who lives at Fox Tor farm, and an American captured during the American Revolutionary War and held at the prison at Princetown on Dartmoor.\n\nThe heroine's father, Maurice Malherb, is based on Thomas Windeatt.\n\nIn the novel Malherb is a miscreant who destroys Childe's tomb and beats his servant.  He is depicted as a victim of his own bad temper rather than a sadist.\n\nMalherb is introduced as the younger son of a noble family and he builds the Fox Tor house to be the impressive gentleman's residence suggested by William Crossing rather than the humble cottage which it actually is. The American Prisoner. http://en.wikipedia.org/?curid=9734."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8056",
+  "eid" : "e505ed20-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778463986,
+  "textBody" : "Country Code: +1767\nInternational Call Prefix: 011 (outside NANP)\n\nCalls from Dominica to the US, Canada, and other NANP Caribbean nations, are dialed as 1 + NANP area code + 7-digit number. Calls from Dominica to non-NANP countries are dialed as 011 + country code + phone number with local area code.\n\nNumber Format: nxx-xxxx\n\nTelephones - main lines in use:\n23,000 (2004)\n\nTelephones - mobile cellular:\n*Digicel\n*LIME\n\n;Telephone system:\n*Domestic: fully automatic network\n*International: microwave radio relay and SHF radiotelephone links to Martinique and Guadeloupe; VHF and UHF radiotelephone links to Saint Lucia\n\n;Radio broadcast stations:\nAM 0, FM 15, shortwave 0 (2007)\n\n;Radios:\n46,000 (1997)\n\n;Television broadcast stations:\n0 (however, there are three cable television companies, Dominica Broadcast, Marpin Telecoms)http://www.marpin.dm/ and Digicel Play - a merger of Digicel and SAT Telecommunications Ltd.http://www.sat.dm/ (2004)\n\n;Televisions:\n11,000 (2007)\n\n;Internet Service Providers (ISPs):\n*Cable & Wireless Dominica Ltd (DSL)\n*Digicel Play (Cable & FTTP)\n*Marpin Telecoms (Cable)\n\n;Internet code: DM\n\n;Telephone code: 767",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Telecommunications in Dominica" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8056" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Country Code: +1767\nInternational Call Prefix: 011 (outside NANP)\n\nCalls from Dominica to the US, Canada, and other NANP Caribbean nations, are dialed as 1 + NANP area code + 7-digit number. Calls from Dominica to non-NANP countries are dialed as 011 + country code + phone number with local area code.\n\nNumber Format: nxx-xxxx\n\nTelephones - main lines in use:\n23,000 (2004)\n\nTelephones - mobile cellular:\n*Digicel\n*LIME\n\n;Telephone system:\n*Domestic: fully automatic network\n*International: microwave radio relay and SHF radiotelephone links to Martinique and Guadeloupe; VHF and UHF radiotelephone links to Saint Lucia\n\n;Radio broadcast stations:\nAM 0, FM 15, shortwave 0 (2007)\n\n;Radios:\n46,000 (1997)\n\n;Television broadcast stations:\n0 (however, there are three cable television companies, Dominica Broadcast, Marpin Telecoms)http://www.marpin.dm/ and Digicel Play - a merger of Digicel and SAT Telecommunications Ltd.http://www.sat.dm/ (2004)\n\n;Televisions:\n11,000 (2007)\n\n;Internet Service Providers (ISPs):\n*Cable & Wireless Dominica Ltd (DSL)\n*Digicel Play (Cable & FTTP)\n*Marpin Telecoms (Cable)\n\n;Internet code: DM\n\n;Telephone code: 767. Telecommunications in Dominica. http://en.wikipedia.org/?curid=8056."
+  }
+}

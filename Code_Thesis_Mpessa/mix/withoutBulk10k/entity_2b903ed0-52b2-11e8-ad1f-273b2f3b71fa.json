@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17370",
+  "eid" : "2b903ed0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778582333,
+  "textBody" : "KSC may refer to:\n\n*Karlsruher SC, a German association football club, based in Karlsruhe, Baden-Württemberg\n*Keene State College, a US college that is part of the University System of New Hampshire\n*Kelsey-Seybold Clinic, a Houston-based, NASA-affiliated, multi-specialty healthcare system\n*Kennedy Space Center, a NASA space vehicle launch facility\n*Kenya Social Congress\n*Kilogram-force per square centimetre\n*Knights of Saint Columba, a British order of Catholic Laymen men\n*Knights of the Southern Cross, an Australian order of Catholic men\n*Košice International Airport, Košice, Slovakia, by IATA airport code\n*Kurunjang Secondary College, a co-educational 7-12 school in Melton, Victoria, Australia\n*Communist Party of Czechoslovakia (Czech and Slovak: Komunistická strana Československa, KSČ), a Communist and Marxist–Leninist political party in Czechoslovakia that existed between 1921 and 1992",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "KSC" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17370" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "KSC may refer to:\n\n*Karlsruher SC, a German association football club, based in Karlsruhe, Baden-Württemberg\n*Keene State College, a US college that is part of the University System of New Hampshire\n*Kelsey-Seybold Clinic, a Houston-based, NASA-affiliated, multi-specialty healthcare system\n*Kennedy Space Center, a NASA space vehicle launch facility\n*Kenya Social Congress\n*Kilogram-force per square centimetre\n*Knights of Saint Columba, a British order of Catholic Laymen men\n*Knights of the Southern Cross, an Australian order of Catholic men\n*Košice International Airport, Košice, Slovakia, by IATA airport code\n*Kurunjang Secondary College, a co-educational 7-12 school in Melton, Victoria, Australia\n*Communist Party of Czechoslovakia (Czech and Slovak: Komunistická strana Československa, KSČ), a Communist and Marxist–Leninist political party in Czechoslovakia that existed between 1921 and 1992. KSC. http://en.wikipedia.org/?curid=17370."
+  }
+}

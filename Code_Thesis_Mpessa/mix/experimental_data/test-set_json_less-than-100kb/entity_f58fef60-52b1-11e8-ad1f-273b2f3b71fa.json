@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10391",
+  "eid" : "f58fef60-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778491734,
+  "textBody" : "Ellen Gezina Maria van Langen (born February 9, 1966) is a Dutch former middle distance runner, who specialised in the 800 metres. She is the 1992 Olympic Champion.\n\nCareer\n\nVan Langen was born in Oldenzaal, Overijssel. She has a degree in economics from the University of Amsterdam. Before she started running she played football. In 1989, she won a silver medal behind Ana Quirot at the World Student Games (Universiade), running 1:59.82. In 1990, she finished fourth in the final of the European Championships in Split, with 1:57.57.\n\nAt the 1992 Olympic Games in Barcelona, Van Langen won the Olympic title in the 800 m in a time of 1:55.54, a time which is still the Dutch national record. After her Olympic triumph, she was plagued by various injuries. Her best result after 1992 was a 6th-place finish at the 1995 World Championships. She retired from the sport in 1998.\n\nAfter her gold medal win in 1992 the Amsterdam unemployment benefits office terminated her dole on grounds that she might earn money from her victory in the future.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Ellen van Langen" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10391" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Ellen Gezina Maria van Langen (born February 9, 1966) is a Dutch former middle distance runner, who specialised in the 800 metres. She is the 1992 Olympic Champion.\n\nCareer\n\nVan Langen was born in Oldenzaal, Overijssel. She has a degree in economics from the University of Amsterdam. Before she started running she played football. In 1989, she won a silver medal behind Ana Quirot at the World Student Games (Universiade), running 1:59.82. In 1990, she finished fourth in the final of the European Championships in Split, with 1:57.57.\n\nAt the 1992 Olympic Games in Barcelona, Van Langen won the Olympic title in the 800 m in a time of 1:55.54, a time which is still the Dutch national record. After her Olympic triumph, she was plagued by various injuries. Her best result after 1992 was a 6th-place finish at the 1995 World Championships. She retired from the sport in 1998.\n\nAfter her gold medal win in 1992 the Amsterdam unemployment benefits office terminated her dole on grounds that she might earn money from her victory in the future. Ellen van Langen. http://en.wikipedia.org/?curid=10391."
+  }
+}

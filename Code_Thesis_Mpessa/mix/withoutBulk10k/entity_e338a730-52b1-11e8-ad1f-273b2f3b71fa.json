@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7755",
+  "eid" : "e338a730-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778460963,
+  "textBody" : "Cluny is a commune in the eastern French department of Saône-et-Loire, in the region of Bourgogne-Franche-Comté. It is 20 km northwest of Mâcon.\n\nThe town grew up around the Benedictine Abbey of Cluny, founded by Duke William I of Aquitaine in 910. The height of Cluniac influence was from the second half of the 10th century through the early 12th. The abbey was sacked by the Huguenots in 1562, and many of its valuable manuscripts were destroyed or removed.\n\nGeography\n\nThe river Grosne flows northward through the commune and crosses the town.\n\nTourism\n\nBourgogne-Franche-Comté has a large number of places which are of interest to tourists, such as:\n* The Arboretum de Pézanin, one of the richest arboreta in France\n* Mâcon\n* Paray-le-Monial\n* The Green Way",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Cluny" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7755" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Cluny is a commune in the eastern French department of Saône-et-Loire, in the region of Bourgogne-Franche-Comté. It is 20 km northwest of Mâcon.\n\nThe town grew up around the Benedictine Abbey of Cluny, founded by Duke William I of Aquitaine in 910. The height of Cluniac influence was from the second half of the 10th century through the early 12th. The abbey was sacked by the Huguenots in 1562, and many of its valuable manuscripts were destroyed or removed.\n\nGeography\n\nThe river Grosne flows northward through the commune and crosses the town.\n\nTourism\n\nBourgogne-Franche-Comté has a large number of places which are of interest to tourists, such as:\n* The Arboretum de Pézanin, one of the richest arboreta in France\n* Mâcon\n* Paray-le-Monial\n* The Green Way. Cluny. http://en.wikipedia.org/?curid=7755."
+  }
+}

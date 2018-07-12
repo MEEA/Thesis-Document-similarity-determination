@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15420",
+  "eid" : "1bc4f8b0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778555835,
+  "textBody" : "IRQ may refer to:\n\n* Interrupt request, a computer hardware signal\n* Iraq (ISO 3166-1 country code)\n* Qeshm Air (ICAO airline designator)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "IRQ" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15420" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "IRQ may refer to:\n\n* Interrupt request, a computer hardware signal\n* Iraq (ISO 3166-1 country code)\n* Qeshm Air (ICAO airline designator). IRQ. http://en.wikipedia.org/?curid=15420."
+  }
+}

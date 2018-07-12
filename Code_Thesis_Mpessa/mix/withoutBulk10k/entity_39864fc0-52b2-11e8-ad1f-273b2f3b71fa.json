@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19284",
+  "eid" : "39864fc0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778605756,
+  "textBody" : "This article is about the demographic features of the population of Montserrat, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population.\n\nPopulation\n\nAccording to the 2001 census only 4,491 people were resident of Monsterrat. The total local-born population was 69% while those born abroad were 31%.\nThe estimated mid-year population of 2014 is 5,100 (medium fertility scenario of The 2012 Revision of the World Population Prospects).[http://esa.un.org/wpp/index.htm Population Division of the Department of Economic and Social Affairs of the United Nations Secretariat, World Population Prospects: The 2012 Revision]\nnote:\nApproximately two thirds of the population left the island following the resumption of volcanic activity in July 1995. According to the 2001 UK Census 7,983 Montserratian-born people were residing in the UK (almost twice the population of Montserrat itself).\n\nVital statistics\n\n[http://unstats.un.org/unsd/demographic/products/dyb/dyb2.htm#2001 United Nations. Demographic Yearbooks]http://caricomstats.org/Files/Databases/Demography/MS.pdf\n\nStructure of the population\n\nStructure of the population (12 May 2011) (Census) :\n\nhttp://unstats.un.org/unsd/demographic/products/dyb/dyb2.htm\n\nEthnic groups\n\nThe vast majority of the population of Montserrat are of African descent (92.4% at the 2001 census) or mixed (2.9%). There is also a European origin minority (3.0%; mostly descendants of Irish and British colonists), East Indians (1.0%) groups.\nOut of 403 Amerindians at the 1980 census only 3 persons were left in 2001.\n\nReligion",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Demographics of Montserrat" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19284" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "This article is about the demographic features of the population of Montserrat, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population.\n\nPopulation\n\nAccording to the 2001 census only 4,491 people were resident of Monsterrat. The total local-born population was 69% while those born abroad were 31%.\nThe estimated mid-year population of 2014 is 5,100 (medium fertility scenario of The 2012 Revision of the World Population Prospects).[http://esa.un.org/wpp/index.htm Population Division of the Department of Economic and Social Affairs of the United Nations Secretariat, World Population Prospects: The 2012 Revision]\nnote:\nApproximately two thirds of the population left the island following the resumption of volcanic activity in July 1995. According to the 2001 UK Census 7,983 Montserratian-born people were residing in the UK (almost twice the population of Montserrat itself).\n\nVital statistics\n\n[http://unstats.un.org/unsd/demographic/products/dyb/dyb2.htm#2001 United Nations. Demographic Yearbooks]http://caricomstats.org/Files/Databases/Demography/MS.pdf\n\nStructure of the population\n\nStructure of the population (12 May 2011) (Census) :\n\nhttp://unstats.un.org/unsd/demographic/products/dyb/dyb2.htm\n\nEthnic groups\n\nThe vast majority of the population of Montserrat are of African descent (92.4% at the 2001 census) or mixed (2.9%). There is also a European origin minority (3.0%; mostly descendants of Irish and British colonists), East Indians (1.0%) groups.\nOut of 403 Amerindians at the 1980 census only 3 persons were left in 2001.\n\nReligion. Demographics of Montserrat. http://en.wikipedia.org/?curid=19284."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1608",
+  "eid" : "baae8a50-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778392949,
+  "textBody" : "Alexander V may refer to:\n\n* Alexander V of Macedon (died 294BC)\n* Antipope Alexander V (ca. 1339 – 1410)\n* Alexander V of Imereti (c. 1703/4 – 1752)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Alexander V" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1608" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Alexander V may refer to:\n\n* Alexander V of Macedon (died 294BC)\n* Antipope Alexander V (ca. 1339 – 1410)\n* Alexander V of Imereti (c. 1703/4 – 1752). Alexander V. http://en.wikipedia.org/?curid=1608."
+  }
+}

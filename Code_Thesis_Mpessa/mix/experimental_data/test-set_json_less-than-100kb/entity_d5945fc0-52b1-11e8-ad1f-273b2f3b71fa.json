@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=5523",
+  "eid" : "d5945fc0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778438076,
+  "textBody" : "This article is about the demographic features of the population of the Cocos (Keeling) Islands, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population.\n\nCIA World Factbook demographic statistics \n\nThe following demographic statistics are from the CIA World Factbook, unless otherwise indicated.\n\nPopulation\n\n*596\n\nNationality\n\n*noun: Cocos Islander(s)\n*adjective: Cocos Islander\n\nEthnic groups\n\n*Europeans\n*Cocos Malays\n\nReligions\n\n*Sunni Islam 80%\n*Other 20%\n\nLanguages\n\n*Malay (Cocos dialect)\n*English",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Demographics of the Cocos (Keeling) Islands" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=5523" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "This article is about the demographic features of the population of the Cocos (Keeling) Islands, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population.\n\nCIA World Factbook demographic statistics \n\nThe following demographic statistics are from the CIA World Factbook, unless otherwise indicated.\n\nPopulation\n\n*596\n\nNationality\n\n*noun: Cocos Islander(s)\n*adjective: Cocos Islander\n\nEthnic groups\n\n*Europeans\n*Cocos Malays\n\nReligions\n\n*Sunni Islam 80%\n*Other 20%\n\nLanguages\n\n*Malay (Cocos dialect)\n*English. Demographics of the Cocos (Keeling) Islands. http://en.wikipedia.org/?curid=5523."
+  }
+}

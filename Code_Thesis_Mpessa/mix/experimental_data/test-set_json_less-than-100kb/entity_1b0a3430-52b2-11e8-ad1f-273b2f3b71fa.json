@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15291",
+  "eid" : "1b0a3430-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778554611,
+  "textBody" : "Intercourse may refer to:\n\n* Sexual intercourse\n* Interpersonal communication, any kind of human communication or interaction\n\nPlaces\n\n* Intercourse, Alabama\n* Intercourse, Pennsylvania\n\nArts and media\n\nBooks\n\n* Intercourse (book), a 1987 book by Andrea Dworkin\n* InterCourses: An Aphrodisiac Cookbook, a 1997 book by Martha Hopkins and Randall Lockridge with photography by Ben Fink\n\nMusic\n\n* Intercourse (the Tokens album), a 1971 album by American vocal group the Tokens\n* Intercourse (S'Express album), a 1991 studio album by English dance music act S'Express",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Intercourse" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15291" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Intercourse may refer to:\n\n* Sexual intercourse\n* Interpersonal communication, any kind of human communication or interaction\n\nPlaces\n\n* Intercourse, Alabama\n* Intercourse, Pennsylvania\n\nArts and media\n\nBooks\n\n* Intercourse (book), a 1987 book by Andrea Dworkin\n* InterCourses: An Aphrodisiac Cookbook, a 1997 book by Martha Hopkins and Randall Lockridge with photography by Ben Fink\n\nMusic\n\n* Intercourse (the Tokens album), a 1971 album by American vocal group the Tokens\n* Intercourse (S'Express album), a 1991 studio album by English dance music act S'Express. Intercourse. http://en.wikipedia.org/?curid=15291."
+  }
+}

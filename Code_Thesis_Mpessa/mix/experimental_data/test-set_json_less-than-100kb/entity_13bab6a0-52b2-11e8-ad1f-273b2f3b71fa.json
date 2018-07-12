@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14324",
+  "eid" : "13bab6a0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778542346,
+  "textBody" : "Hash, hashes, hash mark, or hashing may refer to:\n\nSubstances\n\n* Hash (food), a coarse mixture of ingredients\n* Hash, a nickname for hashish, a cannabis product\n\nHash mark\n\n* Hash marks, a marking on hockey rinks and gridiron football fields\n* Hatch mark, a form of mathematical notation\n* Number sign (#), also known as the hash mark, pound sign, or hashtag\n* Service stripe, a military decoration\n* Tally mark, a counting notation\n\nComputing\n\n* Hash function, an encoding of data into a small, fixed size; used in hash tables and cryptography\n* Hash table, a data structure using hash functions\n* Cryptographic hash function, a hash function used to authenticate message integrity\n* Fragment identifier, in computer hypertext, a string of characters that refers to a subordinate resource\n* Geohash, a spatial data structure which subdivides space into buckets of grid shape\n* Hashtag, a form of metadata often used on social networking websites\n* hash (Unix), an operating system command\n* Hash chain, a method of producing many one-time keys from a single key or password\n* Password hash\n* Zobrist hashing, a method of hashing chess positions into a key\n\nOther uses\n\n* Hash House Harriers, a running club",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Hash" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14324" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Hash, hashes, hash mark, or hashing may refer to:\n\nSubstances\n\n* Hash (food), a coarse mixture of ingredients\n* Hash, a nickname for hashish, a cannabis product\n\nHash mark\n\n* Hash marks, a marking on hockey rinks and gridiron football fields\n* Hatch mark, a form of mathematical notation\n* Number sign (#), also known as the hash mark, pound sign, or hashtag\n* Service stripe, a military decoration\n* Tally mark, a counting notation\n\nComputing\n\n* Hash function, an encoding of data into a small, fixed size; used in hash tables and cryptography\n* Hash table, a data structure using hash functions\n* Cryptographic hash function, a hash function used to authenticate message integrity\n* Fragment identifier, in computer hypertext, a string of characters that refers to a subordinate resource\n* Geohash, a spatial data structure which subdivides space into buckets of grid shape\n* Hashtag, a form of metadata often used on social networking websites\n* hash (Unix), an operating system command\n* Hash chain, a method of producing many one-time keys from a single key or password\n* Password hash\n* Zobrist hashing, a method of hashing chess positions into a key\n\nOther uses\n\n* Hash House Harriers, a running club. Hash. http://en.wikipedia.org/?curid=14324."
+  }
+}

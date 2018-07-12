@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=9502",
+  "eid" : "ef68c530-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778481411,
+  "textBody" : "Some of the most important explorations of State Societies, in chronological order:",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "List of explorations" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=9502" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Some of the most important explorations of State Societies, in chronological order:. List of explorations. http://en.wikipedia.org/?curid=9502."
+  }
+}

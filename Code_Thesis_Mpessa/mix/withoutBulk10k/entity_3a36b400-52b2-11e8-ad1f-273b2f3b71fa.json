@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19357",
+  "eid" : "3a36b400-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778606912,
+  "textBody" : "Marijuana  or marihuana may refer to:\n\nPlant and its derivatives\n\n*Cannabis, the dried flowers, subtending leaves, and stems of the female plant are called marijuana and are used as:\n**Marijuana, cannabis used as a drug\n**Marijuana and religion\n**Medical marijuana\n\nArt, entertainment, and media\n\n;Books\n*Marihuana (novel), a 1941 novella by Cornell Woolrich\n;Films\n*Marihuana (film), a 1936 American exploitation film directed by Dwain Esper\n*The Marihuana Story, a 1950 Argentine exploitation film directed by León Klimovsky\n;Music\n*Marijuana (EP), an EP by the band Brujeria\n*Marijuana (Kid Cudi song), a song by recording artist Kid Cudi\n\nOrganizations\n\n*Legal Marijuana Now Party, a U.S. cannabis rights political party\n*Marijuana Policy Project, a U.S. cannabis policy reform organization\n*Medical Marijuana Assistance Program of America, a Colorado marijuana awareness organization\n*National Organization for the Reform of Marijuana Laws, a non-profit cannabis rights organization based in Washington, DC\n\nOther uses\n\n*Marijuana dispensary, a regulated store that sells marijuana\n*Marijuana rights, the rights of people who consume cannabis\n*Marihuana Tax Act of 1937, a U.S. law prohibiting marijuana for the first time that was ruled unconstitutional by the Supreme Court and replaced by President Nixon's Controlled Substances Act in 1970\n*Marijuana (word), history and usage of the term",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Marijuana (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19357" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Marijuana  or marihuana may refer to:\n\nPlant and its derivatives\n\n*Cannabis, the dried flowers, subtending leaves, and stems of the female plant are called marijuana and are used as:\n**Marijuana, cannabis used as a drug\n**Marijuana and religion\n**Medical marijuana\n\nArt, entertainment, and media\n\n;Books\n*Marihuana (novel), a 1941 novella by Cornell Woolrich\n;Films\n*Marihuana (film), a 1936 American exploitation film directed by Dwain Esper\n*The Marihuana Story, a 1950 Argentine exploitation film directed by León Klimovsky\n;Music\n*Marijuana (EP), an EP by the band Brujeria\n*Marijuana (Kid Cudi song), a song by recording artist Kid Cudi\n\nOrganizations\n\n*Legal Marijuana Now Party, a U.S. cannabis rights political party\n*Marijuana Policy Project, a U.S. cannabis policy reform organization\n*Medical Marijuana Assistance Program of America, a Colorado marijuana awareness organization\n*National Organization for the Reform of Marijuana Laws, a non-profit cannabis rights organization based in Washington, DC\n\nOther uses\n\n*Marijuana dispensary, a regulated store that sells marijuana\n*Marijuana rights, the rights of people who consume cannabis\n*Marihuana Tax Act of 1937, a U.S. law prohibiting marijuana for the first time that was ruled unconstitutional by the Supreme Court and replaced by President Nixon's Controlled Substances Act in 1970\n*Marijuana (word), history and usage of the term. Marijuana (disambiguation). http://en.wikipedia.org/?curid=19357."
+  }
+}

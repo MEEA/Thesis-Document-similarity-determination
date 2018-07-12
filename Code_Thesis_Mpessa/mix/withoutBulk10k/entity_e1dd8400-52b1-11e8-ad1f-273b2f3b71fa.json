@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7484",
+  "eid" : "e1dd8400-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778458688,
+  "textBody" : "A company is a group of more than one persons to carry out an enterprise and so a form of business organization.\n\nCompany may also refer to:\n\n* Company (military unit), a group of typically 75–200 soldiers\n* Opera company, an instituted company that performs operas\n* Theatre company, of touring actors, singers and/or dancers\n\nTitles and proper names\n\n* Company (band)\n* Company (film), a 2002 Hindi film directed by Ram Gopal Varma\n* Company (free improvisation group), a jazz collective founded in 1968\n* Company (LGBT magazine), the only existing LGBT print magazine in Hungary, published monthly\n* Company (magazine), a monthly fashion, celebrity and lifestyle magazine published in the United Kingdom\n* Company (musical), music and lyrics by Stephen Sondheim and book by George Furth\n* Company (novel), a 2006 book by Max Barry\n* Company (Andy Burrows album), 2012\n* Company (The Drink album), 2014\n* \"Company\" (Broadway song), the title song from the Broadway musical, Company\n* \"Company\" (Justin Bieber song), 2015\n* \"Company\" (Tinashe song), 2016\n* \"Company\", a song by Drake from the album If You're Reading This It's Too Late\n*\"Company\", a song by Third Eye Blind from Out of the Vein\n* \"Company\" (short story), by Samuel Beckett\n* Company, the subtitle of String Quartet No. 2 by composer Philip Glass",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Company (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7484" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A company is a group of more than one persons to carry out an enterprise and so a form of business organization.\n\nCompany may also refer to:\n\n* Company (military unit), a group of typically 75–200 soldiers\n* Opera company, an instituted company that performs operas\n* Theatre company, of touring actors, singers and/or dancers\n\nTitles and proper names\n\n* Company (band)\n* Company (film), a 2002 Hindi film directed by Ram Gopal Varma\n* Company (free improvisation group), a jazz collective founded in 1968\n* Company (LGBT magazine), the only existing LGBT print magazine in Hungary, published monthly\n* Company (magazine), a monthly fashion, celebrity and lifestyle magazine published in the United Kingdom\n* Company (musical), music and lyrics by Stephen Sondheim and book by George Furth\n* Company (novel), a 2006 book by Max Barry\n* Company (Andy Burrows album), 2012\n* Company (The Drink album), 2014\n* \"Company\" (Broadway song), the title song from the Broadway musical, Company\n* \"Company\" (Justin Bieber song), 2015\n* \"Company\" (Tinashe song), 2016\n* \"Company\", a song by Drake from the album If You're Reading This It's Too Late\n*\"Company\", a song by Third Eye Blind from Out of the Vein\n* \"Company\" (short story), by Samuel Beckett\n* Company, the subtitle of String Quartet No. 2 by composer Philip Glass. Company (disambiguation). http://en.wikipedia.org/?curid=7484."
+  }
+}

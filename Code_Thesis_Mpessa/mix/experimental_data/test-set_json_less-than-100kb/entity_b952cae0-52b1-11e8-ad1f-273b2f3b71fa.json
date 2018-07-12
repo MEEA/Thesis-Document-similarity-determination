@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1309",
+  "eid" : "b952cae0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778390670,
+  "textBody" : "In mathematics, the phrase \"almost all\" has a number of specialised uses which extend its intuitive meaning.\n\nCardinality\n\nReferring to a subset of an infinite set, \"almost all\" is sometimes used synonymously with \"all but [except] finitely many\" (that is, it is a cofinite subset). A simple example is that almost all prime numbers are odd, which is based on the fact that all but one prime number are odd. (The exception is the number 2, which is prime but not odd.)\n\nReferring to a subset of an uncountable set, \"almost all\" is sometimes used to mean \"all the elements except for a countable set\" (that is, it is a cocountable subset).\n\nMeasure theory\n\nWhen speaking about the reals, sometimes it means \"all reals but a set of Lebesgue measure zero\" (formally, almost everywhere). In this sense almost all reals are not a member of the Cantor set even though the Cantor set is uncountable.\n\nMore generally, \"almost all\" is sometimes used in the sense of \"almost everywhere\" in measure theory, or in the closely related sense of \"almost surely\" in probability theory.\n\nNumber theory\n\nIn number theory, if P(n) is a property of positive integers, and if p(N) denotes the number of positive integers n less than N for which P(n) holds, and if\n\np(N)/N → 1 as N → ∞\n\n(see limit), then we say that \"P(n) holds for almost all positive integers n\" (formally, asymptotically almost surely).\n\nFor example, the prime number theorem states that the number of prime numbers less than or equal to N is asymptotically equal to N/ln N. Therefore, the proportion of prime integers is roughly 1/ln N, which tends to 0. Thus, almost all positive integers are composite (not prime), however there are still an infinite number of primes.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Almost all" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1309" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "In mathematics, the phrase \"almost all\" has a number of specialised uses which extend its intuitive meaning.\n\nCardinality\n\nReferring to a subset of an infinite set, \"almost all\" is sometimes used synonymously with \"all but [except] finitely many\" (that is, it is a cofinite subset). A simple example is that almost all prime numbers are odd, which is based on the fact that all but one prime number are odd. (The exception is the number 2, which is prime but not odd.)\n\nReferring to a subset of an uncountable set, \"almost all\" is sometimes used to mean \"all the elements except for a countable set\" (that is, it is a cocountable subset).\n\nMeasure theory\n\nWhen speaking about the reals, sometimes it means \"all reals but a set of Lebesgue measure zero\" (formally, almost everywhere). In this sense almost all reals are not a member of the Cantor set even though the Cantor set is uncountable.\n\nMore generally, \"almost all\" is sometimes used in the sense of \"almost everywhere\" in measure theory, or in the closely related sense of \"almost surely\" in probability theory.\n\nNumber theory\n\nIn number theory, if P(n) is a property of positive integers, and if p(N) denotes the number of positive integers n less than N for which P(n) holds, and if\n\np(N)/N → 1 as N → ∞\n\n(see limit), then we say that \"P(n) holds for almost all positive integers n\" (formally, asymptotically almost surely).\n\nFor example, the prime number theorem states that the number of prime numbers less than or equal to N is asymptotically equal to N/ln N. Therefore, the proportion of prime integers is roughly 1/ln N, which tends to 0. Thus, almost all positive integers are composite (not prime), however there are still an infinite number of primes. Almost all. http://en.wikipedia.org/?curid=1309."
+  }
+}

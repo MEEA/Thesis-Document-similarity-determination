@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16618",
+  "eid" : "2703b1d0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778574701,
+  "textBody" : "Kishka can be:\n\nFood\n\n* Kishka (food) or Kishke, various types of sausage or stuffed intestine with a filling made from a combination of meat and meal, often a grain\n\nPeople\n\n* Kyszka (family), a szlachta family in the Polish-Lithuanian Commonwealth\n* Jan Kiszka\n* Janusz Kiszka\n\nOther uses\n\n* Intestine or gut, in East Slavic languages, also used in English-language Yiddishisms\n* Kishka (prison cell), a type of cell in Soviet political prisons",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Kishka" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16618" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Kishka can be:\n\nFood\n\n* Kishka (food) or Kishke, various types of sausage or stuffed intestine with a filling made from a combination of meat and meal, often a grain\n\nPeople\n\n* Kyszka (family), a szlachta family in the Polish-Lithuanian Commonwealth\n* Jan Kiszka\n* Janusz Kiszka\n\nOther uses\n\n* Intestine or gut, in East Slavic languages, also used in English-language Yiddishisms\n* Kishka (prison cell), a type of cell in Soviet political prisons. Kishka. http://en.wikipedia.org/?curid=16618."
+  }
+}

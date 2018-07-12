@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=4900",
+  "eid" : "d12bae70-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778430679,
+  "textBody" : "Bloody Mary may refer to:\n\nPeople \n\n* Mary I of England (1516–1558), Queen of England and Ireland, so called because of her execution of numerous Protestants\n* Bloody Mary (rapper), female rapper that was a member of the group Bloods & Crips\n\nAnimals \n\n* \"Bloody Mary\", the nickname given to a skeleton of Nanotyrannus  found buried alongside a Triceratops\n* Mary (elephant), or Bloody Mary or Murderous Mary, an elephant that was infamously publicly hanged\n\nArts and popular culture \n\n* Bloody Mary (folklore), a ghost said to appear in  mirrors when a person repeats her name in front of the mirror and turn three times.\n* Bloody Mary, a boss in Terranigma.\n\nFilm \n\n* Agent 077: Mission Bloody Mary, a 1965 adventure film\n* Bloody Mary (1996 film), a 1996 comedy film\n* Bloody Mary (film), a 2006 horror film\n* Dead Mary, a 2007 horror film, called Bloody Mary in Japan\n* The Legend of Bloody Mary, a 2008 horror film\n* Urban Legends: Bloody Mary, a 2005 horror film\n\nLiterature \n\n* Bloody Mary (DC Comics), a fictional extraterrestrial vampire\n* Bloody Mary (Helix), a comic book\n* Bloody Mary (Marvel Comics), a fictional telekinetic supervillain\n* Bloody Mary (South Pacific), a character in a book*\n\nMusic \n\n* \"Bloody Mary\" (The Alice Rose song)\n* \"Bloody Mary\", a song by Lady Gaga from Born This Way\n* \"Bloody Mary (Nerve Endings)\", a song by Silversun Pickups\n* Un Blodymary, an album by Las Ketchup\n** \"Un Blodymary\" (song), title track of the album\n\nTelevision \n\n* \"Bloody Mary\" (South Park), an episode of the television series South Park\n* \"Bloody Mary\" (Supernatural), an episode of the television series Supernatural\n* The Bloody Mary Show, a British comedy horror web series\n* \"Scary Mary\", a 2011  two part episode of R.L. Stine's The Haunting Hour\n\nFood and drink \n\n* Bloody Mary (cocktail), a cocktail made with tomato juice, vodka, and typically spices",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Bloody Mary" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=4900" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Bloody Mary may refer to:\n\nPeople \n\n* Mary I of England (1516–1558), Queen of England and Ireland, so called because of her execution of numerous Protestants\n* Bloody Mary (rapper), female rapper that was a member of the group Bloods & Crips\n\nAnimals \n\n* \"Bloody Mary\", the nickname given to a skeleton of Nanotyrannus  found buried alongside a Triceratops\n* Mary (elephant), or Bloody Mary or Murderous Mary, an elephant that was infamously publicly hanged\n\nArts and popular culture \n\n* Bloody Mary (folklore), a ghost said to appear in  mirrors when a person repeats her name in front of the mirror and turn three times.\n* Bloody Mary, a boss in Terranigma.\n\nFilm \n\n* Agent 077: Mission Bloody Mary, a 1965 adventure film\n* Bloody Mary (1996 film), a 1996 comedy film\n* Bloody Mary (film), a 2006 horror film\n* Dead Mary, a 2007 horror film, called Bloody Mary in Japan\n* The Legend of Bloody Mary, a 2008 horror film\n* Urban Legends: Bloody Mary, a 2005 horror film\n\nLiterature \n\n* Bloody Mary (DC Comics), a fictional extraterrestrial vampire\n* Bloody Mary (Helix), a comic book\n* Bloody Mary (Marvel Comics), a fictional telekinetic supervillain\n* Bloody Mary (South Pacific), a character in a book*\n\nMusic \n\n* \"Bloody Mary\" (The Alice Rose song)\n* \"Bloody Mary\", a song by Lady Gaga from Born This Way\n* \"Bloody Mary (Nerve Endings)\", a song by Silversun Pickups\n* Un Blodymary, an album by Las Ketchup\n** \"Un Blodymary\" (song), title track of the album\n\nTelevision \n\n* \"Bloody Mary\" (South Park), an episode of the television series South Park\n* \"Bloody Mary\" (Supernatural), an episode of the television series Supernatural\n* The Bloody Mary Show, a British comedy horror web series\n* \"Scary Mary\", a 2011  two part episode of R.L. Stine's The Haunting Hour\n\nFood and drink \n\n* Bloody Mary (cocktail), a cocktail made with tomato juice, vodka, and typically spices. Bloody Mary. http://en.wikipedia.org/?curid=4900."
+  }
+}

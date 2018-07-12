@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13434",
+  "eid" : "09458f10-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778524801,
+  "textBody" : "Hg is the chemical symbol of Mercury.\n\nHg or HG may also refer to:\n\nArts and media\n\n*H. G. Wells, English writer\n*House & Garden or HG, a former US magazine\n*Harry G. Nelson, half of the Roy and HG comedy duo\n*Hengwrt Chaucer or Hg, a manuscript of the Canterbury Tales\n*Masaki Sumitani or HG, Japanese professional wrestler\n\nOther uses\n\n*hg, the driver program of Mercurial, a version control system\n*His/Her Grace, a style used for various high-ranking personages\n*Hlinka Guard, a militia movement of the Slovak People's Party from 1938 to 1945\n*HG postcode area, in Yorkshire, England\n*Niki (airline) (IATA code HG)\n*Bad Homburg vor der Höhe, Germany (vehicle plate code HG)\n*Hyperemesis gravidarum, a complication of pregnancy\n*Hg (equity firm), headquartered in London and Munich",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Hg" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13434" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Hg is the chemical symbol of Mercury.\n\nHg or HG may also refer to:\n\nArts and media\n\n*H. G. Wells, English writer\n*House & Garden or HG, a former US magazine\n*Harry G. Nelson, half of the Roy and HG comedy duo\n*Hengwrt Chaucer or Hg, a manuscript of the Canterbury Tales\n*Masaki Sumitani or HG, Japanese professional wrestler\n\nOther uses\n\n*hg, the driver program of Mercurial, a version control system\n*His/Her Grace, a style used for various high-ranking personages\n*Hlinka Guard, a militia movement of the Slovak People's Party from 1938 to 1945\n*HG postcode area, in Yorkshire, England\n*Niki (airline) (IATA code HG)\n*Bad Homburg vor der Höhe, Germany (vehicle plate code HG)\n*Hyperemesis gravidarum, a complication of pregnancy\n*Hg (equity firm), headquartered in London and Munich. Hg. http://en.wikipedia.org/?curid=13434."
+  }
+}

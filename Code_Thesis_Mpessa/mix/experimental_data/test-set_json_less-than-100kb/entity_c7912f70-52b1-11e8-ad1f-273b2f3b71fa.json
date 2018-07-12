@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3620",
+  "eid" : "c7912f70-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778414567,
+  "textBody" : "Botswana has put a premium on economic and political integration in southern Africa. It has sought to make the Southern African Development Community (SADC) a working vehicle for economic development, and it has promoted efforts to make the region self-policing in terms of preventative diplomacy, conflict resolution, and good governance.  The SADC headquarters are located in Gaborone, the capital of Botswana.  It has welcomed post-apartheid South Africa as a partner in these efforts. Botswana joins the African consensus on most major international matters and is a member of international organizations such as the United Nations and the African Union. Botswana is also a member of the International Criminal Court with a Bilateral Immunity Agreement of protection for the US-military (as covered under Article 98).\n\nBotswana has a small number of diplomatic missions abroad.\n\nBilateral Relations\n\nBotswana and the Commonwealth of Nations\n\nBotswana has been a Commonwealth republic since independence in 1966.\n\nNotes",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Foreign relations of Botswana" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3620" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Botswana has put a premium on economic and political integration in southern Africa. It has sought to make the Southern African Development Community (SADC) a working vehicle for economic development, and it has promoted efforts to make the region self-policing in terms of preventative diplomacy, conflict resolution, and good governance.  The SADC headquarters are located in Gaborone, the capital of Botswana.  It has welcomed post-apartheid South Africa as a partner in these efforts. Botswana joins the African consensus on most major international matters and is a member of international organizations such as the United Nations and the African Union. Botswana is also a member of the International Criminal Court with a Bilateral Immunity Agreement of protection for the US-military (as covered under Article 98).\n\nBotswana has a small number of diplomatic missions abroad.\n\nBilateral Relations\n\nBotswana and the Commonwealth of Nations\n\nBotswana has been a Commonwealth republic since independence in 1966.\n\nNotes. Foreign relations of Botswana. http://en.wikipedia.org/?curid=3620."
+  }
+}

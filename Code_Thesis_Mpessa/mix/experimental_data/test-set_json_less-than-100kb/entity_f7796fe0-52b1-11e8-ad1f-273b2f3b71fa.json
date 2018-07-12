@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10766",
+  "eid" : "f7796fe0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778494942,
+  "textBody" : "Telephones - main lines in use:\n47,000 (1995)\n\nTelephones - mobile cellular:\nNA\n\nTelephone system:\ndomestic:\nfair open wire and microwave radio relay system\ninternational:\nsatellite earth station - 1 Intelsat (Atlantic Ocean)\n\nRadio broadcast stations:\nAM 2, FM 14 (including 6 repeaters), shortwave 6 (including 5 repeaters) (1998)\n\nRadios:\n104,000 (1997)\n\nTelevision broadcast stations:\n3 (plus eight low-power repeaters) (1997)\n\nTelevisions:\n30,000 (1997)\n\nInternet Service Providers (ISPs):\nNA\n\nCountry code (Top-level domain): GF",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Telecommunications in French Guiana" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10766" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Telephones - main lines in use:\n47,000 (1995)\n\nTelephones - mobile cellular:\nNA\n\nTelephone system:\ndomestic:\nfair open wire and microwave radio relay system\ninternational:\nsatellite earth station - 1 Intelsat (Atlantic Ocean)\n\nRadio broadcast stations:\nAM 2, FM 14 (including 6 repeaters), shortwave 6 (including 5 repeaters) (1998)\n\nRadios:\n104,000 (1997)\n\nTelevision broadcast stations:\n3 (plus eight low-power repeaters) (1997)\n\nTelevisions:\n30,000 (1997)\n\nInternet Service Providers (ISPs):\nNA\n\nCountry code (Top-level domain): GF. Telecommunications in French Guiana. http://en.wikipedia.org/?curid=10766."
+  }
+}

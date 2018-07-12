@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2138",
+  "eid" : "bde6aae0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778398350,
+  "textBody" : "Arthur Wellesley may refer to:\n\n*Arthur Wellesley, 1st Duke of Wellington (1769–1852), Anglo-Irish soldier and statesman\n*Arthur Wellesley, 2nd Duke of Wellington (1807–1884), British soldier and nobleman\n*Arthur Wellesley, 4th Duke of Wellington (1849–1934), British soldier and nobleman\n*Arthur Wellesley, 5th Duke of Wellington (1876–1941), British soldier and nobleman\n*Arthur Wellesley, Marquess of Douro (born 1978), grandson of the 8th Duke\n*Arthur Wellesley Hughes (1870–1950), also known as Arthur Wellesley, Canadian musician and composer",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Arthur Wellesley" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2138" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Arthur Wellesley may refer to:\n\n*Arthur Wellesley, 1st Duke of Wellington (1769–1852), Anglo-Irish soldier and statesman\n*Arthur Wellesley, 2nd Duke of Wellington (1807–1884), British soldier and nobleman\n*Arthur Wellesley, 4th Duke of Wellington (1849–1934), British soldier and nobleman\n*Arthur Wellesley, 5th Duke of Wellington (1876–1941), British soldier and nobleman\n*Arthur Wellesley, Marquess of Douro (born 1978), grandson of the 8th Duke\n*Arthur Wellesley Hughes (1870–1950), also known as Arthur Wellesley, Canadian musician and composer. Arthur Wellesley. http://en.wikipedia.org/?curid=2138."
+  }
+}

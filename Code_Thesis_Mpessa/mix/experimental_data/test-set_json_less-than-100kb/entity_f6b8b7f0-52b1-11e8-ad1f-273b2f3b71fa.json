@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10629",
+  "eid" : "f6b8b7f0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778493679,
+  "textBody" : "Francis II may refer to:\n\n* Francis II, Duke of Brittany (1433–1488)\n* Francesco II Gonzaga, Marquess of Mantua (1466–1519)\n* Francis II of France (1544–1560)\n* Francis II, Duke of Lorraine (1572–1632)\n* Francesco II d'Este, Duke of Modena (1662–1694)\n* Francis II Rákóczi, Duke of Transylvania (1676–1735)\n* Francis II, Holy Roman Emperor (1768–1835)\n* Francis II of the Two Sicilies (1836–1894)\n* Franz, Duke of Bavaria (born 1933), called \"Francis II\" by supporters of the Jacobite claim to the thrones of England, Scotland, Ireland and France.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Francis II" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10629" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Francis II may refer to:\n\n* Francis II, Duke of Brittany (1433–1488)\n* Francesco II Gonzaga, Marquess of Mantua (1466–1519)\n* Francis II of France (1544–1560)\n* Francis II, Duke of Lorraine (1572–1632)\n* Francesco II d'Este, Duke of Modena (1662–1694)\n* Francis II Rákóczi, Duke of Transylvania (1676–1735)\n* Francis II, Holy Roman Emperor (1768–1835)\n* Francis II of the Two Sicilies (1836–1894)\n* Franz, Duke of Bavaria (born 1933), called \"Francis II\" by supporters of the Jacobite claim to the thrones of England, Scotland, Ireland and France. Francis II. http://en.wikipedia.org/?curid=10629."
+  }
+}

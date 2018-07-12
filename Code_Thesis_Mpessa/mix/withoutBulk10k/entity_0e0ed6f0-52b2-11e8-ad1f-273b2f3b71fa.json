@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13826",
+  "eid" : "0e0ed6f0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778532831,
+  "textBody" : "A hub is the central part of a wheel that connects the axle to the wheel itself. Many expressions use the term for a literal or figurative central structure connecting to a periphery.\n\nHub or hubs may also refer to:\n\nWheel components\n\n* Bicycle hub, the central part of a bicycle wheel\n* Locking hubs, accessory on four-wheel drive vehicles\n* Wheel hub assembly, an automotive part\n\nArts and media\n\n* Hub (comics), a Marvel comics fictional character\n* The Hub (Torchwood), a setting in the television series Torchwood\n* Hub Network, a digital cable and satellite television channel\n\nBuildings\n\n* The Hub (building), a residential skyscraper in Brooklyn, New York\n* HUB Tower, in Des Moines, Iowa\n* Husky Union Building, at the University of Washington\n* Hubbard Hall, a residence hall at the University of New Hampshire\n\nComputing\n\n* Hub (network science), referring to a node with a huge number of links\n* Email hub, a computer system dedicated to relay e-mail messages\n* Hubs and authorities, a scheme used for ranking web pages\n* USB hub\n* Ethernet hub, a computer networking hardware device\n* ARCNET hub\n* SATA hub or port multiplier\n\nOrganizations\n\n* Hub Culture, a social network that merges virtual and physical places\n* Harvard University Band\n* Hogeschool-Universiteit Brussel, Belgium\n* Hub International, a North American insurance brokerage\n\nPlaces\n\nPakistan\n\n* Hub, Balochistan, a city in Pakistan\n* Hub Dam, in Balochistan, Pakistan\n* Hub River, in Balochistan, Pakistan\n* Hub Tehsil, in Balochistan, Pakistan\n\nElsewhere\n\n* Hub, California, US\n* Hub, Mississippi, US\n* Boston, Massachusetts, US\n* Hub City (disambiguation)\n\nTransport\n\n* Airline hub, an airport used as transfer point\n* Transport hub, where traffic is exchanged across several modes of transport\n* Hunmanby railway station, England\n\nOther uses\n\n* Hub (given name), shared by several notable people\n* Huambisa language of Peru (ISO 639-3 code \"hub\")",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Hub" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13826" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A hub is the central part of a wheel that connects the axle to the wheel itself. Many expressions use the term for a literal or figurative central structure connecting to a periphery.\n\nHub or hubs may also refer to:\n\nWheel components\n\n* Bicycle hub, the central part of a bicycle wheel\n* Locking hubs, accessory on four-wheel drive vehicles\n* Wheel hub assembly, an automotive part\n\nArts and media\n\n* Hub (comics), a Marvel comics fictional character\n* The Hub (Torchwood), a setting in the television series Torchwood\n* Hub Network, a digital cable and satellite television channel\n\nBuildings\n\n* The Hub (building), a residential skyscraper in Brooklyn, New York\n* HUB Tower, in Des Moines, Iowa\n* Husky Union Building, at the University of Washington\n* Hubbard Hall, a residence hall at the University of New Hampshire\n\nComputing\n\n* Hub (network science), referring to a node with a huge number of links\n* Email hub, a computer system dedicated to relay e-mail messages\n* Hubs and authorities, a scheme used for ranking web pages\n* USB hub\n* Ethernet hub, a computer networking hardware device\n* ARCNET hub\n* SATA hub or port multiplier\n\nOrganizations\n\n* Hub Culture, a social network that merges virtual and physical places\n* Harvard University Band\n* Hogeschool-Universiteit Brussel, Belgium\n* Hub International, a North American insurance brokerage\n\nPlaces\n\nPakistan\n\n* Hub, Balochistan, a city in Pakistan\n* Hub Dam, in Balochistan, Pakistan\n* Hub River, in Balochistan, Pakistan\n* Hub Tehsil, in Balochistan, Pakistan\n\nElsewhere\n\n* Hub, California, US\n* Hub, Mississippi, US\n* Boston, Massachusetts, US\n* Hub City (disambiguation)\n\nTransport\n\n* Airline hub, an airport used as transfer point\n* Transport hub, where traffic is exchanged across several modes of transport\n* Hunmanby railway station, England\n\nOther uses\n\n* Hub (given name), shared by several notable people\n* Huambisa language of Peru (ISO 639-3 code \"hub\"). Hub. http://en.wikipedia.org/?curid=13826."
+  }
+}

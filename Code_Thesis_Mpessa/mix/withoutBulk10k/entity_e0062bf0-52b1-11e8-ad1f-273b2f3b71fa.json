@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7124",
+  "eid" : "e0062bf0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778455599,
+  "textBody" : "A cist ( or; also kist;[http://unabridged.merriam-webster.com Merriam-Webster Unabridged] (MWU). (Online subscription-based reference service of Merriam-Webster, based on Webster's Third New International Dictionary, Unabridged. Merriam-Webster, 2002.) Headword cist. Accessed 2007-12-11.\nfrom  or Germanic Kiste) is a small stone-built coffin-like box or ossuary used to hold the bodies of the dead. Examples can be found across Europe and in the Middle East.[http://www.calvin.edu/academic/archaeology/uj/publicat/reports/cheney.htm A Cist Burial in Jordan][https://www.jstor.org/stable/3210997 Burials in Ancient Palestine: From the Stone Age to Abraham][http://projectsx.dartmouth.edu/history/bronze_age/lessons/les/6.html The Early Minoan Period: The Tombs][http://www.wollamshram.ca/1001/Bologna/bologna_appen.htm Excavation of Cist in Bologna, Italy]\nA cist may have been associated with other monuments, perhaps under a cairn or long barrow. Several cists are sometimes found close together within the same cairn or barrow. Often ornaments have been found within an excavated cist, indicating the wealth or prominence of the interred individual.\n\nRegional examples \n\n;Israel\n*Tel Kabri (Area A), Upper Galilee\n\n;Scotland\n*Balblair cist, Beauly, Inverness\n*Dunan Aula, Craignish, Argyll and Bute\n*Holm Mains Farm, Inverness\n\n;Estonia\n*Jõelähtme (Rebala) stone-cist graves, Harju County\n\n;Guatemala\n*Mundo Perdido, Tikal, Petén Department",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Cist" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7124" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A cist ( or; also kist;[http://unabridged.merriam-webster.com Merriam-Webster Unabridged] (MWU). (Online subscription-based reference service of Merriam-Webster, based on Webster's Third New International Dictionary, Unabridged. Merriam-Webster, 2002.) Headword cist. Accessed 2007-12-11.\nfrom  or Germanic Kiste) is a small stone-built coffin-like box or ossuary used to hold the bodies of the dead. Examples can be found across Europe and in the Middle East.[http://www.calvin.edu/academic/archaeology/uj/publicat/reports/cheney.htm A Cist Burial in Jordan][https://www.jstor.org/stable/3210997 Burials in Ancient Palestine: From the Stone Age to Abraham][http://projectsx.dartmouth.edu/history/bronze_age/lessons/les/6.html The Early Minoan Period: The Tombs][http://www.wollamshram.ca/1001/Bologna/bologna_appen.htm Excavation of Cist in Bologna, Italy]\nA cist may have been associated with other monuments, perhaps under a cairn or long barrow. Several cists are sometimes found close together within the same cairn or barrow. Often ornaments have been found within an excavated cist, indicating the wealth or prominence of the interred individual.\n\nRegional examples \n\n;Israel\n*Tel Kabri (Area A), Upper Galilee\n\n;Scotland\n*Balblair cist, Beauly, Inverness\n*Dunan Aula, Craignish, Argyll and Bute\n*Holm Mains Farm, Inverness\n\n;Estonia\n*Jõelähtme (Rebala) stone-cist graves, Harju County\n\n;Guatemala\n*Mundo Perdido, Tikal, Petén Department. Cist. http://en.wikipedia.org/?curid=7124."
+  }
+}

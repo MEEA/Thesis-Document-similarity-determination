@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=6456",
+  "eid" : "dbaf06d0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778448317,
+  "textBody" : "Colonel Charles Edward (\"Chuck\") Jones (November 8, 1952 – September 11, 2001) was a United States Air Force officer, a computer programmer, and an astronaut in the USAF Manned Spaceflight Engineer Program.\n\nBiography\n\nJones was born November 8, 1952, in Clinton, Indiana.  He graduated from Wichita East High School in 1970, earned a Bachelor of Science degree in Astronautical Engineering from the United States Air Force Academy in 1974, and received a Master of Science degree in Astronautics from MIT in 1980. He entered the USAF Manned Spaceflight Engineer program in 1982, and was scheduled to fly on mission STS-71-B in December 1986, but the mission was cancelled after the Challenger Disaster in January 1986. He left the Manned Spaceflight Engineer program in 1987.\n\nHe later worked for Defense Intelligence Agency, Bolling AFB in Washington D.C., and was Systems Program Director for Intelligence and Information Systems, Hanscom AFB, Massachusetts.\n\nHe was killed at the age of 48 in the attacks of September 11, 2001, aboard American Airlines Flight 11. He had been living as a retired U.S. Air Force Colonel in Bedford, Massachusetts, at the time of his death. He was survived by his wife Jeanette.\n\nAt the National 9/11 Memorial, Jones is memorialized at the North Pool, on Panel N-74.[http://names.911memorial.org/#langen_US&page\nperson&id=4423 Charles Edward Jones] . Memorial Guide: National 9/11 Memorial. Retrieved December 11, 2011.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Charles Edward Jones" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=6456" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Colonel Charles Edward (\"Chuck\") Jones (November 8, 1952 – September 11, 2001) was a United States Air Force officer, a computer programmer, and an astronaut in the USAF Manned Spaceflight Engineer Program.\n\nBiography\n\nJones was born November 8, 1952, in Clinton, Indiana.  He graduated from Wichita East High School in 1970, earned a Bachelor of Science degree in Astronautical Engineering from the United States Air Force Academy in 1974, and received a Master of Science degree in Astronautics from MIT in 1980. He entered the USAF Manned Spaceflight Engineer program in 1982, and was scheduled to fly on mission STS-71-B in December 1986, but the mission was cancelled after the Challenger Disaster in January 1986. He left the Manned Spaceflight Engineer program in 1987.\n\nHe later worked for Defense Intelligence Agency, Bolling AFB in Washington D.C., and was Systems Program Director for Intelligence and Information Systems, Hanscom AFB, Massachusetts.\n\nHe was killed at the age of 48 in the attacks of September 11, 2001, aboard American Airlines Flight 11. He had been living as a retired U.S. Air Force Colonel in Bedford, Massachusetts, at the time of his death. He was survived by his wife Jeanette.\n\nAt the National 9/11 Memorial, Jones is memorialized at the North Pool, on Panel N-74.[http://names.911memorial.org/#langen_US&page\nperson&id=4423 Charles Edward Jones] . Memorial Guide: National 9/11 Memorial. Retrieved December 11, 2011. Charles Edward Jones. http://en.wikipedia.org/?curid=6456."
+  }
+}

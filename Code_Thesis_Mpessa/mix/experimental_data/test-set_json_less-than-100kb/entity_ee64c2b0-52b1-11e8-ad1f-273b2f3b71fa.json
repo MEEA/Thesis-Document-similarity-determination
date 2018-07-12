@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=9341",
+  "eid" : "ee64c2b0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778479707,
+  "textBody" : "Transportation in Ecuador uses six transportation methods to transport passengers and freight (more specifically, oil). They are aviation, highways, pipelines, ports and harbors, railways, and waterways\n\nAviation\n\nNational airlines\n\n*Avianca\n*LATAM Airlines\n*TAME (flag carrier)\n\nAirports\n\n359 (2006 est.)\n\nAirports - with paved runways\n\ntotal: 98\nover 3,047 m: 3\n2,438 to 3,047 m: 4\n1,524 to 2,437 m: 19\n914 to 1,523 m: 29\nunder 914 m: 43\n\nAirports – with unpaved runways\n\ntotal: 261\n914 to 1,523 m:33\nunder 914 m:228\n\nHeliports\n\n2 (2010)\n\nHighways\n\ntotal: \npaved: \nunpaved:  (2004 est.)\n\nThe Sierra Region still plays an important role in transportation throughout the country. The Pan-American Highway crosses it from North to South. Ecuador has managed to update some roads into 4-lane freeways:\n\n* Quito - Alpichacas. Length: 33 km.\n* Guayaquil ring-road. Length: 46 km.\n* Guayaquil - Taura. Length: 30 km.\n* Guayaquil - Cerro Blanco. Length: 27 km.\n* Machala - Pasaje. Length: 23 km.\n\nBus transport\n\n*Bus transport in Ecuador\n\nPipelines\n\n* crude oil 800 km\n* petroleum products 1,358 km\n\nPorts and harbors\n\nPacific Ocean \n\n* Esmeraldas\n* Guayaquil, La Libertad\n* Manta\n* Puerto Bolívar\n* San Lorenzo\n\nMerchant marine\n\ntotal:\n31 ships ( or over) totaling /\nships by type: (2006 est.)\n* Chemical tanker 1\n* gas carrying tanker 1\n* Passenger ships 7\n* Petroleum tankers 21\n* Specialized tanker 1\nForeign-owned: 2\n* Norway 1,\n* Paraguay 1\nRegistered in other countries 1\n* Georgia 1\n\nRailways\n\ntotal:\n812 km (single track)\nnarrow gauge:\n812 km  gauge\n\nThere is a proposed rail connection with Colombia. On 5 July 2008 a meeting took place between Venezuela, Colombia and Ecuador regarding a railway for freight and passengers to link the three countries, and linking the Pacific with the Atlantic also. There is no railway service to Peru.\n\nWaterways\n\n1500 km",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Transport in Ecuador" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=9341" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Transportation in Ecuador uses six transportation methods to transport passengers and freight (more specifically, oil). They are aviation, highways, pipelines, ports and harbors, railways, and waterways\n\nAviation\n\nNational airlines\n\n*Avianca\n*LATAM Airlines\n*TAME (flag carrier)\n\nAirports\n\n359 (2006 est.)\n\nAirports - with paved runways\n\ntotal: 98\nover 3,047 m: 3\n2,438 to 3,047 m: 4\n1,524 to 2,437 m: 19\n914 to 1,523 m: 29\nunder 914 m: 43\n\nAirports – with unpaved runways\n\ntotal: 261\n914 to 1,523 m:33\nunder 914 m:228\n\nHeliports\n\n2 (2010)\n\nHighways\n\ntotal: \npaved: \nunpaved:  (2004 est.)\n\nThe Sierra Region still plays an important role in transportation throughout the country. The Pan-American Highway crosses it from North to South. Ecuador has managed to update some roads into 4-lane freeways:\n\n* Quito - Alpichacas. Length: 33 km.\n* Guayaquil ring-road. Length: 46 km.\n* Guayaquil - Taura. Length: 30 km.\n* Guayaquil - Cerro Blanco. Length: 27 km.\n* Machala - Pasaje. Length: 23 km.\n\nBus transport\n\n*Bus transport in Ecuador\n\nPipelines\n\n* crude oil 800 km\n* petroleum products 1,358 km\n\nPorts and harbors\n\nPacific Ocean \n\n* Esmeraldas\n* Guayaquil, La Libertad\n* Manta\n* Puerto Bolívar\n* San Lorenzo\n\nMerchant marine\n\ntotal:\n31 ships ( or over) totaling /\nships by type: (2006 est.)\n* Chemical tanker 1\n* gas carrying tanker 1\n* Passenger ships 7\n* Petroleum tankers 21\n* Specialized tanker 1\nForeign-owned: 2\n* Norway 1,\n* Paraguay 1\nRegistered in other countries 1\n* Georgia 1\n\nRailways\n\ntotal:\n812 km (single track)\nnarrow gauge:\n812 km  gauge\n\nThere is a proposed rail connection with Colombia. On 5 July 2008 a meeting took place between Venezuela, Colombia and Ecuador regarding a railway for freight and passengers to link the three countries, and linking the Pacific with the Atlantic also. There is no railway service to Peru.\n\nWaterways\n\n1500 km. Transport in Ecuador. http://en.wikipedia.org/?curid=9341."
+  }
+}

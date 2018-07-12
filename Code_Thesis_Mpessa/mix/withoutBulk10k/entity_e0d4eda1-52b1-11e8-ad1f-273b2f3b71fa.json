@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7288",
+  "eid" : "e0d4eda1-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778456954,
+  "textBody" : "Common preference is an everyone wins situation in a number of places:\n\n*Zero-sum game#Non-zero-sum\n*Taking Children Seriously\n*Win-win situation",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Common preference" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7288" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Common preference is an everyone wins situation in a number of places:\n\n*Zero-sum game#Non-zero-sum\n*Taking Children Seriously\n*Win-win situation. Common preference. http://en.wikipedia.org/?curid=7288."
+  }
+}

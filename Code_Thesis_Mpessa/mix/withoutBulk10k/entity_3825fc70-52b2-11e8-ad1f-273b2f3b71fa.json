@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19124",
+  "eid" : "3825fc70-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778603447,
+  "textBody" : "Information on transport in the Maldives.\n\nHighways\n\ntotal\n\nNA km\n\npaved\n\nNA km\n\nunpaved\n\nall roads in Male are paved with concrete cobblestones and many of the roads in Addu city are paved with tarmac there is a small highway called \"the link road\" in Addu city a causeway between 3 or so islands also exist L Gan\n\nPorts and harbors\n\nGan, Malé, see Maldives Ports Limited, the local port authority.\n\nMerchant marine\n\ntotal\n\n16 ships (1,000 GRT or over) totaling 66 804 GRT/\n\nships by type\n\ncargo 12, passenger/cargo 1, petroleum tanker 2, refrigerated cargo 1 (2005),\n\nregistered in other countries\n\n2 (Panama 2) (2005)\n\nAirports\n\n11 (2016)\n\nAirports with paved runways\n\n;total\n11(2016)\n\n;over 10,000 ft (3,048 m)\n1\n\n;8,000 to 9,999 ft (2,438 to 3,047 m)\n1 (2005)\n\nAirports with unpaved runways\n\n;total\n3\n;3,000 to 4,999 ft (914 to 1,523 m)\n3 (2005)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Transport in the Maldives" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19124" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Information on transport in the Maldives.\n\nHighways\n\ntotal\n\nNA km\n\npaved\n\nNA km\n\nunpaved\n\nall roads in Male are paved with concrete cobblestones and many of the roads in Addu city are paved with tarmac there is a small highway called \"the link road\" in Addu city a causeway between 3 or so islands also exist L Gan\n\nPorts and harbors\n\nGan, Malé, see Maldives Ports Limited, the local port authority.\n\nMerchant marine\n\ntotal\n\n16 ships (1,000 GRT or over) totaling 66 804 GRT/\n\nships by type\n\ncargo 12, passenger/cargo 1, petroleum tanker 2, refrigerated cargo 1 (2005),\n\nregistered in other countries\n\n2 (Panama 2) (2005)\n\nAirports\n\n11 (2016)\n\nAirports with paved runways\n\n;total\n11(2016)\n\n;over 10,000 ft (3,048 m)\n1\n\n;8,000 to 9,999 ft (2,438 to 3,047 m)\n1 (2005)\n\nAirports with unpaved runways\n\n;total\n3\n;3,000 to 4,999 ft (914 to 1,523 m)\n3 (2005). Transport in the Maldives. http://en.wikipedia.org/?curid=19124."
+  }
+}

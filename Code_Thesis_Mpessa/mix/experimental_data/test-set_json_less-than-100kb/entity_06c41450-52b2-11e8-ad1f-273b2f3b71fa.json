@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13117",
+  "eid" : "06c41450-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778520597,
+  "textBody" : "Gusana is the name of an artificial lake and of the surrounding area, in the territory of Gavoi, Sardinia, Italy.\n\nThe lake was built in the 1930s to store water for an electricity generator (central of Coghinadordza), and it covered an ancient Roman bridge as well as an ancient archaeological site of the Nuragici people.\n\nIt is now a tourist destination.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Gusana" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13117" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Gusana is the name of an artificial lake and of the surrounding area, in the territory of Gavoi, Sardinia, Italy.\n\nThe lake was built in the 1930s to store water for an electricity generator (central of Coghinadordza), and it covered an ancient Roman bridge as well as an ancient archaeological site of the Nuragici people.\n\nIt is now a tourist destination. Gusana. http://en.wikipedia.org/?curid=13117."
+  }
+}

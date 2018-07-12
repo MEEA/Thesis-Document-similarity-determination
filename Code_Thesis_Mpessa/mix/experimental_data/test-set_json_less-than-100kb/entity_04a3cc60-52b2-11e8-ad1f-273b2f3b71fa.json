@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12745",
+  "eid" : "04a3cc60-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778517030,
+  "textBody" : "Galatians may refer to:\n\n* the Galatians (people)\n* the Epistle to the Galatians, a book of the New Testament\n* the English translation of the Greek Galatai or Latin Galatae, Galli, or Gallograeci to refer to either the Galatians or the Gauls in general",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Galatians" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12745" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Galatians may refer to:\n\n* the Galatians (people)\n* the Epistle to the Galatians, a book of the New Testament\n* the English translation of the Greek Galatai or Latin Galatae, Galli, or Gallograeci to refer to either the Galatians or the Gauls in general. Galatians. http://en.wikipedia.org/?curid=12745."
+  }
+}

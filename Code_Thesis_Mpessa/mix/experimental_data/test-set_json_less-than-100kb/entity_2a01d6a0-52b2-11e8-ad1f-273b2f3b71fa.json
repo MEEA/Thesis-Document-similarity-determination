@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17007",
+  "eid" : "2a01d6a0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778579722,
+  "textBody" : "Kanaris may mean:\n\n* Constantine Kanaris, Greek admiral and statesman\n** One of five ships (the first constructed in 1835) of the Hellenic Navy named after him.[http://www.hellenicnavy.gr/fgKanaris_en.asp ]",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Kanaris" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17007" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Kanaris may mean:\n\n* Constantine Kanaris, Greek admiral and statesman\n** One of five ships (the first constructed in 1835) of the Hellenic Navy named after him.[http://www.hellenicnavy.gr/fgKanaris_en.asp ]. Kanaris. http://en.wikipedia.org/?curid=17007."
+  }
+}

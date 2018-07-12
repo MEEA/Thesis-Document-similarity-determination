@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13572",
+  "eid" : "0b2599b0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778527947,
+  "textBody" : "Henry VII may refer to:\n\n* Henry VII, Duke of Bavaria (died 1047), count of Luxembourg (as Henry II) from 1026 and duke of Bavaria from 1042 until his death\n* Henry (VII) of Germany (1211–1242), King of Sicily from 1212, Duke of Swabia from 1216, and King of Germany from 1220\n* Henry VII, Holy Roman Emperor (1275–1313), King of Germany from 1308 and Holy Roman Emperor from 1312\n* Henry VII, Count of Schwarzburg-Blankenburg (13th-century–1324), also known as Henry VI, the ruling Count of Schwarzburg-Blankenburg from 1285 until his death\n* Henry VII Rumpold (c. 1350–1395), Duke of Żagań-Głogów during 1368–1378 and ruler over half of Głogów, Ścinawa and Bytom Odrzański since 1378\n* Henry VII, Count of Waldeck (14th-century–15th-century), Count of Waldeck from 1397 until his death\n* Henry VII of England (1457–1509), King of England and Lord of Ireland from 1485 until his death in 1509, as the first monarch of the House of Tudor\n* Henri, comte de Paris, duc de France (born 1933), Orléanist pretender to the French throne as Henry VII",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Henry VII" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13572" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Henry VII may refer to:\n\n* Henry VII, Duke of Bavaria (died 1047), count of Luxembourg (as Henry II) from 1026 and duke of Bavaria from 1042 until his death\n* Henry (VII) of Germany (1211–1242), King of Sicily from 1212, Duke of Swabia from 1216, and King of Germany from 1220\n* Henry VII, Holy Roman Emperor (1275–1313), King of Germany from 1308 and Holy Roman Emperor from 1312\n* Henry VII, Count of Schwarzburg-Blankenburg (13th-century–1324), also known as Henry VI, the ruling Count of Schwarzburg-Blankenburg from 1285 until his death\n* Henry VII Rumpold (c. 1350–1395), Duke of Żagań-Głogów during 1368–1378 and ruler over half of Głogów, Ścinawa and Bytom Odrzański since 1378\n* Henry VII, Count of Waldeck (14th-century–15th-century), Count of Waldeck from 1397 until his death\n* Henry VII of England (1457–1509), King of England and Lord of Ireland from 1485 until his death in 1509, as the first monarch of the House of Tudor\n* Henri, comte de Paris, duc de France (born 1933), Orléanist pretender to the French throne as Henry VII. Henry VII. http://en.wikipedia.org/?curid=13572."
+  }
+}

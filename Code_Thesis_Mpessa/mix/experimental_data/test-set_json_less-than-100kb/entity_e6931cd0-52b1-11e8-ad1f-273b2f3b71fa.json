@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8239",
+  "eid" : "e6931cd0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778466589,
+  "textBody" : "Dylan may refer to:\n\nArts and entertainment\n\n* Dylan (play), a 1964 play by Sidney Michaels\n* Bob Dylan (born 1941), American singer and songwriter\n** Dylan (1973 album), a 1973 album by Bob Dylan\n** Dylan (2007 album), a 2007 compilation album by Bob Dylan\n\nTechnology and engineering\n\n* Dylan (programming language), a language with Lisp-like semantics and ALGOL-like syntax\n* Dylan, a RAID storage system by Quantel\n* Honda Dylan, a high-end 125cc Honda scooter in Vietnam\n\nOther uses\n\n* Dylan (name), a given name and a family name (including a list of persons with the name)\n** Dylan Thomas (1914–1953), Welsh poet\n* Dylan ail Don, a sea-god in Celtic mythology",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Dylan" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8239" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Dylan may refer to:\n\nArts and entertainment\n\n* Dylan (play), a 1964 play by Sidney Michaels\n* Bob Dylan (born 1941), American singer and songwriter\n** Dylan (1973 album), a 1973 album by Bob Dylan\n** Dylan (2007 album), a 2007 compilation album by Bob Dylan\n\nTechnology and engineering\n\n* Dylan (programming language), a language with Lisp-like semantics and ALGOL-like syntax\n* Dylan, a RAID storage system by Quantel\n* Honda Dylan, a high-end 125cc Honda scooter in Vietnam\n\nOther uses\n\n* Dylan (name), a given name and a family name (including a list of persons with the name)\n** Dylan Thomas (1914–1953), Welsh poet\n* Dylan ail Don, a sea-god in Celtic mythology. Dylan. http://en.wikipedia.org/?curid=8239."
+  }
+}

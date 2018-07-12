@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10727",
+  "eid" : "f7713280-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778494888,
+  "textBody" : "French Guinea () was a French colonial possession in West Africa. Its borders, while changed over time, were in 1958 those of the independent nation of Guinea.\n\nFrench Guinea was established in 1891, taking the same borders as the previous colony of Rivières du Sud (1882–1891). Prior to 1882, the coastal portions of French Guinea were part of the French colony of Senegal.\n\nIn 1891, Rivières du Sud was placed under the colonial lieutenant governor at Dakar, who had authority over the French coastal regions east to Porto-Novo (modern Benin). In 1894 Rivières du Sud, Cote d'Ivoire and Dahomey were separated into 'independent' colonies, with Rivières du Sud being renamed the Colony of French Guinea. In 1895, French Guinea was made a dependent colony, and its Governor then became a Lieutenant Governor to a Governor-General in Dakar. In 1904, this was formalised into French West Africa. French Guinea, along with Senegal, Dahomey, Cote d'Ivoire and Upper Senegal and Niger each were ruled by a lieutenant governor, under the Governor General in Dakar.\n\nColonial history\n\nGuinea was ruled by France until 1958. It became independent from France in 1958 following the rejection of Charles de Gaulle's Constitution of 1958. At the time French Guinea was the only colony to refuse the new constitution. French Guinea became the modern day country of Guinea keeping French as its official language.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "French Guinea" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10727" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "French Guinea () was a French colonial possession in West Africa. Its borders, while changed over time, were in 1958 those of the independent nation of Guinea.\n\nFrench Guinea was established in 1891, taking the same borders as the previous colony of Rivières du Sud (1882–1891). Prior to 1882, the coastal portions of French Guinea were part of the French colony of Senegal.\n\nIn 1891, Rivières du Sud was placed under the colonial lieutenant governor at Dakar, who had authority over the French coastal regions east to Porto-Novo (modern Benin). In 1894 Rivières du Sud, Cote d'Ivoire and Dahomey were separated into 'independent' colonies, with Rivières du Sud being renamed the Colony of French Guinea. In 1895, French Guinea was made a dependent colony, and its Governor then became a Lieutenant Governor to a Governor-General in Dakar. In 1904, this was formalised into French West Africa. French Guinea, along with Senegal, Dahomey, Cote d'Ivoire and Upper Senegal and Niger each were ruled by a lieutenant governor, under the Governor General in Dakar.\n\nColonial history\n\nGuinea was ruled by France until 1958. It became independent from France in 1958 following the rejection of Charles de Gaulle's Constitution of 1958. At the time French Guinea was the only colony to refuse the new constitution. French Guinea became the modern day country of Guinea keeping French as its official language. French Guinea. http://en.wikipedia.org/?curid=10727."
+  }
+}

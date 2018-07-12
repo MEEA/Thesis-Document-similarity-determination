@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18684",
+  "eid" : "3464fcd0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778597149,
+  "textBody" : "Laura Maureen Bertram (born September 5, 1978) is a Canadian actress best known for her role as Trance Gemini in Andromeda.\n\nLife and career \n\nBertram was born in Toronto, Ontario, and lives in Vancouver, British Columbia. She earned her degree in history from the University of Guelph. She has two younger sisters named Heather (born 1981) and Jennifer (born 1984), who are former actresses. In 1997, Bertram was a ceramics instructor at Kilcoo Camp. She also used to sing in the Canadian Children's Opera Chorus.\n\nHer credits include the TV series Ready or Not, Are You Afraid of the Dark?, Seasons of Love, and Andromeda as Trance Gemini, and the movies Night of the Twisters, and Dear America: So Far From Home. She was a series regular on Season 2 of Robson Arms.\n\nBertram is a high school teacher; in addition, she also teaches young actors at Biz Studio in Vancouver.\n\nAwards \n\nBertram has won two Gemini Awards for \"Best Performance in a Children's or Youth Program or Series\" for Ready or Not in 1995 and for \"Best Performance in a Children's or Youth Program or Series\" for Ready or Not in 1998.\n\nShe has also been nominated for two Gemini Awards for \"Best Performance in a Children's or Youth Program or Series\" for Ready or Not in 1996 and for Best Performance by an Actress in a Leading Role in a Dramatic Program or Mini-Series for Platinum in 1998.\n\nFilmography \n\nFilm\n\nTelevision\n\nAwards and nominations",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Laura Bertram" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18684" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Laura Maureen Bertram (born September 5, 1978) is a Canadian actress best known for her role as Trance Gemini in Andromeda.\n\nLife and career \n\nBertram was born in Toronto, Ontario, and lives in Vancouver, British Columbia. She earned her degree in history from the University of Guelph. She has two younger sisters named Heather (born 1981) and Jennifer (born 1984), who are former actresses. In 1997, Bertram was a ceramics instructor at Kilcoo Camp. She also used to sing in the Canadian Children's Opera Chorus.\n\nHer credits include the TV series Ready or Not, Are You Afraid of the Dark?, Seasons of Love, and Andromeda as Trance Gemini, and the movies Night of the Twisters, and Dear America: So Far From Home. She was a series regular on Season 2 of Robson Arms.\n\nBertram is a high school teacher; in addition, she also teaches young actors at Biz Studio in Vancouver.\n\nAwards \n\nBertram has won two Gemini Awards for \"Best Performance in a Children's or Youth Program or Series\" for Ready or Not in 1995 and for \"Best Performance in a Children's or Youth Program or Series\" for Ready or Not in 1998.\n\nShe has also been nominated for two Gemini Awards for \"Best Performance in a Children's or Youth Program or Series\" for Ready or Not in 1996 and for Best Performance by an Actress in a Leading Role in a Dramatic Program or Mini-Series for Platinum in 1998.\n\nFilmography \n\nFilm\n\nTelevision\n\nAwards and nominations. Laura Bertram. http://en.wikipedia.org/?curid=18684."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2679",
+  "eid" : "c1924dc0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778404508,
+  "textBody" : "Abd ar-Rahman IV Mortada (عبدالرحمن) was the Caliph of Córdoba in the Umayyad dynasty of the Al-Andalus, succeeding Suleiman II, in 1018. That same year, he was murdered at Cadiz while fleeing from a battle in which he had been deserted by the very supporters which had brought him into power. His brief reign was similar to that of Abd ar-Rahman V Mostadir.\n\n|-",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Abd ar-Rahman IV" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2679" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Abd ar-Rahman IV Mortada (عبدالرحمن) was the Caliph of Córdoba in the Umayyad dynasty of the Al-Andalus, succeeding Suleiman II, in 1018. That same year, he was murdered at Cadiz while fleeing from a battle in which he had been deserted by the very supporters which had brought him into power. His brief reign was similar to that of Abd ar-Rahman V Mostadir.\n\n|-. Abd ar-Rahman IV. http://en.wikipedia.org/?curid=2679."
+  }
+}

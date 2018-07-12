@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=20151",
+  "eid" : "40374360-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778616982,
+  "textBody" : "A mousse (French 'foam') is a soft prepared food that incorporates air bubbles to give it a light and airy texture. It can range from light and fluffy to creamy and thick, depending on preparation techniques. A mousse may be sweet or savoury.[http://www.foodterms.com/encyclopedia/mousse/index.html Mousse]. Food Network Food Encyclopedia. Retrieved February 21, 2017.\n\nSweet mousses are typically made with whipped egg whites and flavored with one or more of chocolate, coffee, caramel, puréed fruits, or various herbs and spices, such as mint or vanilla. In the case of some chocolate mousses, egg yolks are often stirred into melted chocolate to give the final product a richer mouthfeel. Mousses are also typically chilled before being served, which gives them a denser texture. Sweetened mousse is served as a dessert, or used as an airy cake filling. It is sometimes stabilized with gelatin.\n\nSavory mousses can be made from meat, fish, shellfish, foie gras, cheese, or vegetables. Hot mousses often get their light texture from the addition of beaten egg whites.\n\nGallery\n\nFile:Lemon mousse with peach compote (4455679740).jpg|Lemon mousse with peach compote\nFile:Smoked salmon and dill mousse in cucumber cups.jpg|Savory salmon mousse\nFile:Mousse cake 7.jpg|Mousse cake",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Mousse" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=20151" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A mousse (French 'foam') is a soft prepared food that incorporates air bubbles to give it a light and airy texture. It can range from light and fluffy to creamy and thick, depending on preparation techniques. A mousse may be sweet or savoury.[http://www.foodterms.com/encyclopedia/mousse/index.html Mousse]. Food Network Food Encyclopedia. Retrieved February 21, 2017.\n\nSweet mousses are typically made with whipped egg whites and flavored with one or more of chocolate, coffee, caramel, puréed fruits, or various herbs and spices, such as mint or vanilla. In the case of some chocolate mousses, egg yolks are often stirred into melted chocolate to give the final product a richer mouthfeel. Mousses are also typically chilled before being served, which gives them a denser texture. Sweetened mousse is served as a dessert, or used as an airy cake filling. It is sometimes stabilized with gelatin.\n\nSavory mousses can be made from meat, fish, shellfish, foie gras, cheese, or vegetables. Hot mousses often get their light texture from the addition of beaten egg whites.\n\nGallery\n\nFile:Lemon mousse with peach compote (4455679740).jpg|Lemon mousse with peach compote\nFile:Smoked salmon and dill mousse in cucumber cups.jpg|Savory salmon mousse\nFile:Mousse cake 7.jpg|Mousse cake. Mousse. http://en.wikipedia.org/?curid=20151."
+  }
+}

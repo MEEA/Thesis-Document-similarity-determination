@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1991",
+  "eid" : "bd177400-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778396992,
+  "textBody" : "The word Angula may refer to one of the following:\n\n* Aṅgula, a measure equal to a finger's breadth\n* Eel, a biological order of fish\n* Nahas Angula, former Prime Minister of Namibia.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Angula" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1991" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The word Angula may refer to one of the following:\n\n* Aṅgula, a measure equal to a finger's breadth\n* Eel, a biological order of fish\n* Nahas Angula, former Prime Minister of Namibia. Angula. http://en.wikipedia.org/?curid=1991."
+  }
+}

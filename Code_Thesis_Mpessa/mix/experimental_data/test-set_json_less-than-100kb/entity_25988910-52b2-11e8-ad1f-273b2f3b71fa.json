@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16354",
+  "eid" : "25988910-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778572321,
+  "textBody" : "Johann Friedrich Endersch (25 October 1705 – 28 March 1769) was a German cartographer and mathematician. Endersch also held the title of Royal Mathematician to King Augustus III of Poland. \n\nLife\n\nEndersch was born in Dörnfeld an der Heide, Schwarzburg-Rudolstadt, Thuringia, but lived most of his life in Elbing (Elbląg), Royal Prussia[https://books.google.com/books?idWPhbOVW9BCoC&pg\nPA190&dqdanzig+patrician+families#PPA190,M1 Urban Societies in East-Central Europe], page 190-191, Jaroslav Miller 2008 in the Polish-Lithuanian Commonwealth.Daniel Stone,A History of East Central Europe, University of Washington Press, 2001, p. 30,  [https://books.google.com/books?id\nLFgB_l4SdHAC&pgPA30&dq\n%22Royal+prussia%22+Poland+1466+Elbl%C4%85g&lrlang_en&as_brr\n0&as_ptALLTYPES&hl\npl Google Books]\n\nIn 1755 Endersch completed for Imperial Prince-Bishop Adam Stanisław Grabowski (Celsissimo ac Reverendissimo S. Rom. Imp. Principi Domino Adam Stanislao in Grabowo Grabowski Episcopo Warmiensi et Sambiesi, Terrarum Prussiae Praesidis ...) a map of Warmia titled Tabula Geographica Episcopatum Warmiensem in Prussia Exhibens. The map, detailing the towns of Warmia (Ermland), was commissioned for the court of Holy Roman Emperor Francis I.\n\nEndersch also made a copper etching that depicted a galiot that had been built in Elbing in 1738 and was named D' Stadt Elbinghttp://www.hans-pfau-elbing.de/51601.htmlhttp://www.elblag-moje-miasto.pl/statek.htm (German for \"City of Elbląg\").\n\nNotes",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Johann Friedrich Endersch" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16354" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Johann Friedrich Endersch (25 October 1705 – 28 March 1769) was a German cartographer and mathematician. Endersch also held the title of Royal Mathematician to King Augustus III of Poland. \n\nLife\n\nEndersch was born in Dörnfeld an der Heide, Schwarzburg-Rudolstadt, Thuringia, but lived most of his life in Elbing (Elbląg), Royal Prussia[https://books.google.com/books?idWPhbOVW9BCoC&pg\nPA190&dqdanzig+patrician+families#PPA190,M1 Urban Societies in East-Central Europe], page 190-191, Jaroslav Miller 2008 in the Polish-Lithuanian Commonwealth.Daniel Stone,A History of East Central Europe, University of Washington Press, 2001, p. 30,  [https://books.google.com/books?id\nLFgB_l4SdHAC&pgPA30&dq\n%22Royal+prussia%22+Poland+1466+Elbl%C4%85g&lrlang_en&as_brr\n0&as_ptALLTYPES&hl\npl Google Books]\n\nIn 1755 Endersch completed for Imperial Prince-Bishop Adam Stanisław Grabowski (Celsissimo ac Reverendissimo S. Rom. Imp. Principi Domino Adam Stanislao in Grabowo Grabowski Episcopo Warmiensi et Sambiesi, Terrarum Prussiae Praesidis ...) a map of Warmia titled Tabula Geographica Episcopatum Warmiensem in Prussia Exhibens. The map, detailing the towns of Warmia (Ermland), was commissioned for the court of Holy Roman Emperor Francis I.\n\nEndersch also made a copper etching that depicted a galiot that had been built in Elbing in 1738 and was named D' Stadt Elbinghttp://www.hans-pfau-elbing.de/51601.htmlhttp://www.elblag-moje-miasto.pl/statek.htm (German for \"City of Elbląg\").\n\nNotes. Johann Friedrich Endersch. http://en.wikipedia.org/?curid=16354."
+  }
+}

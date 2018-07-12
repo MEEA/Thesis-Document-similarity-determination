@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2470",
+  "eid" : "c0725ed0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778402621,
+  "textBody" : "Aba may refer to:\n\nGeographic toponyms \n\n* Aba, Abia, a city in Nigeria and former second capital of Biafra\n* Aba Tibetan and Qiang Autonomous Prefecture, Sichuan, China\n** Aba County, Aba Prefecture, Sichuan, China\n** Aba, Sichuan, main town in Aba County\n* Aba, Democratic Republic of the Congo\n* Aba, Hungary, a town in Fejér County, Hungary\n* Abeh-ye Now, a village in Semnan Province, Iran\n* Aba, Okayama, a village in Japan\n* Aba Island, in the White Nile River, Sudan\n* Aba River (Nigeria), a river in Nigeria\n* Aba River (Russia), a river in Russia\n* Itu Aba Island, in the South China Sea\n\nPeople \n\n* Aba (family), a clan in Hungary\n* Aba (people), a clan of the Shor in Russia\n* Aba Andam, Ghanaian physicist\n* Aba Bayefsky, Canadian artist and teacher\n* Aba Cercato, Italian television presenter\n* Mar Abba I (or Aba), metropolitan bishop and saint of the Assyrian Church of the East\n* Samuel Aba of Hungary, 11th-century leader\n* Vilmos Aba Novák, a Hungarian painter\n* Saint Aba of Kaskhar, a 4th-century martyr\n* Johnny Aba (born 1956), a Papua New Guinean boxer of the 1970s and '80s\n\nAnimals \n\n* The aba, Gymnarchus niloticus, a species of fish native to Africa\n* Aba Roundleaf Bat, a west Africa bat\n\nMedia \n\n* Aba (film), Sri Lanka 2008 film\n* \"Aba Daba Honeymoon\", 1914 song\n\nOther uses \n\n* Aba short form of Abaya, a middle eastern robe\n* Aba (Dune), a robe in the fictional Dune universe\n* Aba (mythology), Thracian naiad\n* Abscisic acid, a plant hormone\n* Applied behavior analysis",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Aba" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2470" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Aba may refer to:\n\nGeographic toponyms \n\n* Aba, Abia, a city in Nigeria and former second capital of Biafra\n* Aba Tibetan and Qiang Autonomous Prefecture, Sichuan, China\n** Aba County, Aba Prefecture, Sichuan, China\n** Aba, Sichuan, main town in Aba County\n* Aba, Democratic Republic of the Congo\n* Aba, Hungary, a town in Fejér County, Hungary\n* Abeh-ye Now, a village in Semnan Province, Iran\n* Aba, Okayama, a village in Japan\n* Aba Island, in the White Nile River, Sudan\n* Aba River (Nigeria), a river in Nigeria\n* Aba River (Russia), a river in Russia\n* Itu Aba Island, in the South China Sea\n\nPeople \n\n* Aba (family), a clan in Hungary\n* Aba (people), a clan of the Shor in Russia\n* Aba Andam, Ghanaian physicist\n* Aba Bayefsky, Canadian artist and teacher\n* Aba Cercato, Italian television presenter\n* Mar Abba I (or Aba), metropolitan bishop and saint of the Assyrian Church of the East\n* Samuel Aba of Hungary, 11th-century leader\n* Vilmos Aba Novák, a Hungarian painter\n* Saint Aba of Kaskhar, a 4th-century martyr\n* Johnny Aba (born 1956), a Papua New Guinean boxer of the 1970s and '80s\n\nAnimals \n\n* The aba, Gymnarchus niloticus, a species of fish native to Africa\n* Aba Roundleaf Bat, a west Africa bat\n\nMedia \n\n* Aba (film), Sri Lanka 2008 film\n* \"Aba Daba Honeymoon\", 1914 song\n\nOther uses \n\n* Aba short form of Abaya, a middle eastern robe\n* Aba (Dune), a robe in the fictional Dune universe\n* Aba (mythology), Thracian naiad\n* Abscisic acid, a plant hormone\n* Applied behavior analysis. Aba. http://en.wikipedia.org/?curid=2470."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11784",
+  "eid" : "fdf549c0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778505820,
+  "textBody" : "Fauna is a collective term for animal life.\n\nFauna may also refer to:\n*Fauna (deity), an ancient Roman goddess\n*Fauna, Bloemfontein, a suburb of the South African city of Bloemfontein\n*Fauna (album), a 2008 album by Oh Land\n*Fauna, a fictional character from Disney's Sleeping Beauty, see Flora, Fauna, and Merryweather\n*Fauna, a 2009 Spiel des Jahres-nominated board game\n*Fauna, a female character in Sweet Thursday, a novel by John Steinbeck\n*Florian-Ayala Fauna, American artist, musician, and music producer",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Fauna (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11784" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Fauna is a collective term for animal life.\n\nFauna may also refer to:\n*Fauna (deity), an ancient Roman goddess\n*Fauna, Bloemfontein, a suburb of the South African city of Bloemfontein\n*Fauna (album), a 2008 album by Oh Land\n*Fauna, a fictional character from Disney's Sleeping Beauty, see Flora, Fauna, and Merryweather\n*Fauna, a 2009 Spiel des Jahres-nominated board game\n*Fauna, a female character in Sweet Thursday, a novel by John Steinbeck\n*Florian-Ayala Fauna, American artist, musician, and music producer. Fauna (disambiguation). http://en.wikipedia.org/?curid=11784."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2501",
+  "eid" : "c0ac3380-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778403000,
+  "textBody" : "Appendix may refer to:\n\nIn documents\n\n*Addendum, an addition made to a document by its author after its initial printing or publication\n*Bibliography, a systematic list of books and other works\n*Index (publishing), a list of words or phrases with pointers to where related material can be found in a document\n\nAnatomy\n\n*Appendix (anatomy), a part of the human digestive system\n*Appendix of the epididymis, a detached efferent duct of the epididymis\n*Appendix testis, a vestigial remnant of the Müllerian duct\n*Epiploic appendix, one of several small pouches of fat on the peritoneum along the colon and rectum\n**Appendix of the laryngeal ventricle, a sac that extends from the laryngeal ventricle\n*Mesoappendix, the portion of the mesentery that connects the ileum to the vermiform appendix\n\nArts and media\n\n*Appendix (band), a Finnish punk rock group\n*The Appendix, a quarterly journal of history and culture",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Appendix" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2501" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Appendix may refer to:\n\nIn documents\n\n*Addendum, an addition made to a document by its author after its initial printing or publication\n*Bibliography, a systematic list of books and other works\n*Index (publishing), a list of words or phrases with pointers to where related material can be found in a document\n\nAnatomy\n\n*Appendix (anatomy), a part of the human digestive system\n*Appendix of the epididymis, a detached efferent duct of the epididymis\n*Appendix testis, a vestigial remnant of the Müllerian duct\n*Epiploic appendix, one of several small pouches of fat on the peritoneum along the colon and rectum\n**Appendix of the laryngeal ventricle, a sac that extends from the laryngeal ventricle\n*Mesoappendix, the portion of the mesentery that connects the ileum to the vermiform appendix\n\nArts and media\n\n*Appendix (band), a Finnish punk rock group\n*The Appendix, a quarterly journal of history and culture. Appendix. http://en.wikipedia.org/?curid=2501."
+  }
+}

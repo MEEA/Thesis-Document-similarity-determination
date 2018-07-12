@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15304",
+  "eid" : "1b2ab480-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778554824,
+  "textBody" : "IDE, iDE, or Ide may refer to:\n\nOrganisations\n\n* Institut für Dokumentologie und Editorik, a German think tank for the application of digital methods on historical documents\n* Institute of Developing Economies, a semi-governmental research institute in Japan\n* Instituto de Desenvolvimento Educacional, a Brazilian institution linked with Fundação Getúlio Vargas\n* International Development Enterprises, a development NGO based in Denver, Colorado\n* Party of Internet Democracy, a political party in Hungary\n\nScience and technology\n\nComputing\n\n* Integrated development environment, a software application for software development\n* Integrated Drive Electronics, a computer hardware bus for disk drives, retroactively termed Parallel ATA\n\nBiology and medicine\n\n* Ide (fish), a freshwater fish\n* Intact dilation and extraction, a form of abortion\n* Insulin-degrading enzyme, Insulysin, an enzyme\n* Infectious disease epidemiology, the study of the patterns of communicable diseases at the population level\n* Investigational Device Exemption, a US Food and Drug Administration regulatory status\n\nPlaces\n\n* Ide, Devon, a village in England\n* Ide, Kyoto, a town in Japan\n\nPeople\n\n* Idê, one of the Cretan nymphs who nursed the infant Zeus; See Mount Ida, Crete\n* Samuel Krafsur (1913–1983), (KGB codename)\n\nGiven Name\n\n* Íde, a feminine name of Gaelic origin\n\nSurname\n\n* Charlie Ide (born 1988), English footballer\n*, Japanese footballer\n* Henry Clay Ide (1844–1921), American commissioner to Samoa and the Philippines\n*, Japanese shogi player\n*, Japanese speed skater\n* William B. Ide (1796–1852), author of the California Republic's proclamation of independence from Mexico\n* Yuji Ide (born 1975), Japanese racing driver\n* Yasunori Ide, Japanese anime creator",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "IDE" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15304" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "IDE, iDE, or Ide may refer to:\n\nOrganisations\n\n* Institut für Dokumentologie und Editorik, a German think tank for the application of digital methods on historical documents\n* Institute of Developing Economies, a semi-governmental research institute in Japan\n* Instituto de Desenvolvimento Educacional, a Brazilian institution linked with Fundação Getúlio Vargas\n* International Development Enterprises, a development NGO based in Denver, Colorado\n* Party of Internet Democracy, a political party in Hungary\n\nScience and technology\n\nComputing\n\n* Integrated development environment, a software application for software development\n* Integrated Drive Electronics, a computer hardware bus for disk drives, retroactively termed Parallel ATA\n\nBiology and medicine\n\n* Ide (fish), a freshwater fish\n* Intact dilation and extraction, a form of abortion\n* Insulin-degrading enzyme, Insulysin, an enzyme\n* Infectious disease epidemiology, the study of the patterns of communicable diseases at the population level\n* Investigational Device Exemption, a US Food and Drug Administration regulatory status\n\nPlaces\n\n* Ide, Devon, a village in England\n* Ide, Kyoto, a town in Japan\n\nPeople\n\n* Idê, one of the Cretan nymphs who nursed the infant Zeus; See Mount Ida, Crete\n* Samuel Krafsur (1913–1983), (KGB codename)\n\nGiven Name\n\n* Íde, a feminine name of Gaelic origin\n\nSurname\n\n* Charlie Ide (born 1988), English footballer\n*, Japanese footballer\n* Henry Clay Ide (1844–1921), American commissioner to Samoa and the Philippines\n*, Japanese shogi player\n*, Japanese speed skater\n* William B. Ide (1796–1852), author of the California Republic's proclamation of independence from Mexico\n* Yuji Ide (born 1975), Japanese racing driver\n* Yasunori Ide, Japanese anime creator. IDE. http://en.wikipedia.org/?curid=15304."
+  }
+}

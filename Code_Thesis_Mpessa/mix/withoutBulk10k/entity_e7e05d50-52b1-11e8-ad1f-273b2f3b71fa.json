@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8442",
+  "eid" : "e7e05d50-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778468773,
+  "textBody" : "Digraph may refer to:\n\n* Digraph (orthography), a pair of characters used together to represent a single sound, such as \"sh\" in English\n* Typographical ligature, the joining of two letters as a single glyph, such as \"æ\"\n* Digraph (programming), a group of characters used to symbolise one character\n* Digraph (mathematics), or directed graph, in graph theory\n* Digraph, component of a CIA cryptonym, a covert code name\n* As language codes in ISO 639-1",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Digraph" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8442" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Digraph may refer to:\n\n* Digraph (orthography), a pair of characters used together to represent a single sound, such as \"sh\" in English\n* Typographical ligature, the joining of two letters as a single glyph, such as \"æ\"\n* Digraph (programming), a group of characters used to symbolise one character\n* Digraph (mathematics), or directed graph, in graph theory\n* Digraph, component of a CIA cryptonym, a covert code name\n* As language codes in ISO 639-1. Digraph. http://en.wikipedia.org/?curid=8442."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18921",
+  "eid" : "36185220-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778600002,
+  "textBody" : "Montesquieu (1689–1755) was a French lawyer, man of letters, and political philosopher.\n\nMontesquieu may also refer to:\n* Montesquieu, Hérault, commune in the Hérault department, France\n* Montesquieu, Lot-et-Garonne, commune in the Lot-et-Garonne department, France\n* Montesquieu, Tarn-et-Garonne, commune in the Tarn-et-Garonne department, France",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Montesquieu (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18921" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Montesquieu (1689–1755) was a French lawyer, man of letters, and political philosopher.\n\nMontesquieu may also refer to:\n* Montesquieu, Hérault, commune in the Hérault department, France\n* Montesquieu, Lot-et-Garonne, commune in the Lot-et-Garonne department, France\n* Montesquieu, Tarn-et-Garonne, commune in the Tarn-et-Garonne department, France. Montesquieu (disambiguation). http://en.wikipedia.org/?curid=18921."
+  }
+}

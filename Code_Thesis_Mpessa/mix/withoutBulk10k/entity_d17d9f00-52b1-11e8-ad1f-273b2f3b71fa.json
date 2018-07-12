@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=4959",
+  "eid" : "d17d9f00-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778431216,
+  "textBody" : "BSA may refer to:\n\nBusinesses and organizations \n\n* Bearing Specialists Association\n* Belarusian Socialist Assembly\n* Bibliographical Society of America\n* Birmingham Small Arms Company, UK manufacturer of firearms and vehicles\n* Boston Society of Architects\n* Botanical Society of America\n* Boy Scouts of America\n* British Social Attitudes Survey\n* British Sandwich Association\n* British Science Association\n* British Sociological Association\n* British Speleological Association\n* British Stammering Association\n* Broadcasting Service Association, Australian radio network\n* B.S.A. Company, motorcycle manufacturer\n* Business Services Association, of UK service providers\n* Business Software Alliance\n\nSport\n\n* Basketball South Africa\n\nGovernment and laws\n\n* Bank Secrecy Act\n* Broadcasting Standards Authority\n\nSchools\n\n* Baltimore School for the Arts\n* Birmingham School of Acting\n* British School at Athens\n\nScience and medicine \n\n* Behavioral systems analysis\n* Bis(trimethylsilyl)acetamide\n* Body surface area\n* Bovine serum albumin\n\nOther uses \n\n* Bosnian Serb Army, common name for the Army of Republika Srpska, the former armed forces of the Republika Srpska\n* Bachelor of Science in Agriculture, B.S.A.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "BSA" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=4959" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "BSA may refer to:\n\nBusinesses and organizations \n\n* Bearing Specialists Association\n* Belarusian Socialist Assembly\n* Bibliographical Society of America\n* Birmingham Small Arms Company, UK manufacturer of firearms and vehicles\n* Boston Society of Architects\n* Botanical Society of America\n* Boy Scouts of America\n* British Social Attitudes Survey\n* British Sandwich Association\n* British Science Association\n* British Sociological Association\n* British Speleological Association\n* British Stammering Association\n* Broadcasting Service Association, Australian radio network\n* B.S.A. Company, motorcycle manufacturer\n* Business Services Association, of UK service providers\n* Business Software Alliance\n\nSport\n\n* Basketball South Africa\n\nGovernment and laws\n\n* Bank Secrecy Act\n* Broadcasting Standards Authority\n\nSchools\n\n* Baltimore School for the Arts\n* Birmingham School of Acting\n* British School at Athens\n\nScience and medicine \n\n* Behavioral systems analysis\n* Bis(trimethylsilyl)acetamide\n* Body surface area\n* Bovine serum albumin\n\nOther uses \n\n* Bosnian Serb Army, common name for the Army of Republika Srpska, the former armed forces of the Republika Srpska\n* Bachelor of Science in Agriculture, B.S.A. BSA. http://en.wikipedia.org/?curid=4959."
+  }
+}

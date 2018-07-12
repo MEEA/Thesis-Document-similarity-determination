@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3040",
+  "eid" : "c3d38b30-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778408291,
+  "textBody" : "`Ali ibn al-Husayn ul-Iṣfahānī (), also known as Abu-l-Faraj or, in the West, as Abulfaraj (897–967) was an historian of Arab-Quraysh origin who is noted for collecting and preserving ancient Arabic lyrics and poems in his major work, the Kitāb al-Aghānī.\n\nBiography\n\nAbu al-Faraj al-Iṣfahānī was born in Isfahan, but spent his youth and made his early studies in Baghdad. He was a direct descendant of the last of the Umayyad caliphs, Marwan II, and was thus connected with the Umayyad rulers in al-Andalus, and seems to have kept up a correspondence with them and to have sent them some of his works. He became famous for his knowledge of early Arabian antiquities.\n\nHis later life was spent in various parts of the Islamic world, in Aleppo with its Hamdanid governor Sayf ad-Dawlah (to whom he dedicated the Book of Songs), in Ray with the Buwayhid vizier Ibn 'Abbad, and elsewhere.\n\nAlthough he wrote poetry, also an anthology of verses on the monasteries of Mesopotamia and Egypt, and a genealogical work, his fame rests upon his Book of Songs (Kitab al-Aghani).\n\nBook of Songs\n\nKitab al-Aghani (Book of Songs), a twenty volumes work that relates the stories of composers, poets, and singers (both men and women), along with some of their anecdotes, from the oldest epoch of Arabic literature down to the 9th century.Muhammad Mustafa Al-A'zami (2003), The History of The Qur'anic Text: From Revelation to Compilation: A Comparative Study with the Old and New Testaments, p. 192. UK Islamic Academy. .Chambers Biographical Dictionary, , page 5 These stories are related through isnad channels.  The poems were put to music, but the musical signs are no longer readable. Because of the accompanying biographical annotations on the authors and composers, the work is an important historical source. \nIt contains a mass of information as to the life and customs of the early Arabs, and is the most valuable authority we have for their pre-Islamic and early Islamic days.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Abu al-Faraj al-Isfahani" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3040" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "`Ali ibn al-Husayn ul-Iṣfahānī (), also known as Abu-l-Faraj or, in the West, as Abulfaraj (897–967) was an historian of Arab-Quraysh origin who is noted for collecting and preserving ancient Arabic lyrics and poems in his major work, the Kitāb al-Aghānī.\n\nBiography\n\nAbu al-Faraj al-Iṣfahānī was born in Isfahan, but spent his youth and made his early studies in Baghdad. He was a direct descendant of the last of the Umayyad caliphs, Marwan II, and was thus connected with the Umayyad rulers in al-Andalus, and seems to have kept up a correspondence with them and to have sent them some of his works. He became famous for his knowledge of early Arabian antiquities.\n\nHis later life was spent in various parts of the Islamic world, in Aleppo with its Hamdanid governor Sayf ad-Dawlah (to whom he dedicated the Book of Songs), in Ray with the Buwayhid vizier Ibn 'Abbad, and elsewhere.\n\nAlthough he wrote poetry, also an anthology of verses on the monasteries of Mesopotamia and Egypt, and a genealogical work, his fame rests upon his Book of Songs (Kitab al-Aghani).\n\nBook of Songs\n\nKitab al-Aghani (Book of Songs), a twenty volumes work that relates the stories of composers, poets, and singers (both men and women), along with some of their anecdotes, from the oldest epoch of Arabic literature down to the 9th century.Muhammad Mustafa Al-A'zami (2003), The History of The Qur'anic Text: From Revelation to Compilation: A Comparative Study with the Old and New Testaments, p. 192. UK Islamic Academy. .Chambers Biographical Dictionary, , page 5 These stories are related through isnad channels.  The poems were put to music, but the musical signs are no longer readable. Because of the accompanying biographical annotations on the authors and composers, the work is an important historical source. \nIt contains a mass of information as to the life and customs of the early Arabs, and is the most valuable authority we have for their pre-Islamic and early Islamic days. Abu al-Faraj al-Isfahani. http://en.wikipedia.org/?curid=3040."
+  }
+}

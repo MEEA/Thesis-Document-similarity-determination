@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14963",
+  "eid" : "18f64851-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778551125,
+  "textBody" : "The International Tropical Timber Agreement (ITTA, 1983) is an agreement to provide an effective framework for cooperation between tropical timber producers and consumers and to encourage the development of national policies aimed at sustainable utilization and conservation of tropical forests and their genetic resources.\nThe International Tropical Timber Organization was established under this agreement.\n\nOpened for signature - November 18, 1983\n\nEntered into force - April 1, 1985; this agreement expired when the International Tropical Timber Agreement, 1994, went into force.\n\nParties\n\nFifty eight parties signed up to the agreement:\n\nAustralia, Austria, Belgium, Bolivia, Brazil, Burma, Cameroon, Canada, People's Republic of China, Colombia, Democratic Republic of the Congo, Republic of the Congo, Ivory Coast, Denmark, Ecuador, Egypt, European Union, Fiji, Finland, France, Gabon, Germany, Ghana, Greece, Guyana, Honduras, India, Indonesia, Ireland, Italy, Japan, South Korea, Liberia, Luxembourg, Malaysia, Nepal, Netherlands, New Zealand, Norway, Panama, Papua New Guinea, Peru, Philippines, Portugal, Russia, Spain, Sweden, Switzerland, Thailand, Togo, Trinidad and Tobago, United Kingdom, United States, Venezuela",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "International Tropical Timber Agreement, 1983" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14963" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The International Tropical Timber Agreement (ITTA, 1983) is an agreement to provide an effective framework for cooperation between tropical timber producers and consumers and to encourage the development of national policies aimed at sustainable utilization and conservation of tropical forests and their genetic resources.\nThe International Tropical Timber Organization was established under this agreement.\n\nOpened for signature - November 18, 1983\n\nEntered into force - April 1, 1985; this agreement expired when the International Tropical Timber Agreement, 1994, went into force.\n\nParties\n\nFifty eight parties signed up to the agreement:\n\nAustralia, Austria, Belgium, Bolivia, Brazil, Burma, Cameroon, Canada, People's Republic of China, Colombia, Democratic Republic of the Congo, Republic of the Congo, Ivory Coast, Denmark, Ecuador, Egypt, European Union, Fiji, Finland, France, Gabon, Germany, Ghana, Greece, Guyana, Honduras, India, Indonesia, Ireland, Italy, Japan, South Korea, Liberia, Luxembourg, Malaysia, Nepal, Netherlands, New Zealand, Norway, Panama, Papua New Guinea, Peru, Philippines, Portugal, Russia, Spain, Sweden, Switzerland, Thailand, Togo, Trinidad and Tobago, United Kingdom, United States, Venezuela. International Tropical Timber Agreement, 1983. http://en.wikipedia.org/?curid=14963."
+  }
+}

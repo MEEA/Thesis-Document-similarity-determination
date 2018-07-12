@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3449",
+  "eid" : "c6a41050-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778413013,
+  "textBody" : "The Big/Great Dipper is the American English term for the seven brightest stars of Ursa Major (The Plough in British English).\n\nBig Dipper also may refer to:\n\nEntertainment\n\n* Big Dipper (Battersea Park), a wooden roller coaster operating in Battersea Park, London, England, from 1951 until 1972\n* Big Dipper (Blackpool), a wooden roller coaster at Blackpool Pleasure Beach, England\n* Big Dipper (Geauga Lake), a wooden roller coaster formerly at the now defunct Geauga Lake Park in Ohio, US\n* Big Dipper (Luna Park Sydney), a wooden roller coaster operating at Luna Park Sydney, Australia from 1935 until 1981\n* Big Dipper (Michigan's Adventure), a steel roller coaster in Michigan, US\n* Cyclone (Dreamworld), a steel roller coaster which operated as Big Dipper at Luna Park Sydney, Australia from 1995 to 2001\n\nSport\n\n* Wilt Chamberlain (1936–1999), American basketball player\n* Robert DiPierdomenico (born 1958), Australian rules footballer\n* Chris Duncan (born 1981), American baseball player\n\nMusic\n\n* Big Dipper (band), a 1980s-1990s Boston alternative-rock band\n* Big Dipper (album), a 2003 album by Drop Trio\n* The Great Dipper (album), a 2015 album by Roy Kim\n* Big Dipper (Elton John song), a 1978 song by Elton John\n* \"Big Dipper\", a song by Jethro Tull from their 1976 album Too Old to Rock 'n' Roll: Too Young to Die!\n* \"Big Dipper\", a song by Built to Spill from their 1994 album There's Nothing Wrong with Love\n* \"Big Dipper\", a song by Cracker from their 1996 album The Golden Age (Cracker album)\n* \"Big Dipper\", a song by Death Grips from their 2014 album The Powers That B\n\nOther uses\n\n* Big Dipper Ice Arena, in Fairbanks, Alaska",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Big Dipper (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3449" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The Big/Great Dipper is the American English term for the seven brightest stars of Ursa Major (The Plough in British English).\n\nBig Dipper also may refer to:\n\nEntertainment\n\n* Big Dipper (Battersea Park), a wooden roller coaster operating in Battersea Park, London, England, from 1951 until 1972\n* Big Dipper (Blackpool), a wooden roller coaster at Blackpool Pleasure Beach, England\n* Big Dipper (Geauga Lake), a wooden roller coaster formerly at the now defunct Geauga Lake Park in Ohio, US\n* Big Dipper (Luna Park Sydney), a wooden roller coaster operating at Luna Park Sydney, Australia from 1935 until 1981\n* Big Dipper (Michigan's Adventure), a steel roller coaster in Michigan, US\n* Cyclone (Dreamworld), a steel roller coaster which operated as Big Dipper at Luna Park Sydney, Australia from 1995 to 2001\n\nSport\n\n* Wilt Chamberlain (1936–1999), American basketball player\n* Robert DiPierdomenico (born 1958), Australian rules footballer\n* Chris Duncan (born 1981), American baseball player\n\nMusic\n\n* Big Dipper (band), a 1980s-1990s Boston alternative-rock band\n* Big Dipper (album), a 2003 album by Drop Trio\n* The Great Dipper (album), a 2015 album by Roy Kim\n* Big Dipper (Elton John song), a 1978 song by Elton John\n* \"Big Dipper\", a song by Jethro Tull from their 1976 album Too Old to Rock 'n' Roll: Too Young to Die!\n* \"Big Dipper\", a song by Built to Spill from their 1994 album There's Nothing Wrong with Love\n* \"Big Dipper\", a song by Cracker from their 1996 album The Golden Age (Cracker album)\n* \"Big Dipper\", a song by Death Grips from their 2014 album The Powers That B\n\nOther uses\n\n* Big Dipper Ice Arena, in Fairbanks, Alaska. Big Dipper (disambiguation). http://en.wikipedia.org/?curid=3449."
+  }
+}

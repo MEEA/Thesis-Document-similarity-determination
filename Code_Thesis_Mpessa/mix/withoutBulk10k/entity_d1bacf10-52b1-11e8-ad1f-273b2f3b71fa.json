@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=4995",
+  "eid" : "d1bacf10-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778431617,
+  "textBody" : "Barbagia ( or ) is a mountain area of inner Sardinia. It is a natural region mostly contained in the province of Nuoro and located alongside the Gennargentu massif.\n\nThe name comes from Cicero, who described it as a land of barbarians (Barbaria, Βαρβαρία in Ancient Greek). This word derives from the Greek Βάρβαρος, which means \"stuttering\". The inhabitants were also known, by the ancient Romans, with the pejorative term  latrones mastrucati, which means \"thieves with a rough garment in wool\". Roman domination in this area of Sardinia was never more than nominal.\n\nIn 594, Pope Gregory the Great wrote a letter to Hospito, a Christian whom he calls the \"leader of the Barbaricini\" (dux barbaricinorum). Hospito apparently permitted the evangelisation of pagan Barbagia by Christian missionaries.\n\nThe area is usually divided into four Barbagias: the Barbagia di Ollolai, the Barbagia di Seulo, the Barbagia di Belvì and the Mandrolisai. The latter is named after a sub-region, and the others after their main villages.\n\nThe area is full of hard hills, and there is little human presence. Barbagia is one of the least populated areas in Europe, which has allowed Barbagia to preserve its cultural and natural treasures. Barbagia is one of the few, if not the only Sardinian region, where Sardinian language and its internal varieties (both Nuorese and Campidanese dialects) is still spoken on an everyday basis, while the rest of the island has already undergone shift to Italian.\n\nOne of the most important villages is Gavoi. Orgosolo was famous for its bandits and kidnappers and typical murals. Oliena is well known for its wines (especially the Nepente, a  wine made with Cannonau grapes). Another well known town is Fonni, the highest town in Sardinia at more than 1,000 meters above sea level. Fonni is also the gateway to the Gennargentu mountain system.\n\nThe economy consists of agriculture, sheep breeding, art and tradition related business, tourism and light industry.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Barbagia" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=4995" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Barbagia ( or ) is a mountain area of inner Sardinia. It is a natural region mostly contained in the province of Nuoro and located alongside the Gennargentu massif.\n\nThe name comes from Cicero, who described it as a land of barbarians (Barbaria, Βαρβαρία in Ancient Greek). This word derives from the Greek Βάρβαρος, which means \"stuttering\". The inhabitants were also known, by the ancient Romans, with the pejorative term  latrones mastrucati, which means \"thieves with a rough garment in wool\". Roman domination in this area of Sardinia was never more than nominal.\n\nIn 594, Pope Gregory the Great wrote a letter to Hospito, a Christian whom he calls the \"leader of the Barbaricini\" (dux barbaricinorum). Hospito apparently permitted the evangelisation of pagan Barbagia by Christian missionaries.\n\nThe area is usually divided into four Barbagias: the Barbagia di Ollolai, the Barbagia di Seulo, the Barbagia di Belvì and the Mandrolisai. The latter is named after a sub-region, and the others after their main villages.\n\nThe area is full of hard hills, and there is little human presence. Barbagia is one of the least populated areas in Europe, which has allowed Barbagia to preserve its cultural and natural treasures. Barbagia is one of the few, if not the only Sardinian region, where Sardinian language and its internal varieties (both Nuorese and Campidanese dialects) is still spoken on an everyday basis, while the rest of the island has already undergone shift to Italian.\n\nOne of the most important villages is Gavoi. Orgosolo was famous for its bandits and kidnappers and typical murals. Oliena is well known for its wines (especially the Nepente, a  wine made with Cannonau grapes). Another well known town is Fonni, the highest town in Sardinia at more than 1,000 meters above sea level. Fonni is also the gateway to the Gennargentu mountain system.\n\nThe economy consists of agriculture, sheep breeding, art and tradition related business, tourism and light industry. Barbagia. http://en.wikipedia.org/?curid=4995."
+  }
+}

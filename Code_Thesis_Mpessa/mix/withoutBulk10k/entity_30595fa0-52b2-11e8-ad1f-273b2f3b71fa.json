@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18034",
+  "eid" : "30595fa0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778590362,
+  "textBody" : "Leningrad is the former name of St. Petersburg, Russia.\n\nLeningrad  may also refer to:\n\nPlaces\n\n*Leningrad Oblast, a federal subject of Russia, around Saint Petersburg\n*Mu'minobod, Tajikistan (former name)\n\nMusic\n\n*Leningrad (band), Russian ska/punk band\n*Symphony No. 7 (Shostakovich) (Op. 60), a symphony by Shostakovich, subtitled Leningrad\n*Leningrad (song), 1989 song by Billy Joel\n*Leningrad, track 3 on The Storyman, 2006 album by Chris de Burgh\n*Leningrad, track 6 on the Leningrad Cowboys album Go Space\n\nShips\n\n*Soviet helicopter carrier Leningrad, 1968 naval vessel\n*Leningrad-class destroyer leader, Soviet Navy destroyer leaders in service 1936-1963\n\nOther\n\n*2046 Leningrad, an asteroid named after Leningrad\n*Leningrad, a ZX Spectrum clone\n*Leningrad Military District, of the Russian Armed Forces",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Leningrad (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18034" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Leningrad is the former name of St. Petersburg, Russia.\n\nLeningrad  may also refer to:\n\nPlaces\n\n*Leningrad Oblast, a federal subject of Russia, around Saint Petersburg\n*Mu'minobod, Tajikistan (former name)\n\nMusic\n\n*Leningrad (band), Russian ska/punk band\n*Symphony No. 7 (Shostakovich) (Op. 60), a symphony by Shostakovich, subtitled Leningrad\n*Leningrad (song), 1989 song by Billy Joel\n*Leningrad, track 3 on The Storyman, 2006 album by Chris de Burgh\n*Leningrad, track 6 on the Leningrad Cowboys album Go Space\n\nShips\n\n*Soviet helicopter carrier Leningrad, 1968 naval vessel\n*Leningrad-class destroyer leader, Soviet Navy destroyer leaders in service 1936-1963\n\nOther\n\n*2046 Leningrad, an asteroid named after Leningrad\n*Leningrad, a ZX Spectrum clone\n*Leningrad Military District, of the Russian Armed Forces. Leningrad (disambiguation). http://en.wikipedia.org/?curid=18034."
+  }
+}

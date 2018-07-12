@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7960",
+  "eid" : "e4634480-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778462920,
+  "textBody" : "Deduction and induction may refer to:\n* Deductive reasoning\n* Inductive reasoning\n* Validity\n* Cogency",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Deduction and induction" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7960" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Deduction and induction may refer to:\n* Deductive reasoning\n* Inductive reasoning\n* Validity\n* Cogency. Deduction and induction. http://en.wikipedia.org/?curid=7960."
+  }
+}

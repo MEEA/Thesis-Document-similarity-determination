@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11933",
+  "eid" : "feeb1b70-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778507431,
+  "textBody" : "Military of Germany may refer to:\n\n* Reichsheer (1871–1919), armed forces of the German Empire (lit. Imperial Army)\n* Reichswehr (1919–1935), armed forces of the Weimar Republic\n* Wehrmacht (1935–1945), armed forces of Nazi Germany\n* National People's Army (1956–1990), armed forces of the former German Democratic Republic of eastern Germany, prior to the reunification.\n* Bundeswehr (since 1955), current armed forces of Germany as well as the Federal Republic of Germany in the west, prior to reunification.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Military of Germany (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11933" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Military of Germany may refer to:\n\n* Reichsheer (1871–1919), armed forces of the German Empire (lit. Imperial Army)\n* Reichswehr (1919–1935), armed forces of the Weimar Republic\n* Wehrmacht (1935–1945), armed forces of Nazi Germany\n* National People's Army (1956–1990), armed forces of the former German Democratic Republic of eastern Germany, prior to the reunification.\n* Bundeswehr (since 1955), current armed forces of Germany as well as the Federal Republic of Germany in the west, prior to reunification. Military of Germany (disambiguation). http://en.wikipedia.org/?curid=11933."
+  }
+}

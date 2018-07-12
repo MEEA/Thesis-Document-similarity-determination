@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18705",
+  "eid" : "3478abe0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778597278,
+  "textBody" : "Los Alamos usually refers to Los Alamos, New Mexico, a townsite in Los Alamos County, New Mexico. Los Alamos may also refer to:\n\nUnited States\n\n*Los Alamos, California\n*Los Alamos County, New Mexico\n**Los Alamos Ranch School, boys' school \n**Los Alamos Laboratory, also known as Project Y, where the WWII atomic bombs were developed\n**Los Alamos National Laboratory\n**Los Alamos Museum, unofficial name of the Bradbury Science Museum\n*Cañada de los Alamos, New Mexico\n* was a large floating dry dock\n*Los Alamos, a novel by Joseph Kanon\n*Los Alamos, a book by the photographer William Eggleston\n\nOther countries\n\n*Los Álamos, Chile\n*Los Álamos, a station on the Cercanías Málaga commuter rail service in Málaga, Spain",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Los Alamos" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18705" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Los Alamos usually refers to Los Alamos, New Mexico, a townsite in Los Alamos County, New Mexico. Los Alamos may also refer to:\n\nUnited States\n\n*Los Alamos, California\n*Los Alamos County, New Mexico\n**Los Alamos Ranch School, boys' school \n**Los Alamos Laboratory, also known as Project Y, where the WWII atomic bombs were developed\n**Los Alamos National Laboratory\n**Los Alamos Museum, unofficial name of the Bradbury Science Museum\n*Cañada de los Alamos, New Mexico\n* was a large floating dry dock\n*Los Alamos, a novel by Joseph Kanon\n*Los Alamos, a book by the photographer William Eggleston\n\nOther countries\n\n*Los Álamos, Chile\n*Los Álamos, a station on the Cercanías Málaga commuter rail service in Málaga, Spain. Los Alamos. http://en.wikipedia.org/?curid=18705."
+  }
+}

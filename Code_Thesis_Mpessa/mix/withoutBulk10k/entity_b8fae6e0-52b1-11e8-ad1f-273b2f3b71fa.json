@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1223",
+  "eid" : "b8fae6e0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778390094,
+  "textBody" : "This article is about communications systems in Anguilla.\n\nTelephone\n\nTelephones - main lines in use: 6,200 (2002)\ncountry comparison to the world: 212\n\nTelephones - mobile cellular: 1,800 (2002)\ncountry comparison to the world: 211\n\nTelephone system:\nDomestic: Modern internal telephone system\nInternational: EAST CARIBBEAN FIBRE SYSTEM ECFS (cable system)\n microwave radio relay to island of Saint Martin (Guadeloupe and Netherlands Antilles)\n\nMobile Phone (GSM)\n\nMobile Phone Operators:\n Cable & Wireless (Anguilla) Ltd. - GSM 850 and 1900 MHz with Island-wide coverage \n Weblinks - [http://www.weblinks.ai]\n\nMobiles: ? (2007)\n\nRadio\n\nRadio broadcast stations: AM 3, FM 7, shortwave 0 (2007)\n\nRadios: 3,000 (1997)\n\nTelevision\n\nTelevision broadcast stations: 1 (1997)\n\nTelevisions: 1,000 (1997)\n\nInternet\n\nInternet country code: .ai (Top level domain)\n\nInternet Service Providers (ISPs): 3 (Cable & Wireless - [http://www.anguillanet.com], Weblinks - [http://www.weblinks.ai], Caribbean Cable Communications - [http://www.caribcable.com] )\n\nInternet hosts: 205 (2008)\ncountry comparison to the world: 177\n\nInternet: users: 3,000 (2002)\ncountry comparison to the world: 206",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Telecommunications in Anguilla" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1223" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "This article is about communications systems in Anguilla.\n\nTelephone\n\nTelephones - main lines in use: 6,200 (2002)\ncountry comparison to the world: 212\n\nTelephones - mobile cellular: 1,800 (2002)\ncountry comparison to the world: 211\n\nTelephone system:\nDomestic: Modern internal telephone system\nInternational: EAST CARIBBEAN FIBRE SYSTEM ECFS (cable system)\n microwave radio relay to island of Saint Martin (Guadeloupe and Netherlands Antilles)\n\nMobile Phone (GSM)\n\nMobile Phone Operators:\n Cable & Wireless (Anguilla) Ltd. - GSM 850 and 1900 MHz with Island-wide coverage \n Weblinks - [http://www.weblinks.ai]\n\nMobiles: ? (2007)\n\nRadio\n\nRadio broadcast stations: AM 3, FM 7, shortwave 0 (2007)\n\nRadios: 3,000 (1997)\n\nTelevision\n\nTelevision broadcast stations: 1 (1997)\n\nTelevisions: 1,000 (1997)\n\nInternet\n\nInternet country code: .ai (Top level domain)\n\nInternet Service Providers (ISPs): 3 (Cable & Wireless - [http://www.anguillanet.com], Weblinks - [http://www.weblinks.ai], Caribbean Cable Communications - [http://www.caribcable.com] )\n\nInternet hosts: 205 (2008)\ncountry comparison to the world: 177\n\nInternet: users: 3,000 (2002)\ncountry comparison to the world: 206. Telecommunications in Anguilla. http://en.wikipedia.org/?curid=1223."
+  }
+}

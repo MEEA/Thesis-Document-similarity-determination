@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17319",
+  "eid" : "2b5ad6f0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778581983,
+  "textBody" : "K cell may refer to:\n\n* k-cell (mathematics)\n* Intestinal cells which synthesize gastric inhibitory polypeptide\n* Natural killer cell\n* Koniocellular cell\n* Knudsen cell\n* The unit cube of dimension k\n* Kcell, a Kazakhstani mobile phone operator",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "K cell" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17319" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "K cell may refer to:\n\n* k-cell (mathematics)\n* Intestinal cells which synthesize gastric inhibitory polypeptide\n* Natural killer cell\n* Koniocellular cell\n* Knudsen cell\n* The unit cube of dimension k\n* Kcell, a Kazakhstani mobile phone operator. K cell. http://en.wikipedia.org/?curid=17319."
+  }
+}

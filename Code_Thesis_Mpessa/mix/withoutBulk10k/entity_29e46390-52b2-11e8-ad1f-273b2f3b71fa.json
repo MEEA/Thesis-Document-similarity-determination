@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16984",
+  "eid" : "29e46390-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778579529,
+  "textBody" : "The Korea Institute for Advanced Study (KIAS) is an advanced research institute in Korea. It is located on a 30 acre campus in Dongdaemun-gu, Seoul.Contact,\"Visitor Information,  KIAS\"[http://www.kias.re.kr/sub06/sub06_08.jsp], KIAS,2012.\n\nKIAS was founded in 1996, aiming to become a world's leading research institute where international elite scholars gather and dedicate to fundamental research in basic sciences.Mission Statement,\"About KIAS,  KIAS\"[http://www.kias.re.kr/sub01/sub01_02.jsp], KIAS,2012. Currently, there are three schools in the institute: mathematics, physics, and computational sciences. As of 2016, the institute has 3 distinguished professors, 26 professors, and 133 research fellows. About the Institute,\"About KIAS, KIAS\"[http://www.kias.re.kr/sub01/sub01_01.jsp], KIAS,2016.\n\nAs its name suggests, this institute was founded modeled on IAS in Princeton, New Jersey (USA), although unlike its original, KIAS is funded by the government. KIAS is a subordinate institute of KAIST (Korea Advanced Institute of Science and Technology).[http://naver.nanet.go.kr:8080/dl/CommonView.php?u\ngQSBdJFUDv86YDEBTZWJYjn%2F3zVCSr1MxWk5WDi7%2BmnBFnskt%2BMHMJYtG68GMRC3d0QDUcaGIGPw7Yl11smJnw%3D%3D 고등과학원 설립 및 운영계획 수립을 위한 조사 연구, 1996(최종보고서), 과학기술처, 국회전자도서관 DB 자료]",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Korea Institute for Advanced Study" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16984" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The Korea Institute for Advanced Study (KIAS) is an advanced research institute in Korea. It is located on a 30 acre campus in Dongdaemun-gu, Seoul.Contact,\"Visitor Information,  KIAS\"[http://www.kias.re.kr/sub06/sub06_08.jsp], KIAS,2012.\n\nKIAS was founded in 1996, aiming to become a world's leading research institute where international elite scholars gather and dedicate to fundamental research in basic sciences.Mission Statement,\"About KIAS,  KIAS\"[http://www.kias.re.kr/sub01/sub01_02.jsp], KIAS,2012. Currently, there are three schools in the institute: mathematics, physics, and computational sciences. As of 2016, the institute has 3 distinguished professors, 26 professors, and 133 research fellows. About the Institute,\"About KIAS, KIAS\"[http://www.kias.re.kr/sub01/sub01_01.jsp], KIAS,2016.\n\nAs its name suggests, this institute was founded modeled on IAS in Princeton, New Jersey (USA), although unlike its original, KIAS is funded by the government. KIAS is a subordinate institute of KAIST (Korea Advanced Institute of Science and Technology).[http://naver.nanet.go.kr:8080/dl/CommonView.php?u\ngQSBdJFUDv86YDEBTZWJYjn%2F3zVCSr1MxWk5WDi7%2BmnBFnskt%2BMHMJYtG68GMRC3d0QDUcaGIGPw7Yl11smJnw%3D%3D 고등과학원 설립 및 운영계획 수립을 위한 조사 연구, 1996(최종보고서), 과학기술처, 국회전자도서관 DB 자료]. Korea Institute for Advanced Study. http://en.wikipedia.org/?curid=16984."
+  }
+}

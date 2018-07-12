@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3952",
+  "eid" : "c9dc7f00-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778418416,
+  "textBody" : "Bedrock Records is an English record label for trance, house and techno started by Nick Muir and John Digweed. Its name comes from a nightclub in London that is also called Bedrock.  Bedrock Records has released many singles from artists such as Astro & Glyde, Brancaccio & Aisher, Steve Lawler, Shmuel Flash, Steve Porter, Guy J, Henry Saiz, Stelios Vassiloudis, Electric Rescue, The Japanese Popstars and Jerry Bonham.  Bedrock is also the name that Digweed and Muir use as their production moniker.\n\nBedrock in the past had different Sub-labels: Bedrock Breaks, B_Rock and Black (Bedrock). Currently it has Bedrock Digital and one called Lost & Found belonging to Guy J.\n\n \n\nSingles \n\nBedrock Albums \n\nBedrock Others \n\nBedrock Digital \n\nBedrock Digital others \n\n Bedrock Breaks \n\nBedrock Black \n\nB_Rock",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Bedrock Records" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3952" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Bedrock Records is an English record label for trance, house and techno started by Nick Muir and John Digweed. Its name comes from a nightclub in London that is also called Bedrock.  Bedrock Records has released many singles from artists such as Astro & Glyde, Brancaccio & Aisher, Steve Lawler, Shmuel Flash, Steve Porter, Guy J, Henry Saiz, Stelios Vassiloudis, Electric Rescue, The Japanese Popstars and Jerry Bonham.  Bedrock is also the name that Digweed and Muir use as their production moniker.\n\nBedrock in the past had different Sub-labels: Bedrock Breaks, B_Rock and Black (Bedrock). Currently it has Bedrock Digital and one called Lost & Found belonging to Guy J.\n\n \n\nSingles \n\nBedrock Albums \n\nBedrock Others \n\nBedrock Digital \n\nBedrock Digital others \n\n Bedrock Breaks \n\nBedrock Black \n\nB_Rock. Bedrock Records. http://en.wikipedia.org/?curid=3952."
+  }
+}

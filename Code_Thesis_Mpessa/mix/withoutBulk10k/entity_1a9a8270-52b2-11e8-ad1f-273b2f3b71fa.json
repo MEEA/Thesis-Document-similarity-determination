@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15210",
+  "eid" : "1a9a8270-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778553879,
+  "textBody" : "The ITU Radiocommunication Sector (ITU-R) is one of the three sectors (divisions or units) of the International Telecommunication Union (ITU) and is responsible for radio communication. \n\nIts role is to manage the international radio-frequency spectrum and satellite orbit resources and to develop standards for radiocommunication systems with the objective of ensuring the effective use of the spectrum.\n\nITU is required, according to its Constitution, to allocate spectrum and register frequency allocation, orbital positions and other parameters of satellites, “in order to avoid harmful interference between radio stations of different countries”. The international spectrum management system is therefore based on regulatory procedures for frequency coordination, notification and registration.\n\nITU-R has a permanent secretariat, the Radiocommunication Bureau, based at the ITU HQ in Geneva, Switzerland. The elected [http://www.itu.int/ITU-R/index.asp?categoryinformation&rlink\ndirector&lang=en Director of the Bureau] is Mr. François Rancy of France; he was first elected by the ITU Membership to the Directorship in 2010.\n\nHistory \n\nThe CCIR—Comité consultatif international pour la radio, Consultative Committee on International Radio or International Radio Consultative Committee—was founded in 1927.\n\nIn 1932 the CCIR and several other organizations (including the original ITU, which had been founded as the International Telegraph Union in 1865) merged to form what would in 1934 become known as the International Telecommunication Union.  In 1992, the CCIR became the ITU-R.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "ITU-R" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15210" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The ITU Radiocommunication Sector (ITU-R) is one of the three sectors (divisions or units) of the International Telecommunication Union (ITU) and is responsible for radio communication. \n\nIts role is to manage the international radio-frequency spectrum and satellite orbit resources and to develop standards for radiocommunication systems with the objective of ensuring the effective use of the spectrum.\n\nITU is required, according to its Constitution, to allocate spectrum and register frequency allocation, orbital positions and other parameters of satellites, “in order to avoid harmful interference between radio stations of different countries”. The international spectrum management system is therefore based on regulatory procedures for frequency coordination, notification and registration.\n\nITU-R has a permanent secretariat, the Radiocommunication Bureau, based at the ITU HQ in Geneva, Switzerland. The elected [http://www.itu.int/ITU-R/index.asp?categoryinformation&rlink\ndirector&lang=en Director of the Bureau] is Mr. François Rancy of France; he was first elected by the ITU Membership to the Directorship in 2010.\n\nHistory \n\nThe CCIR—Comité consultatif international pour la radio, Consultative Committee on International Radio or International Radio Consultative Committee—was founded in 1927.\n\nIn 1932 the CCIR and several other organizations (including the original ITU, which had been founded as the International Telegraph Union in 1865) merged to form what would in 1934 become known as the International Telecommunication Union.  In 1992, the CCIR became the ITU-R. ITU-R. http://en.wikipedia.org/?curid=15210."
+  }
+}

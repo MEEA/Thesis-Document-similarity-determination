@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16957",
+  "eid" : "29d87cb0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778579451,
+  "textBody" : "Kata is a martial arts term referring to a pattern of defense-and-attack. Kata may also mean:\n\nPeople:\n* Kata (name)\n* Kata people or Katirs, alternative name for a tribal group of Afghanistan\n* Katariina Souri (born 1968), Finnish author, artist, columnist, and a Playboy Playmate of the Month\n* Kata, Georgian royal princess of 11th century\n* Kata, Georgian royal princess of 12th century\n\nPlaces:\n*Kata, Burma, a town\n*Kata, Estonia, a village\n*Kata, Iran, a village\n*Kata River in Estonia\n*Kata, Tibet, a village\n\nOther:\n*Kata, founded 1986, a Finland company mainly focused on radiation safety, and Kata trademark and trade name of Kata-Electronics.\n* Kata (programming), exercises in programming which help hone your skills through practice and repetition\n*Kata (mathematics), a name proposed for a direction in a fourth spatial dimension\n* KATA (AM), a California radio station\n* KATA-CD, a Dallas, TX, television station\n* Kata Station, a train station in Owase, Japan\n* An abbreviation for Katakana character set in the Japanese writing language\n* Kata, a Grenada drum\n* Kata, a Swahili word meaning \"to cut\"\n* Kata, a West-African local name for Ovine rinderpest\n* Kata (company), an Israeli company manufacturing photo equipment protection cases and military items",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Kata (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16957" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Kata is a martial arts term referring to a pattern of defense-and-attack. Kata may also mean:\n\nPeople:\n* Kata (name)\n* Kata people or Katirs, alternative name for a tribal group of Afghanistan\n* Katariina Souri (born 1968), Finnish author, artist, columnist, and a Playboy Playmate of the Month\n* Kata, Georgian royal princess of 11th century\n* Kata, Georgian royal princess of 12th century\n\nPlaces:\n*Kata, Burma, a town\n*Kata, Estonia, a village\n*Kata, Iran, a village\n*Kata River in Estonia\n*Kata, Tibet, a village\n\nOther:\n*Kata, founded 1986, a Finland company mainly focused on radiation safety, and Kata trademark and trade name of Kata-Electronics.\n* Kata (programming), exercises in programming which help hone your skills through practice and repetition\n*Kata (mathematics), a name proposed for a direction in a fourth spatial dimension\n* KATA (AM), a California radio station\n* KATA-CD, a Dallas, TX, television station\n* Kata Station, a train station in Owase, Japan\n* An abbreviation for Katakana character set in the Japanese writing language\n* Kata, a Grenada drum\n* Kata, a Swahili word meaning \"to cut\"\n* Kata, a West-African local name for Ovine rinderpest\n* Kata (company), an Israeli company manufacturing photo equipment protection cases and military items. Kata (disambiguation). http://en.wikipedia.org/?curid=16957."
+  }
+}

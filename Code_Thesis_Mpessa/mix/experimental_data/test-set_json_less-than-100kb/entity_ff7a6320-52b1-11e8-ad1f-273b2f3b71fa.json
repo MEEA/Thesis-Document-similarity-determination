@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12012",
+  "eid" : "ff7a6320-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778508370,
+  "textBody" : "German(s) may refer to:\n\n* The German language, mainly spoken in Central Europe\n* Something derived from or related to Germany\n** Germans, an ethnic group\n** A citizen of the Federal Republic of Germany, or any political predecessor (or part of it), under German nationality law\n* (historically) Something derived from or related to Germania. While now obsolete, it is still found in old names, translations of Latin and Greek works, and similar material.\n** Any one of the original Germanic languages, including Proto-Germanic\n** Any of the historical or modern Germanics \n \n\nPlaces \n\n* German (parish), on the Isle of Man\n* German (Republic of Macedonia)\n* German, Albania, a village in Tirana County, Albania\n* German, Bulgaria, a quarter of Sofia\n* German, Iran, a village in Semnan Province of Iran\n* German, New York, a town in the United States\n* German Township (disambiguation), any of several townships\n* Agios Germanos, in Greece\n\nPeople \n\n* German (given name)\n* German (surname)\n\nMythological beings \n\n* German (mythology), a male spirit in the folklore of Serbia and Bulgaria\n\nOther uses\n\n*German Shepherd, a breed of dog\n*Germans (band), a Canadian rock band\n*The German, another name for the cotillion, an 18th- and 19th-century social dance\n*The German, a 2008 short film\n*\"The Germans\", an episode of Fawlty Towers",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "German" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12012" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "German(s) may refer to:\n\n* The German language, mainly spoken in Central Europe\n* Something derived from or related to Germany\n** Germans, an ethnic group\n** A citizen of the Federal Republic of Germany, or any political predecessor (or part of it), under German nationality law\n* (historically) Something derived from or related to Germania. While now obsolete, it is still found in old names, translations of Latin and Greek works, and similar material.\n** Any one of the original Germanic languages, including Proto-Germanic\n** Any of the historical or modern Germanics \n \n\nPlaces \n\n* German (parish), on the Isle of Man\n* German (Republic of Macedonia)\n* German, Albania, a village in Tirana County, Albania\n* German, Bulgaria, a quarter of Sofia\n* German, Iran, a village in Semnan Province of Iran\n* German, New York, a town in the United States\n* German Township (disambiguation), any of several townships\n* Agios Germanos, in Greece\n\nPeople \n\n* German (given name)\n* German (surname)\n\nMythological beings \n\n* German (mythology), a male spirit in the folklore of Serbia and Bulgaria\n\nOther uses\n\n*German Shepherd, a breed of dog\n*Germans (band), a Canadian rock band\n*The German, another name for the cotillion, an 18th- and 19th-century social dance\n*The German, a 2008 short film\n*\"The Germans\", an episode of Fawlty Towers. German. http://en.wikipedia.org/?curid=12012."
+  }
+}

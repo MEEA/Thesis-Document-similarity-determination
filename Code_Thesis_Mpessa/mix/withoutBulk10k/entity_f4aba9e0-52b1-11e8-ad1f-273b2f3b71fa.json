@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10271",
+  "eid" : "f4aba9e0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778490238,
+  "textBody" : "EDT may refer to:\n\nScience and technology\n\n* Ethylenediaminetetraacetic acid (EDTA), widely used metal chelator\n* 1,2-Ethanedithiol, compound commonly used for cleavage during peptide synthesis\n* EDT (Digital), text editor for PDP-11 and VAX/VMS computer systems\n* EDT (Univac), text editor for UNIVAC Series 90 and Fujitsu BS2000 computer systems\n* EDT Hub, electronic document transmission software used by many healthcare trusts in the United Kingdom\n* Electrodynamic tether, a spacecraft component\n* Event dispatching thread, a background thread used in Java programming language\n\nOther\n\n* Eastern Daylight Time (UTC−4), a time zone observed in North America\n* AEDT, Australian Eastern Daylight Time (UTC+11)\n* Eau de toilette, classification of perfumes by the concentration of aromatic compounds\n* Chicago Engineering Design Team, a robotics team\n* Evidential decision theory, a school of thought within decision theory",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "EDT" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10271" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "EDT may refer to:\n\nScience and technology\n\n* Ethylenediaminetetraacetic acid (EDTA), widely used metal chelator\n* 1,2-Ethanedithiol, compound commonly used for cleavage during peptide synthesis\n* EDT (Digital), text editor for PDP-11 and VAX/VMS computer systems\n* EDT (Univac), text editor for UNIVAC Series 90 and Fujitsu BS2000 computer systems\n* EDT Hub, electronic document transmission software used by many healthcare trusts in the United Kingdom\n* Electrodynamic tether, a spacecraft component\n* Event dispatching thread, a background thread used in Java programming language\n\nOther\n\n* Eastern Daylight Time (UTC−4), a time zone observed in North America\n* AEDT, Australian Eastern Daylight Time (UTC+11)\n* Eau de toilette, classification of perfumes by the concentration of aromatic compounds\n* Chicago Engineering Design Team, a robotics team\n* Evidential decision theory, a school of thought within decision theory. EDT. http://en.wikipedia.org/?curid=10271."
+  }
+}

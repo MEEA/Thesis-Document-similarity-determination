@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=6796",
+  "eid" : "ddd5b760-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778451926,
+  "textBody" : "Ceres Brewery was a brewery company located in Aarhus, Denmark. It was part of Royal Unibrew. The factories in central Aarhus, was closed in 2008 and the grounds are now being redeveloped into a new neighbourhood of the city, known as CeresByen (The CeresCity).[http://www.businessaarhus.dk/en/Fremtidens-Aarhus/Udviklingsomraader/Ceres-grunden.aspx The CeresCity] Business Aarhus\n\nHistory\n\nCeres Brewery was founded by a grocer named Malthe Conrad Lottrup, with help from the chemists A. S. Aagard and Knud Redelien, as the city's seventh brewery. It was named after the Roman goddess Ceres, and its opening was announced in the local newspaper, Stiftstidende, in 1856.\n\nThe brewery was successful, and Lottrup became one of the most prominent people of Aarhus. After ten years, he expanded the brewery, adding a grand new building as his own private residence, where he entertained other local figures.\n\nLottrup's son-in-law, Laurits Christian Meulengracht, took over the running of the brewery after that, and was in charge for nearly thirty years, expanding it further. He then sold it to another brewery, Østjyske Bryggerier A/S.\n\nThe brewery gained more esteem in 1914, when it was made \"Purveyor to the Royal Danish Court\".\n\nIn 2008 the factory closed because the brewery could not live up to the expectations from its owner Royal Unibrew.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Ceres Brewery" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=6796" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Ceres Brewery was a brewery company located in Aarhus, Denmark. It was part of Royal Unibrew. The factories in central Aarhus, was closed in 2008 and the grounds are now being redeveloped into a new neighbourhood of the city, known as CeresByen (The CeresCity).[http://www.businessaarhus.dk/en/Fremtidens-Aarhus/Udviklingsomraader/Ceres-grunden.aspx The CeresCity] Business Aarhus\n\nHistory\n\nCeres Brewery was founded by a grocer named Malthe Conrad Lottrup, with help from the chemists A. S. Aagard and Knud Redelien, as the city's seventh brewery. It was named after the Roman goddess Ceres, and its opening was announced in the local newspaper, Stiftstidende, in 1856.\n\nThe brewery was successful, and Lottrup became one of the most prominent people of Aarhus. After ten years, he expanded the brewery, adding a grand new building as his own private residence, where he entertained other local figures.\n\nLottrup's son-in-law, Laurits Christian Meulengracht, took over the running of the brewery after that, and was in charge for nearly thirty years, expanding it further. He then sold it to another brewery, Østjyske Bryggerier A/S.\n\nThe brewery gained more esteem in 1914, when it was made \"Purveyor to the Royal Danish Court\".\n\nIn 2008 the factory closed because the brewery could not live up to the expectations from its owner Royal Unibrew. Ceres Brewery. http://en.wikipedia.org/?curid=6796."
+  }
+}

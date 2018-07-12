@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=9303",
+  "eid" : "edd5a210-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778478769,
+  "textBody" : "An economy is an area of the production, distribution, or trade, and consumption of goods and services by different agents in a given geographical location in various countries\n\nEconomy may also refer to:\n* The quality of being efficient or frugal in using resources; see frugality\n* World economy, the economy of the world\n* Virtual economy, an economy simulated in a virtual world\n* Economy (religion), a bishop's discretionary power to relax rules\n* Economy (Thoreau), a chapter from Walden, by Henry David Thoreau\n* Economy class, a class of seating in airline travel\n* \"Jazz ist anders\" (Economy), the economy-version of Die Ärzte's album \"Jazz ist anders\"\n* The economy of Salvation,  that part of divine revelation that deals with God’s creation and management of the world, particularly His plan for salvation accomplished through the Church\n* Economic (cyclecar), a British three-wheeled cyclecar\n* Economy (album), a 2011 album by John Mark McMillan\n* Economy (basketball), a basketball mathematical statistical formula\n\nPlaces \n\n* Economy, Indiana, United States\n* Economy, Missouri, United States\n* Economy, Pennsylvania, United States\n* Old Economy Village, Pennsylvania, United States\n* Economy, Nova Scotia, an unincorporated community in Maritime Canada\n* Economy, Arkansas, an unincorporated community in Burnett Township, Pope County, Arkansas, United States",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Economy (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=9303" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "An economy is an area of the production, distribution, or trade, and consumption of goods and services by different agents in a given geographical location in various countries\n\nEconomy may also refer to:\n* The quality of being efficient or frugal in using resources; see frugality\n* World economy, the economy of the world\n* Virtual economy, an economy simulated in a virtual world\n* Economy (religion), a bishop's discretionary power to relax rules\n* Economy (Thoreau), a chapter from Walden, by Henry David Thoreau\n* Economy class, a class of seating in airline travel\n* \"Jazz ist anders\" (Economy), the economy-version of Die Ärzte's album \"Jazz ist anders\"\n* The economy of Salvation,  that part of divine revelation that deals with God’s creation and management of the world, particularly His plan for salvation accomplished through the Church\n* Economic (cyclecar), a British three-wheeled cyclecar\n* Economy (album), a 2011 album by John Mark McMillan\n* Economy (basketball), a basketball mathematical statistical formula\n\nPlaces \n\n* Economy, Indiana, United States\n* Economy, Missouri, United States\n* Economy, Pennsylvania, United States\n* Old Economy Village, Pennsylvania, United States\n* Economy, Nova Scotia, an unincorporated community in Maritime Canada\n* Economy, Arkansas, an unincorporated community in Burnett Township, Pope County, Arkansas, United States. Economy (disambiguation). http://en.wikipedia.org/?curid=9303."
+  }
+}

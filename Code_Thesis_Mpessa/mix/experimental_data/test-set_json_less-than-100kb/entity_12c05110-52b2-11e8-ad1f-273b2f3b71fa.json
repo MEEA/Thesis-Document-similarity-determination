@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14192",
+  "eid" : "12c05110-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778540705,
+  "textBody" : "Helene may refer to:\n\n*Helene (given name), a Greek feminine given name\n*Helen of Troy, the daughter of Zeus and Leda\n*Helene, a figure in Greek mythology who was a friend of Aphrodite and helped her seduce Adonis\n*Helene (Amazon), a daughter of Tityrus and an Amazon who fought Achilles and died after he seriously wounded her\n*Helene (moon), a moon of Saturn\n*Helene, the consort of Simon Magus\n* Helene (film), a 1936 French drama film\n* Hélène (given name), a feminine given name, the French version of Helen\n* Hélène (opera), a 1904 poème lyrique or opera in one act by composer Camille Saint-Saëns\n* Hélène (drama), a drame in four acts and five tableaux of 1891, with French words by Paul Delair and incidental music by André Messager\n* Hélène (album), a 1989 album by Roch Voisine\n* \"Hélène\" (song), a 1989 song by  Roch Voisine",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Helene" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14192" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Helene may refer to:\n\n*Helene (given name), a Greek feminine given name\n*Helen of Troy, the daughter of Zeus and Leda\n*Helene, a figure in Greek mythology who was a friend of Aphrodite and helped her seduce Adonis\n*Helene (Amazon), a daughter of Tityrus and an Amazon who fought Achilles and died after he seriously wounded her\n*Helene (moon), a moon of Saturn\n*Helene, the consort of Simon Magus\n* Helene (film), a 1936 French drama film\n* Hélène (given name), a feminine given name, the French version of Helen\n* Hélène (opera), a 1904 poème lyrique or opera in one act by composer Camille Saint-Saëns\n* Hélène (drama), a drame in four acts and five tableaux of 1891, with French words by Paul Delair and incidental music by André Messager\n* Hélène (album), a 1989 album by Roch Voisine\n* \"Hélène\" (song), a 1989 song by  Roch Voisine. Helene. http://en.wikipedia.org/?curid=14192."
+  }
+}

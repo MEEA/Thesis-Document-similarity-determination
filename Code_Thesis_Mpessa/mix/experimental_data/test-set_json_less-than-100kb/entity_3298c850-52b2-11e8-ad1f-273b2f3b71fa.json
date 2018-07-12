@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18387",
+  "eid" : "3298c850-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778594133,
+  "textBody" : "Lanista[http://orthoptera.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1133960 Orthoptera species file (retrieved 3 January 2018)] is a genus of African bush-cricket (Orthoptera: Tettigoniidae) in the subfamily Conocephalinae.\n\nSpecies\n\n* Lanista affinis Bolívar, 1906\n* Lanista annulicornis (Walker, 1869)\n* Lanista crassicollis Bolívar, 1906\n* Lanista varelai Bolívar, 1906",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Lanista" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18387" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Lanista[http://orthoptera.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1133960 Orthoptera species file (retrieved 3 January 2018)] is a genus of African bush-cricket (Orthoptera: Tettigoniidae) in the subfamily Conocephalinae.\n\nSpecies\n\n* Lanista affinis Bolívar, 1906\n* Lanista annulicornis (Walker, 1869)\n* Lanista crassicollis Bolívar, 1906\n* Lanista varelai Bolívar, 1906. Lanista. http://en.wikipedia.org/?curid=18387."
+  }
+}

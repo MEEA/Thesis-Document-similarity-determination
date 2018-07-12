@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3745",
+  "eid" : "c874ffc0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778416060,
+  "textBody" : "Britain usually refers to:\n* United Kingdom, a sovereign state\n* Great Britain, an island\n\nBritain may also refer to:\n\nPlaces\n\n* Britain (place name)\n* Kingdom of Great Britain, a sovereign state from 1707 to 1800\n* Britain, Virginia, an unincorporated community in the United States\n\nHistory \n\n* Prehistoric Britain\n* Roman Britain\n* Sub-Roman Britain\n* Early modern Britain\n\nPeople\n\n* Calvin Britain (1800–1862), an American politician\n* Kristen Britain, an American novelist\n\nVehicles\n\n* SS Great Britain, a  passenger steamship launched in 1843 and retired in 1886\n* Great Britain, a GWR 3031 Class locomotive, built in 1892 and retired in 1914\n\nOther uses\n\n* Great Britain (play), by Richard Bean\n* Captain Britain, a Marvel Comics superhero",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Britain" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3745" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Britain usually refers to:\n* United Kingdom, a sovereign state\n* Great Britain, an island\n\nBritain may also refer to:\n\nPlaces\n\n* Britain (place name)\n* Kingdom of Great Britain, a sovereign state from 1707 to 1800\n* Britain, Virginia, an unincorporated community in the United States\n\nHistory \n\n* Prehistoric Britain\n* Roman Britain\n* Sub-Roman Britain\n* Early modern Britain\n\nPeople\n\n* Calvin Britain (1800–1862), an American politician\n* Kristen Britain, an American novelist\n\nVehicles\n\n* SS Great Britain, a  passenger steamship launched in 1843 and retired in 1886\n* Great Britain, a GWR 3031 Class locomotive, built in 1892 and retired in 1914\n\nOther uses\n\n* Great Britain (play), by Richard Bean\n* Captain Britain, a Marvel Comics superhero. Britain. http://en.wikipedia.org/?curid=3745."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2938",
+  "eid" : "c32ff830-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778407219,
+  "textBody" : "The Algemeen Nijmeegs Studentenblad is an independent student magazine for the Radboud University Nijmegen. Founded in 1985 by members of the local student union AKKU, it is now published by the Stichting Multimedia.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Algemeen Nijmeegs Studentenblad" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2938" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The Algemeen Nijmeegs Studentenblad is an independent student magazine for the Radboud University Nijmegen. Founded in 1985 by members of the local student union AKKU, it is now published by the Stichting Multimedia. Algemeen Nijmeegs Studentenblad. http://en.wikipedia.org/?curid=2938."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10938",
+  "eid" : "f88cdbb0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778496747,
+  "textBody" : "FSU may refer to:\n\n*Florida State University, a large public research university in Tallahassee, Florida\n*Ferris State University, Michigan\n*Frostburg State University, Maryland\n*Fayetteville State University, North Carolina\n*Fairmont State University, West Virginia\n*Fitchburg State University, Massachusetts\n*Framingham State University, Massachusetts\n*Floating Storage Unit, floating vessel used by the offshore drilling industry for the storage of oil and gas\n*Friends Stand United, street gang\n*Finance Sector Union, Australian trade union\n*Financial Services Union, Irish trade union\n*Fédération Syndicale Unitaire, French trade union\n*Former Soviet Union, collective term for the fifteen countries that formed the Soviet Union until 1991\n*Fuse-Switch-Unit, opposite of SFU, relating to the order an electrical fuse is inserted in a circuit",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "FSU" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10938" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "FSU may refer to:\n\n*Florida State University, a large public research university in Tallahassee, Florida\n*Ferris State University, Michigan\n*Frostburg State University, Maryland\n*Fayetteville State University, North Carolina\n*Fairmont State University, West Virginia\n*Fitchburg State University, Massachusetts\n*Framingham State University, Massachusetts\n*Floating Storage Unit, floating vessel used by the offshore drilling industry for the storage of oil and gas\n*Friends Stand United, street gang\n*Finance Sector Union, Australian trade union\n*Financial Services Union, Irish trade union\n*Fédération Syndicale Unitaire, French trade union\n*Former Soviet Union, collective term for the fifteen countries that formed the Soviet Union until 1991\n*Fuse-Switch-Unit, opposite of SFU, relating to the order an electrical fuse is inserted in a circuit. FSU. http://en.wikipedia.org/?curid=10938."
+  }
+}

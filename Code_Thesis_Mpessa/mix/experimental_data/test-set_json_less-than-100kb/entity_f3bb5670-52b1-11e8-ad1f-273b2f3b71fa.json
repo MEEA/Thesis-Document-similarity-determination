@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10086",
+  "eid" : "f3bb5670-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778488663,
+  "textBody" : "The European Investment Fund (EIF), established in 1994, is a European Union agency for the provision of finance to SMEs (small and medium-sized enterprises), headquartered in Luxembourg.\n\nIt does not lend money to SMEs directly; rather it provides finance through private banks and funds. Its main operations are in the areas of venture capital and guaranteeing loans. Its shareholders are: the European Investment Bank (62%); the European Union, represented by the European Commission (29%); and 30 privately owned EU financial institutions (9%).[http://www.eif.org/about/shareholder/index.htm EIF - Shareholders]",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "European Investment Fund" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10086" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The European Investment Fund (EIF), established in 1994, is a European Union agency for the provision of finance to SMEs (small and medium-sized enterprises), headquartered in Luxembourg.\n\nIt does not lend money to SMEs directly; rather it provides finance through private banks and funds. Its main operations are in the areas of venture capital and guaranteeing loans. Its shareholders are: the European Investment Bank (62%); the European Union, represented by the European Commission (29%); and 30 privately owned EU financial institutions (9%).[http://www.eif.org/about/shareholder/index.htm EIF - Shareholders]. European Investment Fund. http://en.wikipedia.org/?curid=10086."
+  }
+}

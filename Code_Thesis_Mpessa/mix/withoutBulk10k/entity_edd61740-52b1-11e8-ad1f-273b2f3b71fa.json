@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=9309",
+  "eid" : "edd61740-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778478772,
+  "textBody" : "An (N,M,D,K,\\epsilon) -extractor is a bipartite graph with N nodes on the left and M nodes on the right such that each node on the left has D neighbors (on the right), which has the added property that\nfor any subset A of the left vertices of size at least K, the distribution on right vertices obtained by choosing a random node in A and then following a random edge to get a node x on the right side is \\epsilon-close to the uniform distribution in terms of total variation distance.\n\nA disperser is a related graph. \n\nAn equivalent way to view an extractor is as a bivariate function \n\nE : [N] \\times [D] \\rightarrow [M] \n\nin the natural way. With this view it turns out that the extractor property is equivalent to: for any source of randomness X that gives n bits with min-entropy \\log K, the distribution  E(X,U_D)  is \\epsilon-close to U_M, where U_T denotes the uniform distribution on [T].\n\nExtractors are interesting when they can be constructed with small K,D,\\epsilon relative to N and M is as close to KD (the total randomness in the input sources) as possible.\n\nExtractor functions were originally researched as a way to extract randomness from weakly random sources. See randomness extractor.\n\nUsing the probabilistic method it is easy to show that extractor graphs with really good parameters exist. The challenge is to find explicit or polynomial time computable examples of such graphs with good parameters. Algorithms that compute extractor (and disperser) graphs have found many applications in computer science.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Extractor (mathematics)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=9309" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "An (N,M,D,K,\\epsilon) -extractor is a bipartite graph with N nodes on the left and M nodes on the right such that each node on the left has D neighbors (on the right), which has the added property that\nfor any subset A of the left vertices of size at least K, the distribution on right vertices obtained by choosing a random node in A and then following a random edge to get a node x on the right side is \\epsilon-close to the uniform distribution in terms of total variation distance.\n\nA disperser is a related graph. \n\nAn equivalent way to view an extractor is as a bivariate function \n\nE : [N] \\times [D] \\rightarrow [M] \n\nin the natural way. With this view it turns out that the extractor property is equivalent to: for any source of randomness X that gives n bits with min-entropy \\log K, the distribution  E(X,U_D)  is \\epsilon-close to U_M, where U_T denotes the uniform distribution on [T].\n\nExtractors are interesting when they can be constructed with small K,D,\\epsilon relative to N and M is as close to KD (the total randomness in the input sources) as possible.\n\nExtractor functions were originally researched as a way to extract randomness from weakly random sources. See randomness extractor.\n\nUsing the probabilistic method it is easy to show that extractor graphs with really good parameters exist. The challenge is to find explicit or polynomial time computable examples of such graphs with good parameters. Algorithms that compute extractor (and disperser) graphs have found many applications in computer science. Extractor (mathematics). http://en.wikipedia.org/?curid=9309."
+  }
+}

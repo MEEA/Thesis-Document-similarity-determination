@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8648",
+  "eid" : "e99400c0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778471628,
+  "textBody" : "A daffynition (derived from daffy and definition) is a pun format involving the reinterpretation of an existing word, on the basis that it sounds like another word (or group of words). They are similar to transpositional puns, but often much less complex and easier to create.   \nSome daffynitions may be puns. For example, \"a hangover is the wrath of grapes\" is a play on the title of the book The Grapes of Wrath. A subclass of daffynition is the goofinition which relies strictly on literal associations and correct spellings, such as \"lobster = a weak tennis player\".\n\nUnder the name Uxbridge English Dictionary making up daffynitions is a popular game on the BBC Radio 4 comedy quiz show I'm Sorry I Haven't a Clue.\n\nExamples\n\n*apéritif: A set of dentures. (a-pair-of-teeth)\n*avoidable: What a bullfighter tries to do. (avoid-a-bull)\n*buccaneer: too much to pay for corn ([a]-buck-an-ear)\n*dandelion: A fashionably dressed big cat (dandy-lion)\n*decadent: Possessing only ten teeth. (deca-dent)\n*devastation: Where people wait for buses. (the-bus-station)\n*dilate: live long (die-late)\n*fortunate: Consumption of an expensive meal. (fortune-ate)\n*impolite: A flaming goblin. (imp-alight)\n*indistinct: where one places dirty dishes (in-the-sink)\n*information: how geese fly (in-formation)\n*innuendoes: Italian suppositories. (in-you-end-os)\n*insolent: Fallen off the Isle of Wight ferry. (in-Solent)\n*isolate: Me not on time. (I-(am)-so-late)\n*legend: A foot. (leg-end)\n*oboe: A French tramp. (hobo)\n*paradox: Two doctors. (pair-of-docs) or where one ties two boats. (Pair of docks)\n*pasteurise: Too far to see. (past-your-eyes)\n*protein: In favour of youth. (pro-teen)\n*propaganda: A gentlemanly goose. (proper-gander)\n*relief: What trees do in Spring. (re-leaf)\n*symmetry: A South African graveyard. (cemetery)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Daffynition" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8648" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A daffynition (derived from daffy and definition) is a pun format involving the reinterpretation of an existing word, on the basis that it sounds like another word (or group of words). They are similar to transpositional puns, but often much less complex and easier to create.   \nSome daffynitions may be puns. For example, \"a hangover is the wrath of grapes\" is a play on the title of the book The Grapes of Wrath. A subclass of daffynition is the goofinition which relies strictly on literal associations and correct spellings, such as \"lobster = a weak tennis player\".\n\nUnder the name Uxbridge English Dictionary making up daffynitions is a popular game on the BBC Radio 4 comedy quiz show I'm Sorry I Haven't a Clue.\n\nExamples\n\n*apéritif: A set of dentures. (a-pair-of-teeth)\n*avoidable: What a bullfighter tries to do. (avoid-a-bull)\n*buccaneer: too much to pay for corn ([a]-buck-an-ear)\n*dandelion: A fashionably dressed big cat (dandy-lion)\n*decadent: Possessing only ten teeth. (deca-dent)\n*devastation: Where people wait for buses. (the-bus-station)\n*dilate: live long (die-late)\n*fortunate: Consumption of an expensive meal. (fortune-ate)\n*impolite: A flaming goblin. (imp-alight)\n*indistinct: where one places dirty dishes (in-the-sink)\n*information: how geese fly (in-formation)\n*innuendoes: Italian suppositories. (in-you-end-os)\n*insolent: Fallen off the Isle of Wight ferry. (in-Solent)\n*isolate: Me not on time. (I-(am)-so-late)\n*legend: A foot. (leg-end)\n*oboe: A French tramp. (hobo)\n*paradox: Two doctors. (pair-of-docs) or where one ties two boats. (Pair of docks)\n*pasteurise: Too far to see. (past-your-eyes)\n*protein: In favour of youth. (pro-teen)\n*propaganda: A gentlemanly goose. (proper-gander)\n*relief: What trees do in Spring. (re-leaf)\n*symmetry: A South African graveyard. (cemetery). Daffynition. http://en.wikipedia.org/?curid=8648."
+  }
+}

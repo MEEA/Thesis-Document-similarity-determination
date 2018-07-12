@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=9016",
+  "eid" : "ec0ec4c0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778475788,
+  "textBody" : "Dravidian or Dravida may refer to:\n\nLanguage and culture\n\n*Dravidian languages, a family of languages spoken mainly in South India and northeastern Sri Lanka\n*Dravidian peoples, peoples whose native languages are Dravidian languages\n*Proto-Dravidian language, a model of the common ancestor of the Dravidian languages\n*Dravidian University, a university situated in Andhra Pradesh\n*Dravidian Linguistics Association, based in Kerala\n*South Indian culture, modern Dravidian culture\n*Dravidian architecture, a style of temple construction\n*Dravidian martial arts, a style of martial arts\n\nSports\n\n*Dravidian, a term sometimes used to describe fans of Rahul Dravid\n\nGeography\n\n*Dravida Nadu, a proposed country for the southern Dravidian languages\n*South India, the region which is called Dravida in the Indian anthem\n\nEthnicity\n\n*Dravidian peoples, ethnic groups primarily in South India.\n*Homo Dravida, a historically defined race, propagated also by Devaneya Pavanar\n*Adi Dravida, natives of Southern India\n*Dravidology, a field of study\n* Pancha Dravida Brahmins, a division of Indian Brahmins\n\nReligion\n\n*Dravidian folk religion\n\nPolitics\n\n*Dravidian parties, a collective term used for political parties, that trace their ideologies and origin from Dravidar Kazhagam\n*Dravidar Kazhagam, a former political party in Tamil Nadu\n*Dravida Munnetra Kazhagam, a political party in Tamil Nadu\n*All India Anna Dravida Munnetra Kazhagam, a political party in Andhra Pradesh, Karnataka, Kerala, Pondicherry, Tamil Nadu\n*Marumalarchi Dravida Munnetra Kazhagam, a political party in Tamil Nadu\n*Desiya Murpokku Dravida Kazhagam, a political party in Tamil Nadu\n*All India Latchiya Dravida Munnetra Kazhagam, a political party in Tamil Nadu\n*Self-respect movement, sometimes called the Dravidian movement or the Periyar movement\n\nOthers\n\n*Dravidan (1989 film), a 1989 Tamil film\n*Dravidan (1998 film), Indian Malayalam film released in 1998\n*Dravida Sangha",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Dravidian" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=9016" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Dravidian or Dravida may refer to:\n\nLanguage and culture\n\n*Dravidian languages, a family of languages spoken mainly in South India and northeastern Sri Lanka\n*Dravidian peoples, peoples whose native languages are Dravidian languages\n*Proto-Dravidian language, a model of the common ancestor of the Dravidian languages\n*Dravidian University, a university situated in Andhra Pradesh\n*Dravidian Linguistics Association, based in Kerala\n*South Indian culture, modern Dravidian culture\n*Dravidian architecture, a style of temple construction\n*Dravidian martial arts, a style of martial arts\n\nSports\n\n*Dravidian, a term sometimes used to describe fans of Rahul Dravid\n\nGeography\n\n*Dravida Nadu, a proposed country for the southern Dravidian languages\n*South India, the region which is called Dravida in the Indian anthem\n\nEthnicity\n\n*Dravidian peoples, ethnic groups primarily in South India.\n*Homo Dravida, a historically defined race, propagated also by Devaneya Pavanar\n*Adi Dravida, natives of Southern India\n*Dravidology, a field of study\n* Pancha Dravida Brahmins, a division of Indian Brahmins\n\nReligion\n\n*Dravidian folk religion\n\nPolitics\n\n*Dravidian parties, a collective term used for political parties, that trace their ideologies and origin from Dravidar Kazhagam\n*Dravidar Kazhagam, a former political party in Tamil Nadu\n*Dravida Munnetra Kazhagam, a political party in Tamil Nadu\n*All India Anna Dravida Munnetra Kazhagam, a political party in Andhra Pradesh, Karnataka, Kerala, Pondicherry, Tamil Nadu\n*Marumalarchi Dravida Munnetra Kazhagam, a political party in Tamil Nadu\n*Desiya Murpokku Dravida Kazhagam, a political party in Tamil Nadu\n*All India Latchiya Dravida Munnetra Kazhagam, a political party in Tamil Nadu\n*Self-respect movement, sometimes called the Dravidian movement or the Periyar movement\n\nOthers\n\n*Dravidan (1989 film), a 1989 Tamil film\n*Dravidan (1998 film), Indian Malayalam film released in 1998\n*Dravida Sangha. Dravidian. http://en.wikipedia.org/?curid=9016."
+  }
+}

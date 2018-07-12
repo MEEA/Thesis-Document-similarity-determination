@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12896",
+  "eid" : "055b83a0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778518234,
+  "textBody" : "The Gulf of Oman or Sea of Oman ( khalīj ʿUmān; ) is a strait (and not an actual gulf) that connects the Arabian Sea with the Strait of Hormuz, which then runs to the Persian Gulf. It borders Iran (in broader definition also Pakistan) on the north, Oman on the south, and the United Arab Emirates on the west.\n\nExtent\n\nThe International Hydrographic Organization defines the limits of the Gulf of Oman as follows:\n\nBordering countries\n\n*Iran\n*Oman\n*United Arab Emirates\n*Pakistan\n\nEcology\n\n*Gulf of Oman desert and semi-desert",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Gulf of Oman" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12896" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The Gulf of Oman or Sea of Oman ( khalīj ʿUmān; ) is a strait (and not an actual gulf) that connects the Arabian Sea with the Strait of Hormuz, which then runs to the Persian Gulf. It borders Iran (in broader definition also Pakistan) on the north, Oman on the south, and the United Arab Emirates on the west.\n\nExtent\n\nThe International Hydrographic Organization defines the limits of the Gulf of Oman as follows:\n\nBordering countries\n\n*Iran\n*Oman\n*United Arab Emirates\n*Pakistan\n\nEcology\n\n*Gulf of Oman desert and semi-desert. Gulf of Oman. http://en.wikipedia.org/?curid=12896."
+  }
+}

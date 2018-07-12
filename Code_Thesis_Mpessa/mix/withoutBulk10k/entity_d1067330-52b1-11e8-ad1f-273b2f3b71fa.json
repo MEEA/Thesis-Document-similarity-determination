@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=4875",
+  "eid" : "d1067330-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778430435,
+  "textBody" : "bin Laden () is an Arabic language surname synonymous with Osama bin Laden (1957–2011); it may also pertain to the Saudi Binladin Group, a holding company for the assets of the bin Laden family, and other notable members of Osama's family.\n\nPeople\n\n*Abdallah Osama bin Laden (born 1976), Saudi businessman and son of Osama bin Laden\n*Ashin Wirathu,  Burmese Buddhist monk labeled \"Burmese Bin Laden\" for religious intolerance towards Muslims.\n*Bakr bin Laden, Saudi businessman and half-brother of Osama bin Laden\n*Hamza bin Laden (born 1991), Saudi al-Qaeda figure and son of Osama bin Laden\n*Mohammed bin Awad bin Laden (1908–1967), Saudi businessman who amassed the bin Laden family fortune, father of Osama bin Laden\n*Omar bin Laden (born 1981), Saudi son of Osama bin Laden\n*Saad bin Laden (1979–2009), Saudi al-Qaeda figure and son of Osama bin Laden\n*Salem bin Laden (1946–1988), Saudi former head of the bin Laden family and brother of Osama bin Laden\n*Tarek bin Laden (born 1947), Saudi businessman and half-brother of Osama bin Laden\n*Wafah Dufour (née bin Laden, born 1975), American model and niece of Osama bin Laden\n*Yeslam bin Ladin (born 1950), Swiss businessman and the half-brother of Al-Qaeda leader\n\nOther uses\n\n*Osama bin Laden (elephant), an elephant that killed at least 27 people in India from 2004 to 2006\n*\"Bin Laden\" (song), a 2005 hip hop song by Immortal Technique and Mos Def\n*\"Bin Laden Weed\", a hip hop song on Three 6 Mafia's 2005 album Da Unbreakables\n*bin Laden, a nickname for the 500 euro note\n*Tere Bin Laden, a 2010 Bollywood comedy film",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Bin Laden (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=4875" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "bin Laden () is an Arabic language surname synonymous with Osama bin Laden (1957–2011); it may also pertain to the Saudi Binladin Group, a holding company for the assets of the bin Laden family, and other notable members of Osama's family.\n\nPeople\n\n*Abdallah Osama bin Laden (born 1976), Saudi businessman and son of Osama bin Laden\n*Ashin Wirathu,  Burmese Buddhist monk labeled \"Burmese Bin Laden\" for religious intolerance towards Muslims.\n*Bakr bin Laden, Saudi businessman and half-brother of Osama bin Laden\n*Hamza bin Laden (born 1991), Saudi al-Qaeda figure and son of Osama bin Laden\n*Mohammed bin Awad bin Laden (1908–1967), Saudi businessman who amassed the bin Laden family fortune, father of Osama bin Laden\n*Omar bin Laden (born 1981), Saudi son of Osama bin Laden\n*Saad bin Laden (1979–2009), Saudi al-Qaeda figure and son of Osama bin Laden\n*Salem bin Laden (1946–1988), Saudi former head of the bin Laden family and brother of Osama bin Laden\n*Tarek bin Laden (born 1947), Saudi businessman and half-brother of Osama bin Laden\n*Wafah Dufour (née bin Laden, born 1975), American model and niece of Osama bin Laden\n*Yeslam bin Ladin (born 1950), Swiss businessman and the half-brother of Al-Qaeda leader\n\nOther uses\n\n*Osama bin Laden (elephant), an elephant that killed at least 27 people in India from 2004 to 2006\n*\"Bin Laden\" (song), a 2005 hip hop song by Immortal Technique and Mos Def\n*\"Bin Laden Weed\", a hip hop song on Three 6 Mafia's 2005 album Da Unbreakables\n*bin Laden, a nickname for the 500 euro note\n*Tere Bin Laden, a 2010 Bollywood comedy film. Bin Laden (disambiguation). http://en.wikipedia.org/?curid=4875."
+  }
+}

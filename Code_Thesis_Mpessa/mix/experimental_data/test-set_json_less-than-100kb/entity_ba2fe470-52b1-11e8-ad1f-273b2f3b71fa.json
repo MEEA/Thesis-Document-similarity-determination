@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1507",
+  "eid" : "ba2fe470-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778392119,
+  "textBody" : "Albert III may refer to:\n\n*Albert III, Count of Namur (1048–1102)\n*Albert III, Count of Habsburg (...-1199)\n*Albert III, Margrave of Brandenburg-Salzwedel (c. 1250–1300)\n*Albert III, Prince of Anhalt-Zerbst (d. 1359)\n*Albert III of Austria (1349–1395)\n*Albert III, Duke of Saxe-Wittenberg (1375/1380–1422)\n*Albert III, Duke of Bavaria (1438–1460)\n*Albert III, Margrave of Brandenburg (1414–1486)\n*Albert, Duke of Saxony (1443–1500), sometimes called \"Albert III\"",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Albert III" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1507" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Albert III may refer to:\n\n*Albert III, Count of Namur (1048–1102)\n*Albert III, Count of Habsburg (...-1199)\n*Albert III, Margrave of Brandenburg-Salzwedel (c. 1250–1300)\n*Albert III, Prince of Anhalt-Zerbst (d. 1359)\n*Albert III of Austria (1349–1395)\n*Albert III, Duke of Saxe-Wittenberg (1375/1380–1422)\n*Albert III, Duke of Bavaria (1438–1460)\n*Albert III, Margrave of Brandenburg (1414–1486)\n*Albert, Duke of Saxony (1443–1500), sometimes called \"Albert III\". Albert III. http://en.wikipedia.org/?curid=1507."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10508",
+  "eid" : "f5e5fea1-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778492298,
+  "textBody" : "In Japanese,  may refer to:\n\nPeople\n\n*Emperor Sanjō, the 67th emperor of Japan\n* , a Japanese kuge family\n\nFictional characters\n\n*Kairi Sanjō and Yukari Sanjō, fictional characters from the manga series Shugo Chara!\n*Yukito Sanjō, fictional character from the Bakuryu Sentai Abaranger\n\nPlaces\n\n* Sanjō, Niigata, a city in Niigata Prefecture, Japan\n* , one of numbered east-west streets in the ancient capital of Heian-kyō, present-day Kyoto\n* , one of numbered east-west streets in the ancient capital of Heijō-kyō, present-day Nara\n* Sanjō Station (disambiguation), train stations",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Sanjō" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10508" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "In Japanese,  may refer to:\n\nPeople\n\n*Emperor Sanjō, the 67th emperor of Japan\n* , a Japanese kuge family\n\nFictional characters\n\n*Kairi Sanjō and Yukari Sanjō, fictional characters from the manga series Shugo Chara!\n*Yukito Sanjō, fictional character from the Bakuryu Sentai Abaranger\n\nPlaces\n\n* Sanjō, Niigata, a city in Niigata Prefecture, Japan\n* , one of numbered east-west streets in the ancient capital of Heian-kyō, present-day Kyoto\n* , one of numbered east-west streets in the ancient capital of Heijō-kyō, present-day Nara\n* Sanjō Station (disambiguation), train stations. Sanjō. http://en.wikipedia.org/?curid=10508."
+  }
+}

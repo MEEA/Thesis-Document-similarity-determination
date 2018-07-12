@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11366",
+  "eid" : "fb2fc120-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778501170,
+  "textBody" : "Fabio Taglioni (September 10, 1920 – July 18, 2001) was an Italian engineer.\n\nBorn in Lugo di Romagna, he was chief designer and technical director of Ducati from 1954 until 1989. His desmodromic 90° V-twin engine design is still used in all current Ducati motorcycle engines. Among  the many race victories of his early desmo twin, the 1978 legendary return of Mike Hailwood at the Isle of Man is perhaps the most memorable.\n\nAfter World War II, Taglioni designed engines for Ceccato motorcycles and Mondial before joining Ducati in 1954.  He began by designing Ducati's OHC four-stroke singles, and in 1963 designed the prototype V4 Ducati Apollo. This led to the 1972 Ducati 750 Imola Desmo, and the 1970s and 1980s production Ducati L-twin motorcycles.\n\nHe died in Bologna in 2001.\n\nNotes",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Fabio Taglioni" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11366" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Fabio Taglioni (September 10, 1920 – July 18, 2001) was an Italian engineer.\n\nBorn in Lugo di Romagna, he was chief designer and technical director of Ducati from 1954 until 1989. His desmodromic 90° V-twin engine design is still used in all current Ducati motorcycle engines. Among  the many race victories of his early desmo twin, the 1978 legendary return of Mike Hailwood at the Isle of Man is perhaps the most memorable.\n\nAfter World War II, Taglioni designed engines for Ceccato motorcycles and Mondial before joining Ducati in 1954.  He began by designing Ducati's OHC four-stroke singles, and in 1963 designed the prototype V4 Ducati Apollo. This led to the 1972 Ducati 750 Imola Desmo, and the 1970s and 1980s production Ducati L-twin motorcycles.\n\nHe died in Bologna in 2001.\n\nNotes. Fabio Taglioni. http://en.wikipedia.org/?curid=11366."
+  }
+}

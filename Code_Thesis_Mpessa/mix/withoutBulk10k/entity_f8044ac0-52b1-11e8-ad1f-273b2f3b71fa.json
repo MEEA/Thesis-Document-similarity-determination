@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10844",
+  "eid" : "f8044ac0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778495852,
+  "textBody" : "French materialism is the name given to a handful of French 18th-century philosophers during the Age of Enlightenment, many of them clustered around the salon of Baron d'Holbach.  Although there are important differences between them, all of them were materialists who believed that the world was made up of a single substance, matter, the motions and properties of which could be used to explain all phenomena.  \n\nProminent French materialists of the 18th century include:\n\n* Julien Offray de La Mettrie\n* Denis Diderot\n* Baron d'Holbach\n* Claude Adrien Helvétius\n* Pierre-Jean-Georges Cabanis\n* Jacques-André Naigeon",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "French materialism" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10844" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "French materialism is the name given to a handful of French 18th-century philosophers during the Age of Enlightenment, many of them clustered around the salon of Baron d'Holbach.  Although there are important differences between them, all of them were materialists who believed that the world was made up of a single substance, matter, the motions and properties of which could be used to explain all phenomena.  \n\nProminent French materialists of the 18th century include:\n\n* Julien Offray de La Mettrie\n* Denis Diderot\n* Baron d'Holbach\n* Claude Adrien Helvétius\n* Pierre-Jean-Georges Cabanis\n* Jacques-André Naigeon. French materialism. http://en.wikipedia.org/?curid=10844."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18563",
+  "eid" : "339e2a60-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778595846,
+  "textBody" : "Lud or LUD may refer to:\n* Local usage details, a record of local calls made from and received by a particular phone number\n* Ludic language, a Finnic language spoken in Karelia\n\nPeople \n\n* Lud son of Heli, a legendary British king who in Geoffrey of Monmouth's pseudohistorical Historia Regum Britanniae founded London and was buried at Ludgate\n* Lud, son of Shem, a grandson of Noah\n* Lludd Llaw Eraint, a mythical Welsh figure cognate with king Nuada Airgetlám\n* Lud Fiser (1908–1990), American football and baseball player and coach\n* Lud Gluskin (1898–1989), Russian jazz bandleader\n* Lud Kramer (1932–2004), American politician\n* Ned Ludd, founder of the Luddite movement\n\nPlaces \n\n* Lud River, a river of New Zealand's South Island\n* Ludlow railway station, England\n* River Lud, a river of England, canalised as the Louth Navigation\n* Stone Lud, a standing stone in Caithness, in the Highland area of Scotland\n* Lud Gate, a city gate in the London area of Ludgate\n\nFiction \n\n* Lud (city), a city in Stephen King's Dark Tower series\n* Lobby Lud, a character used in British newspaper scavenger hunts in the 1920s",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Lud" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18563" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Lud or LUD may refer to:\n* Local usage details, a record of local calls made from and received by a particular phone number\n* Ludic language, a Finnic language spoken in Karelia\n\nPeople \n\n* Lud son of Heli, a legendary British king who in Geoffrey of Monmouth's pseudohistorical Historia Regum Britanniae founded London and was buried at Ludgate\n* Lud, son of Shem, a grandson of Noah\n* Lludd Llaw Eraint, a mythical Welsh figure cognate with king Nuada Airgetlám\n* Lud Fiser (1908–1990), American football and baseball player and coach\n* Lud Gluskin (1898–1989), Russian jazz bandleader\n* Lud Kramer (1932–2004), American politician\n* Ned Ludd, founder of the Luddite movement\n\nPlaces \n\n* Lud River, a river of New Zealand's South Island\n* Ludlow railway station, England\n* River Lud, a river of England, canalised as the Louth Navigation\n* Stone Lud, a standing stone in Caithness, in the Highland area of Scotland\n* Lud Gate, a city gate in the London area of Ludgate\n\nFiction \n\n* Lud (city), a city in Stephen King's Dark Tower series\n* Lobby Lud, a character used in British newspaper scavenger hunts in the 1920s. Lud. http://en.wikipedia.org/?curid=18563."
+  }
+}

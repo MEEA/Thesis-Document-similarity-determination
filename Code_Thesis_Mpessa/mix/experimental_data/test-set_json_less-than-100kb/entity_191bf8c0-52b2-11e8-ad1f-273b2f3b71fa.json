@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14998",
+  "eid" : "191bf8c0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778551372,
+  "textBody" : "IAI is an acronym for:\n\n* Iaido\n* The Information Architecture Institute\n* Institute of Art and Ideas\n* Inter-American Institute for Global Change Research\n* International African Institute\n* International Association for Identification\n* Israel Aerospace Industries (Ha-Taasiya Ha-Avirit)\n* Islamic Army in Iraq\n* Independent Administrative Institution\n* Intelligent Actuator (International Automation Industry), Japanese robot maker\n* Istituto Affari Internazionali (Italian Institute of International Affairs)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "IAI" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14998" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "IAI is an acronym for:\n\n* Iaido\n* The Information Architecture Institute\n* Institute of Art and Ideas\n* Inter-American Institute for Global Change Research\n* International African Institute\n* International Association for Identification\n* Israel Aerospace Industries (Ha-Taasiya Ha-Avirit)\n* Islamic Army in Iraq\n* Independent Administrative Institution\n* Intelligent Actuator (International Automation Industry), Japanese robot maker\n* Istituto Affari Internazionali (Italian Institute of International Affairs). IAI. http://en.wikipedia.org/?curid=14998."
+  }
+}

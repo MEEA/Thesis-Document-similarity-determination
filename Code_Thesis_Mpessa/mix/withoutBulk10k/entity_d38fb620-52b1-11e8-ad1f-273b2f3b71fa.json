@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=5269",
+  "eid" : "d38fb620-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778434690,
+  "textBody" : "Character(s) may refer to:\n\nArt and entertainment \n\n* Character (arts), an agent within a work of art, including literature, drama, cinema, opera, etc.\n* Character sketch or character, a literary description of a character type\n* Characters (Theophrastus), a classical Greek set of character sketches attributed to Theophrastus\n* Character (novel), a 1936 Dutch novel by Ferdinand Bordewijk\n** Character (film), a 1997 Dutch film based on that novel\n* Character (Dark Tranquillity album)\n* Character (Julia Kent album), 2013\n* Game character (disambiguation), various types of character in a video game or role playing game\n** Player character, as above but who is controlled or whose actions are directly chosen by a player\n** Non-player character, as above but not player-controlled, frequently acronymed as NPC\n* Characters (Stevie Wonder album), 1987\n* Characters (John Abercrombie album), 1977\n* The Characters, an improvised sketch comedy show on Netflix\n\nMorality \n\n* Moral character, an evaluation of a particular individual's durable moral qualities\n* Character education, a US term for values education\n\nPsychology \n\n* Character structure, a person's traits\n\nScience \n\n* Character (biology), the abstraction of an observable physical or biochemical trait of an organism\n* Character (mathematics), a type of function used in algebra\n\nSymbols \n\n* Character (symbol), a sign or symbol\n** Character (computing), a unit of information roughly corresponding to a grapheme\n** Chinese character, a written language symbol (sinogram) used in Chinese, Japanese, and other languages\n\nOther uses \n\n* Character (income tax), a type of income for tax purposes in the US\n* Sacramental character, a Catholic teaching\n* Charaktery, a monthly magazine in Poland",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Character" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=5269" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Character(s) may refer to:\n\nArt and entertainment \n\n* Character (arts), an agent within a work of art, including literature, drama, cinema, opera, etc.\n* Character sketch or character, a literary description of a character type\n* Characters (Theophrastus), a classical Greek set of character sketches attributed to Theophrastus\n* Character (novel), a 1936 Dutch novel by Ferdinand Bordewijk\n** Character (film), a 1997 Dutch film based on that novel\n* Character (Dark Tranquillity album)\n* Character (Julia Kent album), 2013\n* Game character (disambiguation), various types of character in a video game or role playing game\n** Player character, as above but who is controlled or whose actions are directly chosen by a player\n** Non-player character, as above but not player-controlled, frequently acronymed as NPC\n* Characters (Stevie Wonder album), 1987\n* Characters (John Abercrombie album), 1977\n* The Characters, an improvised sketch comedy show on Netflix\n\nMorality \n\n* Moral character, an evaluation of a particular individual's durable moral qualities\n* Character education, a US term for values education\n\nPsychology \n\n* Character structure, a person's traits\n\nScience \n\n* Character (biology), the abstraction of an observable physical or biochemical trait of an organism\n* Character (mathematics), a type of function used in algebra\n\nSymbols \n\n* Character (symbol), a sign or symbol\n** Character (computing), a unit of information roughly corresponding to a grapheme\n** Chinese character, a written language symbol (sinogram) used in Chinese, Japanese, and other languages\n\nOther uses \n\n* Character (income tax), a type of income for tax purposes in the US\n* Sacramental character, a Catholic teaching\n* Charaktery, a monthly magazine in Poland. Character. http://en.wikipedia.org/?curid=5269."
+  }
+}

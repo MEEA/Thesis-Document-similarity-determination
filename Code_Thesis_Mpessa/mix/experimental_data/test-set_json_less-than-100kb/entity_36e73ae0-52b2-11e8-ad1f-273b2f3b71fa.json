@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18999",
+  "eid" : "36e73ae0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778601358,
+  "textBody" : "Motala ström is the river system that drains lake Vättern, the second largest lake in Sweden, into the Baltic Sea in Norrköping. It is named from the city Motala where it begins.  In the early 19th century, the Göta Canal was constructed in parallel with Motala ström.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Motala ström" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18999" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Motala ström is the river system that drains lake Vättern, the second largest lake in Sweden, into the Baltic Sea in Norrköping. It is named from the city Motala where it begins.  In the early 19th century, the Göta Canal was constructed in parallel with Motala ström. Motala ström. http://en.wikipedia.org/?curid=18999."
+  }
+}

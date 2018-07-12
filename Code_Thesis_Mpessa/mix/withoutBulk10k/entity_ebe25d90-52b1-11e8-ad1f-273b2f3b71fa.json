@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8989",
+  "eid" : "ebe25d90-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778475497,
+  "textBody" : "Defense or defence may refer to:\n\nTactics and strategy\n\n* Defense (military)\n* Self-defense, the use of force to defend oneself\n* Civil defense, the organizing of civilians to deal with enemy attacks\n\nSports\n\n* Defense (sports), the action of preventing an opponent from scoring\n** Defender (association football), an outfield player whose primary role is to prevent the opposing team from scoring goals\n** Defenceman (ice hockey), a player, other than the goaltender, in a defensive position\n\nPolitics and economics\n\n* National security\n** Defence diplomacy\n** Defence minister\n** Ministry of Defence\n* International security\n* Defense industry\n** Defense contractor\n\nConcepts in law\n\n* Defense (legal)\n* Defence of property\n* Right of self-defense\n\nOther uses\n\n* Defense of a doctoral thesis, also called viva voce; see dissertation\n* HMS Defence, Royal Navy ships of this name\n* La Défense, a business district in Paris\n** The Grande Arche, commonly known as Arche de la Défense, in Paris\n* DeFence, an art project\n* Haganah (Hebrew for \"The Defence\"), a paramilitary organization in British Palestine\n* Defence mechanisms, in psychology\n* A chess opening by Black",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Defense" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8989" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Defense or defence may refer to:\n\nTactics and strategy\n\n* Defense (military)\n* Self-defense, the use of force to defend oneself\n* Civil defense, the organizing of civilians to deal with enemy attacks\n\nSports\n\n* Defense (sports), the action of preventing an opponent from scoring\n** Defender (association football), an outfield player whose primary role is to prevent the opposing team from scoring goals\n** Defenceman (ice hockey), a player, other than the goaltender, in a defensive position\n\nPolitics and economics\n\n* National security\n** Defence diplomacy\n** Defence minister\n** Ministry of Defence\n* International security\n* Defense industry\n** Defense contractor\n\nConcepts in law\n\n* Defense (legal)\n* Defence of property\n* Right of self-defense\n\nOther uses\n\n* Defense of a doctoral thesis, also called viva voce; see dissertation\n* HMS Defence, Royal Navy ships of this name\n* La Défense, a business district in Paris\n** The Grande Arche, commonly known as Arche de la Défense, in Paris\n* DeFence, an art project\n* Haganah (Hebrew for \"The Defence\"), a paramilitary organization in British Palestine\n* Defence mechanisms, in psychology\n* A chess opening by Black. Defense. http://en.wikipedia.org/?curid=8989."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16284",
+  "eid" : "2538b5d0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778571693,
+  "textBody" : "There are several people and things named Joliet:\n\n*Louis Jolliet, a 17th-century explorer of North America\n*Joliet, Illinois, United States, a city named after Louis Jolliet\n**Joliet Correctional Center, a prison in Joliet, Illinois\n*Joliet, Montana,  United States\n*Joliet Township, Platte County, Nebraska\n*Joliet (file system), an extension to the ISO 9660 specification, written by Microsoft\n*\"Joliet\" Jake Blues (John Belushi), member of the Blues Brothers band\n*Joliet, Texas, an unincorporated community in Caldwell County, Texas",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Joliet" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16284" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "There are several people and things named Joliet:\n\n*Louis Jolliet, a 17th-century explorer of North America\n*Joliet, Illinois, United States, a city named after Louis Jolliet\n**Joliet Correctional Center, a prison in Joliet, Illinois\n*Joliet, Montana,  United States\n*Joliet Township, Platte County, Nebraska\n*Joliet (file system), an extension to the ISO 9660 specification, written by Microsoft\n*\"Joliet\" Jake Blues (John Belushi), member of the Blues Brothers band\n*Joliet, Texas, an unincorporated community in Caldwell County, Texas. Joliet. http://en.wikipedia.org/?curid=16284."
+  }
+}

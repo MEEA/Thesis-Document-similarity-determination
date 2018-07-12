@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11346",
+  "eid" : "fb20f410-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778501073,
+  "textBody" : "FireWire is Apple's trademark for the IEEE 1394 interface.\n\nFirewire or Fire wire may also refer to:\n\n* Firewire, a Kidde trademark for a linear fire detection element, used in aircraft engine bays\n* Firewire (Lateef the Truthspeaker album)\n* Firewire, an album by jazz guitarist Larry Carlton\n* Fire Wire (song), a 2001 single by Cosmic Gate",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Firewire (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11346" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "FireWire is Apple's trademark for the IEEE 1394 interface.\n\nFirewire or Fire wire may also refer to:\n\n* Firewire, a Kidde trademark for a linear fire detection element, used in aircraft engine bays\n* Firewire (Lateef the Truthspeaker album)\n* Firewire, an album by jazz guitarist Larry Carlton\n* Fire Wire (song), a 2001 single by Cosmic Gate. Firewire (disambiguation). http://en.wikipedia.org/?curid=11346."
+  }
+}

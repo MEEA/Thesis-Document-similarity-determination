@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17210",
+  "eid" : "2adc3110-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778581153,
+  "textBody" : "A knowbot is a kind of bot that collects information by automatically gathering certain specified information from web sites.\n\nKNOWBOT is the acronym for Knowledge-Based Object Technology.  This term, used as early as 1988 and known to have been implemented by December 1989 at the latesthttp://ftp.sunet.se/pub/Internet-documents/matrix/services/KIS-id.txt describes computer-based objects developed for collecting and storing specific information, in order to use that information to accomplish a specific task, and to enable sharing that information with other objects or processes. An early use of knowbots was to provide a computerized assistant to users to complete redundant detailed tasks without a need to train the user in computer technology.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Knowbot" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17210" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A knowbot is a kind of bot that collects information by automatically gathering certain specified information from web sites.\n\nKNOWBOT is the acronym for Knowledge-Based Object Technology.  This term, used as early as 1988 and known to have been implemented by December 1989 at the latesthttp://ftp.sunet.se/pub/Internet-documents/matrix/services/KIS-id.txt describes computer-based objects developed for collecting and storing specific information, in order to use that information to accomplish a specific task, and to enable sharing that information with other objects or processes. An early use of knowbots was to provide a computerized assistant to users to complete redundant detailed tasks without a need to train the user in computer technology. Knowbot. http://en.wikipedia.org/?curid=17210."
+  }
+}

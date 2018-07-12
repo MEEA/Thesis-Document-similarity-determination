@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8822",
+  "eid" : "eaaee6a0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778473482,
+  "textBody" : "Daniel Williamson may refer to:\n*Danny Williamson (footballer) (born 1973), former English footballer\n*A DJ, stage name LTJ Bukem\n*Daniel Alexander Williamson (1823–1903), British artist",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Daniel Williamson" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8822" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Daniel Williamson may refer to:\n*Danny Williamson (footballer) (born 1973), former English footballer\n*A DJ, stage name LTJ Bukem\n*Daniel Alexander Williamson (1823–1903), British artist. Daniel Williamson. http://en.wikipedia.org/?curid=8822."
+  }
+}

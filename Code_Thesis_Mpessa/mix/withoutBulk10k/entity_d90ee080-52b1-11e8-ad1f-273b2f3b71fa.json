@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=5954",
+  "eid" : "d90ee080-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778443912,
+  "textBody" : "Callisto may refer to:\n*Callisto (mythology), a nymph\n*Callisto (moon), a moon of Jupiter\n*Callisto (moth), a genus of moths in the Gracillariidae family\n*Callisto (Xena), a character on Xena: Warrior Princess\n**\"Callisto\" (Xena: Warrior Princess episode)\n*Callisto (comics), a fictional mutant in X-Men\n*Callisto Corporation, a software development company\n*Callisto series, a sequence of novels by Lin Carter\n*Callisto (band), a band from Turku, Finland\n*Callisto, a novel by Torsten Krol\n*Callisto, a release of version 3.2 of Eclipse\n*Callisto, an AMD Phenom II processor core\n*Callisto, a toy in the Mattel Major Matt Mason series",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Callisto" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=5954" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Callisto may refer to:\n*Callisto (mythology), a nymph\n*Callisto (moon), a moon of Jupiter\n*Callisto (moth), a genus of moths in the Gracillariidae family\n*Callisto (Xena), a character on Xena: Warrior Princess\n**\"Callisto\" (Xena: Warrior Princess episode)\n*Callisto (comics), a fictional mutant in X-Men\n*Callisto Corporation, a software development company\n*Callisto series, a sequence of novels by Lin Carter\n*Callisto (band), a band from Turku, Finland\n*Callisto, a novel by Torsten Krol\n*Callisto, a release of version 3.2 of Eclipse\n*Callisto, an AMD Phenom II processor core\n*Callisto, a toy in the Mattel Major Matt Mason series. Callisto. http://en.wikipedia.org/?curid=5954."
+  }
+}

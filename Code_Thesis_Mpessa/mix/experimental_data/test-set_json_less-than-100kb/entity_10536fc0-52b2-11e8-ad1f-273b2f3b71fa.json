@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13948",
+  "eid" : "10536fc0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778536636,
+  "textBody" : "Head end may refer to:\n\n* A cable television headend, a master facility for receiving television signals for processing and distribution over a cable television system\n* gateway (telecommunications)\n*SMATV headend, (Single Master Antenna Television) This type of headend can be used for hotels, motels, and commercial properties. It is used to receive and rebroadcast Satellite TV channels throughout a property.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Head end" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13948" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Head end may refer to:\n\n* A cable television headend, a master facility for receiving television signals for processing and distribution over a cable television system\n* gateway (telecommunications)\n*SMATV headend, (Single Master Antenna Television) This type of headend can be used for hotels, motels, and commercial properties. It is used to receive and rebroadcast Satellite TV channels throughout a property. Head end. http://en.wikipedia.org/?curid=13948."
+  }
+}

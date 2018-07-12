@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14405",
+  "eid" : "145f0cf0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778543423,
+  "textBody" : "Hemlock may refer to:\n\nPlants\n\n*Several poisonous plants in the Apiaceae family\n**Cicuta (water hemlock)\n**Conium, two species, one formerly used as a method of execution\n***Conium maculatum, or poison hemlock\n**Oenanthe crocata (water dropwort)\n*Tsuga, a genus of coniferous trees which resemble the poisonous plant, but are unrelated\n\nPlaces\n\nCommunities\n\n;Canada\n*Hemlock, in Norfolk County, Ontario\n;United States\n*Hemlock, Indiana\n*Hemlock, Michigan\n*Hemlock, Ohio\n*Hemlock, Fayette County, West Virginia\n*Hemlock, Jackson County, West Virginia\n*Hemlock, Wisconsin\n*Hemlock Township, Columbia County, Pennsylvania\nGeographic features\n\n;Bodies of water\n*Hemlock Brook, in Massachusetts\n*Hemlock Creek, in Pennsylvania\n*Hemlock Falls, in Georgia\n*Hemlock Lake, one of the Finger Lakes in New York\n*Hemlock Lake, Marcellus, MI\n;Mountains\n*Hemlock Hill, a mountain in Otsego County, New York\n\nPeople\n\n* Babe and Carla Hemlock, Mohawk visual artists\nArts,entertainment, and media\n\nMusic\n\n*Hemlock (band), a heavy metal band from Las Vegas, Nevada\n* Hemlock Recordings, an London-based Electronic Record Label run by Untold (musician)\nOther arts, entertainment, and media\n\n* Hemlock, a 1956 painting by Joan Mitchell\n* Hemlock Grove (TV series)\n* Hemlock Grove, a 2012 novel by Brian McGreevy\n*Sherlock Hemlock, the name of a Muppet detective\n\nComputing and technology\n\n*Hemlock (editor), a variant of the Emacs text editor for Unix\n*Hemlock (Evergreen series / Radeon HD 5970), a graphics card code-name\n\nOrganizations and enterprises\n\n*Compassion & Choices, formerly known as the Hemlock Society, a group advocating aid in dying for qualifying terminally ill patients in the United States\n*Hemlock Semiconductor Corporation, a producer of polysilicon in the United States",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Hemlock" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14405" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Hemlock may refer to:\n\nPlants\n\n*Several poisonous plants in the Apiaceae family\n**Cicuta (water hemlock)\n**Conium, two species, one formerly used as a method of execution\n***Conium maculatum, or poison hemlock\n**Oenanthe crocata (water dropwort)\n*Tsuga, a genus of coniferous trees which resemble the poisonous plant, but are unrelated\n\nPlaces\n\nCommunities\n\n;Canada\n*Hemlock, in Norfolk County, Ontario\n;United States\n*Hemlock, Indiana\n*Hemlock, Michigan\n*Hemlock, Ohio\n*Hemlock, Fayette County, West Virginia\n*Hemlock, Jackson County, West Virginia\n*Hemlock, Wisconsin\n*Hemlock Township, Columbia County, Pennsylvania\nGeographic features\n\n;Bodies of water\n*Hemlock Brook, in Massachusetts\n*Hemlock Creek, in Pennsylvania\n*Hemlock Falls, in Georgia\n*Hemlock Lake, one of the Finger Lakes in New York\n*Hemlock Lake, Marcellus, MI\n;Mountains\n*Hemlock Hill, a mountain in Otsego County, New York\n\nPeople\n\n* Babe and Carla Hemlock, Mohawk visual artists\nArts,entertainment, and media\n\nMusic\n\n*Hemlock (band), a heavy metal band from Las Vegas, Nevada\n* Hemlock Recordings, an London-based Electronic Record Label run by Untold (musician)\nOther arts, entertainment, and media\n\n* Hemlock, a 1956 painting by Joan Mitchell\n* Hemlock Grove (TV series)\n* Hemlock Grove, a 2012 novel by Brian McGreevy\n*Sherlock Hemlock, the name of a Muppet detective\n\nComputing and technology\n\n*Hemlock (editor), a variant of the Emacs text editor for Unix\n*Hemlock (Evergreen series / Radeon HD 5970), a graphics card code-name\n\nOrganizations and enterprises\n\n*Compassion & Choices, formerly known as the Hemlock Society, a group advocating aid in dying for qualifying terminally ill patients in the United States\n*Hemlock Semiconductor Corporation, a producer of polysilicon in the United States. Hemlock. http://en.wikipedia.org/?curid=14405."
+  }
+}

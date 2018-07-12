@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3536",
+  "eid" : "c7747fb0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778414379,
+  "textBody" : "This article is about transport in Belarus.\n\nRailways \n\nRail transport in Belarus is operated by Belarusskaya Chyhunka[http://www.rw.by BŽD / Белорусская Железная Дорога] official site\ntotal:\n\ncountry comparison to the world: 32\nbroad gauge:\n of  gauge (874 km electrified) (2006)\n\n*City with underground railway system: Minsk, see Minsk Metro\n*For tramway systems: see List of town tramway systems in Belarus\n\nHighways \n\nThe owners of highways may be the Republic of Belarus, its political subdivisions, legal and natural persons, who own roads, as well as legal entities, which roads are fixed on the basis of economic or operational management.\n\nRepublican state administration in the field of roads and road activity is the Department Belavtodor under the Ministry of Transport and Communications of the Republic of Belarus.\n\nIn total, in Belarus there are more than  of roads and 200 km of departmental thousand (agriculture, industry, forestry, etc.), including 10000 mi in cities and towns. The density of paved roads has been relatively low – 337 km per 1,000 km2 territory – for comparison, in European countries with well-developed road network, the figure is an average of 906 km.\n\ntotal:\n\npaved:\n (2003)\n\nWaterways \n\n (use limited by location on perimeter of country and by shallowness) (2003)\ncountry comparison to the world: 37\n\nPipelines \n\ngas ; oil ; refined products  (2008)\n\nPorts and harbors \n\n* Mazyr - on the river Pripyat\n\nAirports \n\n65 (2008):\ncountry comparison to the world: 76\n\n* Minsk International Airport\n* Minsk-1\n* Gomel Airport\n\nAirports - with paved runways \n\ntotal:\n35\nover :\n2\n:\n22\n:\n4\n914 to:\n1\nunder 914 m:\n6 (2008)\n\nAirports - with unpaved runways \n\ntotal:\n30\n:\n1\n:\n1\n914 to:\n2\nunder 914 m:\n26 (2008)\n\nHeliports \n\n1 (2007)Heliports is where helicopter land.\n\nNational air-carrier \n\n*Belavia",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Transport in Belarus" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3536" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "This article is about transport in Belarus.\n\nRailways \n\nRail transport in Belarus is operated by Belarusskaya Chyhunka[http://www.rw.by BŽD / Белорусская Железная Дорога] official site\ntotal:\n\ncountry comparison to the world: 32\nbroad gauge:\n of  gauge (874 km electrified) (2006)\n\n*City with underground railway system: Minsk, see Minsk Metro\n*For tramway systems: see List of town tramway systems in Belarus\n\nHighways \n\nThe owners of highways may be the Republic of Belarus, its political subdivisions, legal and natural persons, who own roads, as well as legal entities, which roads are fixed on the basis of economic or operational management.\n\nRepublican state administration in the field of roads and road activity is the Department Belavtodor under the Ministry of Transport and Communications of the Republic of Belarus.\n\nIn total, in Belarus there are more than  of roads and 200 km of departmental thousand (agriculture, industry, forestry, etc.), including 10000 mi in cities and towns. The density of paved roads has been relatively low – 337 km per 1,000 km2 territory – for comparison, in European countries with well-developed road network, the figure is an average of 906 km.\n\ntotal:\n\npaved:\n (2003)\n\nWaterways \n\n (use limited by location on perimeter of country and by shallowness) (2003)\ncountry comparison to the world: 37\n\nPipelines \n\ngas ; oil ; refined products  (2008)\n\nPorts and harbors \n\n* Mazyr - on the river Pripyat\n\nAirports \n\n65 (2008):\ncountry comparison to the world: 76\n\n* Minsk International Airport\n* Minsk-1\n* Gomel Airport\n\nAirports - with paved runways \n\ntotal:\n35\nover :\n2\n:\n22\n:\n4\n914 to:\n1\nunder 914 m:\n6 (2008)\n\nAirports - with unpaved runways \n\ntotal:\n30\n:\n1\n:\n1\n914 to:\n2\nunder 914 m:\n26 (2008)\n\nHeliports \n\n1 (2007)Heliports is where helicopter land.\n\nNational air-carrier \n\n*Belavia. Transport in Belarus. http://en.wikipedia.org/?curid=3536."
+  }
+}

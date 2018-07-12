@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15355",
+  "eid" : "1b7292f0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778555295,
+  "textBody" : "ICI or Ici may refer to:\n\nMedia\n\n* Ici Radio-Canada, branding of Radio-Canada, the French language service of the Canadian Broadcasting Corporation beginning in 2013\n* ICI (TV channel), full name International Channel/Canal International, Montreal ethnic / multicultural television channel, a.k.a. CFHD-DT\n* Ici (magazine), an alternative French language weekly newspaper in Montreal, Canada, now defunct\n* International Channel/Canal International, an ethnic television station in Montreal, Quebec, Canada known legally as CFHD-DT\n\nCompanies and organisations\n\n* ICI Homes, a homebuilder in Florida, United States\n* Imperial Chemical Industries, former British chemicals company\n* Independent Curators International, a non-profit headquartered in New York City\n* Indian Concrete Institute\n* Indian Citation Index, an online bibliographic database containing abstracts and citations/references from academic journals\n* Institute of Cultural Inquiry, an international organization functioning as a think-tank for artists\n* Investment Company Institute, an American investment company trade organization\n* Istanbul Cooperation Initiative, an initiative launched during NATO's 2004 Istanbul Summit\n* International Compact with Iraq\n\nOther uses\n\n* Inter Carrier Interface, a transport protocol (IANA port 2200) for use with SMDS\n* Interactive Compilation Interface, transforms production compilers into research toolsets\n* Intracervical Insemination\n* ICI programming language, a computer programming language developed in 1992",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "ICI" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15355" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "ICI or Ici may refer to:\n\nMedia\n\n* Ici Radio-Canada, branding of Radio-Canada, the French language service of the Canadian Broadcasting Corporation beginning in 2013\n* ICI (TV channel), full name International Channel/Canal International, Montreal ethnic / multicultural television channel, a.k.a. CFHD-DT\n* Ici (magazine), an alternative French language weekly newspaper in Montreal, Canada, now defunct\n* International Channel/Canal International, an ethnic television station in Montreal, Quebec, Canada known legally as CFHD-DT\n\nCompanies and organisations\n\n* ICI Homes, a homebuilder in Florida, United States\n* Imperial Chemical Industries, former British chemicals company\n* Independent Curators International, a non-profit headquartered in New York City\n* Indian Concrete Institute\n* Indian Citation Index, an online bibliographic database containing abstracts and citations/references from academic journals\n* Institute of Cultural Inquiry, an international organization functioning as a think-tank for artists\n* Investment Company Institute, an American investment company trade organization\n* Istanbul Cooperation Initiative, an initiative launched during NATO's 2004 Istanbul Summit\n* International Compact with Iraq\n\nOther uses\n\n* Inter Carrier Interface, a transport protocol (IANA port 2200) for use with SMDS\n* Interactive Compilation Interface, transforms production compilers into research toolsets\n* Intracervical Insemination\n* ICI programming language, a computer programming language developed in 1992. ICI. http://en.wikipedia.org/?curid=15355."
+  }
+}

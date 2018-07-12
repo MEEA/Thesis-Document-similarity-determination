@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18693",
+  "eid" : "346cc500-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778597200,
+  "textBody" : "This is an index to articles listing battles. List of battles (alphabetical) gives a global list.\n\nChronological\n\n*By era\n**List of battles before 301\n**List of battles 301–1300\n**List of battles 1301–1600\n**List of battles 1601–1800\n**List of battles 1801–1900\n**List of battles 1901–2000\n**List of battles since 2001\n*By conflict\n**Mongol Conquests (1205–1312)\n**Hundred Years' War (1337–1453)\n**American Revolutionary War (1775–1782)\n**Napoleonic Wars (1799–1815)\n**American Civil War (1861–1865)\n**World War I (1914–1918)\n**World War II (1939–1945)\n**Pig War (1959-1960)\nBy participants or location\n\nBy death toll\n\n*List of battles by casualties\n*List of battles and other violent events by death toll",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Lists of battles" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18693" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "This is an index to articles listing battles. List of battles (alphabetical) gives a global list.\n\nChronological\n\n*By era\n**List of battles before 301\n**List of battles 301–1300\n**List of battles 1301–1600\n**List of battles 1601–1800\n**List of battles 1801–1900\n**List of battles 1901–2000\n**List of battles since 2001\n*By conflict\n**Mongol Conquests (1205–1312)\n**Hundred Years' War (1337–1453)\n**American Revolutionary War (1775–1782)\n**Napoleonic Wars (1799–1815)\n**American Civil War (1861–1865)\n**World War I (1914–1918)\n**World War II (1939–1945)\n**Pig War (1959-1960)\nBy participants or location\n\nBy death toll\n\n*List of battles by casualties\n*List of battles and other violent events by death toll. Lists of battles. http://en.wikipedia.org/?curid=18693."
+  }
+}

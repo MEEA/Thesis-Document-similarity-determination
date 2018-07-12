@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=4885",
+  "eid" : "d110ac60-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778430502,
+  "textBody" : "Bannock may mean:\n\n* Bannock (food), a kind of bread, usually prepared by pan-frying\n* Bannock people, a Native American people of what is now southeastern Oregon and western Idaho\n* Bannock County, Idaho\n* Bannock, Ohio\n* Bannock Pass, between Idaho and Montana\n* Russell Bannock (born 1919), Canadian World War II flying ace and test pilot",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Bannock" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=4885" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Bannock may mean:\n\n* Bannock (food), a kind of bread, usually prepared by pan-frying\n* Bannock people, a Native American people of what is now southeastern Oregon and western Idaho\n* Bannock County, Idaho\n* Bannock, Ohio\n* Bannock Pass, between Idaho and Montana\n* Russell Bannock (born 1919), Canadian World War II flying ace and test pilot. Bannock. http://en.wikipedia.org/?curid=4885."
+  }
+}

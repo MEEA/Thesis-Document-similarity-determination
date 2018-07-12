@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7670",
+  "eid" : "e2bdf8f0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778460159,
+  "textBody" : "Central Coast may refer to:\n\nAustralia\n\n* Central Coast (New South Wales), an official region of New South Wales, Australia\n** Central Coast Mariners, the professional football A-league club based in the region\n** Central Coast Storm, a rugby league club based in the region\n** Central Coast Waves, a rugby union team playing in the Shute Shield\n* Central Coast (Tasmania)\n\nCanada\n\n* Central Coast Regional District, in British Columbia, Canada\n\nUnited States\n\n* Central Coast (California), in California, United States\n* Central Coast AVA, a large American viticultural area",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Central Coast" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7670" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Central Coast may refer to:\n\nAustralia\n\n* Central Coast (New South Wales), an official region of New South Wales, Australia\n** Central Coast Mariners, the professional football A-league club based in the region\n** Central Coast Storm, a rugby league club based in the region\n** Central Coast Waves, a rugby union team playing in the Shute Shield\n* Central Coast (Tasmania)\n\nCanada\n\n* Central Coast Regional District, in British Columbia, Canada\n\nUnited States\n\n* Central Coast (California), in California, United States\n* Central Coast AVA, a large American viticultural area. Central Coast. http://en.wikipedia.org/?curid=7670."
+  }
+}

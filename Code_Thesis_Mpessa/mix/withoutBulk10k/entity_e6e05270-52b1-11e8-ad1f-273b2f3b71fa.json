@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8278",
+  "eid" : "e6e05270-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778467095,
+  "textBody" : "Deduction may refer to:\n\n* English modals of deduction, English modal verbs to state how sure somebody is about something.\n* Deduction (food stamps), (in the USA) used to calculate a household’s monthly food stamp benefit goods\n\nLogic\n\n* Deductive reasoning, inference in which the conclusion is of no greater generality than the premises\n* Natural deduction, an approach to proof theory that attempts to provide a formal model of logical reasoning as it \"naturally\" occurs\n*  Logical thinking  has three main components: Deduction is finding data to support an argument, whereas induction or inductive reasoning is where an argument is made to explain existing data. Abduction or abductive reasoning is third component of logic and involves something that allows us to move from data to an argument. (Abduction is what is used by detectives to form a conclusion using existing information.)\n\nTaxation\n\n* Tax deduction, variable tax dollars subtracted, (or deducted,) from gross income.\n** Itemized deduction, eligible expense that individual taxpayers in the United States can report on their Federal income tax returns\n** Standard deduction, dollar amount that non-itemizers may subtract from their income",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Deduction" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8278" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Deduction may refer to:\n\n* English modals of deduction, English modal verbs to state how sure somebody is about something.\n* Deduction (food stamps), (in the USA) used to calculate a household’s monthly food stamp benefit goods\n\nLogic\n\n* Deductive reasoning, inference in which the conclusion is of no greater generality than the premises\n* Natural deduction, an approach to proof theory that attempts to provide a formal model of logical reasoning as it \"naturally\" occurs\n*  Logical thinking  has three main components: Deduction is finding data to support an argument, whereas induction or inductive reasoning is where an argument is made to explain existing data. Abduction or abductive reasoning is third component of logic and involves something that allows us to move from data to an argument. (Abduction is what is used by detectives to form a conclusion using existing information.)\n\nTaxation\n\n* Tax deduction, variable tax dollars subtracted, (or deducted,) from gross income.\n** Itemized deduction, eligible expense that individual taxpayers in the United States can report on their Federal income tax returns\n** Standard deduction, dollar amount that non-itemizers may subtract from their income. Deduction. http://en.wikipedia.org/?curid=8278."
+  }
+}

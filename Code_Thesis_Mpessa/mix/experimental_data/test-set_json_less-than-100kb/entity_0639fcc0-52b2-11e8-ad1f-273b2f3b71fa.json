@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13045",
+  "eid" : "0639fcc0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778519692,
+  "textBody" : "A gimlet is a hand tool for drilling small holes, mainly in wood, without splitting.  It was defined in Joseph Gwilt's Architecture (1859) as \"a piece of steel of a semi-cylindrical form, hollow on one side, having a cross handle at one end and a worm or screw at the other\".Joseph Gwilt (1859), Architecture \n\nA gimlet is always a small tool. A similar tool of larger size is called an auger. The cutting action of the gimlet is slightly different from an auger, however, as the end of the screw, and so the initial hole it makes, is smaller; the cutting edges pare away the wood which is moved out by the spiral sides, falling out through the entry hole. This also pulls the gimlet farther into the hole as it is turned; unlike a bradawl, pressure is not required once the tip has been drawn in. \n\nThe name \"gimlet\" comes from the Old French guinbelet, guimbelet, later guibelet, probably a diminutive of the Anglo-French \"wimble\",  a variation of \"guimble\", from the Middle Low German wiemel, cf. the Scandinavian wammie, to bore or twist. Modern French uses the term vrille, also the French for a tendril.Oxford English Dictionary, 2nd. Edition, (1989)\n\nUse as a metaphor \n\nThe term is also used figuratively to describe something as sharp or piercing, and also to describe the twisting, boring motion of using a gimlet. The term gimlet-eyed can mean sharp-eyed or squint-eyed (one example of this use is Major General Smedley Darlington Butler, who was known as \"Old Gimlet Eye\").",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Gimlet (tool)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13045" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A gimlet is a hand tool for drilling small holes, mainly in wood, without splitting.  It was defined in Joseph Gwilt's Architecture (1859) as \"a piece of steel of a semi-cylindrical form, hollow on one side, having a cross handle at one end and a worm or screw at the other\".Joseph Gwilt (1859), Architecture \n\nA gimlet is always a small tool. A similar tool of larger size is called an auger. The cutting action of the gimlet is slightly different from an auger, however, as the end of the screw, and so the initial hole it makes, is smaller; the cutting edges pare away the wood which is moved out by the spiral sides, falling out through the entry hole. This also pulls the gimlet farther into the hole as it is turned; unlike a bradawl, pressure is not required once the tip has been drawn in. \n\nThe name \"gimlet\" comes from the Old French guinbelet, guimbelet, later guibelet, probably a diminutive of the Anglo-French \"wimble\",  a variation of \"guimble\", from the Middle Low German wiemel, cf. the Scandinavian wammie, to bore or twist. Modern French uses the term vrille, also the French for a tendril.Oxford English Dictionary, 2nd. Edition, (1989)\n\nUse as a metaphor \n\nThe term is also used figuratively to describe something as sharp or piercing, and also to describe the twisting, boring motion of using a gimlet. The term gimlet-eyed can mean sharp-eyed or squint-eyed (one example of this use is Major General Smedley Darlington Butler, who was known as \"Old Gimlet Eye\"). Gimlet (tool). http://en.wikipedia.org/?curid=13045."
+  }
+}

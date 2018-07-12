@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2319",
+  "eid" : "bf6e8361-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778400918,
+  "textBody" : "Two antipopes used the regnal name Victor IV:\n\n* Antipope Victor IV (1138)\n* Antipope Victor IV (1159–1164)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Antipope Victor IV" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2319" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Two antipopes used the regnal name Victor IV:\n\n* Antipope Victor IV (1138)\n* Antipope Victor IV (1159–1164). Antipope Victor IV. http://en.wikipedia.org/?curid=2319."
+  }
+}

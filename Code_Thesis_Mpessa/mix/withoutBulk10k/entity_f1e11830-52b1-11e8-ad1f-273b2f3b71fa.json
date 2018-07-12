@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=9740",
+  "eid" : "f1e11830-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778485555,
+  "textBody" : "Epoch or EPOCH may refer to:\n\nTime-related\n\n* Epoch (astronomy), a moment in time used as a reference for the orbital elements of a celestial body\n* Epoch (cosmology) or cosmologic epoch, a phase in the development of the universe since the Big Bang\n* Epoch (geology) or geologic epoch, a span of time smaller than a period and larger than an age\n* Epoch (race), racial periods in Blavatsky's esoteric theory of the root races\n* Epoch (reference date), a moment in time chosen as the origin of a particular era\n* Unix epoch, the starting time for Unix-based operating systems\n\nArts and entertainment\n\n* Epoch (DC Comics), a supervillain also known as the Lord of Time\n* Epoch (film)\n* Epoch (Marvel Comics), a cosmic entity in the Marvel Comics universe\n* Epoch (anthology), a 1975 anthology of science fiction stories\n* Epoch (Tycho album), 2016\n* Epoch, a 2006 album by Rip Slyme\n* Epoch (Song) by Savlonic, 2017\n\nGames\n\n* Epoch Co., a Japanese toy and computer games company\n** Epoch Game Pocket Computer, an early hand-held game console produced by Epoch Co.\n* Epoch (Chrono Trigger), a flying time machine in role-playing game Chrono Trigger\n* Epoch Hunter, a boss in Caverns of Time from the game World of Warcraft\n\nPublications\n\n* Epoch (magazine), literary magazine of Cornell University\n* Epoch (Russian magazine), literary magazine by Fyodor Dostoyevsky and his brother Mikhail\n* Ha-Tsefirah (lit. Epoch), a Hebrew language newspaper published in 1862 and 1874–1931\n* The Epoch Times, a privately owned Falun Gong-linked newspaper\n\nScience and technology\n\n* EPOCH (chemotherapy), a chemotherapy regimen\n* EPOCh (Extrasolar Planet Observation and Characterization), a NASA mission associated with EPOXI\n* Epoch Javascript Calendar, a calendar component for use in Web pages\n\nWeapons\n\n* Epoch Remote Control Turret",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Epoch" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=9740" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Epoch or EPOCH may refer to:\n\nTime-related\n\n* Epoch (astronomy), a moment in time used as a reference for the orbital elements of a celestial body\n* Epoch (cosmology) or cosmologic epoch, a phase in the development of the universe since the Big Bang\n* Epoch (geology) or geologic epoch, a span of time smaller than a period and larger than an age\n* Epoch (race), racial periods in Blavatsky's esoteric theory of the root races\n* Epoch (reference date), a moment in time chosen as the origin of a particular era\n* Unix epoch, the starting time for Unix-based operating systems\n\nArts and entertainment\n\n* Epoch (DC Comics), a supervillain also known as the Lord of Time\n* Epoch (film)\n* Epoch (Marvel Comics), a cosmic entity in the Marvel Comics universe\n* Epoch (anthology), a 1975 anthology of science fiction stories\n* Epoch (Tycho album), 2016\n* Epoch, a 2006 album by Rip Slyme\n* Epoch (Song) by Savlonic, 2017\n\nGames\n\n* Epoch Co., a Japanese toy and computer games company\n** Epoch Game Pocket Computer, an early hand-held game console produced by Epoch Co.\n* Epoch (Chrono Trigger), a flying time machine in role-playing game Chrono Trigger\n* Epoch Hunter, a boss in Caverns of Time from the game World of Warcraft\n\nPublications\n\n* Epoch (magazine), literary magazine of Cornell University\n* Epoch (Russian magazine), literary magazine by Fyodor Dostoyevsky and his brother Mikhail\n* Ha-Tsefirah (lit. Epoch), a Hebrew language newspaper published in 1862 and 1874–1931\n* The Epoch Times, a privately owned Falun Gong-linked newspaper\n\nScience and technology\n\n* EPOCH (chemotherapy), a chemotherapy regimen\n* EPOCh (Extrasolar Planet Observation and Characterization), a NASA mission associated with EPOXI\n* Epoch Javascript Calendar, a calendar component for use in Web pages\n\nWeapons\n\n* Epoch Remote Control Turret. Epoch. http://en.wikipedia.org/?curid=9740."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=9074",
+  "eid" : "ec514c00-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778476224,
+  "textBody" : "Design Science License (DSL) is a copyleft license for any type of free content such as text, images, music. Unlike other open source licenses, the DSL was intended to be used on any type of copyrightable work, including documentation and source code. It was the first \"generalized copyleft\" license. The DSL was written by Michael Stutz.\n\nThe DSL came out in the 1990s, before the formation of the Creative Commons. Once the Creative Commons arrived, Stutz considered the DSL experiment \"over\" and no longer recommended its use.[https://books.google.com/books?idDaRAAAAAQBAJ&pg\nPA466&lpgPA466&dq\ncreative+commons+vs+DSL&sourcebl&ots\njYYtPcIjLP&sig93phk62SfZShVQ9JTE1cN3OtGsU&hl\nen&saX&ved\n0ahUKEwi_h6zSiLPZAhUDQq0KHRe1BLUQ6AEIRzAD#vonepage&q\ncreative%20commons%20vs%20DSL&f=false]",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Design science license" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=9074" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Design Science License (DSL) is a copyleft license for any type of free content such as text, images, music. Unlike other open source licenses, the DSL was intended to be used on any type of copyrightable work, including documentation and source code. It was the first \"generalized copyleft\" license. The DSL was written by Michael Stutz.\n\nThe DSL came out in the 1990s, before the formation of the Creative Commons. Once the Creative Commons arrived, Stutz considered the DSL experiment \"over\" and no longer recommended its use.[https://books.google.com/books?idDaRAAAAAQBAJ&pg\nPA466&lpgPA466&dq\ncreative+commons+vs+DSL&sourcebl&ots\njYYtPcIjLP&sig93phk62SfZShVQ9JTE1cN3OtGsU&hl\nen&saX&ved\n0ahUKEwi_h6zSiLPZAhUDQq0KHRe1BLUQ6AEIRzAD#vonepage&q\ncreative%20commons%20vs%20DSL&f=false]. Design science license. http://en.wikipedia.org/?curid=9074."
+  }
+}

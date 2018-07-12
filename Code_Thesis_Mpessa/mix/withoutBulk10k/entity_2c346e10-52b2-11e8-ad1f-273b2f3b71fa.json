@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17455",
+  "eid" : "2c346e10-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778583409,
+  "textBody" : "The Kocher–Debré–Semelaigne syndrome is hypothyroidism in infancy or childhood characterised by lower extremity or generalized muscular hypertrophy, myxoedema, short stature and cretinism. The absence of painful spasms and pseudomyotonia differentiates this syndrome from its adult form, which is Hoffmann syndrome.\n\nThe syndrome is named after Emil Theodor Kocher, Robert Debré and Georges Semelaigne.\n\nAlso known as Debre–Semelaigne syndrome or cretinism-muscular hypertrophy, hypothyroid myopathy, hypothyroidism-large muscle syndrome, hypothyreotic muscular hypertrophy in children, infantile myxoedema-muscular hypertrophy, myopathy-myxoedema syndrome, myxoedema-muscular hypertrophy syndrome, myxoedema-myotonic dystrophy syndrome.\n\nKocher-Debre-Semelaigne syndrome gives infant a Hercules appearance.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Kocher–Debre–Semelaigne syndrome" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17455" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The Kocher–Debré–Semelaigne syndrome is hypothyroidism in infancy or childhood characterised by lower extremity or generalized muscular hypertrophy, myxoedema, short stature and cretinism. The absence of painful spasms and pseudomyotonia differentiates this syndrome from its adult form, which is Hoffmann syndrome.\n\nThe syndrome is named after Emil Theodor Kocher, Robert Debré and Georges Semelaigne.\n\nAlso known as Debre–Semelaigne syndrome or cretinism-muscular hypertrophy, hypothyroid myopathy, hypothyroidism-large muscle syndrome, hypothyreotic muscular hypertrophy in children, infantile myxoedema-muscular hypertrophy, myopathy-myxoedema syndrome, myxoedema-muscular hypertrophy syndrome, myxoedema-myotonic dystrophy syndrome.\n\nKocher-Debre-Semelaigne syndrome gives infant a Hercules appearance. Kocher–Debre–Semelaigne syndrome. http://en.wikipedia.org/?curid=17455."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17847",
+  "eid" : "2ec1cfb0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778587691,
+  "textBody" : "#REDIRECT LGBT",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Lesbigay" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17847" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "#REDIRECT LGBT. Lesbigay. http://en.wikipedia.org/?curid=17847."
+  }
+}

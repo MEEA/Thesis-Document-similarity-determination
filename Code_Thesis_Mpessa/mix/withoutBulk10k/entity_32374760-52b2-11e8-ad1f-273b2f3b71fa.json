@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18323",
+  "eid" : "32374760-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778593494,
+  "textBody" : "LDP may mean:\n\nPolitics\n\n*Liberal Democratic Party (disambiguation)\n*Laban ng Demokratikong Pilipino, a political party in the Philippines\n*Lebanese Democratic Party\n*League for Democracy Party, a political party in Cambodia\n*Liberal Democratic Party of Germany, a political party in East Germany\n\nTechnology\n\n*Label Distribution Protocol, a routing protocol used in Multiprotocol Label Switching networks\n*Laserdisc player\n*Linked Data Platform, a Semantic Web specification\n*Linux Documentation Project\n\nMathematics\n\n*Large deviation principle, the rate function in mathematics\n\nLocations\n\n*Damansara–Puchong Expressway or Lebuhraya Damansara–Puchong (LDP), an expressway in Malaysia\n*Long-distance footpaths in the UK (long distance paths)\n\nLanguage\n\n*Lingwa de planeta, a conlang mentioned in Worldlang\n\nOther\n\n*Loan deficiency payments, a U.S. agriculture policy farm income support program\n*Local Development Plan, a form of town and country planning document in Wales\n*Long day plant, a plant that flowers when the night length falls below its critical photoperiod\n*Long Distance (Skateboard) Pumping",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "LDP" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18323" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "LDP may mean:\n\nPolitics\n\n*Liberal Democratic Party (disambiguation)\n*Laban ng Demokratikong Pilipino, a political party in the Philippines\n*Lebanese Democratic Party\n*League for Democracy Party, a political party in Cambodia\n*Liberal Democratic Party of Germany, a political party in East Germany\n\nTechnology\n\n*Label Distribution Protocol, a routing protocol used in Multiprotocol Label Switching networks\n*Laserdisc player\n*Linked Data Platform, a Semantic Web specification\n*Linux Documentation Project\n\nMathematics\n\n*Large deviation principle, the rate function in mathematics\n\nLocations\n\n*Damansara–Puchong Expressway or Lebuhraya Damansara–Puchong (LDP), an expressway in Malaysia\n*Long-distance footpaths in the UK (long distance paths)\n\nLanguage\n\n*Lingwa de planeta, a conlang mentioned in Worldlang\n\nOther\n\n*Loan deficiency payments, a U.S. agriculture policy farm income support program\n*Local Development Plan, a form of town and country planning document in Wales\n*Long day plant, a plant that flowers when the night length falls below its critical photoperiod\n*Long Distance (Skateboard) Pumping. LDP. http://en.wikipedia.org/?curid=18323."
+  }
+}

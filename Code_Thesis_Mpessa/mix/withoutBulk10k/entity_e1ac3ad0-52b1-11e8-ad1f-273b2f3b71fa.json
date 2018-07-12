@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7456",
+  "eid" : "e1ac3ad0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778458365,
+  "textBody" : "CJD can mean:\n* Abbreviation for Chojoongdong, the three major newspapers in South Korea\n* Christliches Jugenddorfwerk Deutschlands, a German Christian educational institution\n* Creutzfeldt–Jakob disease, a rare disease of the brain caused by prions.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "CJD" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7456" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "CJD can mean:\n* Abbreviation for Chojoongdong, the three major newspapers in South Korea\n* Christliches Jugenddorfwerk Deutschlands, a German Christian educational institution\n* Creutzfeldt–Jakob disease, a rare disease of the brain caused by prions. CJD. http://en.wikipedia.org/?curid=7456."
+  }
+}

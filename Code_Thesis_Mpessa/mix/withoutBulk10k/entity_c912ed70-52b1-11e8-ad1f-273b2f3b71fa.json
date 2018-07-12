@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3836",
+  "eid" : "c912ed70-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778417095,
+  "textBody" : "Barb Wire was a superhero published by Comics Greatest World, an imprint of Dark Horse Comics. A regular series was published for 9 issues between 1994-1995, followed by a mini-series in 1996. In March 2015, Dark Horse announced they would be planning a new series starring the heroine.\n\nCreators\n\nRegular Series:\n* 1: John Arcudi, writer/Lee Moder, pencils/Ande Parks, inks.\n* 2–3: Arcudi, writer/Dan Lawlis, pencils/Parks, inks.\n* 4–5: Arcudi, writer/Lawlis, pencils/Ian Akin, inks.\n* 6–7: Arcudi,writer/Mike Manley, pencils/Parks, inks.\n* 8: Arcudi, writer/Andrew Robinson, pencils/Jim Royal, inks.\n* 9: Anina Bennett & Paul Guinan, writers/Robert Walker, pencils/Royal, inks.\n\nAce Of Spades (miniseries):\n\n1–4: Chris Warner, script and pencils/Tim Bradstreet, inks.\n\nCharacter history\n\nIn Steel Harbor, a bombed-out wreck of a town, thrill-junkie Barbara Kopetski—better known as Barb Wire—is a bar owner and part-time bounty hunter (in order to pay for her bar, the Hammerhead). She is skilled in many areas, but excels in combat-related abilities. While she has a brother and several allies, she is essentially a loner, although this is something which is uncomfortable for her to think about.\n\nOther characters\n\nSupporting characters\n\n* Charlie Kopetski, Barb's blind, mechanical genius brother. He invents most of her weapons and metahuman restraining devices. He also despairs that he must fix the things that she continuously breaks during her escapades.\n\nAllies\n\n* Ghost, Real Name: Elisa Cameron.\n* The Machine, Real Name: Avram.\n* Motörhead, Real Name: Frank Fletcher.\n* Wolf Pack, Leader: Hunter.\n\nEnemies\n\n* The Prime Movers, Leader: Mace Blitzkrieg\n* Death Card, (Reg series)\n* Death Card II, (Ace Of Spades)\n* Ignition II\n* The Mask\n\nFilm adaptation\n\nThe movie adaptation was released in 1996 starring Pamela Anderson as Barb Wire. The film, panned by critics and fans alike, was nominated for the Razzie Award for Worst Picture, but lost to the Demi Moore film Striptease.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Barb Wire" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3836" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Barb Wire was a superhero published by Comics Greatest World, an imprint of Dark Horse Comics. A regular series was published for 9 issues between 1994-1995, followed by a mini-series in 1996. In March 2015, Dark Horse announced they would be planning a new series starring the heroine.\n\nCreators\n\nRegular Series:\n* 1: John Arcudi, writer/Lee Moder, pencils/Ande Parks, inks.\n* 2–3: Arcudi, writer/Dan Lawlis, pencils/Parks, inks.\n* 4–5: Arcudi, writer/Lawlis, pencils/Ian Akin, inks.\n* 6–7: Arcudi,writer/Mike Manley, pencils/Parks, inks.\n* 8: Arcudi, writer/Andrew Robinson, pencils/Jim Royal, inks.\n* 9: Anina Bennett & Paul Guinan, writers/Robert Walker, pencils/Royal, inks.\n\nAce Of Spades (miniseries):\n\n1–4: Chris Warner, script and pencils/Tim Bradstreet, inks.\n\nCharacter history\n\nIn Steel Harbor, a bombed-out wreck of a town, thrill-junkie Barbara Kopetski—better known as Barb Wire—is a bar owner and part-time bounty hunter (in order to pay for her bar, the Hammerhead). She is skilled in many areas, but excels in combat-related abilities. While she has a brother and several allies, she is essentially a loner, although this is something which is uncomfortable for her to think about.\n\nOther characters\n\nSupporting characters\n\n* Charlie Kopetski, Barb's blind, mechanical genius brother. He invents most of her weapons and metahuman restraining devices. He also despairs that he must fix the things that she continuously breaks during her escapades.\n\nAllies\n\n* Ghost, Real Name: Elisa Cameron.\n* The Machine, Real Name: Avram.\n* Motörhead, Real Name: Frank Fletcher.\n* Wolf Pack, Leader: Hunter.\n\nEnemies\n\n* The Prime Movers, Leader: Mace Blitzkrieg\n* Death Card, (Reg series)\n* Death Card II, (Ace Of Spades)\n* Ignition II\n* The Mask\n\nFilm adaptation\n\nThe movie adaptation was released in 1996 starring Pamela Anderson as Barb Wire. The film, panned by critics and fans alike, was nominated for the Razzie Award for Worst Picture, but lost to the Demi Moore film Striptease. Barb Wire. http://en.wikipedia.org/?curid=3836."
+  }
+}

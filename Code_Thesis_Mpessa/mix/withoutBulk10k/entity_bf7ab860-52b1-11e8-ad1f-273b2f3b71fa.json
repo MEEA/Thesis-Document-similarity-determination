@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2329",
+  "eid" : "bf7ab860-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778400998,
+  "textBody" : "Alfonso Leng Haygus (11 February 1884 – 11 November 1974)[http://www.sinfonica.com.co/vercompositor.php?id111 Alfonso Leng], Sinfónica de Colombia (accessed 2014-04-22) (in Spanish) was a post-romantic composer of classical music.John Beckwith, In Search of Alberto Guerrero (Wilfrid Laurier University Press, 2006), , pp. 18ff. [https://books.google.com/books?id\nWPEvt2ZDoWEC&lpgPA19&vq\nleng&pgPA18#v\nsnippet&qleng&f\nfalse Excerpts available] at Google Books. He was born in Santiago, Chile. He wrote the first important symphonic work in Chilean tradition, \"La Muerte de Alcino\", a symphonic poem inspired by the novel of Pedro Prado. He composed many art songs in different languages and important piano pieces, like the five \"Doloras\" (1914), which he later orchestrated and are normally played in concerts in Chile and Latin America. He won the Nacional Art Prize in 1957.\n\nLeng was also an accomplished dentist in Santiago.Nicolas Slonimsky, Writings on Music (Routledge, 2004), , vol. 3, p.25 [https://www.questia.com/read/109168149/writings-on-music Excerpts available] at Questia .  As a dentist, he was the main founder of the dentistry faculty of the Universidad de Chile, and he was eventually elected as the first dean.\n\nLeng was the nephew of composer Carmela Mackenna.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Alfonso Leng" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2329" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Alfonso Leng Haygus (11 February 1884 – 11 November 1974)[http://www.sinfonica.com.co/vercompositor.php?id111 Alfonso Leng], Sinfónica de Colombia (accessed 2014-04-22) (in Spanish) was a post-romantic composer of classical music.John Beckwith, In Search of Alberto Guerrero (Wilfrid Laurier University Press, 2006), , pp. 18ff. [https://books.google.com/books?id\nWPEvt2ZDoWEC&lpgPA19&vq\nleng&pgPA18#v\nsnippet&qleng&f\nfalse Excerpts available] at Google Books. He was born in Santiago, Chile. He wrote the first important symphonic work in Chilean tradition, \"La Muerte de Alcino\", a symphonic poem inspired by the novel of Pedro Prado. He composed many art songs in different languages and important piano pieces, like the five \"Doloras\" (1914), which he later orchestrated and are normally played in concerts in Chile and Latin America. He won the Nacional Art Prize in 1957.\n\nLeng was also an accomplished dentist in Santiago.Nicolas Slonimsky, Writings on Music (Routledge, 2004), , vol. 3, p.25 [https://www.questia.com/read/109168149/writings-on-music Excerpts available] at Questia .  As a dentist, he was the main founder of the dentistry faculty of the Universidad de Chile, and he was eventually elected as the first dean.\n\nLeng was the nephew of composer Carmela Mackenna. Alfonso Leng. http://en.wikipedia.org/?curid=2329."
+  }
+}

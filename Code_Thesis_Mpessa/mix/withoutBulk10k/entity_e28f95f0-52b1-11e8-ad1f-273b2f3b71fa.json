@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7607",
+  "eid" : "e28f95f0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778459855,
+  "textBody" : "In collagen, the collagen helix, or type-2 helix, is a major shape in secondary structure. It consists of a triple helix made of the repetitious amino acid sequence glycine - X - Y, where X and Y are frequently proline or hydroxyproline.A collagen triple helix has 3.3 residues per turn.Harpers Illustrated Biochemistry, 30th edition\nEach of the three chains is stabilized by the steric repulsion due to the pyrrolidine rings of proline and hydroxyproline residues. The pyrrolidine rings keep out of each other’s way when the polypeptide chain assumes this extended helical form, which is much more open than the tightly coiled form of the alpha helix.\nThe three chains are hydrogen bonded to each other. The hydrogen bond donors are the peptide NH groups of glycine residues. The hydrogen bond acceptors are the CO groups of residues on the other chains. The OH group of hydroxyproline also participates in hydrogen bonding. The rise of the collagen helix (superhelix) is 2.9 Å (0.29 nm) per residue.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Collagen helix" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7607" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "In collagen, the collagen helix, or type-2 helix, is a major shape in secondary structure. It consists of a triple helix made of the repetitious amino acid sequence glycine - X - Y, where X and Y are frequently proline or hydroxyproline.A collagen triple helix has 3.3 residues per turn.Harpers Illustrated Biochemistry, 30th edition\nEach of the three chains is stabilized by the steric repulsion due to the pyrrolidine rings of proline and hydroxyproline residues. The pyrrolidine rings keep out of each other’s way when the polypeptide chain assumes this extended helical form, which is much more open than the tightly coiled form of the alpha helix.\nThe three chains are hydrogen bonded to each other. The hydrogen bond donors are the peptide NH groups of glycine residues. The hydrogen bond acceptors are the CO groups of residues on the other chains. The OH group of hydroxyproline also participates in hydrogen bonding. The rise of the collagen helix (superhelix) is 2.9 Å (0.29 nm) per residue. Collagen helix. http://en.wikipedia.org/?curid=7607."
+  }
+}

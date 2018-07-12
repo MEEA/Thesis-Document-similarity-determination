@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15468",
+  "eid" : "1c805970-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778557063,
+  "textBody" : "İskender kebap (Alexander kebab) is one of the most famous meat foods of northwestern Turkey and takes its name from its inventor, İskender Efendi, who lived in Bursa in the late 19th century.\n\nThe dish consists of döner kebab prepared from thinly cut grilled lamb topped with hot tomato sauce over pieces of pita bread and generously slathered with melted sheep butter and yogurt. Additionally, one cylindrical köfte can be placed on top. It is commonly consumed with şıra as a drink to aid digestion. Tomato sauce and melted butter are generally poured over the dish, at the table.\n\n\"Kebapçı İskender\" is trademarked by the İskenderoğlu family, who still run the restaurant in Bursa. Even all restaurants names are same their owners are different but they are relatives. This dish is available in many restaurants throughout the country mostly under the name \"İskender kebap\", \"Bursa kebabı\", or at times with an alternative one made up by the serving restaurant such as \"Uludağ kebabı\".",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "İskender kebap" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15468" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "İskender kebap (Alexander kebab) is one of the most famous meat foods of northwestern Turkey and takes its name from its inventor, İskender Efendi, who lived in Bursa in the late 19th century.\n\nThe dish consists of döner kebab prepared from thinly cut grilled lamb topped with hot tomato sauce over pieces of pita bread and generously slathered with melted sheep butter and yogurt. Additionally, one cylindrical köfte can be placed on top. It is commonly consumed with şıra as a drink to aid digestion. Tomato sauce and melted butter are generally poured over the dish, at the table.\n\n\"Kebapçı İskender\" is trademarked by the İskenderoğlu family, who still run the restaurant in Bursa. Even all restaurants names are same their owners are different but they are relatives. This dish is available in many restaurants throughout the country mostly under the name \"İskender kebap\", \"Bursa kebabı\", or at times with an alternative one made up by the serving restaurant such as \"Uludağ kebabı\". İskender kebap. http://en.wikipedia.org/?curid=15468."
+  }
+}

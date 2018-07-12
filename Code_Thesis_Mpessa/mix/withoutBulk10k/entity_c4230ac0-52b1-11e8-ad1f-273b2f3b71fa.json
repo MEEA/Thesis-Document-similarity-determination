@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3089",
+  "eid" : "c4230ac0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778408812,
+  "textBody" : "Angela Vincent  (born 1942) is emeritus professor at the University of Oxford and a Fellow of Somerville College, Oxford.[https://web.archive.org/web/20110107002838/http://www.neuroscience.ox.ac.uk/directory/angela-vincent Angela Vincent – Neuroscience][https://web.archive.org/web/20080502162057/http://www.imm.ox.ac.uk/pages/research/neurosciences/vincent.htm WIMM] \n\nCareer and research\n\nShe is the head of a research group, which is located in the West Wing within the John Radcliffe Hospital, and works on a wide range of biological disciplines encompassing molecular biology, biochemistry, cellular immunology and intracellular neurophysiology. The group's research is focused on autoimmune and genetic disorders of the neuromuscular junction, peripheral nerves and more recently the exciting field of central nervous system diseases. The principal autoimmune diseases studied are myasthenia gravis, the Lambert-Eaton myasthenic syndrome, limbic encephalitis, other types of autoimmune encephalitis and acquired neuromyotonia.\n\nHer contributions are mainly on the roles of antibodies directed against ion channels, proteins complexed to ion channels, such as LGI1, CASPR2 and Contactin-2, within neurons, glia and the nerve-muscle junction in the pathogenesis of above-mentioned diseases.\n\nShe has demonstrated that transfer of these antibodies across the placenta from the pregnant woman to the fetus in utero can cause developmental abnormalities. She has also worked on the principal gene mutations causing neuromuscular diseases.\n\nAwards and honours\n\nIn 2009 she presented the Leslie Oliver Oration at Queen's Hospital.[http://www.bhrhospitals.nhs.uk/neuro/neuro4ha.php?id=1034 The Second Leslie Oliver Oration] In 2011, she was elected a Fellow of the Royal Society (FRS) and was also elected a Fellow of the Academy of Medical Sciences (FMedSci).",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Angela Vincent" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3089" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Angela Vincent  (born 1942) is emeritus professor at the University of Oxford and a Fellow of Somerville College, Oxford.[https://web.archive.org/web/20110107002838/http://www.neuroscience.ox.ac.uk/directory/angela-vincent Angela Vincent – Neuroscience][https://web.archive.org/web/20080502162057/http://www.imm.ox.ac.uk/pages/research/neurosciences/vincent.htm WIMM] \n\nCareer and research\n\nShe is the head of a research group, which is located in the West Wing within the John Radcliffe Hospital, and works on a wide range of biological disciplines encompassing molecular biology, biochemistry, cellular immunology and intracellular neurophysiology. The group's research is focused on autoimmune and genetic disorders of the neuromuscular junction, peripheral nerves and more recently the exciting field of central nervous system diseases. The principal autoimmune diseases studied are myasthenia gravis, the Lambert-Eaton myasthenic syndrome, limbic encephalitis, other types of autoimmune encephalitis and acquired neuromyotonia.\n\nHer contributions are mainly on the roles of antibodies directed against ion channels, proteins complexed to ion channels, such as LGI1, CASPR2 and Contactin-2, within neurons, glia and the nerve-muscle junction in the pathogenesis of above-mentioned diseases.\n\nShe has demonstrated that transfer of these antibodies across the placenta from the pregnant woman to the fetus in utero can cause developmental abnormalities. She has also worked on the principal gene mutations causing neuromuscular diseases.\n\nAwards and honours\n\nIn 2009 she presented the Leslie Oliver Oration at Queen's Hospital.[http://www.bhrhospitals.nhs.uk/neuro/neuro4ha.php?id=1034 The Second Leslie Oliver Oration] In 2011, she was elected a Fellow of the Royal Society (FRS) and was also elected a Fellow of the Academy of Medical Sciences (FMedSci). Angela Vincent. http://en.wikipedia.org/?curid=3089."
+  }
+}

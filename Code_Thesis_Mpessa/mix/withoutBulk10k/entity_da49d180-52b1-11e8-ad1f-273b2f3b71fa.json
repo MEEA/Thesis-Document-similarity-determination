@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=6199",
+  "eid" : "da49d180-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778445976,
+  "textBody" : "The Convention on Fishing and Conservation of Living Resources of the High Seas is an agreement that was designed to solve through international cooperation the problems involved in the conservation of living resources of the high seas, considering that because of the development of modern technology some of these resources are in danger of being overexploited.\n\nopened for signature - 29 April 1958\n\nentered into force - 20 March 1966\n\nparties - (39) Australia, Belgium, Bosnia and Herzegovina, Burkina Faso, Cambodia, Colombia, Republic of the Congo, Denmark, Dominican Republic, Fiji, Finland, France, Haiti, Indonesia, Jamaica, Kenya, Lesotho, Madagascar, Malawi, Malaysia, Mauritius, Mexico, Netherlands, Nigeria, Portugal, Senegal, Serbia, Sierra Leone, Solomon Islands, South Africa, Spain, Switzerland, Thailand, Tonga, Trinidad and Tobago, Uganda, United Kingdom, United States, Venezuela\n\ncountries that have signed, but not yet ratified - (20) Afghanistan, Argentina, Bolivia, Canada, Costa Rica, Cuba, Ghana, Iceland, Iran, Ireland, Israel, Lebanon, Liberia, Nepal, New Zealand, Pakistan, Panama, Sri Lanka, Tunisia, Uruguay\n\nSource:\n* CIA World Factbook,  edition\n* Indonesian Law #19/1961",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Convention on Fishing and Conservation of the Living Resources of the High Seas" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=6199" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The Convention on Fishing and Conservation of Living Resources of the High Seas is an agreement that was designed to solve through international cooperation the problems involved in the conservation of living resources of the high seas, considering that because of the development of modern technology some of these resources are in danger of being overexploited.\n\nopened for signature - 29 April 1958\n\nentered into force - 20 March 1966\n\nparties - (39) Australia, Belgium, Bosnia and Herzegovina, Burkina Faso, Cambodia, Colombia, Republic of the Congo, Denmark, Dominican Republic, Fiji, Finland, France, Haiti, Indonesia, Jamaica, Kenya, Lesotho, Madagascar, Malawi, Malaysia, Mauritius, Mexico, Netherlands, Nigeria, Portugal, Senegal, Serbia, Sierra Leone, Solomon Islands, South Africa, Spain, Switzerland, Thailand, Tonga, Trinidad and Tobago, Uganda, United Kingdom, United States, Venezuela\n\ncountries that have signed, but not yet ratified - (20) Afghanistan, Argentina, Bolivia, Canada, Costa Rica, Cuba, Ghana, Iceland, Iran, Ireland, Israel, Lebanon, Liberia, Nepal, New Zealand, Pakistan, Panama, Sri Lanka, Tunisia, Uruguay\n\nSource:\n* CIA World Factbook,  edition\n* Indonesian Law #19/1961. Convention on Fishing and Conservation of the Living Resources of the High Seas. http://en.wikipedia.org/?curid=6199."
+  }
+}

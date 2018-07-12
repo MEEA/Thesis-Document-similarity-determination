@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18243",
+  "eid" : "31ce2550-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778592805,
+  "textBody" : "Land is the solid surface of the Earth that is not covered by water. It may also refer to:\n*Landscape\n*Landform, physical feature comprises a geomorphological unit\n*Land (economics), a factor of production comprising all naturally occurring resources\n*Land law\n**Real estate, a legal term for land, used in regard to ownership\n**Real property, a legal term similar to real estate\n\nIn music:\n*Land (band), an American rock band\n**Land (Land album), the first album by the band\n* Land (Týr album), an album by Týr\n* Land (1975–2002), an album by Patti Smith\n* Land (The Comsat Angels album), an album by The Comsat Angels\n* Lands (band), a Japanese rock band\n*Dah (band), a former Yugoslav/Belgian rock band, known as Land during 1975-1976 period\n\nAs a synonym for a region belonging to a people:\n*Country\n*Nation\n*Motherland\n*Fatherland\n*Homeland\n*-land, a suffix used in the names of several countries and other regions\n\nAs a geographical place:\n*Land, California\n*Land, Norway\n*Land Glacier, Antarctica\n\nAs a division of a country:\n*Länder of Austria (singular: Land)\n*Lands of Denmark\n*Lands of Finland\n*Länder of Germany (singular: Land)\n*Lands of Norway\n*Lands of Sweden\n* Ziemia, Polish for \"land\", a unit of administration in Poland\n\nOther usages:\n*Land (film), a 2018 film\n*Land (surname)\n*Land Instruments International, a company specialising in infrared temperature measurement and emissions monitoring equipment\n*LAND, a type of denial-of-service attack\n*Landing, the end of a flight\n*In Rifling, lands are the raised areas between grooves in gun barrels\n*The Land (magazine)\n* Drylands, areas with low amounts of water in the soil\n*\"Dry Land\", a song by Joan Armatrading\n* Dry Land, the only album by How We Live",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Land (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18243" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Land is the solid surface of the Earth that is not covered by water. It may also refer to:\n*Landscape\n*Landform, physical feature comprises a geomorphological unit\n*Land (economics), a factor of production comprising all naturally occurring resources\n*Land law\n**Real estate, a legal term for land, used in regard to ownership\n**Real property, a legal term similar to real estate\n\nIn music:\n*Land (band), an American rock band\n**Land (Land album), the first album by the band\n* Land (Týr album), an album by Týr\n* Land (1975–2002), an album by Patti Smith\n* Land (The Comsat Angels album), an album by The Comsat Angels\n* Lands (band), a Japanese rock band\n*Dah (band), a former Yugoslav/Belgian rock band, known as Land during 1975-1976 period\n\nAs a synonym for a region belonging to a people:\n*Country\n*Nation\n*Motherland\n*Fatherland\n*Homeland\n*-land, a suffix used in the names of several countries and other regions\n\nAs a geographical place:\n*Land, California\n*Land, Norway\n*Land Glacier, Antarctica\n\nAs a division of a country:\n*Länder of Austria (singular: Land)\n*Lands of Denmark\n*Lands of Finland\n*Länder of Germany (singular: Land)\n*Lands of Norway\n*Lands of Sweden\n* Ziemia, Polish for \"land\", a unit of administration in Poland\n\nOther usages:\n*Land (film), a 2018 film\n*Land (surname)\n*Land Instruments International, a company specialising in infrared temperature measurement and emissions monitoring equipment\n*LAND, a type of denial-of-service attack\n*Landing, the end of a flight\n*In Rifling, lands are the raised areas between grooves in gun barrels\n*The Land (magazine)\n* Drylands, areas with low amounts of water in the soil\n*\"Dry Land\", a song by Joan Armatrading\n* Dry Land, the only album by How We Live. Land (disambiguation). http://en.wikipedia.org/?curid=18243."
+  }
+}

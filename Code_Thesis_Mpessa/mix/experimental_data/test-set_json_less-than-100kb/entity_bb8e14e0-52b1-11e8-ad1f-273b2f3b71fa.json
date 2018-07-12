@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1765",
+  "eid" : "bb8e14e0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778394414,
+  "textBody" : "Andronicus or Andronikos () is a classical Greek name. The name has the sense of \"male victor, warrior\". The female is Andronike (Ἀνδρονίκη). Notable bearers of the name include:\n\n*Andronicus of Olynthus, Greek general under Demetrius in the 4th century BC\n*Livius Andronicus (c. 284–204 BC), introduced drama to the Romans and produced the first formal play in Latin in c.240 BC\n*Andronicus ben Meshullam, a Jewish scholar of the 2nd century BC\n*Andronicus of Pergamum, a 2nd-century BC diplomat\n*Andronicus of Macedonia, governor of Ephesus in 2nd century BC\n*Andronicus of Cyrrhus (c. 100 BC), Greek astronomer\n*Andronicus of Rhodes (c. 70 BC), Greek philosopher\n*Andronicus of Pannonia (Saint Andronicus), an Apostle of the Seventy mentioned in Romans 16:7\n*Andronicus (physician), a Greek physician of the 2nd century\n*Andronicus (poet), a writer of the 4th century\n*Andronicus, Probus, and Tarachus (Saint Andronicus), a 4th-century martyr\n*Andronicus of Alexandria, a soldier, martyr, saint, and companion of Faustus, Abibus and Dionysius of Alexandria\n*Coptic Pope Andronicus of Alexandria (reigned 616–622)\n*Five Byzantine emperors:\n**Andronikos I Komnenos (1118–1185)\n**Andronikos II Palaiologos (1258–1332)\n**Andronikos III Palaiologos (1297–1341)\n**Andronikos IV Palaiologos (1348–1385)\n**Andronikos V Palaiologos (c. 1400 – c. 1407), co-emperor with his father John VII Palaiologos\n*Andronikos Palaiologos, Lord of Thessalonike (1403–1429)\n*Three emperors of Trebizond:\n**Andronikos I of Trebizond (died 1235)\n**Andronikos II of Trebizond (c. 1240–1266)\n**Andronikos III of Trebizond (c. 1310–1332)\n* In fiction:\n*Titus Andronicus, a play by William Shakespeare, possibly inspired by one of the above-listed emperors\n*Andronicus, or the Unfortunate Politician, a 1646 satire by Thomas Fuller",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Andronicus" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1765" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Andronicus or Andronikos () is a classical Greek name. The name has the sense of \"male victor, warrior\". The female is Andronike (Ἀνδρονίκη). Notable bearers of the name include:\n\n*Andronicus of Olynthus, Greek general under Demetrius in the 4th century BC\n*Livius Andronicus (c. 284–204 BC), introduced drama to the Romans and produced the first formal play in Latin in c.240 BC\n*Andronicus ben Meshullam, a Jewish scholar of the 2nd century BC\n*Andronicus of Pergamum, a 2nd-century BC diplomat\n*Andronicus of Macedonia, governor of Ephesus in 2nd century BC\n*Andronicus of Cyrrhus (c. 100 BC), Greek astronomer\n*Andronicus of Rhodes (c. 70 BC), Greek philosopher\n*Andronicus of Pannonia (Saint Andronicus), an Apostle of the Seventy mentioned in Romans 16:7\n*Andronicus (physician), a Greek physician of the 2nd century\n*Andronicus (poet), a writer of the 4th century\n*Andronicus, Probus, and Tarachus (Saint Andronicus), a 4th-century martyr\n*Andronicus of Alexandria, a soldier, martyr, saint, and companion of Faustus, Abibus and Dionysius of Alexandria\n*Coptic Pope Andronicus of Alexandria (reigned 616–622)\n*Five Byzantine emperors:\n**Andronikos I Komnenos (1118–1185)\n**Andronikos II Palaiologos (1258–1332)\n**Andronikos III Palaiologos (1297–1341)\n**Andronikos IV Palaiologos (1348–1385)\n**Andronikos V Palaiologos (c. 1400 – c. 1407), co-emperor with his father John VII Palaiologos\n*Andronikos Palaiologos, Lord of Thessalonike (1403–1429)\n*Three emperors of Trebizond:\n**Andronikos I of Trebizond (died 1235)\n**Andronikos II of Trebizond (c. 1240–1266)\n**Andronikos III of Trebizond (c. 1310–1332)\n* In fiction:\n*Titus Andronicus, a play by William Shakespeare, possibly inspired by one of the above-listed emperors\n*Andronicus, or the Unfortunate Politician, a 1646 satire by Thomas Fuller. Andronicus. http://en.wikipedia.org/?curid=1765."
+  }
+}

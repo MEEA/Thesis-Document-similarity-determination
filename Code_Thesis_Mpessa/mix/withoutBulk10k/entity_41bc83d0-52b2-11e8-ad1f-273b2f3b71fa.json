@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=20363",
+  "eid" : "41bc83d0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778619533,
+  "textBody" : "ML or ml may refer to:\n\nMilitary\n\n* Motor Launch, a type of small Royal Navy vessel used by British Coastal Forces\n* ML 8 inch shell gun\n* Mountain Leader, a British Royal Marines specialisation\n\nOrganizations\n\n* MartinLogan, an American speaker manufacturer\n* McConnell Unit, a prison near Beeville, Texas\n* Midway Airlines (1976–1991) (IATA airline designator ML)\n\nPlaces\n\n* ML postcode area, Motherwell postcode area of Scotland\n* Mali (ISO 3166-1 country code), a country in Africa \n* Melilla, an autonomous city of Spain on the North African coast\n\nScience and technology\n\n* Mathematical Logic, a variation of Quine's system New Foundations\n* Silt, in the Unified Soil Classification System\n\nComputing\n\n* .ml, the top-level Internet domain for Mali\n* ML (programming language)\n* Markup language\n* Maximum likelihood, in estimation theory\n* MultiLevel Recording, to increase the storage capacity of optical discs\n* Machine learning, a field of computer science\n\nMeasurement\n\n* Megalitre or megaliter (ML, Ml, or Mℓ), a unit of capacity\n* Millilitre or milliliter (mL, ml, or mℓ), a unit of capacity\n* Millilambert (mL), a non-SI unit of luminance\n* Richter magnitude scale (ML), used to measure earthquakes\n* Megalangmuir (ML), a unit of exposure of a surface to a given chemical species\n\nOther uses\n\n* Dean ML, a model of electric guitar\n* Malayalam (ISO 639-1 code), a language\n* 1050, in Roman numerals\n* Mom Luang, a Thai royal title\n* Mountain Leader Award, a UK qualification\n* Marxism-Leninism",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "ML" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=20363" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "ML or ml may refer to:\n\nMilitary\n\n* Motor Launch, a type of small Royal Navy vessel used by British Coastal Forces\n* ML 8 inch shell gun\n* Mountain Leader, a British Royal Marines specialisation\n\nOrganizations\n\n* MartinLogan, an American speaker manufacturer\n* McConnell Unit, a prison near Beeville, Texas\n* Midway Airlines (1976–1991) (IATA airline designator ML)\n\nPlaces\n\n* ML postcode area, Motherwell postcode area of Scotland\n* Mali (ISO 3166-1 country code), a country in Africa \n* Melilla, an autonomous city of Spain on the North African coast\n\nScience and technology\n\n* Mathematical Logic, a variation of Quine's system New Foundations\n* Silt, in the Unified Soil Classification System\n\nComputing\n\n* .ml, the top-level Internet domain for Mali\n* ML (programming language)\n* Markup language\n* Maximum likelihood, in estimation theory\n* MultiLevel Recording, to increase the storage capacity of optical discs\n* Machine learning, a field of computer science\n\nMeasurement\n\n* Megalitre or megaliter (ML, Ml, or Mℓ), a unit of capacity\n* Millilitre or milliliter (mL, ml, or mℓ), a unit of capacity\n* Millilambert (mL), a non-SI unit of luminance\n* Richter magnitude scale (ML), used to measure earthquakes\n* Megalangmuir (ML), a unit of exposure of a surface to a given chemical species\n\nOther uses\n\n* Dean ML, a model of electric guitar\n* Malayalam (ISO 639-1 code), a language\n* 1050, in Roman numerals\n* Mom Luang, a Thai royal title\n* Mountain Leader Award, a UK qualification\n* Marxism-Leninism. ML. http://en.wikipedia.org/?curid=20363."
+  }
+}

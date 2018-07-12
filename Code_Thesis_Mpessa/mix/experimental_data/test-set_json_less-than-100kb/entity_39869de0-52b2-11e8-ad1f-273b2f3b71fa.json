@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19285",
+  "eid" : "39869de0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778605758,
+  "textBody" : "Politics of Montserrat takes place in a framework of a parliamentary representative democratic dependency, whereby the Premier is the head of government, and of a  multi-party system. Montserrat is an internally self-governing overseas territory of the United Kingdom. The United Nations Committee on Decolonization includes Montserrat on the United Nations list of Non-Self-Governing Territories. Executive power is exercised by the government. Legislative power is vested in both the government and the Legislative Assembly.\nThe Judiciary is independent of the executive and the legislature. Military defence is the responsibility of the United Kingdom.\n\nExecutive branch\n\n|Queen\n|Elizabeth II\n|\n|6 February 1952\n|-\n|Governor\n|Lyndell Simpson (acting)\n|\n|2 January 2018\n|-\n|Premier\n|Donaldson Romeo\n|PDM\n|12 September 2014\n|}\nThe Governor is appointed by the Monarch. The Premier is appointed by the Governor from among the members of the Legislative Assembly.\n\nHis cabinet is appointed by the Governor from among the elected members of the Legislative Assembly and consists also of the Attorney General, and the Finance Secretary.\n\nThe current Premier of the island is Donaldson Romeo, of the People's Democratic Movement (Montserrat), replacing the outgoing Premier, Reuben Meade of the Movement for Change and Prosperity, who was the island's first Premier of Montserrat\n\nLegislative branch\n\nMontserrat elects on territorial level a legislature. The Legislative Assembly has 9 members, elected for a five-year term in one constituency.\n\nPolitical parties and elections\n\nJudicial branch\n\nThe Eastern Caribbean Supreme Court, consists of the High Court of Justice and the Court of Appeal.\n\nAdministrative divisions\n\nMontserrat is divided in 3 parishes; Saint Anthony, Saint Georges, and Saint Peter.\n\nInternational organization participation\n\nCARICOM, Caribbean Development Bank, ECLAC (associate), ICFTU, Interpol (subbureau), Organization of Eastern Caribbean States, WCL",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Politics of Montserrat" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19285" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Politics of Montserrat takes place in a framework of a parliamentary representative democratic dependency, whereby the Premier is the head of government, and of a  multi-party system. Montserrat is an internally self-governing overseas territory of the United Kingdom. The United Nations Committee on Decolonization includes Montserrat on the United Nations list of Non-Self-Governing Territories. Executive power is exercised by the government. Legislative power is vested in both the government and the Legislative Assembly.\nThe Judiciary is independent of the executive and the legislature. Military defence is the responsibility of the United Kingdom.\n\nExecutive branch\n\n|Queen\n|Elizabeth II\n|\n|6 February 1952\n|-\n|Governor\n|Lyndell Simpson (acting)\n|\n|2 January 2018\n|-\n|Premier\n|Donaldson Romeo\n|PDM\n|12 September 2014\n|}\nThe Governor is appointed by the Monarch. The Premier is appointed by the Governor from among the members of the Legislative Assembly.\n\nHis cabinet is appointed by the Governor from among the elected members of the Legislative Assembly and consists also of the Attorney General, and the Finance Secretary.\n\nThe current Premier of the island is Donaldson Romeo, of the People's Democratic Movement (Montserrat), replacing the outgoing Premier, Reuben Meade of the Movement for Change and Prosperity, who was the island's first Premier of Montserrat\n\nLegislative branch\n\nMontserrat elects on territorial level a legislature. The Legislative Assembly has 9 members, elected for a five-year term in one constituency.\n\nPolitical parties and elections\n\nJudicial branch\n\nThe Eastern Caribbean Supreme Court, consists of the High Court of Justice and the Court of Appeal.\n\nAdministrative divisions\n\nMontserrat is divided in 3 parishes; Saint Anthony, Saint Georges, and Saint Peter.\n\nInternational organization participation\n\nCARICOM, Caribbean Development Bank, ECLAC (associate), ICFTU, Interpol (subbureau), Organization of Eastern Caribbean States, WCL. Politics of Montserrat. http://en.wikipedia.org/?curid=19285."
+  }
+}

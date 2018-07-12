@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17240",
+  "eid" : "2ae1fd71-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778581191,
+  "textBody" : "John-F.-Kennedy-Platz (John F. Kennedy Square), formerly Rudolph-Wilde-Platz, in Berlin-Schöneberg is the square in front of the former city hall of West Berlin (Rathaus Schöneberg). It was here that US President John F. Kennedy gave his famous speech to the Berliners, in which he stated: \"Ich bin ein Berliner\". The square was renamed John-F.-Kennedy-Platz on 25 November 1963, three days after Kennedy's assassination,\"Berliners Cry as Taps Sound for Kennedy— City Hall Square Now Bears His Name\", Chicago Tribune, November 25, 1963, p12 and a large plaque dedicated to Kennedy was mounted on a column at the entrance to the city hall.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "John-F.-Kennedy-Platz" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17240" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "John-F.-Kennedy-Platz (John F. Kennedy Square), formerly Rudolph-Wilde-Platz, in Berlin-Schöneberg is the square in front of the former city hall of West Berlin (Rathaus Schöneberg). It was here that US President John F. Kennedy gave his famous speech to the Berliners, in which he stated: \"Ich bin ein Berliner\". The square was renamed John-F.-Kennedy-Platz on 25 November 1963, three days after Kennedy's assassination,\"Berliners Cry as Taps Sound for Kennedy— City Hall Square Now Bears His Name\", Chicago Tribune, November 25, 1963, p12 and a large plaque dedicated to Kennedy was mounted on a column at the entrance to the city hall. John-F.-Kennedy-Platz. http://en.wikipedia.org/?curid=17240."
+  }
+}

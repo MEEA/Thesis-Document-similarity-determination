@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14613",
+  "eid" : "163d69e0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778546558,
+  "textBody" : "Infectious diseases arranged by name.\n\nThere are 217 entries in this list, though some entries such as \"common cold\" include a number of distinct pathogens.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "List of infectious diseases" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14613" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Infectious diseases arranged by name.\n\nThere are 217 entries in this list, though some entries such as \"common cold\" include a number of distinct pathogens. List of infectious diseases. http://en.wikipedia.org/?curid=14613."
+  }
+}

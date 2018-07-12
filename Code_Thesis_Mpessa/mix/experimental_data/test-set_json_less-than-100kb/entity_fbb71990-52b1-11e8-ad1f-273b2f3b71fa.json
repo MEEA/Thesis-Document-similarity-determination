@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11440",
+  "eid" : "fbb71990-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778502057,
+  "textBody" : "FTL may stand for:\n\nGames \n\n* Faster Than Light (software publisher), a British video game publisher\n* FTL: Faster Than Light, a video game\n* FTL Games, an American video game developer\n\nScience and technology \n\n* Faster-than-light communication and travel\n* Ferritin light chain\n* Flash Translation Layer\n* Foot-lambert ft-L, a measure of luminance\n* Olympus FTL, a camera\n* FreeMarker template language\n\nOther uses \n\n* Fort Lauderdale, Florida, United States\n** Fort Lauderdale station, Amtrak code FTL\n* Freedom to Learn, in Michigan, United States\n* Free Talk Live, an American radio talk show\n* Fruit of the Loom, an American clothing manufacturer\n* Full truck load",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "FTL" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11440" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "FTL may stand for:\n\nGames \n\n* Faster Than Light (software publisher), a British video game publisher\n* FTL: Faster Than Light, a video game\n* FTL Games, an American video game developer\n\nScience and technology \n\n* Faster-than-light communication and travel\n* Ferritin light chain\n* Flash Translation Layer\n* Foot-lambert ft-L, a measure of luminance\n* Olympus FTL, a camera\n* FreeMarker template language\n\nOther uses \n\n* Fort Lauderdale, Florida, United States\n** Fort Lauderdale station, Amtrak code FTL\n* Freedom to Learn, in Michigan, United States\n* Free Talk Live, an American radio talk show\n* Fruit of the Loom, an American clothing manufacturer\n* Full truck load. FTL. http://en.wikipedia.org/?curid=11440."
+  }
+}

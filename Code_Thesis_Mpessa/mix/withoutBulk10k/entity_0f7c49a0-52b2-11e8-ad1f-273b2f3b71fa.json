@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13893",
+  "eid" : "0f7c49a0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778535226,
+  "textBody" : "Three ships of the Royal Navy have been named HMS Hood after several members of the Hood family, who were notable Navy officers:\n\n*  was a 91-gun second-rate ship of the line, originally laid down as HMS Edgar, but renamed in 1848 and launched in 1859. She was used for harbour service from 1872 and was sold in 1888.\n*  was a modified  launched in 1891 and sunk as a blockship in 1914.\n*  was an  launched in 1918 and sunk in 1941 by the  and heavy cruiser  in the Battle of the Denmark Strait.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "List of ships called HMS Hood" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13893" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Three ships of the Royal Navy have been named HMS Hood after several members of the Hood family, who were notable Navy officers:\n\n*  was a 91-gun second-rate ship of the line, originally laid down as HMS Edgar, but renamed in 1848 and launched in 1859. She was used for harbour service from 1872 and was sold in 1888.\n*  was a modified  launched in 1891 and sunk as a blockship in 1914.\n*  was an  launched in 1918 and sunk in 1941 by the  and heavy cruiser  in the Battle of the Denmark Strait. List of ships called HMS Hood. http://en.wikipedia.org/?curid=13893."
+  }
+}

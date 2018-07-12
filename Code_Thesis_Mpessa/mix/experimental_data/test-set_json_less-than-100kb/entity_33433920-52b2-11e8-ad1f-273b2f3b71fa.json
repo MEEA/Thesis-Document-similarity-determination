@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18521",
+  "eid" : "33433920-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778595250,
+  "textBody" : "Latina is the feminine form of the term Latino.\n\nLatina may also refer to:\nGeography\n\nItaly\n\n*Province of Latina, a province in Latium (Lazio), Italy\n**Latina, Lazio, the capital of the province of Latina\n**Latina Nuclear Power Plant\n*Valle Latina, a valley of Lazio, Italy, from south of Rome to Cassino\n\nSpain\n\n*Latina (Madrid), a district of Madrid\n*Barrio de La Latina (Madrid), a neighbourhood of Madrid\n\nLanguage and science\n\n* or Latin\n*Latina (genus), a genus of parasitic wasps\n*Latina (architecture), the most common type of northern Indian shikhara (tower or spire on top of a shrine)\n\nEntertainment\n\n*Latina (magazine), a monthly American magazine\n*Latina, an album by Cristina Pato\n*Latina (album), a 2016 album by Thalía\n\nSport\n\n* Latina Calcio 1932, an Italian football club formerly known as Unione Sportiva Latina Calcio.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Latina (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18521" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Latina is the feminine form of the term Latino.\n\nLatina may also refer to:\nGeography\n\nItaly\n\n*Province of Latina, a province in Latium (Lazio), Italy\n**Latina, Lazio, the capital of the province of Latina\n**Latina Nuclear Power Plant\n*Valle Latina, a valley of Lazio, Italy, from south of Rome to Cassino\n\nSpain\n\n*Latina (Madrid), a district of Madrid\n*Barrio de La Latina (Madrid), a neighbourhood of Madrid\n\nLanguage and science\n\n* or Latin\n*Latina (genus), a genus of parasitic wasps\n*Latina (architecture), the most common type of northern Indian shikhara (tower or spire on top of a shrine)\n\nEntertainment\n\n*Latina (magazine), a monthly American magazine\n*Latina, an album by Cristina Pato\n*Latina (album), a 2016 album by Thalía\n\nSport\n\n* Latina Calcio 1932, an Italian football club formerly known as Unione Sportiva Latina Calcio. Latina (disambiguation). http://en.wikipedia.org/?curid=18521."
+  }
+}

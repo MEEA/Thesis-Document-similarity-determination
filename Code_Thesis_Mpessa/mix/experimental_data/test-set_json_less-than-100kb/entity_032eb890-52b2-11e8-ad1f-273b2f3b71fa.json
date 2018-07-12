@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12535",
+  "eid" : "032eb890-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778514585,
+  "textBody" : "Golden Heroes is a superhero role-playing game that was originally written and published on an amateur basis in 1982. Games Workshop then published a more complete version in 1984.  It was written by Simon Burley and Peter Haines and was illustrated by a group of artists who were working for 2000 AD at the time.\n\nDescription\n\nThe game was published in a box, the rules books features fake bar codes and Comics Code approval badges.\n\nThe character generation system involves players rolling completely random characters. A character can only keep his full set of powers if he can justify them all in a plausible origins story.  The system really strives to recreate comics, with the actions occurring in \"frames\" and a lot of classic comics assumptions being written into the rules.\n\nThe game has since be revised and re-issued under a new name, Squadron UK. http://squadronuk.co.uk/\n\nPublication history\n\nGolden Heroes was published by Games Workshop in 1984.\n\nReception\n\nGolden Heroes was ranked 41st in the 1996 reader poll of Arcane magazine to determine the 50 most popular roleplaying games of all time.  The UK magazine's editor Paul Pettengale commented: \"The gameplay reflects a refined approach to the superhero genre, and roleplaying tends to take priority over combat.\"",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Golden Heroes" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12535" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Golden Heroes is a superhero role-playing game that was originally written and published on an amateur basis in 1982. Games Workshop then published a more complete version in 1984.  It was written by Simon Burley and Peter Haines and was illustrated by a group of artists who were working for 2000 AD at the time.\n\nDescription\n\nThe game was published in a box, the rules books features fake bar codes and Comics Code approval badges.\n\nThe character generation system involves players rolling completely random characters. A character can only keep his full set of powers if he can justify them all in a plausible origins story.  The system really strives to recreate comics, with the actions occurring in \"frames\" and a lot of classic comics assumptions being written into the rules.\n\nThe game has since be revised and re-issued under a new name, Squadron UK. http://squadronuk.co.uk/\n\nPublication history\n\nGolden Heroes was published by Games Workshop in 1984.\n\nReception\n\nGolden Heroes was ranked 41st in the 1996 reader poll of Arcane magazine to determine the 50 most popular roleplaying games of all time.  The UK magazine's editor Paul Pettengale commented: \"The gameplay reflects a refined approach to the superhero genre, and roleplaying tends to take priority over combat.\". Golden Heroes. http://en.wikipedia.org/?curid=12535."
+  }
+}

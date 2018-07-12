@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12345",
+  "eid" : "01ea51b0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778512459,
+  "textBody" : "Guadeloupe has a population of 403,977 (2012).\n\nPopulation\n\nAccording to INSEE Guadeloupe has an estimated population of 403,977 on January 1, 2012. Life expectancy at birth is 77.0 years for males, and 83.5 for females (figures for 2011).\n\nLanguages\n\nFrench is the official language, taught in the school system. Antillean Creole French is spoken by a large part of the population, understood by nearly all, and taught in some schools. A 2007 document issued by the International Organization of la Francophonie estimated the population to be 80.2% \"francophone\" and 14.9% \"partially francophone\".[http://www.francophonie.org/IMG/pdf/La_francophonie_dans_le_monde_2006-2007.pdf La Francophonie dans le monde], Organisation internationale de la francophonie, p.17\n\nVital statistics\n\nThe following vital statistics include Saint Martin and Saint Barthélemy.[http://unstats.un.org/unsd/demographic/products/dyb/dyb2.htm#2001] United nations. Demographic Yearbooks\n\n* Excluding data for Saint Barthélemy and Saint Martin\n\nStructure of the population http://unstats.un.org/unsd/demographic/products/dyb/dyb2.htm \n\nStructure of the population (01.01.2010) (Provisional estimates) (Excluding data for Saint Barthélemy and Saint Martin) :",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Demographics of Guadeloupe" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12345" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Guadeloupe has a population of 403,977 (2012).\n\nPopulation\n\nAccording to INSEE Guadeloupe has an estimated population of 403,977 on January 1, 2012. Life expectancy at birth is 77.0 years for males, and 83.5 for females (figures for 2011).\n\nLanguages\n\nFrench is the official language, taught in the school system. Antillean Creole French is spoken by a large part of the population, understood by nearly all, and taught in some schools. A 2007 document issued by the International Organization of la Francophonie estimated the population to be 80.2% \"francophone\" and 14.9% \"partially francophone\".[http://www.francophonie.org/IMG/pdf/La_francophonie_dans_le_monde_2006-2007.pdf La Francophonie dans le monde], Organisation internationale de la francophonie, p.17\n\nVital statistics\n\nThe following vital statistics include Saint Martin and Saint Barthélemy.[http://unstats.un.org/unsd/demographic/products/dyb/dyb2.htm#2001] United nations. Demographic Yearbooks\n\n* Excluding data for Saint Barthélemy and Saint Martin\n\nStructure of the population http://unstats.un.org/unsd/demographic/products/dyb/dyb2.htm \n\nStructure of the population (01.01.2010) (Provisional estimates) (Excluding data for Saint Barthélemy and Saint Martin) :. Demographics of Guadeloupe. http://en.wikipedia.org/?curid=12345."
+  }
+}

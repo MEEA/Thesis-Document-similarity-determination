@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3962",
+  "eid" : "ca098270-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778418711,
+  "textBody" : "British may refer to:\n\nPlaces\n\n* United Kingdom, a sovereign state \n** Kingdom of Great Britain (1707–1800)\n** United Kingdom of Great Britain and Ireland (1801–1922)\n* Great Britain, an island\n\nPeoples, culture, and language\n\n* British people, nationals or natives of the United Kingdom\n** Britishness, the British identity and common culture\n* British English, the English language as spoken and written in Great Britain or, more broadly, throughout the British Isles\n* Celtic Britons, an ancient ethno-linguistic group\n* Brittonic languages, a branch of the Insular Celtic language family (formerly called British)\n** Common Brittonic, an ancient language\n** Welsh language, spoken natively in Wales\n* British nationality law",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "British" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3962" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "British may refer to:\n\nPlaces\n\n* United Kingdom, a sovereign state \n** Kingdom of Great Britain (1707–1800)\n** United Kingdom of Great Britain and Ireland (1801–1922)\n* Great Britain, an island\n\nPeoples, culture, and language\n\n* British people, nationals or natives of the United Kingdom\n** Britishness, the British identity and common culture\n* British English, the English language as spoken and written in Great Britain or, more broadly, throughout the British Isles\n* Celtic Britons, an ancient ethno-linguistic group\n* Brittonic languages, a branch of the Insular Celtic language family (formerly called British)\n** Common Brittonic, an ancient language\n** Welsh language, spoken natively in Wales\n* British nationality law. British. http://en.wikipedia.org/?curid=3962."
+  }
+}

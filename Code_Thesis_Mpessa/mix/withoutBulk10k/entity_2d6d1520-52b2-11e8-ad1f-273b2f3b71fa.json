@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17714",
+  "eid" : "2d6d1520-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778585458,
+  "textBody" : "Roxen is a medium-sized lake in south central Sweden, east of lake Vättern, part of the waterpath Motala ström and the Göta Canal. South of lake Roxen is the city Linköping.\n\nRoxen, especially the western parts, is very good for bird watching. There are natural reserves at Kungsbro[http://www5.e.lst.se/reservat/lst/reservat.asp?id26&sprak\neng] and Svartåmynningen.[http://www5.e.lst.se/reservat/lst/reservat.asp?id32&sprak\neng]\n\nThe lake develops in a graben depression.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Roxen" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17714" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Roxen is a medium-sized lake in south central Sweden, east of lake Vättern, part of the waterpath Motala ström and the Göta Canal. South of lake Roxen is the city Linköping.\n\nRoxen, especially the western parts, is very good for bird watching. There are natural reserves at Kungsbro[http://www5.e.lst.se/reservat/lst/reservat.asp?id26&sprak\neng] and Svartåmynningen.[http://www5.e.lst.se/reservat/lst/reservat.asp?id32&sprak\neng]\n\nThe lake develops in a graben depression. Roxen. http://en.wikipedia.org/?curid=17714."
+  }
+}

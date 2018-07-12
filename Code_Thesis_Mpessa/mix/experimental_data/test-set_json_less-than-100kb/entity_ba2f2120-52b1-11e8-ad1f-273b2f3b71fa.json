@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1501",
+  "eid" : "ba2f2120-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778392114,
+  "textBody" : "A Lory is any of a number of small to medium-sized species of arboreal parrots\nLory may also refer to:\n\n*Lory (Alice's Adventures in Wonderland), a parrot character in Alice's Adventures in Wonderland by Lewis Carroll\n*Lory Lake, a lake in Minnesota\n*Lory State Park, near Fort Collins, Colorado, United States\n\nPeople with the surname\n* Al De Lory (1930–2012), an American record producer, arranger, conductor and session musician\n* Donna De Lory (born 1964), an American singer, dancer and songwriter\n* Milo B. Lory (1903–1974), an American sound editor",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Lory (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1501" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A Lory is any of a number of small to medium-sized species of arboreal parrots\nLory may also refer to:\n\n*Lory (Alice's Adventures in Wonderland), a parrot character in Alice's Adventures in Wonderland by Lewis Carroll\n*Lory Lake, a lake in Minnesota\n*Lory State Park, near Fort Collins, Colorado, United States\n\nPeople with the surname\n* Al De Lory (1930–2012), an American record producer, arranger, conductor and session musician\n* Donna De Lory (born 1964), an American singer, dancer and songwriter\n* Milo B. Lory (1903–1974), an American sound editor. Lory (disambiguation). http://en.wikipedia.org/?curid=1501."
+  }
+}

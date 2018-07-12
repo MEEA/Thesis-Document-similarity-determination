@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12923",
+  "eid" : "057bdce0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778518446,
+  "textBody" : "Georgian may refer to:\n\nCommon meanings\n\n* Anything related to, or originating from Georgia (country)\n**Georgians, an indigenous Caucasian ethnic group\n**Georgian language, a Kartvelian language spoken by Georgians\n**Georgian scripts, three scripts used to write the language\n**Georgian (Unicode block), a Unicode block containing the Mkhedruli and Asomtavruli scripts\n**Georgian cuisine, cooking styles and dishes with origins in the nation of Georgia and prepared by Georgian people around the world\n* Someone from Georgia (U.S. state)\n* Georgian era, a period of British history (1714–1830)\n**Georgian architecture, the set of architectural styles current between 1720 and 1820\n\nPlaces \n\n*Georgian Bay, a bay of Lake Huron\n*Georgian Cliff, a cliff on Alexander Island, Antarctica\n\nAirlines \n\n*Georgian Airways, an airline based in Tbilisi, Georgia\n*Georgian International Airlines, an airline based in Tbilisi, Georgia\n*Air Georgian, an airline based in Ontario, Canada\n*Sky Georgia, an airline based in Tbilisi, Georgia\n\nSchools \n\n*Georgian College, in Barrie, Ontario, Canada\n*Georgian International Academy, a research and academic institution in Tbilisi, Georgia\n*Georgian Technical University, a technical university in Tbilisi, Georgia\n\nArts and entertainment \n\n*The Georgians (Frank Guarente), an American jazz and dance band of the 1920s\n*The Georgians (Nat Gonella), a British jazz band of the 1930s\n*Georgian poets and Georgian poetry, a group of early 20th century English poets\n*Georgian Theatre Royal, a theatre and playhouse in Richmond, North Yorkshire, UK\n\nPeople\n\n*Georgian Păun (born 1985), Romanian footballer\n*Georgian Popescu (born 1984), Romanian amateur boxer\n*Georgian Tobă (born 1989), Romanian footballer\n\nOther uses \n\n*Atlanta Georgian, a defunct Hearst-owned newspaper\n*Augusta Georgians, an American minor league baseball team from 1920 to 1921\n*Georgian Mall, a mall in Barrie, Ontario, Canada\n*Georgian (train), a Chicago-to-Atlanta passenger train route",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Georgian" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12923" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Georgian may refer to:\n\nCommon meanings\n\n* Anything related to, or originating from Georgia (country)\n**Georgians, an indigenous Caucasian ethnic group\n**Georgian language, a Kartvelian language spoken by Georgians\n**Georgian scripts, three scripts used to write the language\n**Georgian (Unicode block), a Unicode block containing the Mkhedruli and Asomtavruli scripts\n**Georgian cuisine, cooking styles and dishes with origins in the nation of Georgia and prepared by Georgian people around the world\n* Someone from Georgia (U.S. state)\n* Georgian era, a period of British history (1714–1830)\n**Georgian architecture, the set of architectural styles current between 1720 and 1820\n\nPlaces \n\n*Georgian Bay, a bay of Lake Huron\n*Georgian Cliff, a cliff on Alexander Island, Antarctica\n\nAirlines \n\n*Georgian Airways, an airline based in Tbilisi, Georgia\n*Georgian International Airlines, an airline based in Tbilisi, Georgia\n*Air Georgian, an airline based in Ontario, Canada\n*Sky Georgia, an airline based in Tbilisi, Georgia\n\nSchools \n\n*Georgian College, in Barrie, Ontario, Canada\n*Georgian International Academy, a research and academic institution in Tbilisi, Georgia\n*Georgian Technical University, a technical university in Tbilisi, Georgia\n\nArts and entertainment \n\n*The Georgians (Frank Guarente), an American jazz and dance band of the 1920s\n*The Georgians (Nat Gonella), a British jazz band of the 1930s\n*Georgian poets and Georgian poetry, a group of early 20th century English poets\n*Georgian Theatre Royal, a theatre and playhouse in Richmond, North Yorkshire, UK\n\nPeople\n\n*Georgian Păun (born 1985), Romanian footballer\n*Georgian Popescu (born 1984), Romanian amateur boxer\n*Georgian Tobă (born 1989), Romanian footballer\n\nOther uses \n\n*Atlanta Georgian, a defunct Hearst-owned newspaper\n*Augusta Georgians, an American minor league baseball team from 1920 to 1921\n*Georgian Mall, a mall in Barrie, Ontario, Canada\n*Georgian (train), a Chicago-to-Atlanta passenger train route. Georgian. http://en.wikipedia.org/?curid=12923."
+  }
+}

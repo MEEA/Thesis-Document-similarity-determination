@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7958",
+  "eid" : "e4567340-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778462836,
+  "textBody" : "Deflation refers to a decrease in the general price level, the opposite of inflation.\n\nDeflation may also refer to:\n*A release or escape of air or gas from an inflatable, resulting in its shrinking or collapsing\n*A mode of wind erosion\n*Dividing a polynomial by a linear factor which decreases its degree by one, as done for example in the Jenkins–Traub algorithm\n*In philosophy, the use of a deflationary theory of truth, where the term truth is rejected as a real property of propositions\n*Deflation (film), a 2001 short film\n*The Great Deflation, a period of worldwide economic deflation occurring roughly between the years 1870–90\n*DEFLATE, a widely used lossless compression algorithm originating from the program PKZIP",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Deflation (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7958" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Deflation refers to a decrease in the general price level, the opposite of inflation.\n\nDeflation may also refer to:\n*A release or escape of air or gas from an inflatable, resulting in its shrinking or collapsing\n*A mode of wind erosion\n*Dividing a polynomial by a linear factor which decreases its degree by one, as done for example in the Jenkins–Traub algorithm\n*In philosophy, the use of a deflationary theory of truth, where the term truth is rejected as a real property of propositions\n*Deflation (film), a 2001 short film\n*The Great Deflation, a period of worldwide economic deflation occurring roughly between the years 1870–90\n*DEFLATE, a widely used lossless compression algorithm originating from the program PKZIP. Deflation (disambiguation). http://en.wikipedia.org/?curid=7958."
+  }
+}

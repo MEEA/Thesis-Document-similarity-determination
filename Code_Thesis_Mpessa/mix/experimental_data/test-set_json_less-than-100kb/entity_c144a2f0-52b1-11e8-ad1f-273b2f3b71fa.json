@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2633",
+  "eid" : "c144a2f0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778403999,
+  "textBody" : "Aelian or Aelianus may refer to:\n\n* Aelianus Tacticus, Greek military writer of the 2nd century, who lived in Rome\n* Casperius Aelianus, Praetorian Prefect, executed by Trajan\n* Claudius Aelianus, Roman writer, teacher and historian of the 3rd century, who wrote in Greek\n* Lucius Aelianus, one of the thirty tyrants under the Roman empire\n* Aelianus Meccius, ancient Greek physician, tutor of Galen\n* Tiberius Plautius Silvanus Aelianus, adopted nephew of Plautia Urgulanilla, first wife of Claudius; consul 45 and 74 AD\n* Aelianus (rebel), leader of the Bagaudae peasant rebels\n* Count Aelianus, leader of the Roman defensive forces at the Siege of Amida in 359.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Aelian" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2633" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Aelian or Aelianus may refer to:\n\n* Aelianus Tacticus, Greek military writer of the 2nd century, who lived in Rome\n* Casperius Aelianus, Praetorian Prefect, executed by Trajan\n* Claudius Aelianus, Roman writer, teacher and historian of the 3rd century, who wrote in Greek\n* Lucius Aelianus, one of the thirty tyrants under the Roman empire\n* Aelianus Meccius, ancient Greek physician, tutor of Galen\n* Tiberius Plautius Silvanus Aelianus, adopted nephew of Plautia Urgulanilla, first wife of Claudius; consul 45 and 74 AD\n* Aelianus (rebel), leader of the Bagaudae peasant rebels\n* Count Aelianus, leader of the Roman defensive forces at the Siege of Amida in 359. Aelian. http://en.wikipedia.org/?curid=2633."
+  }
+}

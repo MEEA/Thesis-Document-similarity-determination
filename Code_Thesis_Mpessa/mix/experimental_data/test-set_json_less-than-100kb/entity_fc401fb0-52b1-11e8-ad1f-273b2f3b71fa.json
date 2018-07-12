@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11527",
+  "eid" : "fc401fb0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778502955,
+  "textBody" : "In abstract algebra, the fundamental theorem on homomorphisms, also known as the fundamental homomorphism theorem, relates the structure of two objects between which a homomorphism is given, and of the kernel and image of the homomorphism.\n\nThe homomorphism theorem is used to prove the isomorphism theorems.\n\nGroup theoretic version \n\nGiven two groups G and H and a group homomorphism f : G→H,  let K be a normal subgroup in G and φ the natural surjective homomorphism G→G/K (where G/K is a quotient group). If K is a subset of ker(f) then there exists a unique homomorphism h:G/K→H such that f = h φ.\n\nIn other words, the natural projection φ is universal among homomorphisms on G that map K to the identity element.\n\nThe situation is described by the following commutative diagram:\n\nBy setting K = ker(f) we immediately get the first isomorphism theorem.\n\nOther versions \n\nSimilar theorems are valid for monoids, vector spaces, modules, and rings.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Fundamental theorem on homomorphisms" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11527" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "In abstract algebra, the fundamental theorem on homomorphisms, also known as the fundamental homomorphism theorem, relates the structure of two objects between which a homomorphism is given, and of the kernel and image of the homomorphism.\n\nThe homomorphism theorem is used to prove the isomorphism theorems.\n\nGroup theoretic version \n\nGiven two groups G and H and a group homomorphism f : G→H,  let K be a normal subgroup in G and φ the natural surjective homomorphism G→G/K (where G/K is a quotient group). If K is a subset of ker(f) then there exists a unique homomorphism h:G/K→H such that f = h φ.\n\nIn other words, the natural projection φ is universal among homomorphisms on G that map K to the identity element.\n\nThe situation is described by the following commutative diagram:\n\nBy setting K = ker(f) we immediately get the first isomorphism theorem.\n\nOther versions \n\nSimilar theorems are valid for monoids, vector spaces, modules, and rings. Fundamental theorem on homomorphisms. http://en.wikipedia.org/?curid=11527."
+  }
+}

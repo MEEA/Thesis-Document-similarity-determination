@@ -1,0 +1,44 @@
+library(textreuse)
+library(rjson)
+minhash <- minhash_generator(n = 240, seed = 273)
+#head(minhash(c("turn tokens into", "tokens into hashes", "into hashes fast")))
+
+corpus <- TextReuseCorpus(dir = paste0(getwd(),"/mix/experimental_data/test-set_json_equal-and-greater-than-200kb"),#dir = paste0(getwd(),"/dokus"),
+                          tokenizer = tokenize_ngrams, n = 1,
+                          minhash_func = minhash, progress = FALSE,
+                         skip_short = FALSE)
+
+#Wichtig mit n spielen 
+# in TextReuseCorpus wichtig: n = n-gramm die anzahl an W?rter bei n= 3 kriegt man Ergebnisse weder bei Lsh_compare noch bei Candidates
+# in TextReuseCorpus bei n= 2 kriegt schon ergebnisse aber nicht so groß wie bei n=1, nur die Jaccard Similarity ist gering
+# in TextReuseCorpus bei n= 0 kriegt man fehlermeldung
+# in TextReuseCorpus bei n= 1 kriegt man ergebnisse mit Jaccard similarity ab 0,1 
+# in lsh_probability für s=0.75 kriegt man LSH_Probability von 1 und keine Angabe der Ähnlichkeit zwischen den Dokumenten
+# der Odner "/mix/experimental_data/test-set_json_equal-and-greater-than-200kb" enth?lt 90 Dateien, ist ausf?hrbar und erzielt 820 vergleiche
+#der Odner "/mix/experimental_data/test-set_json_equal-or-greater-100kb-and-less-than-200kb" enth?lt 933 Dateien, ist in 4 min ausf?hrbar und erzielt  39818 vergleiche mit t = 0,232 
+threshold <- lsh_threshold(h = 240, b = 80)
+#Notiz: Die Anzahl an Hashes muss Teilbar sein mit der Anzahl an Bands
+#f?r eine Anzahl an Hashes h= 240 und bands b = 80 das Threshold =0,232
+#f?r h = 200, b = 40 ist das Threshold=0,478, deutlich h?her f?r 90 Dateien, nur 5 KandidatenPaare kommen in Frage screenshotvorhanden(muss ge?ndert werden) seed =273
+#f?r h = 200, b = 40 ist das Threshold=0,478, f?r 933 Dateien, kommen nur 52 Kandidatenpaare und Vergleiche in Frage und die Ausf?hrungszeit ist geringer: 2 min Ausf?hrung seed =273
+#f?r eine sehr wenige Anzahl an Dateien (10 genau) kann es vorkommen, dass keine Kandidatenpaare gefunden werden f?r h = 200, b = 40 ist das Threshold=0,478 seed =273
+# f?r eine sehr wenige Anzahl an Dateien(10 genau) lsh_threshold(h = 240, b = 80) k?nnen 5 Kandidatenpaare und Vergleiche erzielt werden seed =273
+#bei einem threshold <- lsh_threshold(h = 40, b = 40)und buckets <- lsh(corpus, bands = 40, progress = FALSE) f?r 90 Dateien  erzielt man nur 5 vergleiche und t = 0.025
+# bei threshold <- lsh_threshold(h = 40, b = 5) geringe Anzahl an Band mit t=0,81 werden keine Kandidatenpaare erkannt seed = 273
+# bei threshold <- lsh_threshold(h = 10, b = 5) mit t = 0,44 f?r 90 Dateien erzielt man keine Kandidatenpaare sowie Vergleiche seed =273
+# Anscheinend je mehr das Threshold gro? ist desto weniger werden Kandidaten Paare gefunden und ?hnlichkeit berechnet
+# bei einer minhash <- minhash_generator(n = 240, seed = 3552) mit s=3552 erzielt man f?r 90 dateien 3607 vergleiche
+# 
+
+
+#Prob <- lsh_probability(h = 240, b = 80, s = 0.50)
+buckets <- lsh(corpus, bands = 80, progress = FALSE)
+candidates <- lsh_candidates(buckets)
+# documents are likely to have Jaccard similarity scores above: round(lsh_threshold(h = 240, b = 80), 3)
+#baxter_matches <- lsh_query(buckets, "calltounconv00baxt")
+#baxter_matches
+compare <- lsh_compare(candidates, corpus, jaccard_similarity, progress = FALSE)
+#Bayes <- BayesLSH_JSim_Lisa(candidates,corpus, jaccard_similarity,h = 240)
+#Test<- Lisa(candidates, corpus,h=240)
+#VIP:siehe Function Test
+

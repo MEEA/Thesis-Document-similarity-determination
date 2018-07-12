@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7552",
+  "eid" : "e2258980-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778459160,
+  "textBody" : "Chemical evolution may refer to:\n*Stellar nucleosynthesis, the creation of chemical elements by stellar thermonuclear fusion or supernovae\n*Abiogenesis, the transition from nonliving elements to living systems\n*Molecular evolution, evolution at the scale of molecules\n*Gas evolution reaction, the process of a gas bubbling out from a solution\n*Oxygen evolution, the process of generating molecular oxygen through chemical reaction\n*Cosmochemistry (or astrochemistry), the study of the chemical composition of matter in the universe, including complex organics, and the processes that led to those compositions.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Chemical evolution" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7552" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Chemical evolution may refer to:\n*Stellar nucleosynthesis, the creation of chemical elements by stellar thermonuclear fusion or supernovae\n*Abiogenesis, the transition from nonliving elements to living systems\n*Molecular evolution, evolution at the scale of molecules\n*Gas evolution reaction, the process of a gas bubbling out from a solution\n*Oxygen evolution, the process of generating molecular oxygen through chemical reaction\n*Cosmochemistry (or astrochemistry), the study of the chemical composition of matter in the universe, including complex organics, and the processes that led to those compositions. Chemical evolution. http://en.wikipedia.org/?curid=7552."
+  }
+}

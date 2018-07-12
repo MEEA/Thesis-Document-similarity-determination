@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10744",
+  "eid" : "f775c661-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778494918,
+  "textBody" : "Railways:\n0 km\n\nHighways:\ntotal:\n2590 km\npaved:\n1735 km\nunpaved:\n855 km (1999)\n\nPorts and harbours:\nMataura, Papeete, Rikitea, Uturoa\n\nMerchant marine:\ntotal:\n10 ships ( or over) totaling / \nships by type:\ncargo ship 3, passenger ship 2, passenger/cargo 3, refrigerated cargo 1, roll-on/roll-off ship 1 (2003 est.)\n\nAirports:\n49 (2003 est.)\n\nAirports - with paved runways:\ntotal:\n37\nover 3,047 m:\n2\n1,524 to 2,437 m:\n5\n914 to 1,523 m:\n23\nunder 914 m:\n3 (2004 est.)\n\nAirports - with unpaved runways:\ntotal:\n13\n914 to 1,523 m:\n5\nunder 914 m:\n8 (2004 est.)\n\nHeliports\n1 (2003 est.)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Transport in French Polynesia" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10744" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Railways:\n0 km\n\nHighways:\ntotal:\n2590 km\npaved:\n1735 km\nunpaved:\n855 km (1999)\n\nPorts and harbours:\nMataura, Papeete, Rikitea, Uturoa\n\nMerchant marine:\ntotal:\n10 ships ( or over) totaling / \nships by type:\ncargo ship 3, passenger ship 2, passenger/cargo 3, refrigerated cargo 1, roll-on/roll-off ship 1 (2003 est.)\n\nAirports:\n49 (2003 est.)\n\nAirports - with paved runways:\ntotal:\n37\nover 3,047 m:\n2\n1,524 to 2,437 m:\n5\n914 to 1,523 m:\n23\nunder 914 m:\n3 (2004 est.)\n\nAirports - with unpaved runways:\ntotal:\n13\n914 to 1,523 m:\n5\nunder 914 m:\n8 (2004 est.)\n\nHeliports\n1 (2003 est.). Transport in French Polynesia. http://en.wikipedia.org/?curid=10744."
+  }
+}

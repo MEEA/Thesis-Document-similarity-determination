@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=6353",
+  "eid" : "db2b09c0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778447452,
+  "textBody" : "Cretin may refer to:\n\n* a person suffering from cretinism\n* a pejorative term for an idiot\n\nGeography\n\n* Cape Cretin, a headland on the Huon peninsula in Papua New Guinea\n\nPeople\n\n* Guillaume Crétin (c. 1460 – 30 November 1525), a French poet\n* Joseph Crétin (1799–1857), an American bishop\n\nEducation\n\n* Cretin Hall, one of the male undergraduate residence halls at the University of St. Thomas in Saint Paul, Minnesota\n* Cretin-Derham Hall High School, a co-educational Catholic high school in Minnesota",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Cretin" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=6353" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Cretin may refer to:\n\n* a person suffering from cretinism\n* a pejorative term for an idiot\n\nGeography\n\n* Cape Cretin, a headland on the Huon peninsula in Papua New Guinea\n\nPeople\n\n* Guillaume Crétin (c. 1460 – 30 November 1525), a French poet\n* Joseph Crétin (1799–1857), an American bishop\n\nEducation\n\n* Cretin Hall, one of the male undergraduate residence halls at the University of St. Thomas in Saint Paul, Minnesota\n* Cretin-Derham Hall High School, a co-educational Catholic high school in Minnesota. Cretin. http://en.wikipedia.org/?curid=6353."
+  }
+}

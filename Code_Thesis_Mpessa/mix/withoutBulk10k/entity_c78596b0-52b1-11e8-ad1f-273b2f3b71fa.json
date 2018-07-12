@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3609",
+  "eid" : "c78596b0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778414491,
+  "textBody" : "Roadways\n\n*total: 21,846 km\n**paved: 11,425 km (4,686 km of interurban roads)\n**unpaved: 10,421 km (2006)\n\nRoads\n\nInternational\n\n*E65\n*E73 (Pan-European corridor Vc), A1 highway\n*E661\n*E761\n*E762\n\nState Highways\n\n*Route 1\n**Route 1-8\n*Route 5\n*Route 6\n**Route 6-1\n*Route 14\n**Route 14-1\n**Route 14-2\n*Route 15\n*Route 16\n**Route 16-2\n*Route 17\n*Route 18\n*Route 19\n**Route 19-2\n**Route 19-4\n*Route 20\n\nRailways\n\n*Total: 1032\nStandard gauge: 1032 km  (2006)\n\nRail links with adjacent countries\n\n* Same gauge: \n** Croatia - yes\n** Serbia - yes\n** Montenegro - no\n\nWaterways\n\nSava River (northern border) open to shipping but use limited (2008)\n\nPorts and harbours\n\nGradiška, Brod, Šamac, and Brčko (all inland waterway ports on the Sava none of which are fully operational), Orašje, Bosnia\n\nMerchant marine\n\nnone (1999 est.)\n\nAirports\n\n25 (2008)\n\nAirports - with paved runways\n\ntotal:\n7\n2,438 to 3,047 m:\n4\n1,524 to 2,437 m:\n1\nunder 914 m:\n2 (2008)\n\nAirports - with unpaved runways\n\ntotal:\n18\n1,524 to 2,437 m:\n1\n914 to 1,523 m:\n7\nunder 914 m:\n10 (2008)\n\nNational & International Buses\n\nBosnia & Herzegovina is well connected to other countries in Europe. The main bus station of Sarajevo has its own website. The main provider of international bus connection in Bosnia & Herzegovina is Eurolines. There are routes to Croatia, Germany, Austria, France, Netherlands, Montenegro, Belgium, Denmark, Sweden and Serbia. Despite Bosnia & Herzegovina's geographical closeness to Serbia, there is only one bus a day, which takes more than 8 hours due to the lack of proper roads.\n\nHeliports\n\n6 (2013)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Transport in Bosnia and Herzegovina" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3609" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Roadways\n\n*total: 21,846 km\n**paved: 11,425 km (4,686 km of interurban roads)\n**unpaved: 10,421 km (2006)\n\nRoads\n\nInternational\n\n*E65\n*E73 (Pan-European corridor Vc), A1 highway\n*E661\n*E761\n*E762\n\nState Highways\n\n*Route 1\n**Route 1-8\n*Route 5\n*Route 6\n**Route 6-1\n*Route 14\n**Route 14-1\n**Route 14-2\n*Route 15\n*Route 16\n**Route 16-2\n*Route 17\n*Route 18\n*Route 19\n**Route 19-2\n**Route 19-4\n*Route 20\n\nRailways\n\n*Total: 1032\nStandard gauge: 1032 km  (2006)\n\nRail links with adjacent countries\n\n* Same gauge: \n** Croatia - yes\n** Serbia - yes\n** Montenegro - no\n\nWaterways\n\nSava River (northern border) open to shipping but use limited (2008)\n\nPorts and harbours\n\nGradiška, Brod, Šamac, and Brčko (all inland waterway ports on the Sava none of which are fully operational), Orašje, Bosnia\n\nMerchant marine\n\nnone (1999 est.)\n\nAirports\n\n25 (2008)\n\nAirports - with paved runways\n\ntotal:\n7\n2,438 to 3,047 m:\n4\n1,524 to 2,437 m:\n1\nunder 914 m:\n2 (2008)\n\nAirports - with unpaved runways\n\ntotal:\n18\n1,524 to 2,437 m:\n1\n914 to 1,523 m:\n7\nunder 914 m:\n10 (2008)\n\nNational & International Buses\n\nBosnia & Herzegovina is well connected to other countries in Europe. The main bus station of Sarajevo has its own website. The main provider of international bus connection in Bosnia & Herzegovina is Eurolines. There are routes to Croatia, Germany, Austria, France, Netherlands, Montenegro, Belgium, Denmark, Sweden and Serbia. Despite Bosnia & Herzegovina's geographical closeness to Serbia, there is only one bus a day, which takes more than 8 hours due to the lack of proper roads.\n\nHeliports\n\n6 (2013). Transport in Bosnia and Herzegovina. http://en.wikipedia.org/?curid=3609."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=4898",
+  "eid" : "d12b8760-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778430678,
+  "textBody" : "Black Cow can refer to either:\n\n* A root beer float or Coke float\n* An alcoholic drink (sometimes referred to as a Black Cow #2) featuring Kahlúa, half-and-half, and Coca-Cola\n* \"Black Cow\" (song), on Steely Dan's 1977 album Aja\n* A chocolate-covered caramel confection, Sugar Mama.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Black cow" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=4898" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Black Cow can refer to either:\n\n* A root beer float or Coke float\n* An alcoholic drink (sometimes referred to as a Black Cow #2) featuring Kahlúa, half-and-half, and Coca-Cola\n* \"Black Cow\" (song), on Steely Dan's 1977 album Aja\n* A chocolate-covered caramel confection, Sugar Mama. Black cow. http://en.wikipedia.org/?curid=4898."
+  }
+}

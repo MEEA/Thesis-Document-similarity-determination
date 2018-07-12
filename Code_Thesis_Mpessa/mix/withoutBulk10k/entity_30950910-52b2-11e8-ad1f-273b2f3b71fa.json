@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18073",
+  "eid" : "30950910-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778590753,
+  "textBody" : "An L cut is a variant of a split edit film editing technique in which the audio from preceding scene overlaps the picture from the following scene, so that the audio cuts after the picture, and continues playing over the beginning of the next scene.\n\nThe name of the cut refers to the shape of audio and video pieces of the first of two scenes cut together in most non-linear video editing programs.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "L cut" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18073" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "An L cut is a variant of a split edit film editing technique in which the audio from preceding scene overlaps the picture from the following scene, so that the audio cuts after the picture, and continues playing over the beginning of the next scene.\n\nThe name of the cut refers to the shape of audio and video pieces of the first of two scenes cut together in most non-linear video editing programs. L cut. http://en.wikipedia.org/?curid=18073."
+  }
+}

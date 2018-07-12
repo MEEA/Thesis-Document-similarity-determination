@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17639",
+  "eid" : "2d07eab0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778584795,
+  "textBody" : "Lowball can refer to:\n\n*Low-ball, a persuasion technique\n*Lowball (poker), a variant of the card game poker, in which hand values are reversed so that the lowest-valued hand wins",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Lowball" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17639" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Lowball can refer to:\n\n*Low-ball, a persuasion technique\n*Lowball (poker), a variant of the card game poker, in which hand values are reversed so that the lowest-valued hand wins. Lowball. http://en.wikipedia.org/?curid=17639."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16586",
+  "eid" : "26dc0590-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778574441,
+  "textBody" : "Jelly may refer to:\n\nObjects\n\n* Jelly (fruit preserves), a clear or translucent fruit spread or preserve, referred to as jelly in Canada and other countries\n* Gelatin, a translucent substance extracted from the collagen inside animals' connective tissue, made from bones and pig skin\n* Gelatin dessert, referred to as jelly in the United Kingdom, Ireland, Australia, New Zealand and other countries\n* Gelignite, also known as blasting jelly or simply jelly\n* Temazepam, a powerful hypnotic drug, street name \"Jellies\"\n* Jellyfish, also known as jellies\n* Jelly shoes, shoes made from semi-transparent PVC plastic\n* Petroleum jelly, a topical ointment\n* Royal jelly, a honey bee secretion\n\nEntertainment\n\n* The Jellys, an English punk/pop band\n* \"Jelly\" (song), a 2006 song by Japanese electronic duo Capsule\n* Mr. Jelly, title character of the novel Mr. Jelly, in the Mr. Men children's book series\n* Shadowmoor, a Magic: the Gathering expansion set, codenamed \"Jelly\" in development\n* The Jellies, an American adult animated television series\n\nOther uses\n\n* Jelly (name), a list of people and one fictional character with the given name, surname or nickname\n* Apache Jelly, a Java and XML based scripting and processing engine for turning XML into executable code\n* Jelly (app), an app, and the company behind it (founded by Twitter co-founder Biz Stone)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Jelly" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16586" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Jelly may refer to:\n\nObjects\n\n* Jelly (fruit preserves), a clear or translucent fruit spread or preserve, referred to as jelly in Canada and other countries\n* Gelatin, a translucent substance extracted from the collagen inside animals' connective tissue, made from bones and pig skin\n* Gelatin dessert, referred to as jelly in the United Kingdom, Ireland, Australia, New Zealand and other countries\n* Gelignite, also known as blasting jelly or simply jelly\n* Temazepam, a powerful hypnotic drug, street name \"Jellies\"\n* Jellyfish, also known as jellies\n* Jelly shoes, shoes made from semi-transparent PVC plastic\n* Petroleum jelly, a topical ointment\n* Royal jelly, a honey bee secretion\n\nEntertainment\n\n* The Jellys, an English punk/pop band\n* \"Jelly\" (song), a 2006 song by Japanese electronic duo Capsule\n* Mr. Jelly, title character of the novel Mr. Jelly, in the Mr. Men children's book series\n* Shadowmoor, a Magic: the Gathering expansion set, codenamed \"Jelly\" in development\n* The Jellies, an American adult animated television series\n\nOther uses\n\n* Jelly (name), a list of people and one fictional character with the given name, surname or nickname\n* Apache Jelly, a Java and XML based scripting and processing engine for turning XML into executable code\n* Jelly (app), an app, and the company behind it (founded by Twitter co-founder Biz Stone). Jelly. http://en.wikipedia.org/?curid=16586."
+  }
+}

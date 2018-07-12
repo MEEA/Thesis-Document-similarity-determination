@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=6951",
+  "eid" : "def223e0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778453790,
+  "textBody" : "CCIR is a four-letter abbreviation that may stand for:\n\n*California Coalition for Immigration Reform, a California political advocacy group for immigration reduction\n*Campaign for Comprehensive Immigration Reform, a Washington, DC organization for immigrant rights\n*Canadian Centre for Investigative Reporting, produces thoroughly researched reporting in the public interest\n* Centre for Counseling Innovation and Research (CCIR), at Kish Island,Tehran,Mashhad\n\n*Comité Consultatif International pour la Radio, a forerunner of the ITU-R\n**CCIR 601, the former name of a broadcasting standard promulgated by the CCIR\n**CCIR-tones, A selective calling system used in some radio communications systems in some European countries\n**CCIR-1k and CCIR-2k, noise weighting standards for audio signals\n* Commander's critical information requirement, a term in the US military",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "CCIR" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=6951" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "CCIR is a four-letter abbreviation that may stand for:\n\n*California Coalition for Immigration Reform, a California political advocacy group for immigration reduction\n*Campaign for Comprehensive Immigration Reform, a Washington, DC organization for immigrant rights\n*Canadian Centre for Investigative Reporting, produces thoroughly researched reporting in the public interest\n* Centre for Counseling Innovation and Research (CCIR), at Kish Island,Tehran,Mashhad\n\n*Comité Consultatif International pour la Radio, a forerunner of the ITU-R\n**CCIR 601, the former name of a broadcasting standard promulgated by the CCIR\n**CCIR-tones, A selective calling system used in some radio communications systems in some European countries\n**CCIR-1k and CCIR-2k, noise weighting standards for audio signals\n* Commander's critical information requirement, a term in the US military. CCIR. http://en.wikipedia.org/?curid=6951."
+  }
+}

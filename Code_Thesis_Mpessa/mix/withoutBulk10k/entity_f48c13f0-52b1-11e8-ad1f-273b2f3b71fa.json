@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10248",
+  "eid" : "f48c13f0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778490031,
+  "textBody" : "Extrapyramidal can refer to:\n* Extrapyramidal system\n* Extrapyramidal symptoms",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Extrapyramidal" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10248" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Extrapyramidal can refer to:\n* Extrapyramidal system\n* Extrapyramidal symptoms. Extrapyramidal. http://en.wikipedia.org/?curid=10248."
+  }
+}

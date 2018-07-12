@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12350",
+  "eid" : "01ebff60-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778512470,
+  "textBody" : "Transport in Guadeloupe.\n\nRailways\n\ntotal:\nNA km; privately owned, narrow-gauge plantation lines\n\nHighways\n\ntotal:\n2,082 km\npaved:\n1,742 km\nunpaved:\n340 km (1985 est.)\nnote:\nin 1996 there were a total of 3,200 km of roads\n\nWater transport\n\nSeaports and harbours\n\nBasse-Terre, Pointe-à-Pitre (on Grande-Terre).\n\nMerchant marine:\ntotal:\n1 ship (1,000 GRT or over) totaling 1,240 GRT/\nships by type:\npassenger 1 (1999 est.)\n\nAir transport\n\nAirports\n\n9 (1999 est.)\n\nAirports - with paved runways\n\ntotal:\n8\nover 3,047 m:\n1\n914 to 1,523 m:\n2\nunder 914 m:\n5 (1999 est.)\n\nAirports - with unpaved runways\n\ntotal:\n1\nunder 914 m:\n1 (1999 est.)\n\nFlights booking\n\n[http://www.vol-gwada.com Flights Booking Guadeloupe] Flight's comparator specific for Guadeloupe Island",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Transport in Guadeloupe" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12350" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Transport in Guadeloupe.\n\nRailways\n\ntotal:\nNA km; privately owned, narrow-gauge plantation lines\n\nHighways\n\ntotal:\n2,082 km\npaved:\n1,742 km\nunpaved:\n340 km (1985 est.)\nnote:\nin 1996 there were a total of 3,200 km of roads\n\nWater transport\n\nSeaports and harbours\n\nBasse-Terre, Pointe-à-Pitre (on Grande-Terre).\n\nMerchant marine:\ntotal:\n1 ship (1,000 GRT or over) totaling 1,240 GRT/\nships by type:\npassenger 1 (1999 est.)\n\nAir transport\n\nAirports\n\n9 (1999 est.)\n\nAirports - with paved runways\n\ntotal:\n8\nover 3,047 m:\n1\n914 to 1,523 m:\n2\nunder 914 m:\n5 (1999 est.)\n\nAirports - with unpaved runways\n\ntotal:\n1\nunder 914 m:\n1 (1999 est.)\n\nFlights booking\n\n[http://www.vol-gwada.com Flights Booking Guadeloupe] Flight's comparator specific for Guadeloupe Island. Transport in Guadeloupe. http://en.wikipedia.org/?curid=12350."
+  }
+}

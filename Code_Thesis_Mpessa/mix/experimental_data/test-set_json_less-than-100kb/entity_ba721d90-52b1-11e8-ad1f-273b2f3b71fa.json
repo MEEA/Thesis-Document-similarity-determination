@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1553",
+  "eid" : "ba721d90-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778392553,
+  "textBody" : "Agnes Maria of Andechs-Merania (died 1201) was a Queen of France. She is called Marie by some of the French chroniclers.\n\nBiography\n\nAgnes Maria was the daughter of Berthold, Duke of Merania, who was Count of Andechs, a castle and territory near Ammersee, Bavaria. Her mother was Agnes of Rochlitz. \n\nIn June 1196 Agnes married Philip II of France, who had repudiated his second wife Ingeborg of Denmark in 1193. Pope Innocent III espoused the cause of Ingeborg; but Philip did not submit until 1200, when, nine months after interdict had been added to excommunication, he consented to a separation from Agnes.\n\nAgnes died broken-hearted in July of the next year, at the castle of Poissy, and was buried in the Convent of St Corentin, near Nantes.\n\nFamily\n\nAgnes and Philip had two children: Philip I, Count of Boulogne and Mary, were legitimized by the Pope in 1201 at the request of the King. Little is known of the personality of Agnes, beyond the remarkable influence which she seems to have exercised over Philip.\n\nArtistic representation\n\nShe has been made the heroine of a tragedy by François Ponsard, Agnès de Méranie, and of an opera by Vincenzo Bellini, La straniera.\n\nNotes",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Agnes of Merania" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1553" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Agnes Maria of Andechs-Merania (died 1201) was a Queen of France. She is called Marie by some of the French chroniclers.\n\nBiography\n\nAgnes Maria was the daughter of Berthold, Duke of Merania, who was Count of Andechs, a castle and territory near Ammersee, Bavaria. Her mother was Agnes of Rochlitz. \n\nIn June 1196 Agnes married Philip II of France, who had repudiated his second wife Ingeborg of Denmark in 1193. Pope Innocent III espoused the cause of Ingeborg; but Philip did not submit until 1200, when, nine months after interdict had been added to excommunication, he consented to a separation from Agnes.\n\nAgnes died broken-hearted in July of the next year, at the castle of Poissy, and was buried in the Convent of St Corentin, near Nantes.\n\nFamily\n\nAgnes and Philip had two children: Philip I, Count of Boulogne and Mary, were legitimized by the Pope in 1201 at the request of the King. Little is known of the personality of Agnes, beyond the remarkable influence which she seems to have exercised over Philip.\n\nArtistic representation\n\nShe has been made the heroine of a tragedy by François Ponsard, Agnès de Méranie, and of an opera by Vincenzo Bellini, La straniera.\n\nNotes. Agnes of Merania. http://en.wikipedia.org/?curid=1553."
+  }
+}

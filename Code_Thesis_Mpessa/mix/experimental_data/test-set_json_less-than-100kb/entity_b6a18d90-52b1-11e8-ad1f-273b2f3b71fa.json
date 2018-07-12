@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1184",
+  "eid" : "b6a18d90-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778386153,
+  "textBody" : "Athene or Athena is the shrewd companion of heroes and the goddess of heroic endeavour in Greek mythology.\n\nAthene may also refer to:\n*881 Athene, a main-belt asteroid\n*Athene (owl), a genus of small owls\n*Athene Glacier, a glacier in Antarctica\n*HMS Athene, an aircraft transport\n*USS Athene (AKA-22), an Artemis-class attack cargo ship\n*Bachir Boumaaza or Athene (born  1980), Belgian YouTube personality and social activist\n\nPeople with the given name\n\n*Athene Seyler (1889–1990), English actress",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Athene (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1184" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Athene or Athena is the shrewd companion of heroes and the goddess of heroic endeavour in Greek mythology.\n\nAthene may also refer to:\n*881 Athene, a main-belt asteroid\n*Athene (owl), a genus of small owls\n*Athene Glacier, a glacier in Antarctica\n*HMS Athene, an aircraft transport\n*USS Athene (AKA-22), an Artemis-class attack cargo ship\n*Bachir Boumaaza or Athene (born  1980), Belgian YouTube personality and social activist\n\nPeople with the given name\n\n*Athene Seyler (1889–1990), English actress. Athene (disambiguation). http://en.wikipedia.org/?curid=1184."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13240",
+  "eid" : "075d6e20-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778521602,
+  "textBody" : "In the classic era of the cinema of the United States (1930 – 1945) \"cycles\" or \ngenres matured.  They were called cycles, which was a short term for stories that were similar.  While we would recognize many of the genres as Westerns, gangsters, musicals, etc., often the cycles were significantly more specific.  Instead of \"romantic comedy\" it might be \"Boy-meets-girl-boy-loses-girl-boy-gets-girl\" cycle.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Hollywood cycles" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13240" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "In the classic era of the cinema of the United States (1930 – 1945) \"cycles\" or \ngenres matured.  They were called cycles, which was a short term for stories that were similar.  While we would recognize many of the genres as Westerns, gangsters, musicals, etc., often the cycles were significantly more specific.  Instead of \"romantic comedy\" it might be \"Boy-meets-girl-boy-loses-girl-boy-gets-girl\" cycle. Hollywood cycles. http://en.wikipedia.org/?curid=13240."
+  }
+}

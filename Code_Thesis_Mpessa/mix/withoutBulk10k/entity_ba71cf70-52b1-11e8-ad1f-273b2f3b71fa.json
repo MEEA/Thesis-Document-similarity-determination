@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1551",
+  "eid" : "ba71cf70-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778392551,
+  "textBody" : "Agis or AGIS may refer to:\n\nPeople \n\n* Agis I (died 900 BC), Spartan king\n* Agis II (died 401 BC), Spartan king\n* Agis III (died 331 BC), Spartan king\n* Agis IV (265–241 BC), Spartan king\n* Agis (Paeonian) (died 358 BC), King of the Paeonians\n* Agis of Argos, ancient Greek poet\n* Maurice Agis (1931–2009), British sculptor and artist\n* Agis, several fictional Emperors of Isaac Asimov's Galactic Empire\n\nOther \n\n* Agis (play), by John Home\n* Action for Global Information Sharing\n* Apex Global Internet Services\n* Atomic gravitational wave interferometric sensor\n* Advanced Glaucoma Intervention Study, conducted by the National Eye Institute",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Agis" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1551" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Agis or AGIS may refer to:\n\nPeople \n\n* Agis I (died 900 BC), Spartan king\n* Agis II (died 401 BC), Spartan king\n* Agis III (died 331 BC), Spartan king\n* Agis IV (265–241 BC), Spartan king\n* Agis (Paeonian) (died 358 BC), King of the Paeonians\n* Agis of Argos, ancient Greek poet\n* Maurice Agis (1931–2009), British sculptor and artist\n* Agis, several fictional Emperors of Isaac Asimov's Galactic Empire\n\nOther \n\n* Agis (play), by John Home\n* Action for Global Information Sharing\n* Apex Global Internet Services\n* Atomic gravitational wave interferometric sensor\n* Advanced Glaucoma Intervention Study, conducted by the National Eye Institute. Agis. http://en.wikipedia.org/?curid=1551."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2833",
+  "eid" : "c27ef7b0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778406059,
+  "textBody" : "Abitibi may refer to:\n\n* Abitibi Canyon, Ontario, community adjacent to the Abitibi Canyon Generating Station\n* Abitibi Canyon Generating Station, Canadian hydroelectric power plant\n* Abitibi-Témiscamingue (Canada), a region of Quebec\n* AbitibiBowater, a pulp and paper manufacturing company\nAbitibi-Consolidated, the company that merged with Bowater to create AbitibiBowater\n* Abitibi—Témiscamingue (Canada), a federal electoral district\n* Abitibi—Baie-James—Nunavik—Eeyou (Canada), a former federal electoral district\n* Abitibi (provincial electoral district), a former Quebec provincial electoral district\n* Abitibi County, Quebec (Canada), an historical county\n* Abitibi Regional County Municipality, Quebec (Canada)\n* Abitibi River (Canada)\n* Lake Abitibi (Canada)\n* The Abitibi (train), a Via Rail passenger train in Quebec\n* Abitibi Eskimos, a junior A hockey club based in Iroquois Falls, Ontario, playing in the Northern Ontario Junior Hockey League\n* Abitibi gold belt, a gold mining region spanning the border of Ontario and Quebec",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Abitibi" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2833" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Abitibi may refer to:\n\n* Abitibi Canyon, Ontario, community adjacent to the Abitibi Canyon Generating Station\n* Abitibi Canyon Generating Station, Canadian hydroelectric power plant\n* Abitibi-Témiscamingue (Canada), a region of Quebec\n* AbitibiBowater, a pulp and paper manufacturing company\nAbitibi-Consolidated, the company that merged with Bowater to create AbitibiBowater\n* Abitibi—Témiscamingue (Canada), a federal electoral district\n* Abitibi—Baie-James—Nunavik—Eeyou (Canada), a former federal electoral district\n* Abitibi (provincial electoral district), a former Quebec provincial electoral district\n* Abitibi County, Quebec (Canada), an historical county\n* Abitibi Regional County Municipality, Quebec (Canada)\n* Abitibi River (Canada)\n* Lake Abitibi (Canada)\n* The Abitibi (train), a Via Rail passenger train in Quebec\n* Abitibi Eskimos, a junior A hockey club based in Iroquois Falls, Ontario, playing in the Northern Ontario Junior Hockey League\n* Abitibi gold belt, a gold mining region spanning the border of Ontario and Quebec. Abitibi. http://en.wikipedia.org/?curid=2833."
+  }
+}

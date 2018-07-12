@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=5835",
+  "eid" : "d82320f0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778442367,
+  "textBody" : "A Christian is an adherent of Christianity.\n\nChristian may also refer to:\n\n* Anything associated with Christianity\n* Christian Church (Disciples of Christ)\n* Christian churches and churches of Christ\n\nPeople\n\n* Christian (given name)\n* Christian (surname)\n\n* Christian, the protagonist in John Bunyan's novel The Pilgrim's Progress\n* Christian of Clogher (d. 1138), Irish saint and Bishop\n* Christian of Oliva, a 13th-century Cistercian monk\n* Christian (French actor) (1821–1889), stage name of Christian Perrin, a 19th-century French actor and singer\n* Christian (singer) (born 1949), stage name of singer Gaetano Cristiano Rossi\n* Prince Christian (disambiguation), several princes\n* Christian Cage Stage name of professional wrestler, Jay Reso\n\nPlaces\n\n*Christian, West Virginia\n* Christian Island (Ontario)\n* Christian County, Illinois\n* Christian County, Kentucky\n* Christian County, Missouri\n\nMusic\n\n* \"Christian\" (song), a 1982 single from the China Crisis album Difficult Shapes & Passive Rhythms, Some People Think It's Fun to Entertain\n* The Christians (band), soul band from Liverpool, England\n* Christian the Christian, album by Lackthereof\n\nOther uses\n\n* Christian (1939 film), a 1939 Czech film\n* Christian (1989 film), a 1989 Danish film\n* The Christians (political party), a minor party in Austria\n* St Jude storm of 2013 in Northwestern Europe, also named Christian\n* Christian the lion",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Christian (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=5835" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A Christian is an adherent of Christianity.\n\nChristian may also refer to:\n\n* Anything associated with Christianity\n* Christian Church (Disciples of Christ)\n* Christian churches and churches of Christ\n\nPeople\n\n* Christian (given name)\n* Christian (surname)\n\n* Christian, the protagonist in John Bunyan's novel The Pilgrim's Progress\n* Christian of Clogher (d. 1138), Irish saint and Bishop\n* Christian of Oliva, a 13th-century Cistercian monk\n* Christian (French actor) (1821–1889), stage name of Christian Perrin, a 19th-century French actor and singer\n* Christian (singer) (born 1949), stage name of singer Gaetano Cristiano Rossi\n* Prince Christian (disambiguation), several princes\n* Christian Cage Stage name of professional wrestler, Jay Reso\n\nPlaces\n\n*Christian, West Virginia\n* Christian Island (Ontario)\n* Christian County, Illinois\n* Christian County, Kentucky\n* Christian County, Missouri\n\nMusic\n\n* \"Christian\" (song), a 1982 single from the China Crisis album Difficult Shapes & Passive Rhythms, Some People Think It's Fun to Entertain\n* The Christians (band), soul band from Liverpool, England\n* Christian the Christian, album by Lackthereof\n\nOther uses\n\n* Christian (1939 film), a 1939 Czech film\n* Christian (1989 film), a 1989 Danish film\n* The Christians (political party), a minor party in Austria\n* St Jude storm of 2013 in Northwestern Europe, also named Christian\n* Christian the lion. Christian (disambiguation). http://en.wikipedia.org/?curid=5835."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13033",
+  "eid" : "062b2fb0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778519595,
+  "textBody" : ":See adhesive for general discussion of glue.\n\nThis is a list of various types of glue. Historically, the term \"glue\" only referred to protein colloids prepared from animal flesh. The meaning has been extended to refer to any fluid adhesive.\n\nThere are many adhesive substances that are considered or commonly referred to as \"glue\".\n\nAnimal based adhesives\n\n* Animal glue, collagen based adhesives are also called:\n** Bone glue\n** Fish glue\n** Hide glue\n** Hoof glue\n* Albumin glue\n* Casein glue\n* Meat glue (culinary binding agent)\n\nPlant based adhesives\n\nPlant-based glues:\n* Canada balsam (natural resin)\n* pine rosin based (natural resin)\n* Coccoina\n* Gum Arabic (natural resin)\n** Postage stamp gum \n* Latex (natural rubber)\n* Library paste (a starch-based glue)\n* Methyl cellulose\n* Mucilage\n* Resorcinol resin\n* Starch\n* Urea-formaldehyde resin\n\nSolvent type glues\n\n* Polystyrene cement/Butanone (Solvent can bond by virtually welding material together)\n* Dichloromethane\n\nSynthetic glues\n\nSynthetic monomer glues\n\n* Acrylonitrile\n* Cyanoacrylate (\"Superglue\", \"Krazy Glue\")\n* Acrylic\n* Resorcinol glue\n\nSynthetic polymer glues\n\n* Epoxy resins\n* Epoxy putty\n* Ethylene-vinyl acetate (a hot-melt glue)\n* Phenol formaldehyde resin\n* Polyamide\n* Polyester resins\n* Polyethylene (a hot-melt glue)\n* Polypropylene\n* Polysulfides\n* Polyurethane (used in woodworking and bookbinding, e.g. Gorilla Glue)\n* Polyvinyl acetate (PVA) Includes white glue (e.g. Elmer's Glue) and yellow carpenter's glue (Aliphatic resin) (Brands include Titebond and Lepage)\n* Polyvinyl alcohol\n* Polyvinyl chloride (PVC)\n* Polyvinyl chloride emulsion (PVCE) - a water-miscible emulsion that polymerizes as it cures\n* Polyvinylpyrrolidone (component of glue sticks)\n* Rubber cement\n* Silicones\n* Silyl modified polymers\n* Styrene acrylic copolymer -e.g. \"No More Nails\"",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "List of glues" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13033" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : ":See adhesive for general discussion of glue.\n\nThis is a list of various types of glue. Historically, the term \"glue\" only referred to protein colloids prepared from animal flesh. The meaning has been extended to refer to any fluid adhesive.\n\nThere are many adhesive substances that are considered or commonly referred to as \"glue\".\n\nAnimal based adhesives\n\n* Animal glue, collagen based adhesives are also called:\n** Bone glue\n** Fish glue\n** Hide glue\n** Hoof glue\n* Albumin glue\n* Casein glue\n* Meat glue (culinary binding agent)\n\nPlant based adhesives\n\nPlant-based glues:\n* Canada balsam (natural resin)\n* pine rosin based (natural resin)\n* Coccoina\n* Gum Arabic (natural resin)\n** Postage stamp gum \n* Latex (natural rubber)\n* Library paste (a starch-based glue)\n* Methyl cellulose\n* Mucilage\n* Resorcinol resin\n* Starch\n* Urea-formaldehyde resin\n\nSolvent type glues\n\n* Polystyrene cement/Butanone (Solvent can bond by virtually welding material together)\n* Dichloromethane\n\nSynthetic glues\n\nSynthetic monomer glues\n\n* Acrylonitrile\n* Cyanoacrylate (\"Superglue\", \"Krazy Glue\")\n* Acrylic\n* Resorcinol glue\n\nSynthetic polymer glues\n\n* Epoxy resins\n* Epoxy putty\n* Ethylene-vinyl acetate (a hot-melt glue)\n* Phenol formaldehyde resin\n* Polyamide\n* Polyester resins\n* Polyethylene (a hot-melt glue)\n* Polypropylene\n* Polysulfides\n* Polyurethane (used in woodworking and bookbinding, e.g. Gorilla Glue)\n* Polyvinyl acetate (PVA) Includes white glue (e.g. Elmer's Glue) and yellow carpenter's glue (Aliphatic resin) (Brands include Titebond and Lepage)\n* Polyvinyl alcohol\n* Polyvinyl chloride (PVC)\n* Polyvinyl chloride emulsion (PVCE) - a water-miscible emulsion that polymerizes as it cures\n* Polyvinylpyrrolidone (component of glue sticks)\n* Rubber cement\n* Silicones\n* Silyl modified polymers\n* Styrene acrylic copolymer -e.g. \"No More Nails\". List of glues. http://en.wikipedia.org/?curid=13033."
+  }
+}

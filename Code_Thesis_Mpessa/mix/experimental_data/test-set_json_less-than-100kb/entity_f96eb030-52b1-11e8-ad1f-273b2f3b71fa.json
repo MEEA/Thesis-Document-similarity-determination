@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11086",
+  "eid" : "f96eb030-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778498227,
+  "textBody" : "Flavian may refer to:\n* A member of the Flavian dynasty of Roman emperors, during the late 1st century AD, or their works\n\nReligious leaders\n\n* Flavian of Ricina (fl. c. 3rd century), bishop in Italy\n* Bishops or patriarchs in Asia:\n** Flavian I of Antioch (c. 320–404)\n** Archbishop Flavian of Constantinople (died 449)\n** Patriarch Fravitta of Constantinople (died 489)\n** Flavian II of Antioch (died 518)\n\nShips\n\n*, an Italian cruise ship",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Flavian" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11086" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Flavian may refer to:\n* A member of the Flavian dynasty of Roman emperors, during the late 1st century AD, or their works\n\nReligious leaders\n\n* Flavian of Ricina (fl. c. 3rd century), bishop in Italy\n* Bishops or patriarchs in Asia:\n** Flavian I of Antioch (c. 320–404)\n** Archbishop Flavian of Constantinople (died 449)\n** Patriarch Fravitta of Constantinople (died 489)\n** Flavian II of Antioch (died 518)\n\nShips\n\n*, an Italian cruise ship. Flavian. http://en.wikipedia.org/?curid=11086."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16543",
+  "eid" : "26722030-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778573747,
+  "textBody" : "Jewel may refer to:\n*Gemstone or jewellery\n*Jewel (supermarket), a U.S. grocery store chain\n*Jewel Food Stores (Australia) an Australian grocery store chain\n*Fraternal jewels, the medals worn in both secular and religious fraternal organisations\n*Jewel bearing, used in sensitive measuring equipment\n*Jewel case, a type of optical disc packaging\n*Jewel beetles, the family Buprestidae\n*Jewel butterflies, various Lycaenidae\n*Jewel damselflies, the family Chlorocyphidae\n*Jewel Tower, a tower of the Palace of Westminster, in London, England\n*Jewel Changi Airport, an airport terminal complex currently under construction in Singapore\n\nEntertainment and media\n\n*The Jewel (1933 film), a 1933 British film\n*The Jewel (2011 film), a 2011 Italian film\n*Jewel (film), a 2001 television film\n* Jewel, one of the main characters in the animated film Rio and its sequel Rio 2\n*Jewel (novel), by Bret Lott\n*Jessica Jones, a superheroine in the Marvel universe\n\nMusic \n\n*Jewel (Marcella Detroit album), a 1994 album by Marcella Detroit\n*Jewel (Beni album)\n*The Jewel, Pendragon's debut album\n*Jewel Records (disambiguation), the name of several record labels\n*\"Jewel\", a song by Ayumi Hamasaki on her 2006 album Secret\n*\"Jewel\", song by Bradley Joseph on the 1997 album Rapture\n\nBuddhism \n\n*The Three Jewels, namely Buddha, Dharma and Sangha\n\nPeople \n\n*Jewel (singer) (born Jewel Kilcher, 1974), American singer and actress\n*Jewel De'Nyle (born Stephany Schwarz), American pornographic movie star, sometimes credited as \"Jewel\"\n*Jewel Joseph Newman (1921–2014), African-American politician and community organizer from Baton Rouge, Louisiana\n*Jewel Mische (born 1990), Philippine/American actress, winner of StarStruck\n*Jewel Staite (born 1982), Canadian actress in Firefly\n*John Jewel (1522–1571), 16th-century Bishop of Salisbury, author and theologian",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Jewel" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16543" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Jewel may refer to:\n*Gemstone or jewellery\n*Jewel (supermarket), a U.S. grocery store chain\n*Jewel Food Stores (Australia) an Australian grocery store chain\n*Fraternal jewels, the medals worn in both secular and religious fraternal organisations\n*Jewel bearing, used in sensitive measuring equipment\n*Jewel case, a type of optical disc packaging\n*Jewel beetles, the family Buprestidae\n*Jewel butterflies, various Lycaenidae\n*Jewel damselflies, the family Chlorocyphidae\n*Jewel Tower, a tower of the Palace of Westminster, in London, England\n*Jewel Changi Airport, an airport terminal complex currently under construction in Singapore\n\nEntertainment and media\n\n*The Jewel (1933 film), a 1933 British film\n*The Jewel (2011 film), a 2011 Italian film\n*Jewel (film), a 2001 television film\n* Jewel, one of the main characters in the animated film Rio and its sequel Rio 2\n*Jewel (novel), by Bret Lott\n*Jessica Jones, a superheroine in the Marvel universe\n\nMusic \n\n*Jewel (Marcella Detroit album), a 1994 album by Marcella Detroit\n*Jewel (Beni album)\n*The Jewel, Pendragon's debut album\n*Jewel Records (disambiguation), the name of several record labels\n*\"Jewel\", a song by Ayumi Hamasaki on her 2006 album Secret\n*\"Jewel\", song by Bradley Joseph on the 1997 album Rapture\n\nBuddhism \n\n*The Three Jewels, namely Buddha, Dharma and Sangha\n\nPeople \n\n*Jewel (singer) (born Jewel Kilcher, 1974), American singer and actress\n*Jewel De'Nyle (born Stephany Schwarz), American pornographic movie star, sometimes credited as \"Jewel\"\n*Jewel Joseph Newman (1921–2014), African-American politician and community organizer from Baton Rouge, Louisiana\n*Jewel Mische (born 1990), Philippine/American actress, winner of StarStruck\n*Jewel Staite (born 1982), Canadian actress in Firefly\n*John Jewel (1522–1571), 16th-century Bishop of Salisbury, author and theologian. Jewel. http://en.wikipedia.org/?curid=16543."
+  }
+}

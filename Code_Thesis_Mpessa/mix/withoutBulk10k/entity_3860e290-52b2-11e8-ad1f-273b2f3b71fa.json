@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19154",
+  "eid" : "3860e290-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778603833,
+  "textBody" : "Railways:\n0 km\n\nHighways:\ntotal:\nNA km\npaved:\n64.5 km\nunpaved:\nNA km\nnote:\npaved roads on major islands (Majuro, Kwajalein), otherwise stone-, coral-, or laterite-surfaced roads and tracks (2002)\n\nPorts and harbors:\nMajuro[http://rmipa.com/seaports/ The Republic of the Marshall Islands Ports Authority: Seaports]\n\nMerchant marine:\ntotal:\n342 ships (1,000 GRT or over) totaling 14,471,690 GRT/\nships by type:\nbulk 86, cargo 18, chemical tanker 31, combination bulk 4, combination ore/oil 7, container 69, liquified gas 8, multi-functional large load carrier 1, passenger 6, petroleum tanker 106, roll on/roll off 1, short-sea passenger 1, vehicle carrier 1 (2002 est.)\nnote:\na flag of convenience registry; includes the ships of People's Republic of China 1, Cyprus 1, Denmark 9, Germany 70, Greece 54, Hong Kong 2, Japan 4, Monaco 8, Netherlands 8, United Kingdom 3, United States 87, and Uruguay 1 (2002 est.)\n\nAirports:\n35 (2009), see list of airports in the Marshall Islands\n\nAirports - with paved runways:\ntotal:\n5\n1,524 to 2,437 m:\n4 (Eniwetok, IATA airport code ENT; Kwajalein, KWA; and Marshall Islands International, MAJ; Rongelap).\n914 to 1,523 m:\n1 (2009)\n\nAirports and airstrips - with unpaved runways:\ntotal:\n30\n914 to 1,523 m:\n29\nunder 914 m:\n1 (2009)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Transportation in the Marshall Islands" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19154" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Railways:\n0 km\n\nHighways:\ntotal:\nNA km\npaved:\n64.5 km\nunpaved:\nNA km\nnote:\npaved roads on major islands (Majuro, Kwajalein), otherwise stone-, coral-, or laterite-surfaced roads and tracks (2002)\n\nPorts and harbors:\nMajuro[http://rmipa.com/seaports/ The Republic of the Marshall Islands Ports Authority: Seaports]\n\nMerchant marine:\ntotal:\n342 ships (1,000 GRT or over) totaling 14,471,690 GRT/\nships by type:\nbulk 86, cargo 18, chemical tanker 31, combination bulk 4, combination ore/oil 7, container 69, liquified gas 8, multi-functional large load carrier 1, passenger 6, petroleum tanker 106, roll on/roll off 1, short-sea passenger 1, vehicle carrier 1 (2002 est.)\nnote:\na flag of convenience registry; includes the ships of People's Republic of China 1, Cyprus 1, Denmark 9, Germany 70, Greece 54, Hong Kong 2, Japan 4, Monaco 8, Netherlands 8, United Kingdom 3, United States 87, and Uruguay 1 (2002 est.)\n\nAirports:\n35 (2009), see list of airports in the Marshall Islands\n\nAirports - with paved runways:\ntotal:\n5\n1,524 to 2,437 m:\n4 (Eniwetok, IATA airport code ENT; Kwajalein, KWA; and Marshall Islands International, MAJ; Rongelap).\n914 to 1,523 m:\n1 (2009)\n\nAirports and airstrips - with unpaved runways:\ntotal:\n30\n914 to 1,523 m:\n29\nunder 914 m:\n1 (2009). Transportation in the Marshall Islands. http://en.wikipedia.org/?curid=19154."
+  }
+}

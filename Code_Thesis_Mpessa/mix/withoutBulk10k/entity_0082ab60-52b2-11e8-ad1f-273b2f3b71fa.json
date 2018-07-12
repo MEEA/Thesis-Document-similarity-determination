@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12127",
+  "eid" : "0082ab60-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778510102,
+  "textBody" : "Being part of the Kingdom of Denmark, the foreign relations of Greenland are handled in cooperation with the Danish government and Government of Greenland.\n\nUnlike Denmark, Greenland is no longer part of the European Union.\n\nDiplomatic representations \n\nWith Denmark having responsibility for Greenland's international affairs, other countries do not have direct diplomatic representation in Greenland—their embassies or consulates in Denmark are responsible for their relations with Greenland and their citizens in Greenland. Greenland is represented internationally by the embassies and consulates of Denmark, although Greenland does directly participate in some Nordic organisations that provide membership for dependent territories.\n\nDisputes – international \n\n* Qaanaaq (formerly Thule) is a sensitive area, due to the forced removal of the local population when establishing the base, handling of removal, compensation of the locals, later incidents aggravated the case.\n* Uncontested dispute with Canada over Hans Island sovereignty in the Kennedy Channel between Canadian Ellesmere Island and Greenland.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Foreign relations of Greenland" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12127" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Being part of the Kingdom of Denmark, the foreign relations of Greenland are handled in cooperation with the Danish government and Government of Greenland.\n\nUnlike Denmark, Greenland is no longer part of the European Union.\n\nDiplomatic representations \n\nWith Denmark having responsibility for Greenland's international affairs, other countries do not have direct diplomatic representation in Greenland—their embassies or consulates in Denmark are responsible for their relations with Greenland and their citizens in Greenland. Greenland is represented internationally by the embassies and consulates of Denmark, although Greenland does directly participate in some Nordic organisations that provide membership for dependent territories.\n\nDisputes – international \n\n* Qaanaaq (formerly Thule) is a sensitive area, due to the forced removal of the local population when establishing the base, handling of removal, compensation of the locals, later incidents aggravated the case.\n* Uncontested dispute with Canada over Hans Island sovereignty in the Kennedy Channel between Canadian Ellesmere Island and Greenland. Foreign relations of Greenland. http://en.wikipedia.org/?curid=12127."
+  }
+}

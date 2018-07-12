@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=6008",
+  "eid" : "d969aab0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778444507,
+  "textBody" : "The Comorian Armed Forces (French Armée nationale de développement) consist of a small standing army and a 500-member police force, as well as a 500-member defense force. A defense treaty with France provides naval resources for protection of territorial waters, training of Comorian military personnel, and air surveillance. France maintains a small troop presence in the Comoros at government request. France maintains a small maritime base and a Foreign Legion Detachment (DLEM) on Mayotte.\n\nEquipment inventory \n\n* FN FAL Battle Rifle\n* AK-47 Assault Rifle\n* Type 81 Assault Rifle\n* NSV HMG\n* RPG-7 Anti-Tank Weapon\n* Mitsubishi L200 Pickup Trucks\n\nAircraft inventory \n\nThe Comorian Security Force operates only 4 aircraft.\n\nIn addition to the CSF, the Police Force operates a further 6 aircraft fleet available for paramilitary duties.\n\nNavy \n\n* 2 Yamayuri patrol boats - 41 tons full load - commissioned in 1981",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Military of the Comoros" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=6008" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The Comorian Armed Forces (French Armée nationale de développement) consist of a small standing army and a 500-member police force, as well as a 500-member defense force. A defense treaty with France provides naval resources for protection of territorial waters, training of Comorian military personnel, and air surveillance. France maintains a small troop presence in the Comoros at government request. France maintains a small maritime base and a Foreign Legion Detachment (DLEM) on Mayotte.\n\nEquipment inventory \n\n* FN FAL Battle Rifle\n* AK-47 Assault Rifle\n* Type 81 Assault Rifle\n* NSV HMG\n* RPG-7 Anti-Tank Weapon\n* Mitsubishi L200 Pickup Trucks\n\nAircraft inventory \n\nThe Comorian Security Force operates only 4 aircraft.\n\nIn addition to the CSF, the Police Force operates a further 6 aircraft fleet available for paramilitary duties.\n\nNavy \n\n* 2 Yamayuri patrol boats - 41 tons full load - commissioned in 1981. Military of the Comoros. http://en.wikipedia.org/?curid=6008."
+  }
+}

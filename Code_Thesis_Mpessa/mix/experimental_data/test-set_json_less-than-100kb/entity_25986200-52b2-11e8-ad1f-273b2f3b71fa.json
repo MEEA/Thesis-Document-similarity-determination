@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16352",
+  "eid" : "25986200-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778572320,
+  "textBody" : "JIC may refer to:\n\n* IATA code for Jinchang Jinchuan Airport, China\n* John Innes Centre, centre for research and training in plant science located in Norwich, England\n* Joint Intelligence Center\n* Joint Industrial Council, British labour-management group for an industrial sector\n* Joint Information Center - see Incident Command System#Facilities\n* Jordan Insurance Company, an insurance company in Jordan\n* Jubail Industrial College, Saudi Arabia \n* Jubilee International Church, a Pentecostal church in London, UK\n* Just in case (Manufacturing)\n* \"just in case\" in internet slang\n* Juventud de Izquierda Comunista (Communist Left Youth), youth branch of the Organization of Communist Left in Spain\n* Joint Intelligence Committee (United Kingdom), a Cabinet-level group which oversees British intelligence operations\n* JIC fitting, Joint Industry Council standard for screw-together ends for machinery tubing \n* Jazz Institute of Chicago, music presenting non-profit organization \n*China Jianyin Investment, a state-owned investment fund.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "JIC" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16352" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "JIC may refer to:\n\n* IATA code for Jinchang Jinchuan Airport, China\n* John Innes Centre, centre for research and training in plant science located in Norwich, England\n* Joint Intelligence Center\n* Joint Industrial Council, British labour-management group for an industrial sector\n* Joint Information Center - see Incident Command System#Facilities\n* Jordan Insurance Company, an insurance company in Jordan\n* Jubail Industrial College, Saudi Arabia \n* Jubilee International Church, a Pentecostal church in London, UK\n* Just in case (Manufacturing)\n* \"just in case\" in internet slang\n* Juventud de Izquierda Comunista (Communist Left Youth), youth branch of the Organization of Communist Left in Spain\n* Joint Intelligence Committee (United Kingdom), a Cabinet-level group which oversees British intelligence operations\n* JIC fitting, Joint Industry Council standard for screw-together ends for machinery tubing \n* Jazz Institute of Chicago, music presenting non-profit organization \n*China Jianyin Investment, a state-owned investment fund. JIC. http://en.wikipedia.org/?curid=16352."
+  }
+}

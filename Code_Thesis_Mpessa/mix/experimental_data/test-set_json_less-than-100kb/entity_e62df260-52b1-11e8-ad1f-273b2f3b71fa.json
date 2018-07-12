@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8200",
+  "eid" : "e62df260-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778465926,
+  "textBody" : "The discovery of the 118 chemical elements known to exist today is presented here in chronological order. The elements are listed generally in the order in which each was first defined as the pure element, as the exact date of discovery of most elements cannot be accurately defined. There are plans to synthesise more elements.\n\nGiven is each element's name, atomic number, year of first report, name of the discoverer, and some notes related to the discovery.\n\nPeriodic table\n\nUnrecorded discoveries\n\nRecorded discoveries\n\nGraphics",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Timeline of chemical element discoveries" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8200" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The discovery of the 118 chemical elements known to exist today is presented here in chronological order. The elements are listed generally in the order in which each was first defined as the pure element, as the exact date of discovery of most elements cannot be accurately defined. There are plans to synthesise more elements.\n\nGiven is each element's name, atomic number, year of first report, name of the discoverer, and some notes related to the discovery.\n\nPeriodic table\n\nUnrecorded discoveries\n\nRecorded discoveries\n\nGraphics. Timeline of chemical element discoveries. http://en.wikipedia.org/?curid=8200."
+  }
+}

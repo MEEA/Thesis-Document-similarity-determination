@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17516",
+  "eid" : "2c5e6440-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778583684,
+  "textBody" : "In statistics, a location family is a class of probability distributions that is parametrized by a scalar- or vector-valued parameter x_0, which determines the \"location\" or shift of the distribution. Formally, this means that the probability density functions or probability mass functions in this class have the form\nf_{x_0}(x) = f(x - x_0).\nHere, x_0 is called the location parameter. Examples of location parameters include the mean, the median, and the mode.\n\nThus in the one-dimensional case if x_0 is increased, the probability density or mass function shifts rigidly to the right, maintaining its exact shape.\n\nA location parameter can also be found in families having more than one parameter, such as location–scale families. In this case, the probability density function or probability mass function will be a special case of the more general form\nf_{x_0,\\theta}(x) = f_\\theta(x-x_0)\nwhere x_0 is the location parameter, θ represents additional parameters, and f_\\theta is a function parametrized on the additional parameters.\n\nAdditive noise\n\nAn alternative way of thinking of location families is through the concept of additive noise. If x_0 is a constant and W is random noise with probability density f_W(w), then X x_0 + W has probability density f_{x_0}(x) \n f_W(x-x_0) and its distribution is therefore part of a location family.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Location parameter" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17516" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "In statistics, a location family is a class of probability distributions that is parametrized by a scalar- or vector-valued parameter x_0, which determines the \"location\" or shift of the distribution. Formally, this means that the probability density functions or probability mass functions in this class have the form\nf_{x_0}(x) = f(x - x_0).\nHere, x_0 is called the location parameter. Examples of location parameters include the mean, the median, and the mode.\n\nThus in the one-dimensional case if x_0 is increased, the probability density or mass function shifts rigidly to the right, maintaining its exact shape.\n\nA location parameter can also be found in families having more than one parameter, such as location–scale families. In this case, the probability density function or probability mass function will be a special case of the more general form\nf_{x_0,\\theta}(x) = f_\\theta(x-x_0)\nwhere x_0 is the location parameter, θ represents additional parameters, and f_\\theta is a function parametrized on the additional parameters.\n\nAdditive noise\n\nAn alternative way of thinking of location families is through the concept of additive noise. If x_0 is a constant and W is random noise with probability density f_W(w), then X x_0 + W has probability density f_{x_0}(x) \n f_W(x-x_0) and its distribution is therefore part of a location family. Location parameter. http://en.wikipedia.org/?curid=17516."
+  }
+}

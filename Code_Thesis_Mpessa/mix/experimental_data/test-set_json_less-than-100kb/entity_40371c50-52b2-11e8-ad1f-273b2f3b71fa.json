@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=20150",
+  "eid" : "40371c50-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778616981,
+  "textBody" : "Maus is a series of Pulitzer Prize-winning graphic novels by Art Spiegelman.\n\nMaus may also refer to:\n* Maus, the German word for mouse\n* Burg Maus, a castle in Rhineland-Palatinate, Germany\n* Die Sendung mit der Maus, a children's television show from Germany\n* Maus (band), an Icelandic rock band\n* MAUS mine (), an Italian designed anti-personnel scatter mine\n* Panzer VIII Maus, a German World War II super-heavy tank\n* DarkMaus, a video game",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Maus (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=20150" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Maus is a series of Pulitzer Prize-winning graphic novels by Art Spiegelman.\n\nMaus may also refer to:\n* Maus, the German word for mouse\n* Burg Maus, a castle in Rhineland-Palatinate, Germany\n* Die Sendung mit der Maus, a children's television show from Germany\n* Maus (band), an Icelandic rock band\n* MAUS mine (), an Italian designed anti-personnel scatter mine\n* Panzer VIII Maus, a German World War II super-heavy tank\n* DarkMaus, a video game. Maus (disambiguation). http://en.wikipedia.org/?curid=20150."
+  }
+}

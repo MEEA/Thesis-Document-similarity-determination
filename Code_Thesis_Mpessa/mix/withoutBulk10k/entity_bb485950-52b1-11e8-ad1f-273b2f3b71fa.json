@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1689",
+  "eid" : "bb485950-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778393957,
+  "textBody" : "Alfonso I may refer to:\n\n*Alfonso I of Asturias (739–757), called the Catholic (el Católico), was the King of Asturias\n*Afonso I of Portugal (1094–1195) (Afonso Henriques), the son of Henry of Burgundy\n*Alfonso I of Aragon (1104–1134), known as Alfonso the Battler\n*Alfonso V of Aragon (1396–1458), King of Naples as Alfonso I\n*Afonso I of Kongo (1456–1543) the first Christian king of the Kingdom of Kongo\n*Alfonso I d'Este, Duke of Ferrara (1476–1534)\n*Alfonso XIII of Spain (1886–1941), known to French Legitimists as \"Alphonse I\"",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Alfonso I" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1689" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Alfonso I may refer to:\n\n*Alfonso I of Asturias (739–757), called the Catholic (el Católico), was the King of Asturias\n*Afonso I of Portugal (1094–1195) (Afonso Henriques), the son of Henry of Burgundy\n*Alfonso I of Aragon (1104–1134), known as Alfonso the Battler\n*Alfonso V of Aragon (1396–1458), King of Naples as Alfonso I\n*Afonso I of Kongo (1456–1543) the first Christian king of the Kingdom of Kongo\n*Alfonso I d'Este, Duke of Ferrara (1476–1534)\n*Alfonso XIII of Spain (1886–1941), known to French Legitimists as \"Alphonse I\". Alfonso I. http://en.wikipedia.org/?curid=1689."
+  }
+}

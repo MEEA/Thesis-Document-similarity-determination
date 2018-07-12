@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=5475",
+  "eid" : "d5472a20-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778437570,
+  "textBody" : "Railways:\n0 miles (0 km)\n\nHighways:\ntotal:\n\npaved:\n488 miles (785 km) ()\n\nPorts and harbors:\nCayman Brac, George Town\n\nMerchant marine:\ntotal:\n123 ships (1,000 GRT or over) totaling 2,402,058 GRT/\nships by type:\nbulk 22, cargo 5, chemical tanker 31, container 2, liquefied gas 1, petroleum tanker 21, refrigerated cargo 35, roll on/roll off 5, specialized tanker 1\nnote:\nsome foreign ships register in the Cayman Islands as a flag of convenience; includes ships from 11 countries among which are: Greece 15, US 5, UK 5, Cyprus 2, Denmark 2, Norway 3 (2002 est.)\n\nAirports:\n3 (2002)\n\nAirports - with paved runways:\ntotal:\n2\n5,000 to 8,000 feet (1,524 to 2,437 m):\n2 (2002)\n\nAirports - with unpaved runways:\ntotal:\n1\n3,000 to 4,996 feet (914 to 1,523 m):\n1 (2002)\n\nBuses in the Cayman Islands\n\nA fleet of Share taxi minibuses serve Grand Cayman.http://caymanislandsyp.com/Island/Getting-Around/index-2.php\n\nThe daily service starts at 6AM from the depot and the schedule is as follows from George Town to:http://www.grandcayman4u.com/transport/buses.htm\n\n**West Bay - every 15 minutes, Su-Th 6AM-11PM; F,Sa 6AM-12AM. CI$1.50 each way. \n**Bodden Town - Every 30 minutes, Su-Th 6AM-11PM; F,Sa 6AM-12AM. CI$1.50 each way. \n**East End and North Side - Every hour, Daily 6AM-9PM, (F until after 12AM). CI$2 each way. \n*The system uses color-coded logos on the front and rear of buses (white mini-vans) to identify routes:",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Transport in the Cayman Islands" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=5475" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Railways:\n0 miles (0 km)\n\nHighways:\ntotal:\n\npaved:\n488 miles (785 km) ()\n\nPorts and harbors:\nCayman Brac, George Town\n\nMerchant marine:\ntotal:\n123 ships (1,000 GRT or over) totaling 2,402,058 GRT/\nships by type:\nbulk 22, cargo 5, chemical tanker 31, container 2, liquefied gas 1, petroleum tanker 21, refrigerated cargo 35, roll on/roll off 5, specialized tanker 1\nnote:\nsome foreign ships register in the Cayman Islands as a flag of convenience; includes ships from 11 countries among which are: Greece 15, US 5, UK 5, Cyprus 2, Denmark 2, Norway 3 (2002 est.)\n\nAirports:\n3 (2002)\n\nAirports - with paved runways:\ntotal:\n2\n5,000 to 8,000 feet (1,524 to 2,437 m):\n2 (2002)\n\nAirports - with unpaved runways:\ntotal:\n1\n3,000 to 4,996 feet (914 to 1,523 m):\n1 (2002)\n\nBuses in the Cayman Islands\n\nA fleet of Share taxi minibuses serve Grand Cayman.http://caymanislandsyp.com/Island/Getting-Around/index-2.php\n\nThe daily service starts at 6AM from the depot and the schedule is as follows from George Town to:http://www.grandcayman4u.com/transport/buses.htm\n\n**West Bay - every 15 minutes, Su-Th 6AM-11PM; F,Sa 6AM-12AM. CI$1.50 each way. \n**Bodden Town - Every 30 minutes, Su-Th 6AM-11PM; F,Sa 6AM-12AM. CI$1.50 each way. \n**East End and North Side - Every hour, Daily 6AM-9PM, (F until after 12AM). CI$2 each way. \n*The system uses color-coded logos on the front and rear of buses (white mini-vans) to identify routes:. Transport in the Cayman Islands. http://en.wikipedia.org/?curid=5475."
+  }
+}

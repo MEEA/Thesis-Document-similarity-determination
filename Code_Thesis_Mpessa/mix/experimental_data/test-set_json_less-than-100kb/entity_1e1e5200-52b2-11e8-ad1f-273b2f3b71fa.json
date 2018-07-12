@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15695",
+  "eid" : "1e1e5200-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778559776,
+  "textBody" : "This article describes the geography of Jersey, an island territory in the English Channel.   The island of Jersey has an area of 119 square kilometres, with 70 kilometres of coastline.  Jersey claims a territorial sea of 3 nmi and an exclusive fishing zone of 12 nmi.\n\nJersey is the largest and southernmost of the Channel Islands.  It is located north of Brittany and west of the Cotentin Peninsula in Normandy.  About 30% of the population of the island is concentrated in Saint Helier, which is a parish and the capital town of the island.\n\nPhysical geography\n\nBesides the main island, the bailiwick includes other islets and reefs with no permanent population: Les Écréhous, Les Minquiers, Les Pierres de Lecq, Les Dirouilles. \n\nThe highest point in the island is Les Platons on the north coast, at 136 m. Parts of the parish of St Clement in the south were previously below sea-level but the construction of a seawall and infilling of low land has probably left only a few pockets of land below mean sea level. The terrain is generally low-lying on the south coast, with some rocky headlands, rising gradually to rugged cliffs along the north coast.  On the west coast there are sand dunes.  Small valleys run north to south across the island.  Very large tidal variation exposes large expanses of sand and rock to the southeast at low tide.\n\nSnow falls rarely in Jersey; some years will pass with no snow fall at all. \n\nNatural resources\n\nThe main natural resource on this island is arable land.  66% of the island's land is used as such, and the remaining 34% is used for other purposes.\n\nEnvironment\n\nCurrent environmental issues for Jersey include waste disposal, air pollution and traffic.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Geography of Jersey" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15695" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "This article describes the geography of Jersey, an island territory in the English Channel.   The island of Jersey has an area of 119 square kilometres, with 70 kilometres of coastline.  Jersey claims a territorial sea of 3 nmi and an exclusive fishing zone of 12 nmi.\n\nJersey is the largest and southernmost of the Channel Islands.  It is located north of Brittany and west of the Cotentin Peninsula in Normandy.  About 30% of the population of the island is concentrated in Saint Helier, which is a parish and the capital town of the island.\n\nPhysical geography\n\nBesides the main island, the bailiwick includes other islets and reefs with no permanent population: Les Écréhous, Les Minquiers, Les Pierres de Lecq, Les Dirouilles. \n\nThe highest point in the island is Les Platons on the north coast, at 136 m. Parts of the parish of St Clement in the south were previously below sea-level but the construction of a seawall and infilling of low land has probably left only a few pockets of land below mean sea level. The terrain is generally low-lying on the south coast, with some rocky headlands, rising gradually to rugged cliffs along the north coast.  On the west coast there are sand dunes.  Small valleys run north to south across the island.  Very large tidal variation exposes large expanses of sand and rock to the southeast at low tide.\n\nSnow falls rarely in Jersey; some years will pass with no snow fall at all. \n\nNatural resources\n\nThe main natural resource on this island is arable land.  66% of the island's land is used as such, and the remaining 34% is used for other purposes.\n\nEnvironment\n\nCurrent environmental issues for Jersey include waste disposal, air pollution and traffic. Geography of Jersey. http://en.wikipedia.org/?curid=15695."
+  }
+}

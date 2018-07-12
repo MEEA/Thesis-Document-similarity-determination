@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11554",
+  "eid" : "fc6b2751-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778503237,
+  "textBody" : "Fugazi is a slang word which refers to something that is fake or damaged beyond repair. It may refer to:\n\n*Fugazi, a post-hardcore punk band from Washington, D.C., and its eponymous debut EP\n*Fugazi (album), a 1984 studio album by the British rock band Marillion, featuring a song also named \"Fugazi\"\n*Club Fugazi, a theater in the North Beach District of San Francisco, California, the perennial venue of Beach Blanket Babylon",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Fugazi (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11554" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Fugazi is a slang word which refers to something that is fake or damaged beyond repair. It may refer to:\n\n*Fugazi, a post-hardcore punk band from Washington, D.C., and its eponymous debut EP\n*Fugazi (album), a 1984 studio album by the British rock band Marillion, featuring a song also named \"Fugazi\"\n*Club Fugazi, a theater in the North Beach District of San Francisco, California, the perennial venue of Beach Blanket Babylon. Fugazi (disambiguation). http://en.wikipedia.org/?curid=11554."
+  }
+}

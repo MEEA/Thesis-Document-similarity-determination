@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12587",
+  "eid" : "03996140-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778515284,
+  "textBody" : "GFDL may refer to:\n\n*GNU Free Documentation License, a copyleft license\n*Geophysical Fluid Dynamics Laboratory, a division of NOAA\n* GFDL hurricane model (see: Tropical cyclone forecast model)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "GFDL (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12587" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "GFDL may refer to:\n\n*GNU Free Documentation License, a copyleft license\n*Geophysical Fluid Dynamics Laboratory, a division of NOAA\n* GFDL hurricane model (see: Tropical cyclone forecast model). GFDL (disambiguation). http://en.wikipedia.org/?curid=12587."
+  }
+}

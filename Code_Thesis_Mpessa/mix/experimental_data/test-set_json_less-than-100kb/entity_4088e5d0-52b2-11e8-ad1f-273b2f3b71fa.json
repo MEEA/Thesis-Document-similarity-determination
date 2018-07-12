@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=20181",
+  "eid" : "4088e5d0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778617517,
+  "textBody" : "Marienburg may refer to:\n\nThe historical German name of these places\n\n*Ordensburg Marienburg (Malbork Castle), the large brick castle built by the Teutonic Knights\n**Malbork, Poland, site of the Ordensburg Marienburg, formerly Marienburg (Royal Prussia/Crown of the Kingdom of Poland 1466-1772), Marienburg in Westpreußen and during World War II (1773-1945), Nazi Stalag XX-B (prisoner-of-war camp) for enlisted men\n*Alūksne, Latvia\n*Feldioara, Romania\n\nPlaces\n\n;In Germany\n* Marienburg Castle, Ostalbkreis, a castle in Niederalfingen near Aalen, Germany\n* Marienburg Castle, Hanover, a castle in Hanover district, residence of the Prince of Hanover\n* Marienburg Castle, Hildesheim, a castle in Hildesheim, Lower Saxony\n* Marienburg Castle, Leutesdorf, Germany, a small baroque castle in Rhineland-Palatinate.\n* Köln-Marienburg, a district of Rodenkirchen in the city of Cologne\n* Marienburg (Mosel), a former Augustinian monastery built near the ruins of a Roman fortress in Zell an der Mosel near Trier, Germany\n* Marienburg, Bishopric of Würzburg, a fortress on the River Main, just opposite Würzburg, was sacked by Gustavus Adolphus in 1631. \n\n;Elsewhere\n* Marienburg, Papua New Guinea - a town in the East Sepik province of Papua New Guinea\n* Marienburg, Suriname - a village and former sugar plantation in Suriname\n\nFictional places\n\n*Marienburg (Warhammer), a fictional city in the Warhammer Fantasy world",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Marienburg" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=20181" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Marienburg may refer to:\n\nThe historical German name of these places\n\n*Ordensburg Marienburg (Malbork Castle), the large brick castle built by the Teutonic Knights\n**Malbork, Poland, site of the Ordensburg Marienburg, formerly Marienburg (Royal Prussia/Crown of the Kingdom of Poland 1466-1772), Marienburg in Westpreußen and during World War II (1773-1945), Nazi Stalag XX-B (prisoner-of-war camp) for enlisted men\n*Alūksne, Latvia\n*Feldioara, Romania\n\nPlaces\n\n;In Germany\n* Marienburg Castle, Ostalbkreis, a castle in Niederalfingen near Aalen, Germany\n* Marienburg Castle, Hanover, a castle in Hanover district, residence of the Prince of Hanover\n* Marienburg Castle, Hildesheim, a castle in Hildesheim, Lower Saxony\n* Marienburg Castle, Leutesdorf, Germany, a small baroque castle in Rhineland-Palatinate.\n* Köln-Marienburg, a district of Rodenkirchen in the city of Cologne\n* Marienburg (Mosel), a former Augustinian monastery built near the ruins of a Roman fortress in Zell an der Mosel near Trier, Germany\n* Marienburg, Bishopric of Würzburg, a fortress on the River Main, just opposite Würzburg, was sacked by Gustavus Adolphus in 1631. \n\n;Elsewhere\n* Marienburg, Papua New Guinea - a town in the East Sepik province of Papua New Guinea\n* Marienburg, Suriname - a village and former sugar plantation in Suriname\n\nFictional places\n\n*Marienburg (Warhammer), a fictional city in the Warhammer Fantasy world. Marienburg. http://en.wikipedia.org/?curid=20181."
+  }
+}

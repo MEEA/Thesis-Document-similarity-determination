@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8946",
+  "eid" : "eb7ae930-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778474819,
+  "textBody" : "In philology, decipherment is the discovery of the meaning of texts written in ancient or obscure languages or scripts.Trask, R.L (2000). The Dictionary of Historical and Comparative Linguistics. Fitzroy Dearborn Publishers, p. 82 (\"The process of determining the relation between an extinct and unknown writing system and the language it represents. Strictly, decipherment is the elucidation of the script—that is, determining the values of the written characters\")  Decipherment in cryptography refers to decryption.Vaudenay, Serge (2006). A Classical Introduction to Cryptography. Springer, p.3. (\"Action to transform a ciphertext into a plaintext by an authorized party [emphasis added]\") The term is used sardonically in everyday language to describe attempts to read poor handwriting.http://dictionary.reference.com/browse/decipherment In genetics, decipherment is the successful attempt to understand DNA, which is viewed metaphorically as a text containing word-like units.Snustad, D. Peter, et al. (2016). Principles of Genetics. Wiley, p.302 Throughout science the term decipherment is synonymous with the understanding of biological and chemical phenomena.\n\nAncient languages\n\nIn many cases, a multilingual artifact is necessary to facilitate decipherment, the Rosetta Stone being the classic example. Statistical techniques provide another pathway to decipherment, as does the analysis of modern languages derived from ancient languages in which undeciphered texts are written. Archaeological and historical information is helpful in verifying hypothesized decipherments. \n\nDecipherers",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Decipherment" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8946" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "In philology, decipherment is the discovery of the meaning of texts written in ancient or obscure languages or scripts.Trask, R.L (2000). The Dictionary of Historical and Comparative Linguistics. Fitzroy Dearborn Publishers, p. 82 (\"The process of determining the relation between an extinct and unknown writing system and the language it represents. Strictly, decipherment is the elucidation of the script—that is, determining the values of the written characters\")  Decipherment in cryptography refers to decryption.Vaudenay, Serge (2006). A Classical Introduction to Cryptography. Springer, p.3. (\"Action to transform a ciphertext into a plaintext by an authorized party [emphasis added]\") The term is used sardonically in everyday language to describe attempts to read poor handwriting.http://dictionary.reference.com/browse/decipherment In genetics, decipherment is the successful attempt to understand DNA, which is viewed metaphorically as a text containing word-like units.Snustad, D. Peter, et al. (2016). Principles of Genetics. Wiley, p.302 Throughout science the term decipherment is synonymous with the understanding of biological and chemical phenomena.\n\nAncient languages\n\nIn many cases, a multilingual artifact is necessary to facilitate decipherment, the Rosetta Stone being the classic example. Statistical techniques provide another pathway to decipherment, as does the analysis of modern languages derived from ancient languages in which undeciphered texts are written. Archaeological and historical information is helpful in verifying hypothesized decipherments. \n\nDecipherers. Decipherment. http://en.wikipedia.org/?curid=8946."
+  }
+}

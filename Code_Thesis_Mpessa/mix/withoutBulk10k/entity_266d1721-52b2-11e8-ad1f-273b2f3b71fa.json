@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16529",
+  "eid" : "266d1721-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778573714,
+  "textBody" : "Java is a German-style board game designed by Wolfgang Kramer and Michael Kiesling and published in 2000 by Ravensburger in German and by Rio Grande Games in English. It is illustrated by Franz Vohwinkel.\n\nJava won the Deutscher Spiele Preis 9th place in 2001 and the Games Magazine Best Advanced Strategy Game in 2002.  It is the second game in the Mask Trilogy, following Tikal and followed by Mexica.\n\nThe game provides the atmosphere of the island of Java on a hexagonal board.  Players build the island and score by setting up palace festivals at opportune moments. When players run out of hexagons to build the island, the game is over. A final scoring phase now takes place and a winner is declared.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Java (board game)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16529" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Java is a German-style board game designed by Wolfgang Kramer and Michael Kiesling and published in 2000 by Ravensburger in German and by Rio Grande Games in English. It is illustrated by Franz Vohwinkel.\n\nJava won the Deutscher Spiele Preis 9th place in 2001 and the Games Magazine Best Advanced Strategy Game in 2002.  It is the second game in the Mask Trilogy, following Tikal and followed by Mexica.\n\nThe game provides the atmosphere of the island of Java on a hexagonal board.  Players build the island and score by setting up palace festivals at opportune moments. When players run out of hexagons to build the island, the game is over. A final scoring phase now takes place and a winner is declared. Java (board game). http://en.wikipedia.org/?curid=16529."
+  }
+}

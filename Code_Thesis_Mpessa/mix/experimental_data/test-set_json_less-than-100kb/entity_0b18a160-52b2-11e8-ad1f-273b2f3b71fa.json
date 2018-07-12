@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13562",
+  "eid" : "0b18a160-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778527862,
+  "textBody" : "Habermas is a surname. Notable people with the surname include:\n\n*Jürgen Habermas (born 1929), German sociologist and philosopher\n*Rebekka Habermas (born 1959), German historian\n*Gary Habermas (born 1950), American philosophical theologian",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Habermas" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13562" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Habermas is a surname. Notable people with the surname include:\n\n*Jürgen Habermas (born 1929), German sociologist and philosopher\n*Rebekka Habermas (born 1959), German historian\n*Gary Habermas (born 1950), American philosophical theologian. Habermas. http://en.wikipedia.org/?curid=13562."
+  }
+}

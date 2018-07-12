@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2118",
+  "eid" : "bdca4940-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778398164,
+  "textBody" : "In computer science, an AVL tree (named after inventors Adelson-Velsky and Landis) is a self-balancing binary search tree. It was the first such data structure to be invented.Robert Sedgewick, Algorithms, Addison-Wesley, 1983, , page 199, chapter 15: Balanced Trees. In an AVL tree, the heights of the two child subtrees of any node differ by at most one; if at any time they differ by more than one, rebalancing is done to restore this property. Lookup, insertion, and deletion all take  time in both the average and worst cases, where  is the number of nodes in the tree prior to the operation. Insertions and deletions may require the tree to be rebalanced by one or more tree rotations.\n\nThe AVL tree is named after its two Soviet inventors, Georgy Adelson-Velsky and Evgenii Landis, who published it in their 1962 paper \"An algorithm for the organization of information\". [http://professor.ufabc.edu.br/~jesus.mena/courses/mc3305-2q-2015/AED2-10-avl-paper.pdf English translation] by Myron J. Ricci in Soviet Mathematics - Doklady, 3:1259–1263, 1962.\n\nAVL trees are often compared with red–black trees because both support the same set of operations and take  time for the basic operations.  For lookup-intensive applications, AVL trees are faster than red–black trees because they are more strictly balanced. Similar to red–black trees, AVL trees are height-balanced. Both are, in general, neither weight-balanced nor μ-balanced for any μ≤1⁄2;[http://cs.stackexchange.com/questions/421/avl-trees-are-not-weight-balanced AVL trees are not weight-balanced? (meaning: AVL trees are not μ-balanced?)] Thereby: A Binary Tree is called \\mu-balanced, with 0 \\le\\mu\\leq\\tfrac12, if for every node N, the inequality\n\\tfrac12-\\mu\\le\\tfrac",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "AVL tree" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2118" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "In computer science, an AVL tree (named after inventors Adelson-Velsky and Landis) is a self-balancing binary search tree. It was the first such data structure to be invented.Robert Sedgewick, Algorithms, Addison-Wesley, 1983, , page 199, chapter 15: Balanced Trees. In an AVL tree, the heights of the two child subtrees of any node differ by at most one; if at any time they differ by more than one, rebalancing is done to restore this property. Lookup, insertion, and deletion all take  time in both the average and worst cases, where  is the number of nodes in the tree prior to the operation. Insertions and deletions may require the tree to be rebalanced by one or more tree rotations.\n\nThe AVL tree is named after its two Soviet inventors, Georgy Adelson-Velsky and Evgenii Landis, who published it in their 1962 paper \"An algorithm for the organization of information\". [http://professor.ufabc.edu.br/~jesus.mena/courses/mc3305-2q-2015/AED2-10-avl-paper.pdf English translation] by Myron J. Ricci in Soviet Mathematics - Doklady, 3:1259–1263, 1962.\n\nAVL trees are often compared with red–black trees because both support the same set of operations and take  time for the basic operations.  For lookup-intensive applications, AVL trees are faster than red–black trees because they are more strictly balanced. Similar to red–black trees, AVL trees are height-balanced. Both are, in general, neither weight-balanced nor μ-balanced for any μ≤1⁄2;[http://cs.stackexchange.com/questions/421/avl-trees-are-not-weight-balanced AVL trees are not weight-balanced? (meaning: AVL trees are not μ-balanced?)] Thereby: A Binary Tree is called \\mu-balanced, with 0 \\le\\mu\\leq\\tfrac12, if for every node N, the inequality\n\\tfrac12-\\mu\\le\\tfrac. AVL tree. http://en.wikipedia.org/?curid=2118."
+  }
+}

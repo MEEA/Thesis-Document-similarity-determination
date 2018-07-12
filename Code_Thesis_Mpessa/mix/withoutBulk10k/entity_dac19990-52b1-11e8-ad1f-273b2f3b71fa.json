@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=6283",
+  "eid" : "dac19990-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778446761,
+  "textBody" : "Critical point may refer to:\n*Critical phenomena in physics\n*Critical point (mathematics), in calculus, the points of an equation where the derivative is zero\n*Critical point (set theory), an elementary embedding of a transitive class into another transitive class which is the smallest ordinal which is not mapped to itself\n*Critical point (thermodynamics), a temperature and pressure of a material beyond which there is no longer any difference between the liquid and gas phases\n*Critical point (network science)\n*Construction point, in skiing, a line the represents the steepest point on a hill",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Critical point" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=6283" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Critical point may refer to:\n*Critical phenomena in physics\n*Critical point (mathematics), in calculus, the points of an equation where the derivative is zero\n*Critical point (set theory), an elementary embedding of a transitive class into another transitive class which is the smallest ordinal which is not mapped to itself\n*Critical point (thermodynamics), a temperature and pressure of a material beyond which there is no longer any difference between the liquid and gas phases\n*Critical point (network science)\n*Construction point, in skiing, a line the represents the steepest point on a hill. Critical point. http://en.wikipedia.org/?curid=6283."
+  }
+}

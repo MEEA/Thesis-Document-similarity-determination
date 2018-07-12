@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16661",
+  "eid" : "278787d0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778575565,
+  "textBody" : "Kenya maintains relations with various countries around the world. Its closest ties are with its fellow Swahili-speaking neighbours in the African Great Lakes region. Relations with Uganda and Tanzania are generally strong, as the three nations work toward economic and social integration through common membership in the East African Community.\n\nKenya's relations with other states vary. The government of Ethiopia established political links in the colonial period with Kenya's then British administration, and today it is one of several national bodies with a diplomatic presence in Nairobi. Relations with Somalia have historically been tense, although there has been some military co-ordination against insurgents.\n\nElsewhere, the Kenyan government has political ties with China, India, Russia and Brazil. It also maintains relations with Western countries, particularly the United Kingdom, although political and economic instabilities are often blamed on Western activities (e.g. colonialism, paternalistic engagement and post-colonial resource exploitation).\n\nAfrica\n\nAmericas\n\nAsia\n\nEurope\n\nKenya and the Commonwealth of Nations\n\nKenya has been a member state of the Commonwealth of Nations since 1963, when it became independent. The nation became a Commonwealth republic in 1964. \n\nKenya is also a member of the UN, and hosts the UN Office in Nairobi, which is the UN Headquarters in Africa. The office was established in 1996.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Foreign relations of Kenya" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16661" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Kenya maintains relations with various countries around the world. Its closest ties are with its fellow Swahili-speaking neighbours in the African Great Lakes region. Relations with Uganda and Tanzania are generally strong, as the three nations work toward economic and social integration through common membership in the East African Community.\n\nKenya's relations with other states vary. The government of Ethiopia established political links in the colonial period with Kenya's then British administration, and today it is one of several national bodies with a diplomatic presence in Nairobi. Relations with Somalia have historically been tense, although there has been some military co-ordination against insurgents.\n\nElsewhere, the Kenyan government has political ties with China, India, Russia and Brazil. It also maintains relations with Western countries, particularly the United Kingdom, although political and economic instabilities are often blamed on Western activities (e.g. colonialism, paternalistic engagement and post-colonial resource exploitation).\n\nAfrica\n\nAmericas\n\nAsia\n\nEurope\n\nKenya and the Commonwealth of Nations\n\nKenya has been a member state of the Commonwealth of Nations since 1963, when it became independent. The nation became a Commonwealth republic in 1964. \n\nKenya is also a member of the UN, and hosts the UN Office in Nairobi, which is the UN Headquarters in Africa. The office was established in 1996. Foreign relations of Kenya. http://en.wikipedia.org/?curid=16661."
+  }
+}

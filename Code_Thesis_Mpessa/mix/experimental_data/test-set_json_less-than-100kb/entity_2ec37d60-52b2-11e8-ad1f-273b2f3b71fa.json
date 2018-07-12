@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17852",
+  "eid" : "2ec37d60-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778587702,
+  "textBody" : "Lore may refer to:\n\n* Folklore, acquired knowledge or traditional beliefs\n* Oral lore or oral tradition, orally conveyed cultural knowledge and traditions\n\nPlaces\n\n* Loré, former French commune\n* Loré (East Timor), a city and subdistrict in Lautém District\n* Lore City, Ohio\n\nArts and media\n\n* Lore (Star Trek), a fictional android\n* Lore (film), a 2012 Australian-German film\n* Lore (podcast)\n** Lore (TV series), based on the podcast\n* Lore (Clannad album)\n* Lore (Today I Caught the Plague album)\n\nOther uses\n\n* Lore (name), a list of people with the given name and surname\n* Lore (anatomy), the region between the eyes and nostrils of birds, reptiles, and amphibians\n* Lore (company), former social network for learning",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Lore" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17852" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Lore may refer to:\n\n* Folklore, acquired knowledge or traditional beliefs\n* Oral lore or oral tradition, orally conveyed cultural knowledge and traditions\n\nPlaces\n\n* Loré, former French commune\n* Loré (East Timor), a city and subdistrict in Lautém District\n* Lore City, Ohio\n\nArts and media\n\n* Lore (Star Trek), a fictional android\n* Lore (film), a 2012 Australian-German film\n* Lore (podcast)\n** Lore (TV series), based on the podcast\n* Lore (Clannad album)\n* Lore (Today I Caught the Plague album)\n\nOther uses\n\n* Lore (name), a list of people with the given name and surname\n* Lore (anatomy), the region between the eyes and nostrils of birds, reptiles, and amphibians\n* Lore (company), former social network for learning. Lore. http://en.wikipedia.org/?curid=17852."
+  }
+}

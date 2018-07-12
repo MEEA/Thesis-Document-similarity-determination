@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7633",
+  "eid" : "e2abd080-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778460040,
+  "textBody" : "Cordial may refer to:\n\nFood and drink:\n* Liqueur, an alcoholic beverage\n* Cordial (candy), a type of candy that has a fruit filling inside a chocolate shell\n* Cordial (medicine), a medicinal beverage\n* Squash (drink), a non-alcoholic fruit drink concentrate\n* Elderflower cordial, a non-alcoholic beverage\n\nOther uses:\n* Cordial (album), an album by La Bottine Souriante\n* Raspberry Cordial, a hip-hop group from Melbourne, Australia\n* Cordial (restaurant), a Michelin starred restaurant in The Netherlands\n* Adjectival form of \"cordiality\", see also agreeableness",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Cordial" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7633" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Cordial may refer to:\n\nFood and drink:\n* Liqueur, an alcoholic beverage\n* Cordial (candy), a type of candy that has a fruit filling inside a chocolate shell\n* Cordial (medicine), a medicinal beverage\n* Squash (drink), a non-alcoholic fruit drink concentrate\n* Elderflower cordial, a non-alcoholic beverage\n\nOther uses:\n* Cordial (album), an album by La Bottine Souriante\n* Raspberry Cordial, a hip-hop group from Melbourne, Australia\n* Cordial (restaurant), a Michelin starred restaurant in The Netherlands\n* Adjectival form of \"cordiality\", see also agreeableness. Cordial. http://en.wikipedia.org/?curid=7633."
+  }
+}

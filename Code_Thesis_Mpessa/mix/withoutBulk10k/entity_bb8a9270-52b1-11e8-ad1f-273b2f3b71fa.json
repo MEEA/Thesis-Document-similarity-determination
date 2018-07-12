@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1759",
+  "eid" : "bb8a9270-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778394391,
+  "textBody" : "Andriscus (, Andrískos), also often referenced as Pseudo-Philip, was the last King of Macedon ( 149–148 BC). A pretender, who claimed to be the son of Perseus of Macedon, he was a fuller from Adramyttium in Aeolis in western Anatolia. His reign lasted just one year.\n\nLife\n\nIn 168 BC, the Romans invaded Macedonia and overthrew king Perseus in the First Battle of Pydna.\n\nIn 149, Andriscus, claiming to be Perseus' son, announced his intention to retake Macedonia from the Romans.\n\nAs Andriscus' first attempt, he travelled to Syria to request military help from Demetrius Soter of Syria. Demetrius instead handed him over to the Romans but Andriskos managed to escape from Roman captivity and raised a Thracian army. With this army, he invaded Macedonia and defeated the Roman praetor Publius Juventius in 149. Andriscus then declared himself King Philip VI of Macedonia.\n\nIn 148, Andriscus conquered Thessaly and made an alliance with Carthage, thus bringing the Roman wrath on him.  Later that year, in what the Romans called the Fourth Macedonian War, he was defeated by the Roman praetor Quintus Caecilius Metellus Macedonicus at the Second Battle of Pydna, and fled to Thrace, whose prince gave him up to Rome, thus marking the end to Andriscus' reign of Macedonia.\n\nAndriscus' brief reign over Macedonia was marked by cruelty and extortion. After this, Macedonia was formally reduced to a Roman province.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Andriscus" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1759" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Andriscus (, Andrískos), also often referenced as Pseudo-Philip, was the last King of Macedon ( 149–148 BC). A pretender, who claimed to be the son of Perseus of Macedon, he was a fuller from Adramyttium in Aeolis in western Anatolia. His reign lasted just one year.\n\nLife\n\nIn 168 BC, the Romans invaded Macedonia and overthrew king Perseus in the First Battle of Pydna.\n\nIn 149, Andriscus, claiming to be Perseus' son, announced his intention to retake Macedonia from the Romans.\n\nAs Andriscus' first attempt, he travelled to Syria to request military help from Demetrius Soter of Syria. Demetrius instead handed him over to the Romans but Andriskos managed to escape from Roman captivity and raised a Thracian army. With this army, he invaded Macedonia and defeated the Roman praetor Publius Juventius in 149. Andriscus then declared himself King Philip VI of Macedonia.\n\nIn 148, Andriscus conquered Thessaly and made an alliance with Carthage, thus bringing the Roman wrath on him.  Later that year, in what the Romans called the Fourth Macedonian War, he was defeated by the Roman praetor Quintus Caecilius Metellus Macedonicus at the Second Battle of Pydna, and fled to Thrace, whose prince gave him up to Rome, thus marking the end to Andriscus' reign of Macedonia.\n\nAndriscus' brief reign over Macedonia was marked by cruelty and extortion. After this, Macedonia was formally reduced to a Roman province. Andriscus. http://en.wikipedia.org/?curid=1759."
+  }
+}

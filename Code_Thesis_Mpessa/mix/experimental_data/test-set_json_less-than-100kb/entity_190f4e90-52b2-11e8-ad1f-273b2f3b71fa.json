@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14981",
+  "eid" : "190f4e90-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778551289,
+  "textBody" : "Ictinus (; , Iktinos) was an architect active in the mid 5th century BC. Ancient sources identify Ictinus and Callicrates as co-architects of the Parthenon.\n\nPausanias identifies Ictinus as architect of the Temple of Apollo at Bassae. That temple was Doric on the exterior, Ionic on the interior, and incorporated a Corinthian column, the earliest known, at the center rear of the cella. Sources also identify Ictinus as architect of the Telesterion at Eleusis, a gigantic hall used in the Eleusinian Mysteries.\n\nThe artist Jean Auguste Dominique Ingres painted a scene showing Ictinus together with the lyric poet Pindar. The painting is known as Pindar and Ictinus and is exhibited at the National Gallery, London.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Ictinus" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14981" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Ictinus (; , Iktinos) was an architect active in the mid 5th century BC. Ancient sources identify Ictinus and Callicrates as co-architects of the Parthenon.\n\nPausanias identifies Ictinus as architect of the Temple of Apollo at Bassae. That temple was Doric on the exterior, Ionic on the interior, and incorporated a Corinthian column, the earliest known, at the center rear of the cella. Sources also identify Ictinus as architect of the Telesterion at Eleusis, a gigantic hall used in the Eleusinian Mysteries.\n\nThe artist Jean Auguste Dominique Ingres painted a scene showing Ictinus together with the lyric poet Pindar. The painting is known as Pindar and Ictinus and is exhibited at the National Gallery, London. Ictinus. http://en.wikipedia.org/?curid=14981."
+  }
+}

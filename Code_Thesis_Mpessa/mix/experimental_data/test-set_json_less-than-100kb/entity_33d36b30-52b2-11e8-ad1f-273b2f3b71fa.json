@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18599",
+  "eid" : "33d36b30-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778596195,
+  "textBody" : "The term Lebanon War can refer to any of the following wars, fought in Lebanon:\n*1860 Mount Lebanon civil war\n*Lebanese Civil War (1975–1990)\n**Hundred Days' War 1978 (part of the Lebanese Civil War)\n**1982 Lebanon War (part of the Lebanese Civil War, also known as the First Lebanon War)\n**Mountain War (Lebanon) 1983–1984 (part of the Lebanese Civil War)\n**War of the Camps 1984–1989 (part of the Lebanese Civil War)\n*South Lebanon conflict (1985–2000)\n*2006 Lebanon War (also known as the Second Lebanon War or Israel-Hezbollah war)\n*2011–present conflict in Lebanon",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Lebanon War" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18599" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The term Lebanon War can refer to any of the following wars, fought in Lebanon:\n*1860 Mount Lebanon civil war\n*Lebanese Civil War (1975–1990)\n**Hundred Days' War 1978 (part of the Lebanese Civil War)\n**1982 Lebanon War (part of the Lebanese Civil War, also known as the First Lebanon War)\n**Mountain War (Lebanon) 1983–1984 (part of the Lebanese Civil War)\n**War of the Camps 1984–1989 (part of the Lebanese Civil War)\n*South Lebanon conflict (1985–2000)\n*2006 Lebanon War (also known as the Second Lebanon War or Israel-Hezbollah war)\n*2011–present conflict in Lebanon. Lebanon War. http://en.wikipedia.org/?curid=18599."
+  }
+}

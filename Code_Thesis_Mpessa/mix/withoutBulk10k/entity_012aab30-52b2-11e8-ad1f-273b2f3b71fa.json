@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12236",
+  "eid" : "012aab30-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778511203,
+  "textBody" : "GDP or gross domestic product is the basic measure of a country's overall economic output.\n\nGDP may also refer to:\n* GDP (chemotherapy), a chemotherapy treatment regimen\n* GDP (musician), an American hip hop musician from New Jersey\n* Giant depolarizing potentials, the first type of electrical activity of developing brain\n* Gibraltar Defence Police, a civil police force which guards and enforces law on Ministry of Defence installations in Gibraltar\n* Good distribution practice, the guidelines for the proper distribution of medicinal products for human use\n* Good Documentation Practice, pharmaceutical description of standards by which documents are created and maintained\n* Ground delay program, a traffic flow initiative for aviation in the United States\n* Guanosine diphosphate, a nucleotide\n\nGdP may refer to:\n* Gewerkschaft der Polizei (GdP), a trade union of police employees in Germany",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "GDP (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12236" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "GDP or gross domestic product is the basic measure of a country's overall economic output.\n\nGDP may also refer to:\n* GDP (chemotherapy), a chemotherapy treatment regimen\n* GDP (musician), an American hip hop musician from New Jersey\n* Giant depolarizing potentials, the first type of electrical activity of developing brain\n* Gibraltar Defence Police, a civil police force which guards and enforces law on Ministry of Defence installations in Gibraltar\n* Good distribution practice, the guidelines for the proper distribution of medicinal products for human use\n* Good Documentation Practice, pharmaceutical description of standards by which documents are created and maintained\n* Ground delay program, a traffic flow initiative for aviation in the United States\n* Guanosine diphosphate, a nucleotide\n\nGdP may refer to:\n* Gewerkschaft der Polizei (GdP), a trade union of police employees in Germany. GDP (disambiguation). http://en.wikipedia.org/?curid=12236."
+  }
+}

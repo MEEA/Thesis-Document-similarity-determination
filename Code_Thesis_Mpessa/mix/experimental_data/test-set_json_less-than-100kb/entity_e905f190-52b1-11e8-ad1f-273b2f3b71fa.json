@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8584",
+  "eid" : "e905f190-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778470697,
+  "textBody" : "A dramaturge or dramaturg is a literary adviser or editor in a theatre, opera, or film company that researches, selects, adapts, edits, and interprets scripts, libretti, texts, and printed programs (or helps others with these tasks), consults with authors, and does public relations work.[https://www.ahdictionary.com/word/search.html?q=dramaturge ][https://www.collinsdictionary.com/dictionary/english/dramaturge ][https://en.oxforddictionaries.com/definition/us/dramaturge ] Its modern-day function was originated by the innovations of Gotthold Ephraim Lessing, an 18th-century German playwright, philosopher, and theatre theorist.\n\nResponsibilities\n\nOne of the dramaturge's contributions is to categorize and discuss the various types of plays or operas, their interconnectedness and their styles.  The responsibilities of a dramaturge vary from one theatre or opera company to the next.  They might include the hiring of actors, the development of a season of plays or operas with a sense of coherence among them, assistance with and editing of new plays or operas by resident or guest playwrights or composers/librettists, the creation of programs or accompanying educational services, helping the director with rehearsals, and serving as elucidator of history or spokesperson for deceased or otherwise absent playwrights or composers. At larger theatres or opera houses, the dramaturge works on the historical and cultural research into the play or opera and its setting.\n\nIn theatre companies, a dramaturge will create a workbook for the director and actors (usually these are different) and work extensively with the director prior to the first rehearsal.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Dramaturge" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8584" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A dramaturge or dramaturg is a literary adviser or editor in a theatre, opera, or film company that researches, selects, adapts, edits, and interprets scripts, libretti, texts, and printed programs (or helps others with these tasks), consults with authors, and does public relations work.[https://www.ahdictionary.com/word/search.html?q=dramaturge ][https://www.collinsdictionary.com/dictionary/english/dramaturge ][https://en.oxforddictionaries.com/definition/us/dramaturge ] Its modern-day function was originated by the innovations of Gotthold Ephraim Lessing, an 18th-century German playwright, philosopher, and theatre theorist.\n\nResponsibilities\n\nOne of the dramaturge's contributions is to categorize and discuss the various types of plays or operas, their interconnectedness and their styles.  The responsibilities of a dramaturge vary from one theatre or opera company to the next.  They might include the hiring of actors, the development of a season of plays or operas with a sense of coherence among them, assistance with and editing of new plays or operas by resident or guest playwrights or composers/librettists, the creation of programs or accompanying educational services, helping the director with rehearsals, and serving as elucidator of history or spokesperson for deceased or otherwise absent playwrights or composers. At larger theatres or opera houses, the dramaturge works on the historical and cultural research into the play or opera and its setting.\n\nIn theatre companies, a dramaturge will create a workbook for the director and actors (usually these are different) and work extensively with the director prior to the first rehearsal. Dramaturge. http://en.wikipedia.org/?curid=8584."
+  }
+}

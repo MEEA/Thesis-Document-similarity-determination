@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1692",
+  "eid" : "bb4943b1-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778393963,
+  "textBody" : "Alfonso III may refer to:\n\n*Alfonso III of Leon (866–910) surnamed \"the Great\"\n*Afonso III of Portugal (1210–1279)\n*Alfonso III of Aragon (1285–1291)\n*Alfonso III d'Este, Duke of Modena and Reggio (1628–1644)\n*Alfonso III of Kongo (1666–1667)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Alfonso III" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1692" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Alfonso III may refer to:\n\n*Alfonso III of Leon (866–910) surnamed \"the Great\"\n*Afonso III of Portugal (1210–1279)\n*Alfonso III of Aragon (1285–1291)\n*Alfonso III d'Este, Duke of Modena and Reggio (1628–1644)\n*Alfonso III of Kongo (1666–1667). Alfonso III. http://en.wikipedia.org/?curid=1692."
+  }
+}

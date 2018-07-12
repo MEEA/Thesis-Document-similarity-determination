@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=6082",
+  "eid" : "d9cd9ca0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778445162,
+  "textBody" : "Cortex or cortical may refer to:\n\nScience\n\nMedicine\n\n* Cortex (anatomy), the outermost or superficial layer of an organ\n* Cortex (hair), the middle layer of a strand of hair\n* Adrenal cortex, the portion of the adrenal gland responsible for the production of cortisol and aldosterone\n* Cell cortex, the region proximal to the cell surface, i.e. directly underneath the cell membrane\n* Renal cortex, the outer portion of the kidney\n* Cerebral cortex, the outer layer of the vertebrate cerebrum, part of which is the forebrain\n** Motor cortex, the regions of the cerebral cortex involved in voluntary motor functions\n** Prefrontal cortex, the anterior part of the frontal lobes of the brain\n** Visual cortex, regions of the cerebral cortex involved in visual functions\n* Cerebellar cortex, the outer layer of the vertebrate cerebellum\n\nOther sciences\n\n* Cortex (archaeology), the outer layer of rock formed on the exterior of raw materials by chemical and mechanical weathering processes\n* Cortex (botany), the outer portion of the stem or root of a plant\n\nEntertainment\n\n* Cortex, a Swedish post-punk alternative band featuring Freddie Wadling\n* Cortex (podcast), a podcast hosted by Myke Hurley and CGP Grey\n* Cortex (film), 2008 film directed by Nicolas Boukhrief\n\nVideo games\n\n* Cortex (video game), a game for Amiga computers\n* Cortex Command, action game released in 2012 by Data Realms\n* Doctor Neo Cortex, main antagonist in the Crash Bandicoot series\n** Nina Cortex, Cortex's niece\n\nOther uses\n\n* Cortex, a family of the ARM architecture of CPUs\n* Cortex (journal), cognitive science journal published by Elsevier\n* Cortex (company), a division of Gemini Sound Products\n* Cortex Pharmaceuticals, company based in Glen Rock, New Jersey\n* Cortex (lending platform), a digital lending platform and suite of lending services offered by Think Finance",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Cortex" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=6082" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Cortex or cortical may refer to:\n\nScience\n\nMedicine\n\n* Cortex (anatomy), the outermost or superficial layer of an organ\n* Cortex (hair), the middle layer of a strand of hair\n* Adrenal cortex, the portion of the adrenal gland responsible for the production of cortisol and aldosterone\n* Cell cortex, the region proximal to the cell surface, i.e. directly underneath the cell membrane\n* Renal cortex, the outer portion of the kidney\n* Cerebral cortex, the outer layer of the vertebrate cerebrum, part of which is the forebrain\n** Motor cortex, the regions of the cerebral cortex involved in voluntary motor functions\n** Prefrontal cortex, the anterior part of the frontal lobes of the brain\n** Visual cortex, regions of the cerebral cortex involved in visual functions\n* Cerebellar cortex, the outer layer of the vertebrate cerebellum\n\nOther sciences\n\n* Cortex (archaeology), the outer layer of rock formed on the exterior of raw materials by chemical and mechanical weathering processes\n* Cortex (botany), the outer portion of the stem or root of a plant\n\nEntertainment\n\n* Cortex, a Swedish post-punk alternative band featuring Freddie Wadling\n* Cortex (podcast), a podcast hosted by Myke Hurley and CGP Grey\n* Cortex (film), 2008 film directed by Nicolas Boukhrief\n\nVideo games\n\n* Cortex (video game), a game for Amiga computers\n* Cortex Command, action game released in 2012 by Data Realms\n* Doctor Neo Cortex, main antagonist in the Crash Bandicoot series\n** Nina Cortex, Cortex's niece\n\nOther uses\n\n* Cortex, a family of the ARM architecture of CPUs\n* Cortex (journal), cognitive science journal published by Elsevier\n* Cortex (company), a division of Gemini Sound Products\n* Cortex Pharmaceuticals, company based in Glen Rock, New Jersey\n* Cortex (lending platform), a digital lending platform and suite of lending services offered by Think Finance. Cortex. http://en.wikipedia.org/?curid=6082."
+  }
+}

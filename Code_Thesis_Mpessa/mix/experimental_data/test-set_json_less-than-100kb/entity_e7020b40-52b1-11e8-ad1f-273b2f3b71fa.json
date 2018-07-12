@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8310",
+  "eid" : "e7020b40-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778467316,
+  "textBody" : "DSL or digital subscriber line is a family of technologies that provide digital data transmission over the wires of a local telephone network.\n\nDSL may also refer to:\n*Damn Small Linux, a very small Linux distribution\n*Danish Sign Language\n*Deep Scattering Layer\n*Definitive software library\n*Design Science License, a copyleft license for intellectual property\n*Diagnostic Systems Laboratories, a company now part of Beckman-Coulter\n*Dictionary of the Scots Language\n*Domain-specific language, a computer language designed for a specific problem domain\n*Dominican Summer League, a branch of affiliated minor league baseball played in the Dominican Republic\n*DSL, a French electronic music act signed to Ed Banger Records\n* Desired Sensation Level, an algorithm for the fitting of digital hearing aids to the wearers remaining hearing capabilities\n*Domestic Substances List, a list of approximately 23,000 substances manufactured in, imported into or used in Canada on a commercial scale\n*Deutsche Schule Lagos, or the German School Lagos",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "DSL (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8310" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "DSL or digital subscriber line is a family of technologies that provide digital data transmission over the wires of a local telephone network.\n\nDSL may also refer to:\n*Damn Small Linux, a very small Linux distribution\n*Danish Sign Language\n*Deep Scattering Layer\n*Definitive software library\n*Design Science License, a copyleft license for intellectual property\n*Diagnostic Systems Laboratories, a company now part of Beckman-Coulter\n*Dictionary of the Scots Language\n*Domain-specific language, a computer language designed for a specific problem domain\n*Dominican Summer League, a branch of affiliated minor league baseball played in the Dominican Republic\n*DSL, a French electronic music act signed to Ed Banger Records\n* Desired Sensation Level, an algorithm for the fitting of digital hearing aids to the wearers remaining hearing capabilities\n*Domestic Substances List, a list of approximately 23,000 substances manufactured in, imported into or used in Canada on a commercial scale\n*Deutsche Schule Lagos, or the German School Lagos. DSL (disambiguation). http://en.wikipedia.org/?curid=8310."
+  }
+}

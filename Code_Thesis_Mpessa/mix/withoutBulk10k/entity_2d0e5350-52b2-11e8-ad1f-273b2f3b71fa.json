@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17648",
+  "eid" : "2d0e5350-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778584837,
+  "textBody" : "Limerick is a city in Ireland.\n\nIt may also refer to:\n* Limerick (poetry)\n* Limerick (song)\n\nPlaces\n\n;Ireland\n*County Limerick\n*Limerick, a city in County Limerick\n\n;Canada\n*Limerick, Ontario\n*Limerick, Saskatchewan\n\n;United States\n*Camanche, California, formerly Limerick\n*San Ramon, California, formerly Limerick\n*Limerick, Louisville, Kentucky\n*Limerick, Maine\n*New Limerick, Maine\n*Limerick Township, Pennsylvania\n**Limerick Nuclear Power Plant\n\nConstituencies\n\n;Before 1801\n*Askeaton (Parliament of Ireland constituency)\n*Kilmallock (Parliament of Ireland constituency)\n*Limerick City (Parliament of Ireland constituency)\n*Limerick County (Parliament of Ireland constituency)\n;1801–1885\n*Limerick City (UK Parliament constituency)\n*County Limerick (UK Parliament constituency)\n;1885–1922\n*Limerick City (UK Parliament constituency)\n*East Limerick (UK Parliament constituency)\n*West Limerick (UK Parliament constituency)\n;1921–1923\n*Kerry–Limerick West (Dáil Éireann constituency)\n*Limerick City–Limerick East (Dáil Éireann constituency)\n;1923–1948\n*Limerick (Dáil Éireann constituency)\n;1948–\n*Limerick East (Dáil Éireann constituency)\n*Limerick West (Dáil Éireann constituency)\n\nPeople\n\n*Patricia Nelson Limerick, an American historian\n*Earl of Limerick, a British noble title\n\nOther\n\n*Limerick lace, a variety of needle lace\n*Limerick F.C., an Irish soccer team",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Limerick (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17648" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Limerick is a city in Ireland.\n\nIt may also refer to:\n* Limerick (poetry)\n* Limerick (song)\n\nPlaces\n\n;Ireland\n*County Limerick\n*Limerick, a city in County Limerick\n\n;Canada\n*Limerick, Ontario\n*Limerick, Saskatchewan\n\n;United States\n*Camanche, California, formerly Limerick\n*San Ramon, California, formerly Limerick\n*Limerick, Louisville, Kentucky\n*Limerick, Maine\n*New Limerick, Maine\n*Limerick Township, Pennsylvania\n**Limerick Nuclear Power Plant\n\nConstituencies\n\n;Before 1801\n*Askeaton (Parliament of Ireland constituency)\n*Kilmallock (Parliament of Ireland constituency)\n*Limerick City (Parliament of Ireland constituency)\n*Limerick County (Parliament of Ireland constituency)\n;1801–1885\n*Limerick City (UK Parliament constituency)\n*County Limerick (UK Parliament constituency)\n;1885–1922\n*Limerick City (UK Parliament constituency)\n*East Limerick (UK Parliament constituency)\n*West Limerick (UK Parliament constituency)\n;1921–1923\n*Kerry–Limerick West (Dáil Éireann constituency)\n*Limerick City–Limerick East (Dáil Éireann constituency)\n;1923–1948\n*Limerick (Dáil Éireann constituency)\n;1948–\n*Limerick East (Dáil Éireann constituency)\n*Limerick West (Dáil Éireann constituency)\n\nPeople\n\n*Patricia Nelson Limerick, an American historian\n*Earl of Limerick, a British noble title\n\nOther\n\n*Limerick lace, a variety of needle lace\n*Limerick F.C., an Irish soccer team. Limerick (disambiguation). http://en.wikipedia.org/?curid=17648."
+  }
+}

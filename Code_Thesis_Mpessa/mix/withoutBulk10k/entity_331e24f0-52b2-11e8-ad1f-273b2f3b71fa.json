@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18459",
+  "eid" : "331e24f0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778595007,
+  "textBody" : "Leda and similar may refer to:\n\nPlaces \n\n* Leda (river), tributary of the Ems in Germany\n* Leda, Western Australia, a suburb of Perth, Western Australia\n* Leda, Burkina Faso\n* Leda Ridge, Antarctica\n\nAstronomy \n\n* Leda (moon), a moon of Jupiter\n* 38 Leda, an asteroid\n* Leda, the original proposed name for exoplanet Thestias\n* Lyon-Meudon Extragalactic Database, an astronomical catalog of galaxies\n* Large Aperture Experiment to Detect the Dark Ages, a radio interferometer\n\nComputing \n\n* LEDA, the Library of Efficient Data types and Algorithms\n* Leda (programming language), a multiparadigm programming language\n\nEntertainment \n\n* Leda, the Swiss Milkmaid, a Demi-Caractère ballet\n* Leda Serene Films, a film, television, and theatre production company based in Toronto, Canada\n* Leda: The Fantastic Adventure of Yohko, a 1985 Japanese OVA\n* Web of Passion, a French film released in the US as Leda\n\nShips \n\n* Leda-class frigate, a type of frigate in the British Royal Navy\n* HMS Leda, the name of six ships of the British Royal Navy\n* TS Leda, North Sea ferry\n\nPersons \n\n* Leda (mythology), queen of Sparta\n* Leda Cosmides (born 1957, 1957), American psychologist\n* Ferdinando Leda (born 1980), Brazilian football player\n* Leda Gloria (1912–1997), Italian film actress\n* Leda Luss Luyken (born 1952), Greek/American conceptual artist, who lives and works in German\n* Leda Mileva (1920–2013), Bulgarian writer, translator and diplomat\n* Leda Sanford (born 1933), author, speaker, former publisher and former advertising director\n\nOther uses \n\n* Leda clay, also called quick clay, a unique form of marine clay\n* LEDA — ICAO code for Lleida–Alguaire Airport\n* Project Leda, a set of female clones in the TV series Orphan Black",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Leda" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18459" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Leda and similar may refer to:\n\nPlaces \n\n* Leda (river), tributary of the Ems in Germany\n* Leda, Western Australia, a suburb of Perth, Western Australia\n* Leda, Burkina Faso\n* Leda Ridge, Antarctica\n\nAstronomy \n\n* Leda (moon), a moon of Jupiter\n* 38 Leda, an asteroid\n* Leda, the original proposed name for exoplanet Thestias\n* Lyon-Meudon Extragalactic Database, an astronomical catalog of galaxies\n* Large Aperture Experiment to Detect the Dark Ages, a radio interferometer\n\nComputing \n\n* LEDA, the Library of Efficient Data types and Algorithms\n* Leda (programming language), a multiparadigm programming language\n\nEntertainment \n\n* Leda, the Swiss Milkmaid, a Demi-Caractère ballet\n* Leda Serene Films, a film, television, and theatre production company based in Toronto, Canada\n* Leda: The Fantastic Adventure of Yohko, a 1985 Japanese OVA\n* Web of Passion, a French film released in the US as Leda\n\nShips \n\n* Leda-class frigate, a type of frigate in the British Royal Navy\n* HMS Leda, the name of six ships of the British Royal Navy\n* TS Leda, North Sea ferry\n\nPersons \n\n* Leda (mythology), queen of Sparta\n* Leda Cosmides (born 1957, 1957), American psychologist\n* Ferdinando Leda (born 1980), Brazilian football player\n* Leda Gloria (1912–1997), Italian film actress\n* Leda Luss Luyken (born 1952), Greek/American conceptual artist, who lives and works in German\n* Leda Mileva (1920–2013), Bulgarian writer, translator and diplomat\n* Leda Sanford (born 1933), author, speaker, former publisher and former advertising director\n\nOther uses \n\n* Leda clay, also called quick clay, a unique form of marine clay\n* LEDA — ICAO code for Lleida–Alguaire Airport\n* Project Leda, a set of female clones in the TV series Orphan Black. Leda. http://en.wikipedia.org/?curid=18459."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13798",
+  "eid" : "0d6d18b0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778531771,
+  "textBody" : "Halon may refer to:\n\n* Haloalkane, or halogenoalkane, a group of chemical compounds consisting of alkanes with linked halogens. In particular, bromine-containing haloalkanes.\n* Halomethane fire extinguishing systems\n* Various compounds that have been used in agriculture, dry cleaning, fire suppression, and other applications.\n** Halon 10001 (iodomethane)\n** Halon 1001 (bromomethane)\n** Halon 1011 (bromochloromethane, CH2BrCl)\n** Halon 104 (carbon tetrachloride)\n** Halon 1103 (tribromofluoromethane)\n** Halon 112 (dichlorofluoromethane)\n** Halon 1201 (bromodifluoromethane)\n** Halon 1202 (dibromodifluoromethane)\n** Halon 1211 (bromochlorodifluoromethane, CF2ClBr)\n** Halon 122 (dichlorodifluoromethane)\n** Halon 1301 (bromotrifluoromethane, CBrF3)\n** Halon 14 (tetrafluoromethane)\n** Halon 242 (1,2-dichlorotetrafluoroethane)\n** Halon 2402 (dibromotetrafluoroethane, C2Br2F4)—used as a fire extinguisher\n** Halon 2600 (hexafluoroethane)\n* Halon (software), a mail transfer agent (MTA) program",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Halon" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13798" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Halon may refer to:\n\n* Haloalkane, or halogenoalkane, a group of chemical compounds consisting of alkanes with linked halogens. In particular, bromine-containing haloalkanes.\n* Halomethane fire extinguishing systems\n* Various compounds that have been used in agriculture, dry cleaning, fire suppression, and other applications.\n** Halon 10001 (iodomethane)\n** Halon 1001 (bromomethane)\n** Halon 1011 (bromochloromethane, CH2BrCl)\n** Halon 104 (carbon tetrachloride)\n** Halon 1103 (tribromofluoromethane)\n** Halon 112 (dichlorofluoromethane)\n** Halon 1201 (bromodifluoromethane)\n** Halon 1202 (dibromodifluoromethane)\n** Halon 1211 (bromochlorodifluoromethane, CF2ClBr)\n** Halon 122 (dichlorodifluoromethane)\n** Halon 1301 (bromotrifluoromethane, CBrF3)\n** Halon 14 (tetrafluoromethane)\n** Halon 242 (1,2-dichlorotetrafluoroethane)\n** Halon 2402 (dibromotetrafluoroethane, C2Br2F4)—used as a fire extinguisher\n** Halon 2600 (hexafluoroethane)\n* Halon (software), a mail transfer agent (MTA) program. Halon. http://en.wikipedia.org/?curid=13798."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=5970",
+  "eid" : "d935f080-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778444168,
+  "textBody" : "A capitol is a building in which a legislature meets, including:\n* United States Capitol in Washington, D.C.\n* Numerous U.S. state and territorial capitols\n* Capitolio Nacional in Bogotá, Colombia\n* Capitolio Federal in Caracas, Venezuela\n* El Capitolio in Havana, Cuba\n* Capitol of Palau in Ngerulmud, Palau\n\nCapitol, capitols, or The Capitol may also refer to:\n\n* Capitol (board game), a Roman-themed board game\n* Capitol (The Hunger Games trilogy), a fictional city in The Hunger Games novels\n* Capitol (TV series), a U.S. soap opera\n* Capitols, former name of the Capitol Corridor passenger train route in California, United States\n* Capitole de Toulouse, an historic building in Toulouse, France, now used as a municipal and public-arts center\n* The capitouls of Toulouse, the city's former chief magistrates\n* Capitol Air, originally known as Capitol International Airways, an American charter airline operating from 1946 to 1982\n* Capitol College, a private, non-profit, and non-sectarian college located just south of Laurel, Maryland\n* Capitol Records, a U.S. record label\n* Capitol Reef National Park, a U.S. National Park in south-central Utah\n* Capitol Wrestling Corporation, a predecessor organization to World Wrestling Entertainment\n* Capitoline Hill in Rome (from which the word capitol derives)\n* Capitolium, the temple for the Capitoline Triad in many cities of the Roman Empire\n* The Capitol (Hong Kong), a large private housing estate in Hong Kong\n* The Capitol (Fayetteville, North Carolina), department store\n* The Capitols, a Detroit, Michigan-based soul trio\n* Capitol (collection), a book by Orson Scott Card",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Capitol" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=5970" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A capitol is a building in which a legislature meets, including:\n* United States Capitol in Washington, D.C.\n* Numerous U.S. state and territorial capitols\n* Capitolio Nacional in Bogotá, Colombia\n* Capitolio Federal in Caracas, Venezuela\n* El Capitolio in Havana, Cuba\n* Capitol of Palau in Ngerulmud, Palau\n\nCapitol, capitols, or The Capitol may also refer to:\n\n* Capitol (board game), a Roman-themed board game\n* Capitol (The Hunger Games trilogy), a fictional city in The Hunger Games novels\n* Capitol (TV series), a U.S. soap opera\n* Capitols, former name of the Capitol Corridor passenger train route in California, United States\n* Capitole de Toulouse, an historic building in Toulouse, France, now used as a municipal and public-arts center\n* The capitouls of Toulouse, the city's former chief magistrates\n* Capitol Air, originally known as Capitol International Airways, an American charter airline operating from 1946 to 1982\n* Capitol College, a private, non-profit, and non-sectarian college located just south of Laurel, Maryland\n* Capitol Records, a U.S. record label\n* Capitol Reef National Park, a U.S. National Park in south-central Utah\n* Capitol Wrestling Corporation, a predecessor organization to World Wrestling Entertainment\n* Capitoline Hill in Rome (from which the word capitol derives)\n* Capitolium, the temple for the Capitoline Triad in many cities of the Roman Empire\n* The Capitol (Hong Kong), a large private housing estate in Hong Kong\n* The Capitol (Fayetteville, North Carolina), department store\n* The Capitols, a Detroit, Michigan-based soul trio\n* Capitol (collection), a book by Orson Scott Card. Capitol. http://en.wikipedia.org/?curid=5970."
+  }
+}

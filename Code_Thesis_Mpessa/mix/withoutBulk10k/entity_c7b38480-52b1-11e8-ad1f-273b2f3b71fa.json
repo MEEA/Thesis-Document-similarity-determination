@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3654",
+  "eid" : "c7b38480-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778414792,
+  "textBody" : "The systems of transport in the British Virgin Islands include 113 kilometres of highway and a harbour at Road Town.\n\nRoads \n\n* total: 200 km\n* paved: 200 km\n* unpaved: 0 km (2007)\n\nPorts and terminals\n\n* Road Town\n\nAirports\n\n* 4 (2008)\n\nPaved runways\n\n* total: 2\n**914 to 1,523 m: 1\n** under 914 m: 1 (2008)\n\nUnpaved runways\n\n* total: 2\n**914 to 1,523 m: 2 (2008)\n\nMerchant Marine \n\n* registered in other countries: 1 (Panama) (2008)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Transport in the British Virgin Islands" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3654" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The systems of transport in the British Virgin Islands include 113 kilometres of highway and a harbour at Road Town.\n\nRoads \n\n* total: 200 km\n* paved: 200 km\n* unpaved: 0 km (2007)\n\nPorts and terminals\n\n* Road Town\n\nAirports\n\n* 4 (2008)\n\nPaved runways\n\n* total: 2\n**914 to 1,523 m: 1\n** under 914 m: 1 (2008)\n\nUnpaved runways\n\n* total: 2\n**914 to 1,523 m: 2 (2008)\n\nMerchant Marine \n\n* registered in other countries: 1 (Panama) (2008). Transport in the British Virgin Islands. http://en.wikipedia.org/?curid=3654."
+  }
+}

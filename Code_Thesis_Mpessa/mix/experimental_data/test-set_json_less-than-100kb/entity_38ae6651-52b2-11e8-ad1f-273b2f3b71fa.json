@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19197",
+  "eid" : "38ae6651-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778604341,
+  "textBody" : "Monastir may refer to:\n\nTunisia\n\n* Monastir, Tunisia, the capital of Monastir Governorate\n* Monastir Governorate, one of the twenty-four governorates of Tunisia\n* Monastir Habib Bourguiba International Airport, an airport in the Monastir Governorate\n\nOther places\n\n* Monastir, Macedonia, the former name of Bitola\n* Manastir Vilayet, covering parts of modern Albania, Greece and the Republic of Macedonia\n* Monastir, Sardinia, a comune in the Province of Cagliari, Italy\n\nOther uses\n\n* US Monastir, a football club from Monastir, Tunisia",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Monastir" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19197" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Monastir may refer to:\n\nTunisia\n\n* Monastir, Tunisia, the capital of Monastir Governorate\n* Monastir Governorate, one of the twenty-four governorates of Tunisia\n* Monastir Habib Bourguiba International Airport, an airport in the Monastir Governorate\n\nOther places\n\n* Monastir, Macedonia, the former name of Bitola\n* Manastir Vilayet, covering parts of modern Albania, Greece and the Republic of Macedonia\n* Monastir, Sardinia, a comune in the Province of Cagliari, Italy\n\nOther uses\n\n* US Monastir, a football club from Monastir, Tunisia. Monastir. http://en.wikipedia.org/?curid=19197."
+  }
+}

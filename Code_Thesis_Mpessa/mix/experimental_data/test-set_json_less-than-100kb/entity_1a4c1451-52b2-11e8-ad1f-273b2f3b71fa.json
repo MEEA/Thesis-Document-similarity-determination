@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15158",
+  "eid" : "1a4c1451-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778553365,
+  "textBody" : "Islamic Jihad may refer to:\n\n* Islamic Jihad Movement in Palestine (headquartered in Damascus)\n* Islamic Jihad Organization, active mostly in Lebanon\n* Islamic Jihad of Yemen\n* Turkish Islamic Jihad\n* Egyptian Islamic Jihad",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Islamic Jihad" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15158" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Islamic Jihad may refer to:\n\n* Islamic Jihad Movement in Palestine (headquartered in Damascus)\n* Islamic Jihad Organization, active mostly in Lebanon\n* Islamic Jihad of Yemen\n* Turkish Islamic Jihad\n* Egyptian Islamic Jihad. Islamic Jihad. http://en.wikipedia.org/?curid=15158."
+  }
+}

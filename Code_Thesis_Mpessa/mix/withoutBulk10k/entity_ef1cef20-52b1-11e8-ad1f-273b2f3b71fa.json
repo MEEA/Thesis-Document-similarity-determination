@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=9461",
+  "eid" : "ef1cef20-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778480914,
+  "textBody" : "Eric S. Raymond (born 1957) is an American computer programmer and author.\n\nEric Raymond may also refer to:\n\n* Eric Scott Raymond (born 1956), American flight instructor and glider pilot\n* Eric Raymond (Jem), a fictional character in the 1980s cartoon television show Jem",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Eric Raymond (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=9461" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Eric S. Raymond (born 1957) is an American computer programmer and author.\n\nEric Raymond may also refer to:\n\n* Eric Scott Raymond (born 1956), American flight instructor and glider pilot\n* Eric Raymond (Jem), a fictional character in the 1980s cartoon television show Jem. Eric Raymond (disambiguation). http://en.wikipedia.org/?curid=9461."
+  }
+}

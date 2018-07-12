@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=9373",
+  "eid" : "eea91eb0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778480155,
+  "textBody" : "This article lists transport in Equatorial Guinea.\n\nRailways \n\nThere are currently no railways in Equatorial Guinea.\n\nMaps \n\n* [http://www.reliefweb.int/rw/fullMaps_Af.nsf/luFullMap/7C43B0E43BE341668525711C0063A7F9/$File/govfr_REF_gnq210206.pdf?OpenElement]\n\nHighways \n\nThere are 2,880 km (1,790 mi) of highways in Equatorial Guinea, the majority of which were not paved in 2002.  Equatorial Guinea's roads and highways are underdeveloped, but improving. During the rainy season, roads are frequently impassable without four-wheel drive vehicles.\n\nFurthermore, the country has recently built a 175-km long two-lane expressway that runs between Bata and President Obiang Nguema International Airport, and it is expected to soon reach the city of Mongomo, located on the border with Gabon.\n\nPorts and harbors \n\nThe chief ports are Bata and Mbini in Río Muni and Malabo and Luba on Bioko. Bata, modernized in the 1970s, can accommodate up to four vessels of 20,000\ntons each. There is regular service between Malabo and Bata.\n\nMerchant marine \n\nIn 2005, the country had one merchant ship (a cargo vessel of  or over) in service, totaling .\n\ntotal:\n1 ship ( or over) totaling /\nships by type:\ncargo ship 1 \n\nAirports \n\nThere are seven airports in Equatorial Guinea. Its main airport is Malabo International Airport in Punta Europa, Bioko Island. International flights operate from Malbo to Nigeria, Gabon, Benin, Ethiopia, Spain, Germany and France. Mainland Equatorial Guinea is primarily served by Bata Airport, north of Bata, which has domestic air services to Malabo.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Transport in Equatorial Guinea" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=9373" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "This article lists transport in Equatorial Guinea.\n\nRailways \n\nThere are currently no railways in Equatorial Guinea.\n\nMaps \n\n* [http://www.reliefweb.int/rw/fullMaps_Af.nsf/luFullMap/7C43B0E43BE341668525711C0063A7F9/$File/govfr_REF_gnq210206.pdf?OpenElement]\n\nHighways \n\nThere are 2,880 km (1,790 mi) of highways in Equatorial Guinea, the majority of which were not paved in 2002.  Equatorial Guinea's roads and highways are underdeveloped, but improving. During the rainy season, roads are frequently impassable without four-wheel drive vehicles.\n\nFurthermore, the country has recently built a 175-km long two-lane expressway that runs between Bata and President Obiang Nguema International Airport, and it is expected to soon reach the city of Mongomo, located on the border with Gabon.\n\nPorts and harbors \n\nThe chief ports are Bata and Mbini in Río Muni and Malabo and Luba on Bioko. Bata, modernized in the 1970s, can accommodate up to four vessels of 20,000\ntons each. There is regular service between Malabo and Bata.\n\nMerchant marine \n\nIn 2005, the country had one merchant ship (a cargo vessel of  or over) in service, totaling .\n\ntotal:\n1 ship ( or over) totaling /\nships by type:\ncargo ship 1 \n\nAirports \n\nThere are seven airports in Equatorial Guinea. Its main airport is Malabo International Airport in Punta Europa, Bioko Island. International flights operate from Malbo to Nigeria, Gabon, Benin, Ethiopia, Spain, Germany and France. Mainland Equatorial Guinea is primarily served by Bata Airport, north of Bata, which has domestic air services to Malabo. Transport in Equatorial Guinea. http://en.wikipedia.org/?curid=9373."
+  }
+}

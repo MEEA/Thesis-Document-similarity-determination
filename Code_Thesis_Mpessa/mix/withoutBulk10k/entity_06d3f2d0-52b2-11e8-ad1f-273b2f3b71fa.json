@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13140",
+  "eid" : "06d3f2d0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778520701,
+  "textBody" : "George Frederick of Brandenburg-Ansbach (; 5 April 1539 in Ansbach – 25 April 1603) was Margrave of Ansbach and Bayreuth, as well as Regent of Prussia. He was the son of George, Margrave of Brandenburg-Ansbach and a member of the House of Hohenzollern. He married firstly, in 1559, Elisabeth of Brandenburg-Küstrin (29 August 1540 – 8 March 1578). He married secondly, in 1579, Sophie of Brunswick-Lüneburg (30 October 1563 – 1639), daughter of William of Brunswick-Lüneburg and Dorothea of Denmark.\n\nGeorge Frederick reigned in his native Ansbach, Franconia and Jägerndorf, Upper Silesia since 1556 and, after the death of his cousin Albert Alcibiades in 1557, also in Kulmbach. He took over the administration of the Duchy of Prussia in 1577, when the then-reigning Duke Albert Frederick became ill.\n\nHe was the last of the older Franconia line of the House of Hohenzollern. Upon his death Ansbach and Kulmbach were inherited by younger princes of the Brandenburg line according to the House Treaty of Gera of 1598.\n\nGeorge Frederick rebuilt the palace and fortress Plassenburg, which was destroyed after the second margravian war  (1552–1554), as one of the most impressive residences of the renaissance in the German empire. He also built the fortress Wülzburg and the old palace in Bayreuth.\n\nDuring his reign between 1557 and 1603 in the Franconian territories of the Hohenzollern (Brandenburg-Ansbach and Brandenburg-Kulmbach) he kept peace, rebuilt cities and Castles, founded several schools and a University.\n\nAncestors",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "George Frederick, Margrave of Brandenburg-Ansbach" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13140" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "George Frederick of Brandenburg-Ansbach (; 5 April 1539 in Ansbach – 25 April 1603) was Margrave of Ansbach and Bayreuth, as well as Regent of Prussia. He was the son of George, Margrave of Brandenburg-Ansbach and a member of the House of Hohenzollern. He married firstly, in 1559, Elisabeth of Brandenburg-Küstrin (29 August 1540 – 8 March 1578). He married secondly, in 1579, Sophie of Brunswick-Lüneburg (30 October 1563 – 1639), daughter of William of Brunswick-Lüneburg and Dorothea of Denmark.\n\nGeorge Frederick reigned in his native Ansbach, Franconia and Jägerndorf, Upper Silesia since 1556 and, after the death of his cousin Albert Alcibiades in 1557, also in Kulmbach. He took over the administration of the Duchy of Prussia in 1577, when the then-reigning Duke Albert Frederick became ill.\n\nHe was the last of the older Franconia line of the House of Hohenzollern. Upon his death Ansbach and Kulmbach were inherited by younger princes of the Brandenburg line according to the House Treaty of Gera of 1598.\n\nGeorge Frederick rebuilt the palace and fortress Plassenburg, which was destroyed after the second margravian war  (1552–1554), as one of the most impressive residences of the renaissance in the German empire. He also built the fortress Wülzburg and the old palace in Bayreuth.\n\nDuring his reign between 1557 and 1603 in the Franconian territories of the Hohenzollern (Brandenburg-Ansbach and Brandenburg-Kulmbach) he kept peace, rebuilt cities and Castles, founded several schools and a University.\n\nAncestors. George Frederick, Margrave of Brandenburg-Ansbach. http://en.wikipedia.org/?curid=13140."
+  }
+}

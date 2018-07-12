@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=4062",
+  "eid" : "cb1e74e1-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778420526,
+  "textBody" : "Bilskirnir (Old Norse \"lightning-crack\"Orchard (1997:20).) is the hall of the god Thor in Norse mythology. Here he lives with his wife Sif and their children. According to Grímnismál, the hall is the greatest of buildings and contains 540 rooms, located in Asgard, as are all the dwellings of the gods, in the kingdom of Þrúðheimr (or Þrúðvangar according to Gylfaginning and Ynglinga saga).\n\nModern influence\n\n*The hall inspired the name of an Asgard starship commanded by Supreme Commander Thor, in the television series Stargate SG-1 named Beliskner.\n*There is a NS / pagan black metal  band from Hesse, Germany named Bilskirnir.\n\nNotes",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Bilskirnir" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=4062" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Bilskirnir (Old Norse \"lightning-crack\"Orchard (1997:20).) is the hall of the god Thor in Norse mythology. Here he lives with his wife Sif and their children. According to Grímnismál, the hall is the greatest of buildings and contains 540 rooms, located in Asgard, as are all the dwellings of the gods, in the kingdom of Þrúðheimr (or Þrúðvangar according to Gylfaginning and Ynglinga saga).\n\nModern influence\n\n*The hall inspired the name of an Asgard starship commanded by Supreme Commander Thor, in the television series Stargate SG-1 named Beliskner.\n*There is a NS / pagan black metal  band from Hesse, Germany named Bilskirnir.\n\nNotes. Bilskirnir. http://en.wikipedia.org/?curid=4062."
+  }
+}

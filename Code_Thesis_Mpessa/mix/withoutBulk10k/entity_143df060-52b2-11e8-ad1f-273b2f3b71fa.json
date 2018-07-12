@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14390",
+  "eid" : "143df060-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778543206,
+  "textBody" : "Hungarian may refer to:\n* Hungary, a country in Central Europe\n*  Kingdom of Hungary, state of Hungary, existing between 1000-1946\n* Hungarians, the ethnic group primarily associated with Hungary\n* Hungarian algorithm, a polynomial time algorithm for solving the assignment problem\n* Hungarian language, the language spoken by Hungarian people\n* Hungarian notation, a naming convention in computer programming\n* Hungarian cuisine",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Hungarian" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14390" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Hungarian may refer to:\n* Hungary, a country in Central Europe\n*  Kingdom of Hungary, state of Hungary, existing between 1000-1946\n* Hungarians, the ethnic group primarily associated with Hungary\n* Hungarian algorithm, a polynomial time algorithm for solving the assignment problem\n* Hungarian language, the language spoken by Hungarian people\n* Hungarian notation, a naming convention in computer programming\n* Hungarian cuisine. Hungarian. http://en.wikipedia.org/?curid=14390."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8578",
+  "eid" : "e8e0dd60-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778470454,
+  "textBody" : "The dyne (symbol dyn, from Greek δύναμις, dynamis, meaning power, force) is a unit of force specified in the centimetre–gram–second system of units (CGS), a predecessor of the modern SI. One dyne is equal to 10 micronewtons, 10−5\nN or to 10 nsn (nanosthenes) in the old metre–tonne–second system of units. Equivalently, the dyne is defined as \"the force required to accelerate a mass of one gram at a rate of one centimetre per second squared\": \n\n1 dyn 1 g⋅cm/s2 \n 10−5 kg⋅m/s2 = 10−5 N\n\n1 N 1 kg⋅m/s2 \n 105 g⋅cm/s2 = 105 dyn\n\nThe dyne per centimetre is a unit traditionally used to measure surface tension. For example, the surface tension of distilled water is 72 dyn/cm at 25 °C (77 °F);[http://www.dow.com/PublishedLiterature/dh_00e5/09002f13800e5fdb.pdf?filepath/PublishToInternet/InternetDOWCOM/surfactants/pdfs/noreg/119-01514.pdf&fromPage\nBasicSearch ] in SI units this is  or .  \n\nHistory \n\nThe names dyne and erg were first proposed as units of force and energy in 1861 by Joseph David Everett. The natural units listed in the same text (see Farad in this reference), are those of the metre-gram-second amu.\n\nThe names were reused in 1873 by a Committee of the British Association (of which Everett was reporter) that proposed using the centimetre-gram-second system for electrical and dynamical systems. becuse 1newton is equal to 10 ratio 5 dyne",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Dyne" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8578" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The dyne (symbol dyn, from Greek δύναμις, dynamis, meaning power, force) is a unit of force specified in the centimetre–gram–second system of units (CGS), a predecessor of the modern SI. One dyne is equal to 10 micronewtons, 10−5\nN or to 10 nsn (nanosthenes) in the old metre–tonne–second system of units. Equivalently, the dyne is defined as \"the force required to accelerate a mass of one gram at a rate of one centimetre per second squared\": \n\n1 dyn 1 g⋅cm/s2 \n 10−5 kg⋅m/s2 = 10−5 N\n\n1 N 1 kg⋅m/s2 \n 105 g⋅cm/s2 = 105 dyn\n\nThe dyne per centimetre is a unit traditionally used to measure surface tension. For example, the surface tension of distilled water is 72 dyn/cm at 25 °C (77 °F);[http://www.dow.com/PublishedLiterature/dh_00e5/09002f13800e5fdb.pdf?filepath/PublishToInternet/InternetDOWCOM/surfactants/pdfs/noreg/119-01514.pdf&fromPage\nBasicSearch ] in SI units this is  or .  \n\nHistory \n\nThe names dyne and erg were first proposed as units of force and energy in 1861 by Joseph David Everett. The natural units listed in the same text (see Farad in this reference), are those of the metre-gram-second amu.\n\nThe names were reused in 1873 by a Committee of the British Association (of which Everett was reporter) that proposed using the centimetre-gram-second system for electrical and dynamical systems. becuse 1newton is equal to 10 ratio 5 dyne. Dyne. http://en.wikipedia.org/?curid=8578."
+  }
+}

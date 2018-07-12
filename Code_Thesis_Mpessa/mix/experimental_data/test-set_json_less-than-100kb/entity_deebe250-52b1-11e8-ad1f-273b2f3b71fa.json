@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=6946",
+  "eid" : "deebe250-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778453749,
+  "textBody" : "Chirality (handedness) is a property of asymmetry.\n\nChirality may also refer to:\n\n* Chirality (chemistry), a property of molecules having a non-superimposable mirror image\n* Chirality (electromagnetism), an electromagnetic propagation in chiral media\n* Chirality (mathematics), the property of a figure not being identical to its mirror image\n* Chirality (physics), when a phenomenon is not identical to its mirror image\n* Chirality (journal), an academic journal dealing with chiral chemistry\n* Chirality (manga)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Chirality (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=6946" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Chirality (handedness) is a property of asymmetry.\n\nChirality may also refer to:\n\n* Chirality (chemistry), a property of molecules having a non-superimposable mirror image\n* Chirality (electromagnetism), an electromagnetic propagation in chiral media\n* Chirality (mathematics), the property of a figure not being identical to its mirror image\n* Chirality (physics), when a phenomenon is not identical to its mirror image\n* Chirality (journal), an academic journal dealing with chiral chemistry\n* Chirality (manga). Chirality (disambiguation). http://en.wikipedia.org/?curid=6946."
+  }
+}

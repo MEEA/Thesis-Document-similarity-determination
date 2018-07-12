@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=5874",
+  "eid" : "d85665f0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778442703,
+  "textBody" : "The Claudine series consists of four early novels by the French author Colette, published 1900-1904. Written in diary form, they describe the growth to maturity of a young girl, Claudine. Aged fifteen at the beginning of the first book, Claudine à l'école, the series describes her education and experiences as she grows up. All the books are written in first-person with the first three having Claudine herself as the narrator.  The last in the series, Claudine s'en va, introduces a new narrator, Annie.\n\nThe novels were written in the late 19th century in collaboration with Colette's first husband, the writer Henry Gauthier-Villars, better known by his nom-de-plume \"Willy\". There has been much speculation over the degree of involvement of both Colette and Willy in the writing of the Claudine novels, particularly as Willy was known for often using ghostwriters. Consequently, although the novels were originally attributed to Willy only and published under his name alone, they were later published under both names. After the death of Willy, Colette went to court to challenge her former husband's involvement in any of the writing, and subsequently had his name removed from the books. This decision however was overturned after her death, as Willy's son from a prior relationship, Jacques Gauthier-Villars, successfully sued to have his father's name restored.\n\nThe Claudine novels are thought to be roughly autobiographical. Whilst the stories were shocking in their time, this affectionate portrayal of a forthright and self-assured French girl who blossoms into a charismatic adult is nowadays more likely to be regarded as chastely sensual.\n\n* Claudine à l'école (1900) - Claudine at School\n* Claudine à Paris (1901) - Claudine in Paris\n* Claudine en ménage (1902) - Claudine Married\n* Claudine s'en va (1903) - Claudine and Annie",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Claudine (book series)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=5874" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The Claudine series consists of four early novels by the French author Colette, published 1900-1904. Written in diary form, they describe the growth to maturity of a young girl, Claudine. Aged fifteen at the beginning of the first book, Claudine à l'école, the series describes her education and experiences as she grows up. All the books are written in first-person with the first three having Claudine herself as the narrator.  The last in the series, Claudine s'en va, introduces a new narrator, Annie.\n\nThe novels were written in the late 19th century in collaboration with Colette's first husband, the writer Henry Gauthier-Villars, better known by his nom-de-plume \"Willy\". There has been much speculation over the degree of involvement of both Colette and Willy in the writing of the Claudine novels, particularly as Willy was known for often using ghostwriters. Consequently, although the novels were originally attributed to Willy only and published under his name alone, they were later published under both names. After the death of Willy, Colette went to court to challenge her former husband's involvement in any of the writing, and subsequently had his name removed from the books. This decision however was overturned after her death, as Willy's son from a prior relationship, Jacques Gauthier-Villars, successfully sued to have his father's name restored.\n\nThe Claudine novels are thought to be roughly autobiographical. Whilst the stories were shocking in their time, this affectionate portrayal of a forthright and self-assured French girl who blossoms into a charismatic adult is nowadays more likely to be regarded as chastely sensual.\n\n* Claudine à l'école (1900) - Claudine at School\n* Claudine à Paris (1901) - Claudine in Paris\n* Claudine en ménage (1902) - Claudine Married\n* Claudine s'en va (1903) - Claudine and Annie. Claudine (book series). http://en.wikipedia.org/?curid=5874."
+  }
+}

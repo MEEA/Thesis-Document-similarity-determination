@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=20378",
+  "eid" : "41d4c6c0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778619692,
+  "textBody" : "Modulus is the diminutive from the Latin word modus meaning measure or manner. It, or its plural moduli, may refer to:\n\nPhysics and engineering \n\n* Moduli (physics), scalar fields for which the potential energy function has continuous families of global minima\n* The measurement of standard pitch in the teeth of a rotating gear\n* Elastic modulus, a measure of stiffness\n* Young's modulus, a specific elastic modulus\n* The modulo operator (%, mod, etc.) of various programming languages\n\nMathematics \n\n* Moduli space, in mathematics a geometric space whose points represent algebro-geometric objects\n* Conformal modulus, a measure of the size of a curve family\n* Modulus of continuity, a function gauging the uniform continuity of a function\n* Modular arithmetic, the modulus being the value at which numbers \"wrap around\"\n* Similarly, the modulus of a Dirichlet character\n* Modulus (algebraic number theory), a formal product of places of a number field\n* The absolute value of a real or complex number ( |a | )\n* The modular function in the theory of Haar measure, often called simply the modulus\n\nOther uses\n\n* Modulus (gastropod) a genus of small sea snails\n* Modulus Guitars, musical instrument manufacturer\n* Modulus robot, a household robot",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Modulus" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=20378" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Modulus is the diminutive from the Latin word modus meaning measure or manner. It, or its plural moduli, may refer to:\n\nPhysics and engineering \n\n* Moduli (physics), scalar fields for which the potential energy function has continuous families of global minima\n* The measurement of standard pitch in the teeth of a rotating gear\n* Elastic modulus, a measure of stiffness\n* Young's modulus, a specific elastic modulus\n* The modulo operator (%, mod, etc.) of various programming languages\n\nMathematics \n\n* Moduli space, in mathematics a geometric space whose points represent algebro-geometric objects\n* Conformal modulus, a measure of the size of a curve family\n* Modulus of continuity, a function gauging the uniform continuity of a function\n* Modular arithmetic, the modulus being the value at which numbers \"wrap around\"\n* Similarly, the modulus of a Dirichlet character\n* Modulus (algebraic number theory), a formal product of places of a number field\n* The absolute value of a real or complex number ( |a | )\n* The modular function in the theory of Haar measure, often called simply the modulus\n\nOther uses\n\n* Modulus (gastropod) a genus of small sea snails\n* Modulus Guitars, musical instrument manufacturer\n* Modulus robot, a household robot. Modulus. http://en.wikipedia.org/?curid=20378."
+  }
+}

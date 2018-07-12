@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16887",
+  "eid" : "297a0900-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778578832,
+  "textBody" : "Kosher is food that may be consumed according to the Kashrut, or Jewish dietary laws.\n\nKosher may also refer to:\n* Kosher (band), an American punk rock band formed in 1995 in Warrensburg, Missouri\n* Kosher Gym, a fitness club on Coney Island Avenue in the Midwood section of Flatbush, Brooklyn",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Kosher (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16887" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Kosher is food that may be consumed according to the Kashrut, or Jewish dietary laws.\n\nKosher may also refer to:\n* Kosher (band), an American punk rock band formed in 1995 in Warrensburg, Missouri\n* Kosher Gym, a fitness club on Coney Island Avenue in the Midwood section of Flatbush, Brooklyn. Kosher (disambiguation). http://en.wikipedia.org/?curid=16887."
+  }
+}

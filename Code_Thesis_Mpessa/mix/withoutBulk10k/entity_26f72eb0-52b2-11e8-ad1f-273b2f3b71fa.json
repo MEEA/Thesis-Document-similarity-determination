@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16608",
+  "eid" : "26f72eb0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778574619,
+  "textBody" : "Keyboard may refer to:\n\nTyping\n\n* Typewriter keyboard, used to enter text onto paper \n* Computer keyboard, sets of keys used to input information to a computer\n** IBM PC keyboard\n** Apple Keyboard\n** Chorded keyboard, on which several keys are pressed together to enter a letter or command\n* Virtual keyboard, a software component that allows a user to enter characters\n\nMusic\n\n* Musical keyboard, a set of adjacent keys or levers used to play a musical instrument\n** Keyboard instrument, an instrument with a musical keyboard\n*** Electronic keyboard, a keyboard instrument in which key presses complete an electric circuit\n****MIDI keyboard, an electronic keyboard used to send MIDI data to a computer or synthesizer\n***Pedal keyboard, a foot-operated keyboard that is placed on the floor\n*** Keyboardist, a musician who plays keyboard instruments\n*** Keyboard (magazine), a publication about musical instruments such as the piano\n* Synthesizer, an electronic instrument that is commonly referred to as a keyboard",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Keyboard" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16608" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Keyboard may refer to:\n\nTyping\n\n* Typewriter keyboard, used to enter text onto paper \n* Computer keyboard, sets of keys used to input information to a computer\n** IBM PC keyboard\n** Apple Keyboard\n** Chorded keyboard, on which several keys are pressed together to enter a letter or command\n* Virtual keyboard, a software component that allows a user to enter characters\n\nMusic\n\n* Musical keyboard, a set of adjacent keys or levers used to play a musical instrument\n** Keyboard instrument, an instrument with a musical keyboard\n*** Electronic keyboard, a keyboard instrument in which key presses complete an electric circuit\n****MIDI keyboard, an electronic keyboard used to send MIDI data to a computer or synthesizer\n***Pedal keyboard, a foot-operated keyboard that is placed on the floor\n*** Keyboardist, a musician who plays keyboard instruments\n*** Keyboard (magazine), a publication about musical instruments such as the piano\n* Synthesizer, an electronic instrument that is commonly referred to as a keyboard. Keyboard. http://en.wikipedia.org/?curid=16608."
+  }
+}

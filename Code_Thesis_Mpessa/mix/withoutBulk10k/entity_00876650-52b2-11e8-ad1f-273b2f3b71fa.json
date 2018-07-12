@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12135",
+  "eid" : "00876650-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778510133,
+  "textBody" : "Grenada has no merchant marine.\n\nThere is one industrial railway, used by a rum distillery.\n\nHighways:\ntotal:\n1,127 km\npaved:\n687 km\nDrivers in Grenada drive on the left hand side of the road. Visitors not accustomed to this should be extra cautious when driving on the island's highways and roads. \nunpaved:\n440 km (1999 est.)\nGrenada's roads can pose hazardous driving conditions, including aggressive drivers and sharp curves.\n\nGrenada has several ports of entry including seaports, bays and harbours:\n*St. George's\n*St. David's Bay\n*Grenville\n*Hillsborough on Carriacou\n\nAirports:\n3 (1999 est.)\n\nAirports - with paved runways:\ntotal:\n3\n2,438 to 3,047 m:\n1\n914 to 1,523 m:\n1\nunder 914 m:\n1 (2006 est.)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Transport in Grenada" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12135" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Grenada has no merchant marine.\n\nThere is one industrial railway, used by a rum distillery.\n\nHighways:\ntotal:\n1,127 km\npaved:\n687 km\nDrivers in Grenada drive on the left hand side of the road. Visitors not accustomed to this should be extra cautious when driving on the island's highways and roads. \nunpaved:\n440 km (1999 est.)\nGrenada's roads can pose hazardous driving conditions, including aggressive drivers and sharp curves.\n\nGrenada has several ports of entry including seaports, bays and harbours:\n*St. George's\n*St. David's Bay\n*Grenville\n*Hillsborough on Carriacou\n\nAirports:\n3 (1999 est.)\n\nAirports - with paved runways:\ntotal:\n3\n2,438 to 3,047 m:\n1\n914 to 1,523 m:\n1\nunder 914 m:\n1 (2006 est.). Transport in Grenada. http://en.wikipedia.org/?curid=12135."
+  }
+}

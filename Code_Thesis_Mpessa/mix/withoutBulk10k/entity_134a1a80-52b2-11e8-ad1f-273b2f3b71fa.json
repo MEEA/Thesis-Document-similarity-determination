@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14277",
+  "eid" : "134a1a80-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778541608,
+  "textBody" : "Hebrew mythology may refer to:\n*pre-Judaistic Canaanite mythology\n*Jewish mythology\n**Messiah\n**Aggadah\n**Kabbalah",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Hebrew mythology" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14277" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Hebrew mythology may refer to:\n*pre-Judaistic Canaanite mythology\n*Jewish mythology\n**Messiah\n**Aggadah\n**Kabbalah. Hebrew mythology. http://en.wikipedia.org/?curid=14277."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=5252",
+  "eid" : "d371cde0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778434494,
+  "textBody" : "This is a lists of universities and colleges.\n\nSubject of study\n\n* Aerospace engineering\n* Agriculture\n* Art schools\n* Business\n* Business informatics\n* Chiropractic\n* Cognitive science\n* Computer engineering\n* Culture and cultural studies\n* Dietetics\n* Engineering\n* Environment\n* Forestry\n* Health psychology\n* Interaction design\n* Law\n* Maritime studies\n* Medicine\n* Music\n* Nanotechnology\n* Osteopathy\n* Pharmaceuticals\n* Sinology\n* Social Work\n\nInstitution type\n\n* Community colleges\n* For-profit universities and colleges\n* Land-grant universities\n* Liberal arts universities\n* National universities\n* Postgraduate-only institutions\n* Private universities\n* Public universities\n* Research universities\n* Technical universities\n* Sea-grant universities\n* Space-grant universities\n* State universities and colleges\n* Unaccredited universities\n\nLocation\n\n* Lists of universities and colleges by country\n* List of largest universities\n\nReligious affiliation\n\n* Assemblies of God\n* Catholic universities\n* Ecclesiastical universities\n* Benedictine colleges and universities\n* Jesuit institutions\n* Opus Dei universities\n* Pontifical universities\n* International Council of Universities of Saint Thomas Aquinas\n* Churches of Christ\n* Church of the Nazarene\n* Christian churches and churches of Christ\n* Islamic seminaries\n* Lutheran colleges and universities\n* Muslim educational institutions\n\nExtremities\n\n* Endowment\n* Largest universities by enrollment\n* Oldest madrasahs in continuous operation\n* Oldest universities in continuous operation\n\nOther\n\n* Colleges and universities named after people\n\nHistory\n\n* Medieval universities\n* Ancient universities in Britain and Ireland",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Lists of universities and colleges" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=5252" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "This is a lists of universities and colleges.\n\nSubject of study\n\n* Aerospace engineering\n* Agriculture\n* Art schools\n* Business\n* Business informatics\n* Chiropractic\n* Cognitive science\n* Computer engineering\n* Culture and cultural studies\n* Dietetics\n* Engineering\n* Environment\n* Forestry\n* Health psychology\n* Interaction design\n* Law\n* Maritime studies\n* Medicine\n* Music\n* Nanotechnology\n* Osteopathy\n* Pharmaceuticals\n* Sinology\n* Social Work\n\nInstitution type\n\n* Community colleges\n* For-profit universities and colleges\n* Land-grant universities\n* Liberal arts universities\n* National universities\n* Postgraduate-only institutions\n* Private universities\n* Public universities\n* Research universities\n* Technical universities\n* Sea-grant universities\n* Space-grant universities\n* State universities and colleges\n* Unaccredited universities\n\nLocation\n\n* Lists of universities and colleges by country\n* List of largest universities\n\nReligious affiliation\n\n* Assemblies of God\n* Catholic universities\n* Ecclesiastical universities\n* Benedictine colleges and universities\n* Jesuit institutions\n* Opus Dei universities\n* Pontifical universities\n* International Council of Universities of Saint Thomas Aquinas\n* Churches of Christ\n* Church of the Nazarene\n* Christian churches and churches of Christ\n* Islamic seminaries\n* Lutheran colleges and universities\n* Muslim educational institutions\n\nExtremities\n\n* Endowment\n* Largest universities by enrollment\n* Oldest madrasahs in continuous operation\n* Oldest universities in continuous operation\n\nOther\n\n* Colleges and universities named after people\n\nHistory\n\n* Medieval universities\n* Ancient universities in Britain and Ireland. Lists of universities and colleges. http://en.wikipedia.org/?curid=5252."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13648",
+  "eid" : "0c12b8d0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778529501,
+  "textBody" : "David Hilbert (1862–1943) was a German mathematician.\n\nHilbert may also refer to:\n\nPeople:\n* Hilbert (name), listing people with Hilbert as a given or family name\n\nPlaces:\n* Hilbert (crater), on the Moon\n* 12022 Hilbert, an asteroid\n* Hilbert, West Virginia, an unincorporated community\n* Hilbert, Wisconsin, a village\n* Hilbert Wildlife Management Area, West Virginia\n\nOther uses:\n* USS Hilbert (DE-742), a US Navy destroyer escort of World War II\n* Hilbert College, Hamburg, New York\n* Hilbert High School, Hilbert, Wisconsin",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Hilbert (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13648" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "David Hilbert (1862–1943) was a German mathematician.\n\nHilbert may also refer to:\n\nPeople:\n* Hilbert (name), listing people with Hilbert as a given or family name\n\nPlaces:\n* Hilbert (crater), on the Moon\n* 12022 Hilbert, an asteroid\n* Hilbert, West Virginia, an unincorporated community\n* Hilbert, Wisconsin, a village\n* Hilbert Wildlife Management Area, West Virginia\n\nOther uses:\n* USS Hilbert (DE-742), a US Navy destroyer escort of World War II\n* Hilbert College, Hamburg, New York\n* Hilbert High School, Hilbert, Wisconsin. Hilbert (disambiguation). http://en.wikipedia.org/?curid=13648."
+  }
+}

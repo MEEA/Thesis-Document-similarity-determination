@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=9071",
+  "eid" : "ec4a9540-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778476180,
+  "textBody" : "David was the second king of the united Kingdom of Israel.\n\nKing David may also refer to:\n\nPeople\n\n* David I (disambiguation)\n* David II (disambiguation)\n* David III of Tao\n* David IV of Georgia (1073–1125)\n* David V of Georgia (died 1155)\n* David VI of Georgia (1225–1293)\n* David VII of Georgia (1215–1270)\n* David VIII of Georgia (1273–1311)\n* David IX of Georgia (died 1360)\n* David X of Kartli (1482–1526)\n* Capleton (born 1967), Jamaican reggae artist also known as King David\n* Kalākaua (1836–1891), born David Laʻamea Kamanakapuʻu Mahinulani Nalaiaehuokalani Lumialani Kalākaua, the penultimate Hawaiian monarch\n\nOther uses\n\n* King David (film), 1985 biographical film starring Richard Gere\n* King David (musical), 1997 musical created by Tim Rice and Alan Menken\n* Le roi David, composition by Arthur Honegger\n* The King David Hotel in Jerusalem",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "King David (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=9071" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "David was the second king of the united Kingdom of Israel.\n\nKing David may also refer to:\n\nPeople\n\n* David I (disambiguation)\n* David II (disambiguation)\n* David III of Tao\n* David IV of Georgia (1073–1125)\n* David V of Georgia (died 1155)\n* David VI of Georgia (1225–1293)\n* David VII of Georgia (1215–1270)\n* David VIII of Georgia (1273–1311)\n* David IX of Georgia (died 1360)\n* David X of Kartli (1482–1526)\n* Capleton (born 1967), Jamaican reggae artist also known as King David\n* Kalākaua (1836–1891), born David Laʻamea Kamanakapuʻu Mahinulani Nalaiaehuokalani Lumialani Kalākaua, the penultimate Hawaiian monarch\n\nOther uses\n\n* King David (film), 1985 biographical film starring Richard Gere\n* King David (musical), 1997 musical created by Tim Rice and Alan Menken\n* Le roi David, composition by Arthur Honegger\n* The King David Hotel in Jerusalem. King David (disambiguation). http://en.wikipedia.org/?curid=9071."
+  }
+}

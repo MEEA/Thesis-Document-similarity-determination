@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14629",
+  "eid" : "16603420-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778546786,
+  "textBody" : "An inventor is a person who creates or discovers a new method, form, device or other useful means that becomes known as an invention. The word inventor comes from the Latin verb invenire, invent-, to find.[http://dictionary.reference.com/search?qinventor&db\n* inventor]. Dictionary.com. Retrieved 1 October 2017.[http://www.m-w.com/cgi-bin/dictionary?bookDictionary&va\ninvent invent].  Merriam-Webster. Retrieved 1 October 2017.  The system of patents was established to encourage inventors by granting limited-term, limited monopoly on inventions determined to be sufficiently novel, non-obvious, and useful. Although inventing is closely associated with science and engineering, inventors are not necessarily engineers nor scientists.*[https://www.britannica.com/topic/inventor Inventor]. Encyclopædia Britannica. Retrieved 1 October 2017.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Inventor" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14629" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "An inventor is a person who creates or discovers a new method, form, device or other useful means that becomes known as an invention. The word inventor comes from the Latin verb invenire, invent-, to find.[http://dictionary.reference.com/search?qinventor&db\n* inventor]. Dictionary.com. Retrieved 1 October 2017.[http://www.m-w.com/cgi-bin/dictionary?bookDictionary&va\ninvent invent].  Merriam-Webster. Retrieved 1 October 2017.  The system of patents was established to encourage inventors by granting limited-term, limited monopoly on inventions determined to be sufficiently novel, non-obvious, and useful. Although inventing is closely associated with science and engineering, inventors are not necessarily engineers nor scientists.*[https://www.britannica.com/topic/inventor Inventor]. Encyclopædia Britannica. Retrieved 1 October 2017. Inventor. http://en.wikipedia.org/?curid=14629."
+  }
+}

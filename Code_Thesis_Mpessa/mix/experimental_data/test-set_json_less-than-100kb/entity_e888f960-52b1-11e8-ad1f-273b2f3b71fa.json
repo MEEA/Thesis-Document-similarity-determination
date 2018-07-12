@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8529",
+  "eid" : "e888f960-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778469878,
+  "textBody" : "In propositional logic, disjunction eliminationhttp://www.cs.gsu.edu/~cscskp/Automata/proofs/node6.html (sometimes named proof by cases, case analysis, or or elimination), is the valid argument form and rule of inference that allows one to eliminate a disjunctive statement from a logical proof. It is the inference that  if a statement P implies a statement Q and a statement R also implies Q, then if either P or R is true, then Q has to be true. The reasoning is simple: since at least one of the statements P and R is true, and since either of them would be sufficient to entail Q, Q is certainly true.\n\nIf I'm inside, I have my wallet on me.\nIf I'm outside, I have my wallet on me.\nIt is true that either I'm inside or I'm outside.\nTherefore, I have my wallet on me.\n\nIt is the rule can be stated as:\n\n\\frac{P \\to Q, R \\to Q, P \\or R}{\\therefore Q}\n\nwhere the rule is that whenever instances of \"P \\to Q\", and \"R \\to Q\" and \"P \\or R\" appear on lines of a proof, \"Q\" can be placed on a subsequent line.\n\nFormal notation \n\nThe disjunction elimination rule may be written in sequent notation:\n\n(P \\to Q), (R \\to Q), (P \\or R) \\vdash Q\n\nwhere \\vdash is a metalogical symbol meaning that Q is a syntactic consequence of P \\to Q, and R \\to Q and P \\or R in some logical system;\n\nand expressed as a truth-functional tautology or theorem of propositional logic:\n\n(((P \\to Q) \\and (R \\to Q)) \\and (P \\or R)) \\to Q\n\nwhere P, Q, and R are propositions expressed in some formal system.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Disjunction elimination" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8529" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "In propositional logic, disjunction eliminationhttp://www.cs.gsu.edu/~cscskp/Automata/proofs/node6.html (sometimes named proof by cases, case analysis, or or elimination), is the valid argument form and rule of inference that allows one to eliminate a disjunctive statement from a logical proof. It is the inference that  if a statement P implies a statement Q and a statement R also implies Q, then if either P or R is true, then Q has to be true. The reasoning is simple: since at least one of the statements P and R is true, and since either of them would be sufficient to entail Q, Q is certainly true.\n\nIf I'm inside, I have my wallet on me.\nIf I'm outside, I have my wallet on me.\nIt is true that either I'm inside or I'm outside.\nTherefore, I have my wallet on me.\n\nIt is the rule can be stated as:\n\n\\frac{P \\to Q, R \\to Q, P \\or R}{\\therefore Q}\n\nwhere the rule is that whenever instances of \"P \\to Q\", and \"R \\to Q\" and \"P \\or R\" appear on lines of a proof, \"Q\" can be placed on a subsequent line.\n\nFormal notation \n\nThe disjunction elimination rule may be written in sequent notation:\n\n(P \\to Q), (R \\to Q), (P \\or R) \\vdash Q\n\nwhere \\vdash is a metalogical symbol meaning that Q is a syntactic consequence of P \\to Q, and R \\to Q and P \\or R in some logical system;\n\nand expressed as a truth-functional tautology or theorem of propositional logic:\n\n(((P \\to Q) \\and (R \\to Q)) \\and (P \\or R)) \\to Q\n\nwhere P, Q, and R are propositions expressed in some formal system. Disjunction elimination. http://en.wikipedia.org/?curid=8529."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17246",
+  "eid" : "2ae24b91-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778581193,
+  "textBody" : "Kateretes is a genus of sap beetle.\n\nTaxonomy\n\nKateretes\n*Subgenus Kateretes\n**K. pedicularius \n**K. pusillus\n*Subgenus Pulion\n**K. dalmatinus  \n**K. rufilabris",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Kateretes" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17246" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Kateretes is a genus of sap beetle.\n\nTaxonomy\n\nKateretes\n*Subgenus Kateretes\n**K. pedicularius \n**K. pusillus\n*Subgenus Pulion\n**K. dalmatinus  \n**K. rufilabris. Kateretes. http://en.wikipedia.org/?curid=17246."
+  }
+}

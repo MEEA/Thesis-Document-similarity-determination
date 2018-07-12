@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13800",
+  "eid" : "0d6d18b1-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778531771,
+  "textBody" : "Harrisonburg may refer to a place in the United States:\n\n* Harrisonburg, Louisiana\n* Harrisonburg, Virginia",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Harrisonburg" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13800" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Harrisonburg may refer to a place in the United States:\n\n* Harrisonburg, Louisiana\n* Harrisonburg, Virginia. Harrisonburg. http://en.wikipedia.org/?curid=13800."
+  }
+}

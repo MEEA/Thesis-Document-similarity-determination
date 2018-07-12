@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13526",
+  "eid" : "0a722830-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778526771,
+  "textBody" : "A partial list of Roman place names in Great Britain.\n\nThis list includes only names documented from Roman times. For a more complete list including later Latin names, see List of Latin place names in Britain.\n\nThe early sources for Roman names show numerous variants and misspellings of the Latin names. Moreover, one of the principal authorities, Ptolemy, wrote in Greek so names that he records need to be transliterated back into Latin to reveal the original form.\n\nNote that in general only one source is shown below for each name, although many of the names are recorded in more than one of the sources.\n\nLists\n\nGeographic regions\n\nPolitical divisions\n\nSettlement names",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "List of Roman place names in Britain" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13526" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A partial list of Roman place names in Great Britain.\n\nThis list includes only names documented from Roman times. For a more complete list including later Latin names, see List of Latin place names in Britain.\n\nThe early sources for Roman names show numerous variants and misspellings of the Latin names. Moreover, one of the principal authorities, Ptolemy, wrote in Greek so names that he records need to be transliterated back into Latin to reveal the original form.\n\nNote that in general only one source is shown below for each name, although many of the names are recorded in more than one of the sources.\n\nLists\n\nGeographic regions\n\nPolitical divisions\n\nSettlement names. List of Roman place names in Britain. http://en.wikipedia.org/?curid=13526."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15195",
+  "eid" : "1a8d14f0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778553791,
+  "textBody" : "Iduna can mean several things:\n* One of several modern anglicizations of the name of the Norse goddess Iðunn\n* A literature society co-founded by Guido von List called Iduna (literature society)\n* Asteroid 176 Iduna named after the goddess\n* The Iduna language of Papua New Guinea\n* A genus of tree warblers\n* The journal of the Geatish Society\n* Iduna, Wisconsin, an unincorporated community, US",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Iduna" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15195" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Iduna can mean several things:\n* One of several modern anglicizations of the name of the Norse goddess Iðunn\n* A literature society co-founded by Guido von List called Iduna (literature society)\n* Asteroid 176 Iduna named after the goddess\n* The Iduna language of Papua New Guinea\n* A genus of tree warblers\n* The journal of the Geatish Society\n* Iduna, Wisconsin, an unincorporated community, US. Iduna. http://en.wikipedia.org/?curid=15195."
+  }
+}

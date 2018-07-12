@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11295",
+  "eid" : "fae9b770-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778500711,
+  "textBody" : "Ferdinand of Habsburg may refer to:\n\n* Ferdinand I, Holy Roman Emperor (1503–1564)\n* Ferdinand II, Holy Roman Emperor (1578–1637)\n* Ferdinand III, Holy Roman Emperor (1608–1657)\n* Ferdinand I of Austria (1793–1875)\n*  Ferdinand Zvonimir von Habsburg  (1997)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Ferdinand of Habsburg" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11295" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Ferdinand of Habsburg may refer to:\n\n* Ferdinand I, Holy Roman Emperor (1503–1564)\n* Ferdinand II, Holy Roman Emperor (1578–1637)\n* Ferdinand III, Holy Roman Emperor (1608–1657)\n* Ferdinand I of Austria (1793–1875)\n*  Ferdinand Zvonimir von Habsburg  (1997). Ferdinand of Habsburg. http://en.wikipedia.org/?curid=11295."
+  }
+}

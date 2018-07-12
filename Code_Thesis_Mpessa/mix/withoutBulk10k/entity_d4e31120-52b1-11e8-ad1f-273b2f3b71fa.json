@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=5410",
+  "eid" : "d4e31120-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778436914,
+  "textBody" : "Cyperales is a name for an order of flowering plants.  As used in the Engler system (update, of 1964) and in the Wettstein system it consisted of only the single family. In the Cronquist system it is used for an order (placed in subclass Commelinidae) and circumscribed as (1981):\n\n* order Cyperales\n*: family Cyperaceae\n*: family Poaceae (or Gramineae)\n\nThe APG system assigns the plants involved to the order Poales.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Cyperales" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=5410" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Cyperales is a name for an order of flowering plants.  As used in the Engler system (update, of 1964) and in the Wettstein system it consisted of only the single family. In the Cronquist system it is used for an order (placed in subclass Commelinidae) and circumscribed as (1981):\n\n* order Cyperales\n*: family Cyperaceae\n*: family Poaceae (or Gramineae)\n\nThe APG system assigns the plants involved to the order Poales. Cyperales. http://en.wikipedia.org/?curid=5410."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1729",
+  "eid" : "bb727690-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778394233,
+  "textBody" : "Amyntas I (Greek: Ἀμύντας Aʹ; 498 BC) was a king of Macedon. He was a son of Alcetas I of Macedon. He married Eurydice and they had a son Alexander.\n\nAmyntas was a vassal of Darius I, king of the Persian Achaemenid Empire, since 512/511 BC.Joseph Roisman,Ian Worthington. [https://books.google.nl/books?idQsJ183uUDkMC&pg\nPA345&lpgPA345&dq\nAchaemenid+Persians+ruled+balkans&sourcebl&ots\nK7qasgPG1K&siglkiajbVuNcHEbI5Lz3MnvIUBG1U&hl\nnl&saX&ei\nsb6RVP2qHoPUaqeGgZgE&ved0CEkQ6AEwBQ#v\nonepage&qAchaemenid%20Persians%20ruled%20balkans&f\nfalse \"A companion to Ancient Macedonia\"] John Wiley & Sons, 2011.  pp 343-345\nThe history of Macedonia may be said to begin with Amyntas' reign. He was the first of its rulers to have diplomatic relations with other states.  \nIn particular, he entered into an alliance with Hippias of Athens, and when Hippias was driven out of Athens he offered him the territory of Anthemus on the Thermaic Gulf with the object of taking advantage of the feuds between the Greeks. \nHippias refused the offer and also rejected the offer of Iolcos, as Amyntas probably did not control Anthemous at that time, but was merely suggesting a plan of joint occupation to Hippias.Miltiades V. Chatzopoulos Macedonian Institutions Under the Kings: A historical and epigraphic study, p. 174, .",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Amyntas I of Macedon" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1729" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Amyntas I (Greek: Ἀμύντας Aʹ; 498 BC) was a king of Macedon. He was a son of Alcetas I of Macedon. He married Eurydice and they had a son Alexander.\n\nAmyntas was a vassal of Darius I, king of the Persian Achaemenid Empire, since 512/511 BC.Joseph Roisman,Ian Worthington. [https://books.google.nl/books?idQsJ183uUDkMC&pg\nPA345&lpgPA345&dq\nAchaemenid+Persians+ruled+balkans&sourcebl&ots\nK7qasgPG1K&siglkiajbVuNcHEbI5Lz3MnvIUBG1U&hl\nnl&saX&ei\nsb6RVP2qHoPUaqeGgZgE&ved0CEkQ6AEwBQ#v\nonepage&qAchaemenid%20Persians%20ruled%20balkans&f\nfalse \"A companion to Ancient Macedonia\"] John Wiley & Sons, 2011.  pp 343-345\nThe history of Macedonia may be said to begin with Amyntas' reign. He was the first of its rulers to have diplomatic relations with other states.  \nIn particular, he entered into an alliance with Hippias of Athens, and when Hippias was driven out of Athens he offered him the territory of Anthemus on the Thermaic Gulf with the object of taking advantage of the feuds between the Greeks. \nHippias refused the offer and also rejected the offer of Iolcos, as Amyntas probably did not control Anthemous at that time, but was merely suggesting a plan of joint occupation to Hippias.Miltiades V. Chatzopoulos Macedonian Institutions Under the Kings: A historical and epigraphic study, p. 174, . Amyntas I of Macedon. http://en.wikipedia.org/?curid=1729."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=9645",
+  "eid" : "f0c23ab0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778483675,
+  "textBody" : "Ev or EV may refer to:\n\nBusinesses\n\n* Electro-Voice, a United States manufacturer of amplifiers, microphones, other audio equipment and speakers\n* Expressjet Airlines (IATA designator)\n* Atlantic Southeast Airlines (IATA designator)\n\nIn economics\n\n* Embedded value, the present value of future profits for a life insurance company\n* Enterprise value, an economic measure reflecting the market value of a whole business\n* Equivalent variation, a measure of how much more money a consumer would pay before a price increase to avert the price increase\n\nPeople\n\n* Ev Rowan, American football player\n* Ev Williams, founder of Twitter\n\nScience, technology, and mathematics\n\n* Electronvolt (eV), in physics, a unit of energy\n* Electric vehicle, a vehicle using an electric motor instead of an internal combustion engine\n* Evolution-Data Optimized, a telecommunications standard for the wireless transmission of data through radio signals\n* Expected value, the mean of a random variable's probability distribution\n* Exposure value, a combination of shutter speed and aperture in photography\n* Extended Validation Certificate, a type of X.509 Certificate used in securing computer communications\n\nOther uses\n\n* Land of Ev, a fictional country in the Oz books of L. Frank Baum and his successors\n* Eingetragener Verein (\"registered association\"), a legal status for a registered voluntary association in Germany and Austria \n* Era vulgaris, Latin for the Common Era\n* Electoral votes\n* EuroVelo, a network of long-distance cycling routes in Europe\n* Eesti Vabariik, Estonian for Republic of Estonia",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "EV" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=9645" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Ev or EV may refer to:\n\nBusinesses\n\n* Electro-Voice, a United States manufacturer of amplifiers, microphones, other audio equipment and speakers\n* Expressjet Airlines (IATA designator)\n* Atlantic Southeast Airlines (IATA designator)\n\nIn economics\n\n* Embedded value, the present value of future profits for a life insurance company\n* Enterprise value, an economic measure reflecting the market value of a whole business\n* Equivalent variation, a measure of how much more money a consumer would pay before a price increase to avert the price increase\n\nPeople\n\n* Ev Rowan, American football player\n* Ev Williams, founder of Twitter\n\nScience, technology, and mathematics\n\n* Electronvolt (eV), in physics, a unit of energy\n* Electric vehicle, a vehicle using an electric motor instead of an internal combustion engine\n* Evolution-Data Optimized, a telecommunications standard for the wireless transmission of data through radio signals\n* Expected value, the mean of a random variable's probability distribution\n* Exposure value, a combination of shutter speed and aperture in photography\n* Extended Validation Certificate, a type of X.509 Certificate used in securing computer communications\n\nOther uses\n\n* Land of Ev, a fictional country in the Oz books of L. Frank Baum and his successors\n* Eingetragener Verein (\"registered association\"), a legal status for a registered voluntary association in Germany and Austria \n* Era vulgaris, Latin for the Common Era\n* Electoral votes\n* EuroVelo, a network of long-distance cycling routes in Europe\n* Eesti Vabariik, Estonian for Republic of Estonia. EV. http://en.wikipedia.org/?curid=9645."
+  }
+}

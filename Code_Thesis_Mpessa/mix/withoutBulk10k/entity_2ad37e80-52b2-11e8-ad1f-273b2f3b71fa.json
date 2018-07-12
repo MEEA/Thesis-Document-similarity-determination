@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17186",
+  "eid" : "2ad37e80-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778581096,
+  "textBody" : "The Klerer-May System is a programming language developed in the mid-1960s, oriented to numerical scientific programming, whose most notable feature is its two-dimensional syntax based on traditional mathematical notation.\n\nFor input and output, the Klerer-May system used a Friden Flexowriter modified to allow half-line motions for subscripts and superscripts. The character set included digits, upper-case letters, subsets of 14 lower-case Latin letters and 18 Greek letters, arithmetic operators (+ − × / |) and punctuation (. , ( )), and eight special line-drawing characters (resembling  ╲ ╱ ⎜ _ ⎨ ⎬ ˘ ⁔) used to construct multi-line brackets and symbols for summation, products, roots, and for multi-line division or fractions.\nThe system was intended to be forgiving of input mistakes, and easy to learn; its reference manual was only two pages.\n\nThe system was developed by Melvin Klerer and Jack May at Columbia University's Hudson Laboratories in Dobbs Ferry, New York, for the Office of Naval Research, and ran on GE-200 series computers.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Klerer-May System" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17186" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The Klerer-May System is a programming language developed in the mid-1960s, oriented to numerical scientific programming, whose most notable feature is its two-dimensional syntax based on traditional mathematical notation.\n\nFor input and output, the Klerer-May system used a Friden Flexowriter modified to allow half-line motions for subscripts and superscripts. The character set included digits, upper-case letters, subsets of 14 lower-case Latin letters and 18 Greek letters, arithmetic operators (+ − × / |) and punctuation (. , ( )), and eight special line-drawing characters (resembling  ╲ ╱ ⎜ _ ⎨ ⎬ ˘ ⁔) used to construct multi-line brackets and symbols for summation, products, roots, and for multi-line division or fractions.\nThe system was intended to be forgiving of input mistakes, and easy to learn; its reference manual was only two pages.\n\nThe system was developed by Melvin Klerer and Jack May at Columbia University's Hudson Laboratories in Dobbs Ferry, New York, for the Office of Naval Research, and ran on GE-200 series computers. Klerer-May System. http://en.wikipedia.org/?curid=17186."
+  }
+}

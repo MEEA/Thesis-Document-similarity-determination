@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10554",
+  "eid" : "f6109110-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778492577,
+  "textBody" : "A flageolet is a musical instrument.\n\nFlageolet may also refer to:\n* Flageolet (organ stop), a pipe organ component\n* The flageolet bean, a type of Common bean\n* A type of stringed instrument harmonic",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Flageolet (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10554" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A flageolet is a musical instrument.\n\nFlageolet may also refer to:\n* Flageolet (organ stop), a pipe organ component\n* The flageolet bean, a type of Common bean\n* A type of stringed instrument harmonic. Flageolet (disambiguation). http://en.wikipedia.org/?curid=10554."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13051",
+  "eid" : "063edec0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778519724,
+  "textBody" : "Gnumeric is a spreadsheet program that is part of the GNOME Free Software Desktop Project. Gnumeric version 1.0 was released on 31 December 2001. Gnumeric is distributed as free software under the GNU GPL license; it is intended to replace other spreadsheet programs such as Microsoft Excel (proprietary). Gnumeric was created and developed by Miguel de Icaza, but he has since moved on to other projects. The maintainer  was Jody Goldberg. Gnumeric releases were ported to Microsoft Windows until August 2014 (Last: 1.10.16 and 1.12.17). \n\nGnumeric has the ability to import and export data in several file formats, including CSV, Microsoft Excel (write support for the more recent .xlsx format is incomplete[http://projects.gnome.org/gnumeric/doc/sect-file-formats.shtml Gnumeric v1.10 manual, file formats]), Microsoft Works spreadsheets (*.wks),[http://projects.gnome.org/gnumeric/doc/sect-file-open-formats.shtml The file formats which Gnumeric can read]. Projects.gnome.org. Retrieved on 2013-12-09. HTML, LaTeX, Lotus 1-2-3, OpenDocument and Quattro Pro; its native format is the Gnumeric file format (.gnm or .gnumeric), an XML file compressed with gzip. It includes all of the spreadsheet functions of the North American edition of Microsoft Excel and many functions unique to Gnumeric. Pivot tables and Visual Basic for Applications macros are not yet supported.\n\nGnumeric's accuracy has helped it to establish a niche for statistical analysis and other scientific tasks. For improving the accuracy of Gnumeric, the developers are cooperating with the R Project.\n\nGnumeric has a different interface for the creation and editing of graphs from other spreadsheet software. For editing a graph, Gnumeric displays a window where all the elements of the graph are listed. Other spreadsheet programs typically require the user to select the individual elements of the graph in the graph itself in order to edit them.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Gnumeric" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13051" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Gnumeric is a spreadsheet program that is part of the GNOME Free Software Desktop Project. Gnumeric version 1.0 was released on 31 December 2001. Gnumeric is distributed as free software under the GNU GPL license; it is intended to replace other spreadsheet programs such as Microsoft Excel (proprietary). Gnumeric was created and developed by Miguel de Icaza, but he has since moved on to other projects. The maintainer  was Jody Goldberg. Gnumeric releases were ported to Microsoft Windows until August 2014 (Last: 1.10.16 and 1.12.17). \n\nGnumeric has the ability to import and export data in several file formats, including CSV, Microsoft Excel (write support for the more recent .xlsx format is incomplete[http://projects.gnome.org/gnumeric/doc/sect-file-formats.shtml Gnumeric v1.10 manual, file formats]), Microsoft Works spreadsheets (*.wks),[http://projects.gnome.org/gnumeric/doc/sect-file-open-formats.shtml The file formats which Gnumeric can read]. Projects.gnome.org. Retrieved on 2013-12-09. HTML, LaTeX, Lotus 1-2-3, OpenDocument and Quattro Pro; its native format is the Gnumeric file format (.gnm or .gnumeric), an XML file compressed with gzip. It includes all of the spreadsheet functions of the North American edition of Microsoft Excel and many functions unique to Gnumeric. Pivot tables and Visual Basic for Applications macros are not yet supported.\n\nGnumeric's accuracy has helped it to establish a niche for statistical analysis and other scientific tasks. For improving the accuracy of Gnumeric, the developers are cooperating with the R Project.\n\nGnumeric has a different interface for the creation and editing of graphs from other spreadsheet software. For editing a graph, Gnumeric displays a window where all the elements of the graph are listed. Other spreadsheet programs typically require the user to select the individual elements of the graph in the graph itself in order to edit them. Gnumeric. http://en.wikipedia.org/?curid=13051."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1754",
+  "eid" : "bb803230-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778394323,
+  "textBody" : "Andrea Andreani (1540–1623) was an Italian engraver on wood, who was among the first printmakers in Italy to use chiaroscuro, which required multiple colours.\n \nBorn and generally active in Mantua about 1540 (Brulliot says 1560) and died at Rome in 1623. His engravings are scarce and valuable, and are chiefly copies of Mantegna, Albrecht Dürer, Parmigianino and Titian. The most remarkable of his works are Mercury and Ignorance, the Deluge, Pharaoh's Host Drowned in the Red Sea (after Titian), the Triumph of Caesar (after Mantegna), and Christ retiring from the judgment-seat of Pilate after a relief by Giambologna. He was active 1584–1610 in Florence.ULAN",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Andrea Andreani" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1754" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Andrea Andreani (1540–1623) was an Italian engraver on wood, who was among the first printmakers in Italy to use chiaroscuro, which required multiple colours.\n \nBorn and generally active in Mantua about 1540 (Brulliot says 1560) and died at Rome in 1623. His engravings are scarce and valuable, and are chiefly copies of Mantegna, Albrecht Dürer, Parmigianino and Titian. The most remarkable of his works are Mercury and Ignorance, the Deluge, Pharaoh's Host Drowned in the Red Sea (after Titian), the Triumph of Caesar (after Mantegna), and Christ retiring from the judgment-seat of Pilate after a relief by Giambologna. He was active 1584–1610 in Florence.ULAN. Andrea Andreani. http://en.wikipedia.org/?curid=1754."
+  }
+}

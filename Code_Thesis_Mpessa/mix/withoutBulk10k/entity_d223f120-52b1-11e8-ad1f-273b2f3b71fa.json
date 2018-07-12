@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=5041",
+  "eid" : "d223f120-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778432306,
+  "textBody" : "Bihar is a state in India.\n\nBihar may also refer to :\n\n; Places in India:\n* Bihar Province, former colonial province in British India\n* Bihar Subah, a Bihar-based Mughal imperial province\n* Bihar Sharif, headquarters of Nalanda district, Bihar, India\n* Bihar River, a border river of Palamu district, Jharkhand, India\n; elsewhere :\n* Bihar County, a historic county of the Kingdom of Hungary\n* Bihor County (Bihar County in Hungarian), a county of current-day Romania\n* Bihar, the Hungarian name for Biharia Commune, Bihor County, Romania\n\n; Persons :\n* Bihar (king), a khagan of the Khazars\n* Bihar (surname), a surname",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Bihar (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=5041" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Bihar is a state in India.\n\nBihar may also refer to :\n\n; Places in India:\n* Bihar Province, former colonial province in British India\n* Bihar Subah, a Bihar-based Mughal imperial province\n* Bihar Sharif, headquarters of Nalanda district, Bihar, India\n* Bihar River, a border river of Palamu district, Jharkhand, India\n; elsewhere :\n* Bihar County, a historic county of the Kingdom of Hungary\n* Bihor County (Bihar County in Hungarian), a county of current-day Romania\n* Bihar, the Hungarian name for Biharia Commune, Bihor County, Romania\n\n; Persons :\n* Bihar (king), a khagan of the Khazars\n* Bihar (surname), a surname. Bihar (disambiguation). http://en.wikipedia.org/?curid=5041."
+  }
+}

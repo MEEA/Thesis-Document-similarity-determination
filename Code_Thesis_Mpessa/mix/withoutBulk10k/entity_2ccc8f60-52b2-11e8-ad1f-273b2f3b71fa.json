@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17573",
+  "eid" : "2ccc8f60-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778584406,
+  "textBody" : "LMS may refer to:\n\nScience and technology\n\n* Labeled magnitude scale, a scaling technique\n* Learning management system, software used in education\n* Least mean squares filter, producing least mean square error\n* Leiomyosarcoma, a rare form of cancer\n* Lenz microphthalmia syndrome\n* Library management system, an integrated library system\n* Licentiate in Medicine and Surgery, a medical degree in India\n* LMS color space\n* Laboratory information management system  (LIMS)\n\nOrganisations\n\n* Latin Mass Society\n* London Mathematical Society\n* London, Midland and Scottish Railway\n* London Missionary Society\n* League of Legends Master Series, a Hong Kong, Macau, and Taiwan sports league\n\nEntertainment\n\n* Last man standing (gaming), a type of video game\n* LMS, a hip hop band of children of Denroy Morgan\n\nOther uses\n\n* Leamington Spa railway station (station code), England\n* Local Mitigation Strategy\n* Local Management of Schools in the Education Reform Act 1988, removing schools from local authority control",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "LMS" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17573" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "LMS may refer to:\n\nScience and technology\n\n* Labeled magnitude scale, a scaling technique\n* Learning management system, software used in education\n* Least mean squares filter, producing least mean square error\n* Leiomyosarcoma, a rare form of cancer\n* Lenz microphthalmia syndrome\n* Library management system, an integrated library system\n* Licentiate in Medicine and Surgery, a medical degree in India\n* LMS color space\n* Laboratory information management system  (LIMS)\n\nOrganisations\n\n* Latin Mass Society\n* London Mathematical Society\n* London, Midland and Scottish Railway\n* London Missionary Society\n* League of Legends Master Series, a Hong Kong, Macau, and Taiwan sports league\n\nEntertainment\n\n* Last man standing (gaming), a type of video game\n* LMS, a hip hop band of children of Denroy Morgan\n\nOther uses\n\n* Leamington Spa railway station (station code), England\n* Local Mitigation Strategy\n* Local Management of Schools in the Education Reform Act 1988, removing schools from local authority control. LMS. http://en.wikipedia.org/?curid=17573."
+  }
+}

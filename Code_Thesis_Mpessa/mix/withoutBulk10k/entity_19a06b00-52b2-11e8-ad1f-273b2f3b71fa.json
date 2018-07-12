@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15044",
+  "eid" : "19a06b00-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778552240,
+  "textBody" : "Irish most commonly refers to:\n\n* Someone or something of, from, or related to:\n** Ireland, an island situated off the north-western coast of continental Europe\n** Northern Ireland, a constituent unit of the United Kingdom of Great Britain and Northern Ireland\n** Republic of Ireland, a sovereign state\n* Irish language, also known as Irish Gaelic, a Goidelic language spoken in Ireland\n* Irish people, people of Irish ethnicity, people born in Ireland and people who hold Irish citizenship\n*Lace curtain and shanty Irish, terms that were commonly used in the 19th and 20th centuries to categorize Irish people, particularly Irish Americans, by social class (\"lace curtain Irish\" were well off, while the \"shanty Irish\" were poor)\n \nIrish may also refer to:\n\nPlaces\n\n* Irish Creek (Kansas), a stream in Kansas\n* Irish Creek (South Dakota), a stream in South Dakota\n* Irish Lake, Watonwan County, Minnesota\n* Irish Sea, the body of water which separates the islands of Ireland and Great Britain\n\nArt, entertainment, and media\n\n*Irish Eyes, the fifth of the Nuala Anne McGrail series of mystery novels by Roman Catholic priest and author Father Andrew M. Greeley\n* Irish Eyes Are Smiling (1944), a musical film which chronicles the life of popular Irish song composer Ernest R. Ball\n\nOther uses\n\n* Irish (Junior Cert), a subject of the Junior Cycle examination in secondary schools in the Republic of Ireland\n* Irish (name), a given name or family name\n* Irish lace\n* Irish nationality law, law determining who can become an Irish citizen\n* Irish whiskey, a beverage originating in Ireland",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Irish" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15044" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Irish most commonly refers to:\n\n* Someone or something of, from, or related to:\n** Ireland, an island situated off the north-western coast of continental Europe\n** Northern Ireland, a constituent unit of the United Kingdom of Great Britain and Northern Ireland\n** Republic of Ireland, a sovereign state\n* Irish language, also known as Irish Gaelic, a Goidelic language spoken in Ireland\n* Irish people, people of Irish ethnicity, people born in Ireland and people who hold Irish citizenship\n*Lace curtain and shanty Irish, terms that were commonly used in the 19th and 20th centuries to categorize Irish people, particularly Irish Americans, by social class (\"lace curtain Irish\" were well off, while the \"shanty Irish\" were poor)\n \nIrish may also refer to:\n\nPlaces\n\n* Irish Creek (Kansas), a stream in Kansas\n* Irish Creek (South Dakota), a stream in South Dakota\n* Irish Lake, Watonwan County, Minnesota\n* Irish Sea, the body of water which separates the islands of Ireland and Great Britain\n\nArt, entertainment, and media\n\n*Irish Eyes, the fifth of the Nuala Anne McGrail series of mystery novels by Roman Catholic priest and author Father Andrew M. Greeley\n* Irish Eyes Are Smiling (1944), a musical film which chronicles the life of popular Irish song composer Ernest R. Ball\n\nOther uses\n\n* Irish (Junior Cert), a subject of the Junior Cycle examination in secondary schools in the Republic of Ireland\n* Irish (name), a given name or family name\n* Irish lace\n* Irish nationality law, law determining who can become an Irish citizen\n* Irish whiskey, a beverage originating in Ireland. Irish. http://en.wikipedia.org/?curid=15044."
+  }
+}

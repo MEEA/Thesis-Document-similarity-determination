@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16718",
+  "eid" : "27d09ec0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778576044,
+  "textBody" : "Kappa is a letter of the Greek alphabet.\n\nKappa may also refer to:\n\nMeasurement\n\n* Cohen's kappa, also known as Kappa statistic\n* Fleiss' kappa, another measure of inter-annotator agreement\n* Kappa number, a measure of lignin content in wood pulp\n\nCompanies\n\n* Kappa (company), an Italian sportswear company\n* Kappa Publishing Group\n\nAutomotive\n\n* GM Kappa platform\n* Lancia Kappa, an executive car\n* Hyundai Kappa engine\n\nOther uses \n\n* Kappa (folklore), a Japanese turtle-like humanoid\n* Kappa (novel), a novel by Ryūnosuke Akutagawa\n* Kappa (Dungeons & Dragons), a game creature\n* Kappa (rocket)\n* Kappa, Illinois, a village\n* Kappa TV, a TV channel based in Kerala\n* Knowledge and Power Preparatory Academy IV or KAPPA IV, a middle school in the Bronx, New York City\n* \"Kappa\", a 1999 song by Mogwai from Come On Die Young",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Kappa (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16718" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Kappa is a letter of the Greek alphabet.\n\nKappa may also refer to:\n\nMeasurement\n\n* Cohen's kappa, also known as Kappa statistic\n* Fleiss' kappa, another measure of inter-annotator agreement\n* Kappa number, a measure of lignin content in wood pulp\n\nCompanies\n\n* Kappa (company), an Italian sportswear company\n* Kappa Publishing Group\n\nAutomotive\n\n* GM Kappa platform\n* Lancia Kappa, an executive car\n* Hyundai Kappa engine\n\nOther uses \n\n* Kappa (folklore), a Japanese turtle-like humanoid\n* Kappa (novel), a novel by Ryūnosuke Akutagawa\n* Kappa (Dungeons & Dragons), a game creature\n* Kappa (rocket)\n* Kappa, Illinois, a village\n* Kappa TV, a TV channel based in Kerala\n* Knowledge and Power Preparatory Academy IV or KAPPA IV, a middle school in the Bronx, New York City\n* \"Kappa\", a 1999 song by Mogwai from Come On Die Young. Kappa (disambiguation). http://en.wikipedia.org/?curid=16718."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14008",
+  "eid" : "10e50160-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778537590,
+  "textBody" : "Hickory is a type of tree (Carya species) found in North America and East Asia.\n\nHickory may also refer to:\n\nPlaces\n\nIn the United States:\n* Hickory, Alabama, a place in Pickens County\n* Hickory, Kentucky\n* Hickory, Louisiana, a place in St. Tammany Parish, Louisiana\n* Hickory, Maryland, a place in Harford County, Maryland\n* Hickory, Mississippi\n* Hickory County, Missouri\n* Hickory, North Carolina\n** Hickory Motor Speedway, a racetrack that used to host NASCAR races\n* Hickory, Oklahoma\n* Hickory, Pennsylvania\n* Hickory, Tennessee, a place in Sevier County, Tennessee\n* Hickory, Virginia\n\nOther uses \n\n* Hickory cloth, a hard-wearing cotton twill similar to denim, used for North American workshirts and coveralls\n* Hickory golf, a form of golf played with hickory-shafted golf clubs\n* \"Old Hickory (disambiguation)\", the nickname of Andrew Jackson (1767–1845), the seventh President of the United States\n* Hickory Records, a record label\n* Hickory, portrayed by Jack Haley, the Tin Man's Kansas counterpart in MGM's 1939 film The Wizard of Oz",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Hickory (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14008" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Hickory is a type of tree (Carya species) found in North America and East Asia.\n\nHickory may also refer to:\n\nPlaces\n\nIn the United States:\n* Hickory, Alabama, a place in Pickens County\n* Hickory, Kentucky\n* Hickory, Louisiana, a place in St. Tammany Parish, Louisiana\n* Hickory, Maryland, a place in Harford County, Maryland\n* Hickory, Mississippi\n* Hickory County, Missouri\n* Hickory, North Carolina\n** Hickory Motor Speedway, a racetrack that used to host NASCAR races\n* Hickory, Oklahoma\n* Hickory, Pennsylvania\n* Hickory, Tennessee, a place in Sevier County, Tennessee\n* Hickory, Virginia\n\nOther uses \n\n* Hickory cloth, a hard-wearing cotton twill similar to denim, used for North American workshirts and coveralls\n* Hickory golf, a form of golf played with hickory-shafted golf clubs\n* \"Old Hickory (disambiguation)\", the nickname of Andrew Jackson (1767–1845), the seventh President of the United States\n* Hickory Records, a record label\n* Hickory, portrayed by Jack Haley, the Tin Man's Kansas counterpart in MGM's 1939 film The Wizard of Oz. Hickory (disambiguation). http://en.wikipedia.org/?curid=14008."
+  }
+}

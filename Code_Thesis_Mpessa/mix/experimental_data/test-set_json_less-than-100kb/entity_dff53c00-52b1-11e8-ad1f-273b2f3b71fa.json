@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7103",
+  "eid" : "dff53c00-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778455488,
+  "textBody" : "CGMP is an initialism. It can refer to:\n\n*cyclic guanosine monophosphate (cGMP)\n*current good manufacturing practice (cGMP)\n*CGMP, the Cisco version of Internet Group Management Protocol snooping\n*caseinoglycomacropeptide (CGMP) or caseinomacropeptide; see K-Casein\n*Competitive Guaranteed Maximum Price",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "CGMP" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7103" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "CGMP is an initialism. It can refer to:\n\n*cyclic guanosine monophosphate (cGMP)\n*current good manufacturing practice (cGMP)\n*CGMP, the Cisco version of Internet Group Management Protocol snooping\n*caseinoglycomacropeptide (CGMP) or caseinomacropeptide; see K-Casein\n*Competitive Guaranteed Maximum Price. CGMP. http://en.wikipedia.org/?curid=7103."
+  }
+}

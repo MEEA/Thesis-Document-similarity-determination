@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17091",
+  "eid" : "2a870c30-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778580595,
+  "textBody" : "In computer performance testing, Khornerstone is a multipurpose benchmark from Workstation Labs used in various periodicals such as UNIX Review.\n\nThe benchmark consists of 22 separate tests, including public domain components (such as Sieve and Dhrystone) as well as proprietary components. Since it contains proprietary components, the source is not free. The results of the 22 tests are normalized, producing a result measured in \"Khornerstones\".\n\nThe benchmark was introduced in 1986 and was commonly used until the mid-1990s.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Khornerstone" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17091" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "In computer performance testing, Khornerstone is a multipurpose benchmark from Workstation Labs used in various periodicals such as UNIX Review.\n\nThe benchmark consists of 22 separate tests, including public domain components (such as Sieve and Dhrystone) as well as proprietary components. Since it contains proprietary components, the source is not free. The results of the 22 tests are normalized, producing a result measured in \"Khornerstones\".\n\nThe benchmark was introduced in 1986 and was commonly used until the mid-1990s. Khornerstone. http://en.wikipedia.org/?curid=17091."
+  }
+}

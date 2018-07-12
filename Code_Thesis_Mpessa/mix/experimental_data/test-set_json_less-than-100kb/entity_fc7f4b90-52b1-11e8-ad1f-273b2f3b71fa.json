@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11577",
+  "eid" : "fc7f4b90-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778503369,
+  "textBody" : "FSB may refer to:\n\nGovernment and politics\n\n* Federal Security Service (Russian: , ')\n* Bolivian Socialist Falange (Spanish: '), a Bolivian political party\n* Trade Union Social Citizens List, (Danish: '), a Danish political group\n\nBanking and finance \n\n* Financial Stability Board, an international group of financial authorities\n* Swedbank, formerly FöreningsSparbanken, a retail banking group\n* Federal savings bank, a class of bank in the United States\n* Financial Services Board (South Africa), a financial regulatory authority\n* First Somali Bank\n\nEducation \n\n* Farmer School of Business at Miami University in the U.S. state of Ohio\n* Friends School of Baltimore, a Quaker institution in Baltimore\n* Fuqua School of Business at Duke University in the U.S. state of North Carolina\n\nScience and technology\n\n* Front-side bus\n* Fast syndrome-based hash\n* Brinjal fruit and shoot borer (Leucinodes orbonalis), a moth species\n* Fellow of the Society of Biology\n\nOther uses\n\n* FSB (band), a Bulgarian band\n* Federation of Small Businesses, a British lobbying group\n* Fire support base\n* Fishbourne railway station, in England\n* Foreign Service brat\n* Fortune Small Business, a defunct magazine",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "FSB" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11577" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "FSB may refer to:\n\nGovernment and politics\n\n* Federal Security Service (Russian: , ')\n* Bolivian Socialist Falange (Spanish: '), a Bolivian political party\n* Trade Union Social Citizens List, (Danish: '), a Danish political group\n\nBanking and finance \n\n* Financial Stability Board, an international group of financial authorities\n* Swedbank, formerly FöreningsSparbanken, a retail banking group\n* Federal savings bank, a class of bank in the United States\n* Financial Services Board (South Africa), a financial regulatory authority\n* First Somali Bank\n\nEducation \n\n* Farmer School of Business at Miami University in the U.S. state of Ohio\n* Friends School of Baltimore, a Quaker institution in Baltimore\n* Fuqua School of Business at Duke University in the U.S. state of North Carolina\n\nScience and technology\n\n* Front-side bus\n* Fast syndrome-based hash\n* Brinjal fruit and shoot borer (Leucinodes orbonalis), a moth species\n* Fellow of the Society of Biology\n\nOther uses\n\n* FSB (band), a Bulgarian band\n* Federation of Small Businesses, a British lobbying group\n* Fire support base\n* Fishbourne railway station, in England\n* Foreign Service brat\n* Fortune Small Business, a defunct magazine. FSB. http://en.wikipedia.org/?curid=11577."
+  }
+}

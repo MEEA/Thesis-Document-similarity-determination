@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19209",
+  "eid" : "38c374f0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778604479,
+  "textBody" : "Mauritius does not have a standing army. All military, police, and security functions are carried out by 10,000 active-duty personnel under the command of the Commissioner of Police. The 8,000-member National Police Force is responsible for domestic law enforcement. The 1,500-member Special Mobile Force (SMF) and the 500-member National Coast Guard are the only two paramilitary units in Mauritius. Both units are composed of police officers on lengthy rotations to those services.IISS Military Balance 2007IISS Military Balance 2010World Aircraft Information Files; Brightstar Publishing; File 331, Sheet 4\n\nOrganisation and training\n\nThe SMF is organized as a ground infantry unit, with six rifle companies, two mobilisable paramilitary companies, and one engineer company, according to the IISS Military Balance 2007. It engages extensively in civic works projects. The Coast Guard has four patrol craft for search-and-rescue missions and surveillance of territorial waters. A 100-member police helicopter squadron assists in search-and-rescue operations. There also is a special supporting unit of 270 members trained in riot control.\n\nMilitary advisers from India and United Kingdom work with the SMF, the Coast Guard, and the Police Helicopter Unit, and Mauritian police officers are trained in India, United Kingdom and France. India and the United States provide training to Mauritian Coast Guard officers in such fields as seamanship and maritime law enforcement.\n\nEquipment\n\nSmall arms\n\nAircraft\n\nIn March 1990 one  radar equipped HAL Do 228-101 was ordered from India to form a maritime surveillance element by July 1991. This aircraft was reinforced in 1992 by a single twin turbo prop BN-2T Maritime Defender for coastal patrol work. A HAL Do 228 -202 was added to the fleet in 2004\n\nVessels\n\nShip inventory",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Military of Mauritius" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19209" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Mauritius does not have a standing army. All military, police, and security functions are carried out by 10,000 active-duty personnel under the command of the Commissioner of Police. The 8,000-member National Police Force is responsible for domestic law enforcement. The 1,500-member Special Mobile Force (SMF) and the 500-member National Coast Guard are the only two paramilitary units in Mauritius. Both units are composed of police officers on lengthy rotations to those services.IISS Military Balance 2007IISS Military Balance 2010World Aircraft Information Files; Brightstar Publishing; File 331, Sheet 4\n\nOrganisation and training\n\nThe SMF is organized as a ground infantry unit, with six rifle companies, two mobilisable paramilitary companies, and one engineer company, according to the IISS Military Balance 2007. It engages extensively in civic works projects. The Coast Guard has four patrol craft for search-and-rescue missions and surveillance of territorial waters. A 100-member police helicopter squadron assists in search-and-rescue operations. There also is a special supporting unit of 270 members trained in riot control.\n\nMilitary advisers from India and United Kingdom work with the SMF, the Coast Guard, and the Police Helicopter Unit, and Mauritian police officers are trained in India, United Kingdom and France. India and the United States provide training to Mauritian Coast Guard officers in such fields as seamanship and maritime law enforcement.\n\nEquipment\n\nSmall arms\n\nAircraft\n\nIn March 1990 one  radar equipped HAL Do 228-101 was ordered from India to form a maritime surveillance element by July 1991. This aircraft was reinforced in 1992 by a single twin turbo prop BN-2T Maritime Defender for coastal patrol work. A HAL Do 228 -202 was added to the fleet in 2004\n\nVessels\n\nShip inventory. Military of Mauritius. http://en.wikipedia.org/?curid=19209."
+  }
+}

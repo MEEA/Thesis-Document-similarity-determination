@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2372",
+  "eid" : "bfb8f9e0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778401406,
+  "textBody" : "ALF Tales is a 30-minute Saturday morning animated series that aired on NBC from September 10, 1988 to December 9, 1989. The show is a spin-off of ALF: The Animated Series which featured characters from that series play various characters from fairy tales. The fairy tale was usually altered for comedic effect in a manner akin to Fractured Fairy Tales.\n\nEach story typically spoofs a film genre, such as the \"Cinderella\" episode done as an Elvis movie. Some episodes featured a \"fourth wall\" effect where ALF is backstage preparing for the episode, and Rob Cowan would appear drawn as a TV executive (who introduced himself as \"Roger Cowan, network executive\") to try to brief ALF on how to improve this episode. For instance Cowan once told ALF who was readying for a medieval themed episode that \"less than 2% of our audience lives in the Dark Ages\".\n\nCast\n\n*Paul Fusco - ALF (Gordon Shumway)/Rick Fusterman\n*Tabitha St. Germain (as Paulina Gillis) - Augie/Rhonda\n*Peggy Mahon - Flo\n*Thick Wilson - Larson Petty/Bob\n*Dan Hennessey - Sloop\n*Rob Cowan - Skip\n*Ellen-Ray Hennessy - Stella the Waitress\n*Noam Zylberman - Curtis (1988)\n*Michael Fantini - Curtis (1989)\n\nEpisodes\n\nSeason 1 (1988–89)\n\nSeason 2 (1989)\n\nDVD release\n\nThe first seven episodes were released on DVD on May 30, 2006 in Region 1 from Lions Gate Home Entertainment in a single-disc release entitled ALF and The Beanstalk and Other Classic Fairy Tales.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "ALF Tales" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2372" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "ALF Tales is a 30-minute Saturday morning animated series that aired on NBC from September 10, 1988 to December 9, 1989. The show is a spin-off of ALF: The Animated Series which featured characters from that series play various characters from fairy tales. The fairy tale was usually altered for comedic effect in a manner akin to Fractured Fairy Tales.\n\nEach story typically spoofs a film genre, such as the \"Cinderella\" episode done as an Elvis movie. Some episodes featured a \"fourth wall\" effect where ALF is backstage preparing for the episode, and Rob Cowan would appear drawn as a TV executive (who introduced himself as \"Roger Cowan, network executive\") to try to brief ALF on how to improve this episode. For instance Cowan once told ALF who was readying for a medieval themed episode that \"less than 2% of our audience lives in the Dark Ages\".\n\nCast\n\n*Paul Fusco - ALF (Gordon Shumway)/Rick Fusterman\n*Tabitha St. Germain (as Paulina Gillis) - Augie/Rhonda\n*Peggy Mahon - Flo\n*Thick Wilson - Larson Petty/Bob\n*Dan Hennessey - Sloop\n*Rob Cowan - Skip\n*Ellen-Ray Hennessy - Stella the Waitress\n*Noam Zylberman - Curtis (1988)\n*Michael Fantini - Curtis (1989)\n\nEpisodes\n\nSeason 1 (1988–89)\n\nSeason 2 (1989)\n\nDVD release\n\nThe first seven episodes were released on DVD on May 30, 2006 in Region 1 from Lions Gate Home Entertainment in a single-disc release entitled ALF and The Beanstalk and Other Classic Fairy Tales. ALF Tales. http://en.wikipedia.org/?curid=2372."
+  }
+}

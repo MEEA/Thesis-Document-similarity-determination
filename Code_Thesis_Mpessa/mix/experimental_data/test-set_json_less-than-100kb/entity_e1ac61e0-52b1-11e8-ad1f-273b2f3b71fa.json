@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7460",
+  "eid" : "e1ac61e0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778458366,
+  "textBody" : "Clinker may refer to:\n\n* Clinker (boat building), construction method for wooden boats\n* Clinker (waste), waste from industrial processes\n* Clinker (cement), a kilned then quenched cement product\n* Clinker brick, rough dark coloured bricks\n* Clinker Peak, a volcanic peak in British Columbia, Canada\n* Clinkers (confectionery), a chocolate-coated candy in Australia\n* Gary James Joynes, a.k.a. Clinker\n\nClinker may also be used for:\n* Small rocks that form in some ʻAʻā lava flows\n* Waste from Coal seam fires\n\nSurname\n\n* Humphry Clinker, title character of Tobias Smollett's 1771 novel The Expedition of Humphry Clinker",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Clinker" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7460" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Clinker may refer to:\n\n* Clinker (boat building), construction method for wooden boats\n* Clinker (waste), waste from industrial processes\n* Clinker (cement), a kilned then quenched cement product\n* Clinker brick, rough dark coloured bricks\n* Clinker Peak, a volcanic peak in British Columbia, Canada\n* Clinkers (confectionery), a chocolate-coated candy in Australia\n* Gary James Joynes, a.k.a. Clinker\n\nClinker may also be used for:\n* Small rocks that form in some ʻAʻā lava flows\n* Waste from Coal seam fires\n\nSurname\n\n* Humphry Clinker, title character of Tobias Smollett's 1771 novel The Expedition of Humphry Clinker. Clinker. http://en.wikipedia.org/?curid=7460."
+  }
+}

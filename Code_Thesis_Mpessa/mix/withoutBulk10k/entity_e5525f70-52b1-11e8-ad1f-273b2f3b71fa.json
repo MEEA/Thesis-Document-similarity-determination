@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8080",
+  "eid" : "e5525f70-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778464487,
+  "textBody" : "This is a list of decades from the beginning of the 18th century BC to the end of the 21st century AD, including links to corresponding articles with more information about them.\n\nDuring the 20th century, it became common to consider individual decades as historical entities in themselves. Particular trends, styles, and attitudes would be associated with and regarded as defining particular decades (which became known as \"The Twenties\", \"The Sixties\", and so on).",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "List of decades" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8080" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "This is a list of decades from the beginning of the 18th century BC to the end of the 21st century AD, including links to corresponding articles with more information about them.\n\nDuring the 20th century, it became common to consider individual decades as historical entities in themselves. Particular trends, styles, and attitudes would be associated with and regarded as defining particular decades (which became known as \"The Twenties\", \"The Sixties\", and so on). List of decades. http://en.wikipedia.org/?curid=8080."
+  }
+}

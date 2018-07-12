@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12035",
+  "eid" : "ff9f0220-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778508610,
+  "textBody" : "Gabon has a small, professional military of about 5,000 personnel, divided into army, navy, air force, gendarmerie, and national police. Gabonese forces are oriented to the defense of the country and have not been trained for an offensive role. A well-trained, well-equipped 1,800-member guard provides security for the president.\n\nArmed Forces\n\nArmy \n\nOrder of battle \n\n*1 Republican Guard Battalion group – Libreville with:\n**1 Light Armored Recon. Squad;\n**3 Infantry Coys;\n**1 Artillery Battery;\n**1 Air Defense Battery.\n*1 Airborne Regiment with:\n**3 Airborne Coys;\n**1 Recon and Support Coy;\n**1 Command Coy.\n*1 Light Armored Recon Battalion with:\n**1 Logistic and Command Coy;\n**2 Armored Sqds.\n*1 Support Command Regiment with:\n**1 Artillery Battery;\n**1 Mortar Battery;\n**1 MRLS Battery;\n**1 Engineer Coy;\n**Logistic Units.\n*7 × Military Regions with:\n**1 Motorized Infantry Battalion or Coy-each.\n\nEquipment \n\nSmall Arms\n\nArmor\n\nAir Force \n\nOrder of battle \n\n* Fighter Squadron 1-02 Leyou at BA02 Franceville with:\n** Mirage F-1AZ\n** MB-326M Impala I\n* Heavy Transport Squadron at BA01 Libreville with:\n** C-130 Hercules\n** CN-235\n* Ministerial Air Liaison Group (Groupe de Liaison Aérien Ministériel or GLAM) at BA01 Libreville with:\n** 1 Falcon-900EX\n** 1 Gulfstream-III\n\nFacilities \n\n* BA01 Libreville\n* BA02 Franceville\n* Tchibanga\n\nCurrent inventory\n\nRetired aircraft \n\nPrevious aircraft operated by the Air Force consisted of the CM.170 Magister, C-130H Hercules, Embraer EMB 110, Fokker F28, Aérospatiale N 262, Reims C.337, and the Alouette II helicopter.\n\nNavy \n\nEquipment",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Armed Forces of Gabon" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12035" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Gabon has a small, professional military of about 5,000 personnel, divided into army, navy, air force, gendarmerie, and national police. Gabonese forces are oriented to the defense of the country and have not been trained for an offensive role. A well-trained, well-equipped 1,800-member guard provides security for the president.\n\nArmed Forces\n\nArmy \n\nOrder of battle \n\n*1 Republican Guard Battalion group – Libreville with:\n**1 Light Armored Recon. Squad;\n**3 Infantry Coys;\n**1 Artillery Battery;\n**1 Air Defense Battery.\n*1 Airborne Regiment with:\n**3 Airborne Coys;\n**1 Recon and Support Coy;\n**1 Command Coy.\n*1 Light Armored Recon Battalion with:\n**1 Logistic and Command Coy;\n**2 Armored Sqds.\n*1 Support Command Regiment with:\n**1 Artillery Battery;\n**1 Mortar Battery;\n**1 MRLS Battery;\n**1 Engineer Coy;\n**Logistic Units.\n*7 × Military Regions with:\n**1 Motorized Infantry Battalion or Coy-each.\n\nEquipment \n\nSmall Arms\n\nArmor\n\nAir Force \n\nOrder of battle \n\n* Fighter Squadron 1-02 Leyou at BA02 Franceville with:\n** Mirage F-1AZ\n** MB-326M Impala I\n* Heavy Transport Squadron at BA01 Libreville with:\n** C-130 Hercules\n** CN-235\n* Ministerial Air Liaison Group (Groupe de Liaison Aérien Ministériel or GLAM) at BA01 Libreville with:\n** 1 Falcon-900EX\n** 1 Gulfstream-III\n\nFacilities \n\n* BA01 Libreville\n* BA02 Franceville\n* Tchibanga\n\nCurrent inventory\n\nRetired aircraft \n\nPrevious aircraft operated by the Air Force consisted of the CM.170 Magister, C-130H Hercules, Embraer EMB 110, Fokker F28, Aérospatiale N 262, Reims C.337, and the Alouette II helicopter.\n\nNavy \n\nEquipment. Armed Forces of Gabon. http://en.wikipedia.org/?curid=12035."
+  }
+}

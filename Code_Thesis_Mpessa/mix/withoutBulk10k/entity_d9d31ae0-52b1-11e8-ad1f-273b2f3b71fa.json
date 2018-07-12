@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=6094",
+  "eid" : "d9d31ae0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778445198,
+  "textBody" : "CPD may refer to:\n\nUS police departments\n\n* Carmel Police Department (Indiana)\n* Chattanooga Police Department\n* Chicago Police Department\n* Cincinnati Police Department\n* Cleveland Police Department\n* Columbus Police Department\n* Town of Carmel Police Department (New York)\n\nMathematics\n\n* Canonical polyadic decomposition\n* Conditional probability distribution\n* Coherent Point Drift, a point set registration algorithm.\n\nOther\n\n* Campaign for Peace and Democracy\n* Cape Photographic Durchmusterung\n* Carnet de Passages en Douane\n* Centre for Policy Development, an Australian thinktank\n* Centre for Policy Dialogue\n* Centres of Plant Diversity\n* Cephalopelvic disproportion\n* Cherry Poppin' Daddies\n* Chicago P.D., TV series\n* Chicago Park District\n* Christliche Pfadfinderschaft Deutschlands (1976)\n* Chronic pulmonary disease\n* Chronicle of the Priest of Duklja\n* Coalition of Parties for Democracy\n* Collaborative product development\n* Collaborative Professional Development\n* Commission on Presidential Debates\n* Committee on the Present Danger\n* Congress of People's Deputies \n* Construction Products Directive, specifications by the European Council for the building industry\n* Contact potential difference\n* Continuing professional development\n* CPD (gene), a human gene encoding the protein Carboxypeptidase D\n* Critical point drying, a method of specimen preparation for electron microscopy\n* Cyclobutane Pyrimidine Dimer\n* Cyclopentadiene\n* PMD Copy/Paste Detector (CPD)\n* C.P.D. Gwalchmai",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "CPD" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=6094" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "CPD may refer to:\n\nUS police departments\n\n* Carmel Police Department (Indiana)\n* Chattanooga Police Department\n* Chicago Police Department\n* Cincinnati Police Department\n* Cleveland Police Department\n* Columbus Police Department\n* Town of Carmel Police Department (New York)\n\nMathematics\n\n* Canonical polyadic decomposition\n* Conditional probability distribution\n* Coherent Point Drift, a point set registration algorithm.\n\nOther\n\n* Campaign for Peace and Democracy\n* Cape Photographic Durchmusterung\n* Carnet de Passages en Douane\n* Centre for Policy Development, an Australian thinktank\n* Centre for Policy Dialogue\n* Centres of Plant Diversity\n* Cephalopelvic disproportion\n* Cherry Poppin' Daddies\n* Chicago P.D., TV series\n* Chicago Park District\n* Christliche Pfadfinderschaft Deutschlands (1976)\n* Chronic pulmonary disease\n* Chronicle of the Priest of Duklja\n* Coalition of Parties for Democracy\n* Collaborative product development\n* Collaborative Professional Development\n* Commission on Presidential Debates\n* Committee on the Present Danger\n* Congress of People's Deputies \n* Construction Products Directive, specifications by the European Council for the building industry\n* Contact potential difference\n* Continuing professional development\n* CPD (gene), a human gene encoding the protein Carboxypeptidase D\n* Critical point drying, a method of specimen preparation for electron microscopy\n* Cyclobutane Pyrimidine Dimer\n* Cyclopentadiene\n* PMD Copy/Paste Detector (CPD)\n* C.P.D. Gwalchmai. CPD. http://en.wikipedia.org/?curid=6094."
+  }
+}

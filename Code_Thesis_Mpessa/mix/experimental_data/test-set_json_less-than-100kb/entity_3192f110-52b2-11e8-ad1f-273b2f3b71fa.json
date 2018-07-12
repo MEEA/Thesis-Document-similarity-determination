@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18196",
+  "eid" : "3192f110-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778592417,
+  "textBody" : "This is an incomplete list of Christian saints in alphabetical order by Christian name, but, where known and given, a surname, location, or personal attribute (included as part of the name) may affect the ordering.\n\nOne list says there are 810 canonized Roman Catholic saints (who have been through the formal institutional process of canonization), although some give numbers in the thousands. (Pope John Paul II alone canonized 110 individuals, plus many group canonizations such as 110 martyr saints of China, 103 Korean martyrs, 117 Vietnamese martyrs, Mexican Martyrs, Spanish martyrs and French revolutionary martyrs.) Among the Eastern Orthodox and Oriental Orthodox Communions, the numbers may be even higher, since there is no fixed process of \"canonization\" and each individual jurisdiction within the two Orthodox communions independently maintains parallel lists of saints that have only partial overlap. Note that 78 popes are considered saints.\n\nThe Anglican Communion recognizes pre-Reformation saints, as does the United Methodist Church. Persons who have led lives of celebrated sanctity or missionary zeal are included in the Calendar of the Prayer Book \"without thereby enrolling or commending such persons as saints of the Church\". Similarly, any individuals commemorated in the Lutheran calendar of saints will be listed as well.\n\nWikipedia contains calendars of saints for particular denominations, listed by the day of the year on which they are traditionally venerated, as well as a chronological list of saints and blesseds, listed by their date of death.\n\nChristian saints since AD 450",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "List of saints" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18196" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "This is an incomplete list of Christian saints in alphabetical order by Christian name, but, where known and given, a surname, location, or personal attribute (included as part of the name) may affect the ordering.\n\nOne list says there are 810 canonized Roman Catholic saints (who have been through the formal institutional process of canonization), although some give numbers in the thousands. (Pope John Paul II alone canonized 110 individuals, plus many group canonizations such as 110 martyr saints of China, 103 Korean martyrs, 117 Vietnamese martyrs, Mexican Martyrs, Spanish martyrs and French revolutionary martyrs.) Among the Eastern Orthodox and Oriental Orthodox Communions, the numbers may be even higher, since there is no fixed process of \"canonization\" and each individual jurisdiction within the two Orthodox communions independently maintains parallel lists of saints that have only partial overlap. Note that 78 popes are considered saints.\n\nThe Anglican Communion recognizes pre-Reformation saints, as does the United Methodist Church. Persons who have led lives of celebrated sanctity or missionary zeal are included in the Calendar of the Prayer Book \"without thereby enrolling or commending such persons as saints of the Church\". Similarly, any individuals commemorated in the Lutheran calendar of saints will be listed as well.\n\nWikipedia contains calendars of saints for particular denominations, listed by the day of the year on which they are traditionally venerated, as well as a chronological list of saints and blesseds, listed by their date of death.\n\nChristian saints since AD 450. List of saints. http://en.wikipedia.org/?curid=18196."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=5495",
+  "eid" : "d5819b10-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778437953,
+  "textBody" : "The technical regulator of communications in Chile is the Ministry of Transportation and Telecommunications, through the Undersecretariat of Telecommunications (Subtel).\n\nTelephone\n\n*Main lines in use: 3.379 million (2007)\n*Mobile cellular: 24.130.754 (2012) (devices)\n**Pre-paid: 17.283.257\n**Post-paid: 6.847.497 \n*System: privatization began in 1988; advanced telecommunications infrastructure; modern system based on extensive microwave radio relay facilities; fixed-line connections have dropped in recent years as mobile-cellular usage continues to increase, reaching a level of 85 telephones per 100 persons\n**Domestic: extensive microwave radio relay links; domestic satellite system with 3 earth stations\n**international: country code - 56; submarine cables provide links to the US and to Central and South America; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2007)\n\nRadio\n\n*Broadcast stations: 1,490 (175 AM; 1,315 FM) (2006)[http://www.ine.cl/canales/publicaciones/compendio_estadistico/pdf/2006/compendio2006.pdf Compendio Estadístico 2006], INE.\n\nTelevision\n\n*Broadcast stations: 63 (plus 121 repeaters) (1997)\n*Broadcast television system: NTSC\n*Pay television: 4.158.874 (2012)[http://www.cambio21.cl/cambio21/site/artic/20120921/pags/20120921113224.html Articulo 2012], Cambio21.\n\nInternet\n\n*Internet hosts: 847,215 (2008)\n*Internet users: 5.57 million (2007)\n*Internet mobile users: 4.921.587\n*Internet country code: .cl\n\nOther technical details\n\n*Voltage: 220 volts AC, 50 Hz",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Telecommunications in Chile" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=5495" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The technical regulator of communications in Chile is the Ministry of Transportation and Telecommunications, through the Undersecretariat of Telecommunications (Subtel).\n\nTelephone\n\n*Main lines in use: 3.379 million (2007)\n*Mobile cellular: 24.130.754 (2012) (devices)\n**Pre-paid: 17.283.257\n**Post-paid: 6.847.497 \n*System: privatization began in 1988; advanced telecommunications infrastructure; modern system based on extensive microwave radio relay facilities; fixed-line connections have dropped in recent years as mobile-cellular usage continues to increase, reaching a level of 85 telephones per 100 persons\n**Domestic: extensive microwave radio relay links; domestic satellite system with 3 earth stations\n**international: country code - 56; submarine cables provide links to the US and to Central and South America; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2007)\n\nRadio\n\n*Broadcast stations: 1,490 (175 AM; 1,315 FM) (2006)[http://www.ine.cl/canales/publicaciones/compendio_estadistico/pdf/2006/compendio2006.pdf Compendio Estadístico 2006], INE.\n\nTelevision\n\n*Broadcast stations: 63 (plus 121 repeaters) (1997)\n*Broadcast television system: NTSC\n*Pay television: 4.158.874 (2012)[http://www.cambio21.cl/cambio21/site/artic/20120921/pags/20120921113224.html Articulo 2012], Cambio21.\n\nInternet\n\n*Internet hosts: 847,215 (2008)\n*Internet users: 5.57 million (2007)\n*Internet mobile users: 4.921.587\n*Internet country code: .cl\n\nOther technical details\n\n*Voltage: 220 volts AC, 50 Hz. Telecommunications in Chile. http://en.wikipedia.org/?curid=5495."
+  }
+}

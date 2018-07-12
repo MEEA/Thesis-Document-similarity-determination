@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11528",
+  "eid" : "fc4046c0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778502956,
+  "textBody" : "FCO may mean:\n\n* Buenos Aires Western Railway (Spanish: ')\n* Club Ferro Carril Oeste, an Argentine football club\n* Farm Cove Observatory, in New Zealand\n* Federal Cartel Office, in Germany\n* Fellow of the College of Organists\n* Financial control officer\n* Foreign and Commonwealth Office, the United Kingdom's Ministry of Foreign Affairs\n* Fort Collins, Colorado, United States\n* Leonardo da Vinci–Fiumicino Airport, near Rome, Italy",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "FCO" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11528" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "FCO may mean:\n\n* Buenos Aires Western Railway (Spanish: ')\n* Club Ferro Carril Oeste, an Argentine football club\n* Farm Cove Observatory, in New Zealand\n* Federal Cartel Office, in Germany\n* Fellow of the College of Organists\n* Financial control officer\n* Foreign and Commonwealth Office, the United Kingdom's Ministry of Foreign Affairs\n* Fort Collins, Colorado, United States\n* Leonardo da Vinci–Fiumicino Airport, near Rome, Italy. FCO. http://en.wikipedia.org/?curid=11528."
+  }
+}

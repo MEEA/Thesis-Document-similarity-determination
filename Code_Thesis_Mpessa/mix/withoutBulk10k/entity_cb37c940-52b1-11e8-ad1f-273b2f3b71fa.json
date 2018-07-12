@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=4081",
+  "eid" : "cb37c940-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778420692,
+  "textBody" : "Blade Runner 3: Replicant Night is a science fiction novel by American writer K. W. Jeter published in 1996. It is a continuation of Jeter's novel Blade Runner 2: The Edge of Human, which was itself a sequel to both the film Blade Runner and the novel upon which the film was based, Philip K. Dick's Do Androids Dream of Electric Sheep?\n\nPlot introduction \n\nLiving on Mars, Deckard is acting as a consultant to a movie crew filming the story of his days as a blade runner. He finds himself drawn into a mission on behalf of the replicants he was once assigned to kill. Meanwhile, the mystery surrounding the beginnings of the Tyrell Corporation is being exposed.\n\nCharacters\n\n*Rick Deckard, a former bounty hunter, now working as a film consultant\n*Sarah Tyrell, the niece of Eldon Tyrell; she has been living on Mars since the events of Blade Runner 2\n*Anson Tyrell, Sarah's father\n*Ruth Tyrell, Sarah's mother\n*Rachael, a ten-year-old girl\n*Roy Batty, the human template for the replicant Deckard fought in the previous novel. That replicant's personality now resides inside Deckard's briefcase.\n*Sebastien, a dehydrated deity\n*Urbenton, director of the movie Blade Runner on which Rick Deckard is a consultant\n*Dave Holden, Deckard's former police partner\n\nFilm adaptation\n\nThe plot element of a replicant giving birth served as the basis for the 2017 film Blade Runner 2049.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Blade Runner 3: Replicant Night" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=4081" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Blade Runner 3: Replicant Night is a science fiction novel by American writer K. W. Jeter published in 1996. It is a continuation of Jeter's novel Blade Runner 2: The Edge of Human, which was itself a sequel to both the film Blade Runner and the novel upon which the film was based, Philip K. Dick's Do Androids Dream of Electric Sheep?\n\nPlot introduction \n\nLiving on Mars, Deckard is acting as a consultant to a movie crew filming the story of his days as a blade runner. He finds himself drawn into a mission on behalf of the replicants he was once assigned to kill. Meanwhile, the mystery surrounding the beginnings of the Tyrell Corporation is being exposed.\n\nCharacters\n\n*Rick Deckard, a former bounty hunter, now working as a film consultant\n*Sarah Tyrell, the niece of Eldon Tyrell; she has been living on Mars since the events of Blade Runner 2\n*Anson Tyrell, Sarah's father\n*Ruth Tyrell, Sarah's mother\n*Rachael, a ten-year-old girl\n*Roy Batty, the human template for the replicant Deckard fought in the previous novel. That replicant's personality now resides inside Deckard's briefcase.\n*Sebastien, a dehydrated deity\n*Urbenton, director of the movie Blade Runner on which Rick Deckard is a consultant\n*Dave Holden, Deckard's former police partner\n\nFilm adaptation\n\nThe plot element of a replicant giving birth served as the basis for the 2017 film Blade Runner 2049. Blade Runner 3: Replicant Night. http://en.wikipedia.org/?curid=4081."
+  }
+}

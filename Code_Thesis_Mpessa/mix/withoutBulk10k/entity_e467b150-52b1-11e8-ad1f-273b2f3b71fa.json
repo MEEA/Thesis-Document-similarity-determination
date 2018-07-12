@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7965",
+  "eid" : "e467b150-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778462949,
+  "textBody" : "Disruption or Disruptive may refer to:\n\n*Cell disruption is a method or process in cell biology for releasing biological molecules from inside a cell\n*Disruption (adoption) is also the term for the cancellation of an adoption of a child before it is legally completed\n*Disruption of 1843, the divergence of the Free Church of Scotland from the Church of Scotland\n*Disruption (of schema), in the field of computer genetic algorithms\n*Disruption, a method of disabling an explosive device by using projected water disruptors\n*Disruptive behavior disorders, a class of mental health disorders\n*Disruptive innovation, Clayton Christensen's theory of industry disruption by new technology or products\n*Disruptive physician, a physician whose obnoxious behaviour upsets patients or other staff",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Disruption" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7965" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Disruption or Disruptive may refer to:\n\n*Cell disruption is a method or process in cell biology for releasing biological molecules from inside a cell\n*Disruption (adoption) is also the term for the cancellation of an adoption of a child before it is legally completed\n*Disruption of 1843, the divergence of the Free Church of Scotland from the Church of Scotland\n*Disruption (of schema), in the field of computer genetic algorithms\n*Disruption, a method of disabling an explosive device by using projected water disruptors\n*Disruptive behavior disorders, a class of mental health disorders\n*Disruptive innovation, Clayton Christensen's theory of industry disruption by new technology or products\n*Disruptive physician, a physician whose obnoxious behaviour upsets patients or other staff. Disruption. http://en.wikipedia.org/?curid=7965."
+  }
+}

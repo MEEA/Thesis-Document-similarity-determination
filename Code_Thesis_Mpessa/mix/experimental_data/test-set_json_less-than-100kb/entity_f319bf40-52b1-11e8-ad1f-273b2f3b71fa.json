@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=9992",
+  "eid" : "f319bf40-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778487604,
+  "textBody" : "The following is a list of contemporary ethnic groups.\n \nThere has been constant debate over the classification of ethnic groups. Membership of an ethnic group tends to be associated with shared cultural heritage, ancestry, history, homeland, language or dialect, the term culture specifically including aspects such as religion, mythology and ritual, cuisine, dressing style, etc. \nBy the nature of the concept, ethnic groups tend to be divided into ethnic subgroups, which may themselves be or not be identified as independent ethnic groups depending on the source consulted.\n\nEthnic groups\n\nThe groups commonly identified as \"ethnic groups\" (as opposed to ethno-linguistic phyla, national groups, racial groups or similar).  Smaller groups are often indigenous peoples.\n\nLists of ethnic groups\n\n;by status\n* List of indigenous peoples\n* List of diasporas\n\n;regional lists\n* List of ethnic groups in Russia\n* Asian people\n** List of ethnic groups in Burma\n** List of ethnic groups in China\n** List of ethnic groups in Laos\n** Ethnic groups in Pakistan\n** Demographics of Sindh\n** South Asian ethnic groups\n** List of aboriginal ethnic groups in Taiwan\n** List of ethnic groups in Vietnam\n* African people\n** Indigenous people of Africa\n** Ethnic groups in Chad\n** Ethnic groups in Ivory Coast\n** List of ethnic groups in Rivers State\n** List of ethnic groups in Tanzania\n* European people\n* Classification of indigenous peoples of the Americas\n* List of Indigenous Australian group names",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "List of contemporary ethnic groups" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=9992" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The following is a list of contemporary ethnic groups.\n \nThere has been constant debate over the classification of ethnic groups. Membership of an ethnic group tends to be associated with shared cultural heritage, ancestry, history, homeland, language or dialect, the term culture specifically including aspects such as religion, mythology and ritual, cuisine, dressing style, etc. \nBy the nature of the concept, ethnic groups tend to be divided into ethnic subgroups, which may themselves be or not be identified as independent ethnic groups depending on the source consulted.\n\nEthnic groups\n\nThe groups commonly identified as \"ethnic groups\" (as opposed to ethno-linguistic phyla, national groups, racial groups or similar).  Smaller groups are often indigenous peoples.\n\nLists of ethnic groups\n\n;by status\n* List of indigenous peoples\n* List of diasporas\n\n;regional lists\n* List of ethnic groups in Russia\n* Asian people\n** List of ethnic groups in Burma\n** List of ethnic groups in China\n** List of ethnic groups in Laos\n** Ethnic groups in Pakistan\n** Demographics of Sindh\n** South Asian ethnic groups\n** List of aboriginal ethnic groups in Taiwan\n** List of ethnic groups in Vietnam\n* African people\n** Indigenous people of Africa\n** Ethnic groups in Chad\n** Ethnic groups in Ivory Coast\n** List of ethnic groups in Rivers State\n** List of ethnic groups in Tanzania\n* European people\n* Classification of indigenous peoples of the Americas\n* List of Indigenous Australian group names. List of contemporary ethnic groups. http://en.wikipedia.org/?curid=9992."
+  }
+}

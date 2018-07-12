@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=4795",
+  "eid" : "d0724980-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778429464,
+  "textBody" : "Banda may refer to:\n\nPeople\n\n*Banda (surname)\n*Hastings Banda, the first president of Malawi\n*Joyce Banda, former president of Malawi\n*Banda Bahadur, Sikh warrior\n\nPlaces\n\n;Canada\n*Banda, Ontario, a settlement in Ontario\n\n;Ghana\n*Banda Ahenkro, a town in Banda District\n*Banda District (Ghana)\n*Banda Traditional Area, formerly in Tain/Banda District\n\n;India\n*Banda, Maharashtra, a small town in Maharashtra\n*Banda, Uttar Pradesh, a city and district headquarters of Banda district, Uttar Pradesh\n*Banda district, a district in Uttar Pradesh\n*Banda (Lok Sabha constituency), Uttar Pradesh\n*Banda (Vidhan Sabha constituency), Madhya Pradesh\n\n;Indonesia\n*Banda Islands, a group of ten small volcanic islands in the Banda Sea\n*Banda Sea, the sea of the South Moluccas, a part of the Pacific Ocean\n\n;Uganda\n*Banda, Uganda, a hill and the neighbourhood on that hill, located in Nakawa Division, within the city of Kampala.\n*Banda sub-county, an administrative subdivision of Namayingo District, in Uganda's Eastern Region.\n\nMusic\n\n*Banda music, a form of Mexican music\n*Banda (opera), a musical ensemble which is used in addition to the main opera orchestra and plays the music which is actually heard by the characters in the opera\n\nOther uses\n\n*Banda people, an ethnic group of the Central African Republic, the Democratic Republic of Congo, Cameroon, and Sudan\n*Banda languages, spoken by the Banda people\n*Banda machine, a type of low-volume document copying machine\n*Banda, a large smoked fish in Chad\n*Banda, a caste of adivasis in Odisha, Chhattisgarh, and Jharkhand",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Banda" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=4795" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Banda may refer to:\n\nPeople\n\n*Banda (surname)\n*Hastings Banda, the first president of Malawi\n*Joyce Banda, former president of Malawi\n*Banda Bahadur, Sikh warrior\n\nPlaces\n\n;Canada\n*Banda, Ontario, a settlement in Ontario\n\n;Ghana\n*Banda Ahenkro, a town in Banda District\n*Banda District (Ghana)\n*Banda Traditional Area, formerly in Tain/Banda District\n\n;India\n*Banda, Maharashtra, a small town in Maharashtra\n*Banda, Uttar Pradesh, a city and district headquarters of Banda district, Uttar Pradesh\n*Banda district, a district in Uttar Pradesh\n*Banda (Lok Sabha constituency), Uttar Pradesh\n*Banda (Vidhan Sabha constituency), Madhya Pradesh\n\n;Indonesia\n*Banda Islands, a group of ten small volcanic islands in the Banda Sea\n*Banda Sea, the sea of the South Moluccas, a part of the Pacific Ocean\n\n;Uganda\n*Banda, Uganda, a hill and the neighbourhood on that hill, located in Nakawa Division, within the city of Kampala.\n*Banda sub-county, an administrative subdivision of Namayingo District, in Uganda's Eastern Region.\n\nMusic\n\n*Banda music, a form of Mexican music\n*Banda (opera), a musical ensemble which is used in addition to the main opera orchestra and plays the music which is actually heard by the characters in the opera\n\nOther uses\n\n*Banda people, an ethnic group of the Central African Republic, the Democratic Republic of Congo, Cameroon, and Sudan\n*Banda languages, spoken by the Banda people\n*Banda machine, a type of low-volume document copying machine\n*Banda, a large smoked fish in Chad\n*Banda, a caste of adivasis in Odisha, Chhattisgarh, and Jharkhand. Banda. http://en.wikipedia.org/?curid=4795."
+  }
+}

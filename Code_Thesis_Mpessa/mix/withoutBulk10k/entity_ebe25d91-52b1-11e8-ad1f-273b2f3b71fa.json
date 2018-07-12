@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8991",
+  "eid" : "ebe25d91-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778475497,
+  "textBody" : "Dutch Limburg may refer to the following:\n* Limburg (Netherlands) (1866–present), a province of the Netherlands\n* Duchy of Limburg (1839–1867), a duchy in personal union with the Kingdom of the Netherlands\n* Province of Limburg (1815–1839), a province of the former United Kingdom of the Netherlands\n* Limburg of the States, territories controlled by the Dutch States-General from 1648 to 1794 as Generality Lands",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Dutch Limburg" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8991" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Dutch Limburg may refer to the following:\n* Limburg (Netherlands) (1866–present), a province of the Netherlands\n* Duchy of Limburg (1839–1867), a duchy in personal union with the Kingdom of the Netherlands\n* Province of Limburg (1815–1839), a province of the former United Kingdom of the Netherlands\n* Limburg of the States, territories controlled by the Dutch States-General from 1648 to 1794 as Generality Lands. Dutch Limburg. http://en.wikipedia.org/?curid=8991."
+  }
+}

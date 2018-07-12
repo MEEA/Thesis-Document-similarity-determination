@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19288",
+  "eid" : "39871310-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778605761,
+  "textBody" : "Railways:\n0 km\n\nHighways:\ntotal:\n269 km\npaved:\n203 km\nunpaved:\n66 km (1995)\n\nWaterways:\nnone\n\nPorts and harbours:\nPlymouth (abandoned), Little Bay (anchorages and ferry landing), Carr's Bay\n\nMerchant marine:\nnone (2002 est.)\n\nAirports:\nOne, Gerald's Airport, opened on 11 July 2005 replacing W.H. Bramble Airport which was destroyed by volcanic eruption in 1997.\n\nSee also : Montserrat\n\nSources\n\n*[https://www.cia.gov/library/publications/the-world-factbook/print/mh.html CIA World Factbook]",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Transport in Montserrat" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19288" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Railways:\n0 km\n\nHighways:\ntotal:\n269 km\npaved:\n203 km\nunpaved:\n66 km (1995)\n\nWaterways:\nnone\n\nPorts and harbours:\nPlymouth (abandoned), Little Bay (anchorages and ferry landing), Carr's Bay\n\nMerchant marine:\nnone (2002 est.)\n\nAirports:\nOne, Gerald's Airport, opened on 11 July 2005 replacing W.H. Bramble Airport which was destroyed by volcanic eruption in 1997.\n\nSee also : Montserrat\n\nSources\n\n*[https://www.cia.gov/library/publications/the-world-factbook/print/mh.html CIA World Factbook]. Transport in Montserrat. http://en.wikipedia.org/?curid=19288."
+  }
+}

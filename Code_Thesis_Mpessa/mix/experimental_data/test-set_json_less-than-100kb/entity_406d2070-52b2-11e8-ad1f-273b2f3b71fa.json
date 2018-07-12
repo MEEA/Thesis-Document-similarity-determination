@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=20165",
+  "eid" : "406d2070-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778617335,
+  "textBody" : "MIPS may refer to:\n\nTechnology\n\n* Million instructions per second, a measure of a computer's central processing unit performance\n* MIPS architecture, a RISC instruction set architecture\n* Maximum intensity projection, a volume rendering technique\n* Molecularly imprinted polymer, polymers processed using the molecular imprinting technique with affinity to a chosen 'template molecule'.\n* Multiband Imaging Photometer for Spitzer, an instrument on the Spitzer Space Telescope\n* Multi-directional Impact Protection System, a 'slip-plane' technology inside athletic helmets designed to reduce rotational forces that can result from certain impacts\n* Stanford MIPS, (for Microprocessor without Interlocked Pipeline Stages) a research project at Stanford University that was commercialized by MIPS Computer Systems\n* MIPS-X, a follow-on project to the Stanford MIPS\n\nOrganizations\n\n* Maharana Institute of Professional Studies, an institution in Kanpur, Uttar Pradesh, India\n* Mansehra International Public School and College in Mansehra, Pakistan\n* MIPS Technologies, formerly MIPS Computer Systems, the developer of the MIPS architecture\n* Monash Institute of Pharmaceutical Science (MIPS) in Parkville, Victoria\n* Munich Information Center for Protein Sequences, a genomics research center in Germany\n\nOther\n\n* Material input per unit of service, an economic efficiency indicator\n* Merit-Based Payment Incentive System, a payment mechanism that provides annual updates to physicians based on performance in multiple categories\n* Menards Infiniti Pro Series, a former name of an Indy Pro Series automobile race\n* Monthly income preferred stock, a financial instrument\n* MIPS, a rabbit in Super Mario 64\n* Minimum Ionizing Particles, a term widely used in experimental particle physics.\n* Merit Based Incentive Payments System, a part of the Medicare Access and CHIP Reauthorization Act of 2015",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "MIPS" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=20165" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "MIPS may refer to:\n\nTechnology\n\n* Million instructions per second, a measure of a computer's central processing unit performance\n* MIPS architecture, a RISC instruction set architecture\n* Maximum intensity projection, a volume rendering technique\n* Molecularly imprinted polymer, polymers processed using the molecular imprinting technique with affinity to a chosen 'template molecule'.\n* Multiband Imaging Photometer for Spitzer, an instrument on the Spitzer Space Telescope\n* Multi-directional Impact Protection System, a 'slip-plane' technology inside athletic helmets designed to reduce rotational forces that can result from certain impacts\n* Stanford MIPS, (for Microprocessor without Interlocked Pipeline Stages) a research project at Stanford University that was commercialized by MIPS Computer Systems\n* MIPS-X, a follow-on project to the Stanford MIPS\n\nOrganizations\n\n* Maharana Institute of Professional Studies, an institution in Kanpur, Uttar Pradesh, India\n* Mansehra International Public School and College in Mansehra, Pakistan\n* MIPS Technologies, formerly MIPS Computer Systems, the developer of the MIPS architecture\n* Monash Institute of Pharmaceutical Science (MIPS) in Parkville, Victoria\n* Munich Information Center for Protein Sequences, a genomics research center in Germany\n\nOther\n\n* Material input per unit of service, an economic efficiency indicator\n* Merit-Based Payment Incentive System, a payment mechanism that provides annual updates to physicians based on performance in multiple categories\n* Menards Infiniti Pro Series, a former name of an Indy Pro Series automobile race\n* Monthly income preferred stock, a financial instrument\n* MIPS, a rabbit in Super Mario 64\n* Minimum Ionizing Particles, a term widely used in experimental particle physics.\n* Merit Based Incentive Payments System, a part of the Medicare Access and CHIP Reauthorization Act of 2015. MIPS. http://en.wikipedia.org/?curid=20165."
+  }
+}

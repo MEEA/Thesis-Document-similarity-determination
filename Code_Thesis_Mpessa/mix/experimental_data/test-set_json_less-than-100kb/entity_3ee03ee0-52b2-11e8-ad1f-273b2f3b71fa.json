@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19940",
+  "eid" : "3ee03ee0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778614734,
+  "textBody" : "Maciej Płażyński (; 10 February 1958 – 10 April 2010) was a Polish liberal-conservative politician.\n\nPłażyński was born in Młynary.  He began his political career in 1980 / 1981 as one of the leaders of the Students' Solidarity; he was governor of the Gdańsk Voivodship from August 1990 to July 1996, and was elected to the Sejm (the lower house of the Polish parliament) in September 1997. To date he is longest serving Marshal of the Sejm of the Third Republic of Poland\n\nIn January 2001, he founded the Civic Platform political party with Donald Tusk and Andrzej Olechowski. He left Civic Platform for personal reasons and at the time of his death was an independent MP. He was member of Kashubian-Pomeranian Association. He was later chosen as a chairman of the Association \"Polish Community\".\n\nMaciej Płażyński was married to Elżbieta Płażyńska and together they had three children: Jakub, Katarzyna, and Kacper.\n\nHe was listed on the flight manifest[http://wiadomosci.gazeta.pl/Wiadomosci/1,80269,7752563,Prezydenckim_Tu_154_lecialy_najwazniejsze_osoby_w.html Prezydenckim Tu-154 leciały najważniejsze osoby w państwie (Polish)]  of the Tupolev Tu-154 of the 36th Special Aviation Regiment carrying the President of Poland Lech Kaczyński which crashed while landing at Smolensk-North airport near Pechersk near Smolensk, Russia, on 10 April 2010, killing all aboard.\n\nHonours and awards\n\nIn 2000, Płażyński was awarded the Order of Merit of the Italian Republic, First Class. He received the titles of honorary citizen of Młynary, Puck, Pionki and Lidzbark Warmiński.\n\nOn 16 April 2010 he was posthumously awarded the Grand Cross of the Order of Polonia Restituta. He was also awarded a Gold Medal of Gloria Artis.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Maciej Płażyński" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19940" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Maciej Płażyński (; 10 February 1958 – 10 April 2010) was a Polish liberal-conservative politician.\n\nPłażyński was born in Młynary.  He began his political career in 1980 / 1981 as one of the leaders of the Students' Solidarity; he was governor of the Gdańsk Voivodship from August 1990 to July 1996, and was elected to the Sejm (the lower house of the Polish parliament) in September 1997. To date he is longest serving Marshal of the Sejm of the Third Republic of Poland\n\nIn January 2001, he founded the Civic Platform political party with Donald Tusk and Andrzej Olechowski. He left Civic Platform for personal reasons and at the time of his death was an independent MP. He was member of Kashubian-Pomeranian Association. He was later chosen as a chairman of the Association \"Polish Community\".\n\nMaciej Płażyński was married to Elżbieta Płażyńska and together they had three children: Jakub, Katarzyna, and Kacper.\n\nHe was listed on the flight manifest[http://wiadomosci.gazeta.pl/Wiadomosci/1,80269,7752563,Prezydenckim_Tu_154_lecialy_najwazniejsze_osoby_w.html Prezydenckim Tu-154 leciały najważniejsze osoby w państwie (Polish)]  of the Tupolev Tu-154 of the 36th Special Aviation Regiment carrying the President of Poland Lech Kaczyński which crashed while landing at Smolensk-North airport near Pechersk near Smolensk, Russia, on 10 April 2010, killing all aboard.\n\nHonours and awards\n\nIn 2000, Płażyński was awarded the Order of Merit of the Italian Republic, First Class. He received the titles of honorary citizen of Młynary, Puck, Pionki and Lidzbark Warmiński.\n\nOn 16 April 2010 he was posthumously awarded the Grand Cross of the Order of Polonia Restituta. He was also awarded a Gold Medal of Gloria Artis. Maciej Płażyński. http://en.wikipedia.org/?curid=19940."
+  }
+}

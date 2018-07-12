@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11620",
+  "eid" : "fcb46550-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778503717,
+  "textBody" : "Four Pillars or four pillars may refer to:\n\n*Four Pillars of Destiny, a Chinese component used in fortune telling\n*Four Pillars of Nepal Bhasa, four people who spearheaded a campaign to revive the language and literature\n*Four Pillars of Transnistria, basis of the declaration of independence of a separatist region in Moldova in Eastern Europe\n*Four pillars policy of the Australian government to maintain the separation of the four largest banks\n*Four Pillars, a research programme by the Geneva Association\n*Four pillars of communication rights\n*Four Pillars of Dominican Life, principles of the Dominican Order\n*Four pillars of manufacturing engineering, devised by the American SME\n*Four Pillars of Geometry, a 2005 book by John Stillwell\n*Four Pillars of Heaven, the Egyptian hieroglyph \"tjs-ut\"\n*Four Pillars of the Green Party",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Four Pillars" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11620" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Four Pillars or four pillars may refer to:\n\n*Four Pillars of Destiny, a Chinese component used in fortune telling\n*Four Pillars of Nepal Bhasa, four people who spearheaded a campaign to revive the language and literature\n*Four Pillars of Transnistria, basis of the declaration of independence of a separatist region in Moldova in Eastern Europe\n*Four pillars policy of the Australian government to maintain the separation of the four largest banks\n*Four Pillars, a research programme by the Geneva Association\n*Four pillars of communication rights\n*Four Pillars of Dominican Life, principles of the Dominican Order\n*Four pillars of manufacturing engineering, devised by the American SME\n*Four Pillars of Geometry, a 2005 book by John Stillwell\n*Four Pillars of Heaven, the Egyptian hieroglyph \"tjs-ut\"\n*Four Pillars of the Green Party. Four Pillars. http://en.wikipedia.org/?curid=11620."
+  }
+}

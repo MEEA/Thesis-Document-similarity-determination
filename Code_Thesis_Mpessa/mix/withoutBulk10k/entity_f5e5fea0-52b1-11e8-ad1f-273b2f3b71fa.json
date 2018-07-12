@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10507",
+  "eid" : "f5e5fea0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778492298,
+  "textBody" : "literally means first street in Japanese. It can refer to:\n\n*Emperor Ichijō (一条天皇 -tennō), the 66th Emperor of Japan (980–1011)\n\nJapanese surname\n\n* The Ichijō family (一条家 -ke), one of the five regent houses (go-sekke) of the Fujiwara clan in Japan\n* Kazuya Ichijō, a Japanese voice actor\n\nFictional characters\n\n* Mashiro Ichijō of After School Nightmare.\n* Hikaru Ichijō of the Super Dimension Fortress Macross.\n* Ichijō of Pani Poni\n* Eika Ichijō of Sky Girls\n* Sumireko Ichijō and Kaoruko Ichijō of Futakoi\n* Takuma Ichijō of Vampire Knight\n* Kou Ichijō of Persona 4\n* Haruhiko Ichijō of Myriad Colors Phantom World\n* Hotaru Ichijō of Non Non Biyori\n* Supreme Commander Ichijō of Choujin Sentai Jetman\n\nPlaces\n\n* , one of numbered east-west streets in the ancient capital of Heian-kyō, present-day Kyoto",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Ichijō" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10507" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "literally means first street in Japanese. It can refer to:\n\n*Emperor Ichijō (一条天皇 -tennō), the 66th Emperor of Japan (980–1011)\n\nJapanese surname\n\n* The Ichijō family (一条家 -ke), one of the five regent houses (go-sekke) of the Fujiwara clan in Japan\n* Kazuya Ichijō, a Japanese voice actor\n\nFictional characters\n\n* Mashiro Ichijō of After School Nightmare.\n* Hikaru Ichijō of the Super Dimension Fortress Macross.\n* Ichijō of Pani Poni\n* Eika Ichijō of Sky Girls\n* Sumireko Ichijō and Kaoruko Ichijō of Futakoi\n* Takuma Ichijō of Vampire Knight\n* Kou Ichijō of Persona 4\n* Haruhiko Ichijō of Myriad Colors Phantom World\n* Hotaru Ichijō of Non Non Biyori\n* Supreme Commander Ichijō of Choujin Sentai Jetman\n\nPlaces\n\n* , one of numbered east-west streets in the ancient capital of Heian-kyō, present-day Kyoto. Ichijō. http://en.wikipedia.org/?curid=10507."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13158",
+  "eid" : "06ebc090-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778520857,
+  "textBody" : "Gilles Apap (born 21 May 1963) is a French classical violinist. Born in Béjaïa, Algeria, he was raised in Nice, France. In 1985 he won first prize in the contemporary music category at the Yehudi Menuhin Competition. He served as concertmaster with the Santa Barbara Symphony Orchestra for 10 years, but has since focused on his career as a soloist with orchestras around the world.\n\nA virtuosic violinist, Gilles is also known for his interpretations of traditional music from Eastern Europe to America, such as gypsy, Irish, swing or bluegrass.\n\nHe recorded three CDs in the 1990s with Sony Classical Records, then formed his own company, Apapaziz Productions. Since 1999, Apapaziz has recorded eight Gilles Apap CDs.\n\nDiscography \n\n* 1994 Gilles Apap and the Transylvanian Mountain Boys: Who? (Sony)\n* 1996 Gilles Apap and the Transylvanian Mountain Boys: Gilles Apap & the Transylvanian Mountain Boys (Sony)\n* 1997 Gilles Apap and the Transylvanian Mountain Boys: d’Ici & d’Ailleurs (Sony)\n* 1999 Enescu, Debussy and Ravel – Sonatas for violin and piano (Apapaziz)\n* 2001 No Piano on That One (Apapaziz)\n* 2002 Vivaldi’s Four Seasons (Apapaziz)\n* 2003 Gilles Apap and The Sinfonia Varsovia (Apapaziz)\n* 2006 Gilles Apap: Music for Solo Violin (Apapaziz)\n* 2007 Friends (Apapaziz)\n* 2008 Sans Orchestre (Apapaziz)\n* 2012 Gypsy Tunes… California Style That Is (Apapaziz)\n\nFilms \n\n* 1993 The unknown fiddler of Santa Barbara (Bruno Monsaingeon, Ideale Audience)\n* 1993 Gilles Apap and Friends (Bruno Monsaingeon, Ideale Audience)\n* 1993 Thirty Two Short Films About Glenn Gould\n* 1999 Gilles Apap plays Mozart’s Third Concerto (Ideale Audience)\n* 2004 Apap Masala, Gilles Apap in India (Max Jourdan, Ideale Audience)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Gilles Apap" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13158" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Gilles Apap (born 21 May 1963) is a French classical violinist. Born in Béjaïa, Algeria, he was raised in Nice, France. In 1985 he won first prize in the contemporary music category at the Yehudi Menuhin Competition. He served as concertmaster with the Santa Barbara Symphony Orchestra for 10 years, but has since focused on his career as a soloist with orchestras around the world.\n\nA virtuosic violinist, Gilles is also known for his interpretations of traditional music from Eastern Europe to America, such as gypsy, Irish, swing or bluegrass.\n\nHe recorded three CDs in the 1990s with Sony Classical Records, then formed his own company, Apapaziz Productions. Since 1999, Apapaziz has recorded eight Gilles Apap CDs.\n\nDiscography \n\n* 1994 Gilles Apap and the Transylvanian Mountain Boys: Who? (Sony)\n* 1996 Gilles Apap and the Transylvanian Mountain Boys: Gilles Apap & the Transylvanian Mountain Boys (Sony)\n* 1997 Gilles Apap and the Transylvanian Mountain Boys: d’Ici & d’Ailleurs (Sony)\n* 1999 Enescu, Debussy and Ravel – Sonatas for violin and piano (Apapaziz)\n* 2001 No Piano on That One (Apapaziz)\n* 2002 Vivaldi’s Four Seasons (Apapaziz)\n* 2003 Gilles Apap and The Sinfonia Varsovia (Apapaziz)\n* 2006 Gilles Apap: Music for Solo Violin (Apapaziz)\n* 2007 Friends (Apapaziz)\n* 2008 Sans Orchestre (Apapaziz)\n* 2012 Gypsy Tunes… California Style That Is (Apapaziz)\n\nFilms \n\n* 1993 The unknown fiddler of Santa Barbara (Bruno Monsaingeon, Ideale Audience)\n* 1993 Gilles Apap and Friends (Bruno Monsaingeon, Ideale Audience)\n* 1993 Thirty Two Short Films About Glenn Gould\n* 1999 Gilles Apap plays Mozart’s Third Concerto (Ideale Audience)\n* 2004 Apap Masala, Gilles Apap in India (Max Jourdan, Ideale Audience). Gilles Apap. http://en.wikipedia.org/?curid=13158."
+  }
+}

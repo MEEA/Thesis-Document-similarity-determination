@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7651",
+  "eid" : "e2b23920-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778460082,
+  "textBody" : "Coleridge may refer to:\n\nPeople \n\n* Samuel Taylor Coleridge (1772–1834), English poet and philosopher\n* Samuel Coleridge-Taylor (1875–1912), English composer of African descent\n* Coleridge (surname), other people with the surname Coleridge\n\nPlaces \n\n* Coleridge, a ward in the City of Cambridge, England\n* Coleridge, Nebraska, a village in the U.S.\n* Coleridge, North Carolina\n* Lake Coleridge, a lake located in Canterbury, New Zealand\n* Coleridge Hundred, an ancient subdivision of Devon, England\n* Coleridge (New Zealand electorate), a former South Canterbury, New Zealand parliamentary electorate\n\nOther uses \n\n* Coleridge (crater), a crater on Mercury\n* Coleridge Community College, a secondary academy school in Cambridge, Cambridgeshire, England\n* Coleridge Primary School, a school in Hornsey, London, England\n* SS Empire Coleridge, a tanker ship",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Coleridge" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7651" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Coleridge may refer to:\n\nPeople \n\n* Samuel Taylor Coleridge (1772–1834), English poet and philosopher\n* Samuel Coleridge-Taylor (1875–1912), English composer of African descent\n* Coleridge (surname), other people with the surname Coleridge\n\nPlaces \n\n* Coleridge, a ward in the City of Cambridge, England\n* Coleridge, Nebraska, a village in the U.S.\n* Coleridge, North Carolina\n* Lake Coleridge, a lake located in Canterbury, New Zealand\n* Coleridge Hundred, an ancient subdivision of Devon, England\n* Coleridge (New Zealand electorate), a former South Canterbury, New Zealand parliamentary electorate\n\nOther uses \n\n* Coleridge (crater), a crater on Mercury\n* Coleridge Community College, a secondary academy school in Cambridge, Cambridgeshire, England\n* Coleridge Primary School, a school in Hornsey, London, England\n* SS Empire Coleridge, a tanker ship. Coleridge. http://en.wikipedia.org/?curid=7651."
+  }
+}

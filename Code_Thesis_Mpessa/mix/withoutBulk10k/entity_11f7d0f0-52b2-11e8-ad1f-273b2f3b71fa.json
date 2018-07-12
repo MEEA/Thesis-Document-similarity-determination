@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14108",
+  "eid" : "11f7d0f0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778539391,
+  "textBody" : "This is a list of historical African place names. The names on the left are linked to the corresponding subregion(s) from History of Africa.\n* Abyssinia - Ethiopia\n* Africa (province) - Tunisia\n* Barbary Coast - Algeria\n* Bechuanaland - Botswana\n* Belgian Congo - Democratic Republic of the Congo\n* Carthage - Tunisia\n* Central African Empire - Central African Republic\n* Congo Free State - Democratic Republic of the Congo\n* Dahomey - Benin\n* Equatoria - Sudan and Uganda\n* Fernando Pó - Bioko\n* French Congo - Gabon and Republic of the Congo\n* French Equatorial Africa - Chad, Central African Republic, Gabon, Republic of the Congo\n* French Sudan - Mali\n* French West Africa - Mauritania, Senegal, Mali, Guinea, Côte d'Ivoire, Niger, Burkina Faso, and Benin\n* German East Africa - Tanzania and Zanzibar\n* German South-West Africa - Namibia\n* The Gold Coast - Ghana\n* Guinea\n* Grain Coast or Pepper Coast - Liberia\n* Malagasy Republic - Madagascar\n* Monomotapa -\n* Middle Congo - Republic of the Congo\n* Nubia - Sudan and Egypt\n* Numidia - Algeria, Libya and Tunisia\n* Nyasaland - Malawi\n* Western Pentapolis - Libya\n* Portuguese Guinea - Guinea-Bissau\n* Rhodesia -\n*Northern Rhodesia - Zambia\n*Southern Rhodesia - Zimbabwe\n:*(Southern Rhodesia was commonly referred to simply as Rhodesia from 1964 to 1980)\n* Rwanda-Urundi - Rwanda and Burundi\n* The Slave Coast - Benin\n* Somaliland - Somalia\n* South-West Africa - Namibia\n* Spanish Sahara - Western Sahara\n* French Upper Volta - Republic of Upper Volta - Burkina Faso\n* Zaire - Republic of the Congo - Democratic Republic of the Congo\n\nSee also: List of extinct countries, empires, etc.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Historical African place names" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14108" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "This is a list of historical African place names. The names on the left are linked to the corresponding subregion(s) from History of Africa.\n* Abyssinia - Ethiopia\n* Africa (province) - Tunisia\n* Barbary Coast - Algeria\n* Bechuanaland - Botswana\n* Belgian Congo - Democratic Republic of the Congo\n* Carthage - Tunisia\n* Central African Empire - Central African Republic\n* Congo Free State - Democratic Republic of the Congo\n* Dahomey - Benin\n* Equatoria - Sudan and Uganda\n* Fernando Pó - Bioko\n* French Congo - Gabon and Republic of the Congo\n* French Equatorial Africa - Chad, Central African Republic, Gabon, Republic of the Congo\n* French Sudan - Mali\n* French West Africa - Mauritania, Senegal, Mali, Guinea, Côte d'Ivoire, Niger, Burkina Faso, and Benin\n* German East Africa - Tanzania and Zanzibar\n* German South-West Africa - Namibia\n* The Gold Coast - Ghana\n* Guinea\n* Grain Coast or Pepper Coast - Liberia\n* Malagasy Republic - Madagascar\n* Monomotapa -\n* Middle Congo - Republic of the Congo\n* Nubia - Sudan and Egypt\n* Numidia - Algeria, Libya and Tunisia\n* Nyasaland - Malawi\n* Western Pentapolis - Libya\n* Portuguese Guinea - Guinea-Bissau\n* Rhodesia -\n*Northern Rhodesia - Zambia\n*Southern Rhodesia - Zimbabwe\n:*(Southern Rhodesia was commonly referred to simply as Rhodesia from 1964 to 1980)\n* Rwanda-Urundi - Rwanda and Burundi\n* The Slave Coast - Benin\n* Somaliland - Somalia\n* South-West Africa - Namibia\n* Spanish Sahara - Western Sahara\n* French Upper Volta - Republic of Upper Volta - Burkina Faso\n* Zaire - Republic of the Congo - Democratic Republic of the Congo\n\nSee also: List of extinct countries, empires, etc. Historical African place names. http://en.wikipedia.org/?curid=14108."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14168",
+  "eid" : "127e3f00-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778540272,
+  "textBody" : "Himalia may refer to:\n*Himalia (moon), a moon of the planet Jupiter\n*Himalia (mythology), a nymph from Cyprus in Greek mythology",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Himalia" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14168" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Himalia may refer to:\n*Himalia (moon), a moon of the planet Jupiter\n*Himalia (mythology), a nymph from Cyprus in Greek mythology. Himalia. http://en.wikipedia.org/?curid=14168."
+  }
+}

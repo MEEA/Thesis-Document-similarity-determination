@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13908",
+  "eid" : "0faa1060-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778535526,
+  "textBody" : "Handfasting may be:\n*a historical term for \"betrothal\" or \"wedding\", see history of marriage in Great Britain and Ireland\n*a term for \"wedding\" in Neopaganism, see Handfasting (Neopaganism)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Handfasting" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13908" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Handfasting may be:\n*a historical term for \"betrothal\" or \"wedding\", see history of marriage in Great Britain and Ireland\n*a term for \"wedding\" in Neopaganism, see Handfasting (Neopaganism). Handfasting. http://en.wikipedia.org/?curid=13908."
+  }
+}

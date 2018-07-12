@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10068",
+  "eid" : "f3961b30-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778488419,
+  "textBody" : "Episcopal may refer to:\n\n*Bishop, an overseer in the Christian church\n*Episcopate, the see of a bishop – a diocese\n*Episcopal Church (disambiguation), any church with \"Episcopal\" in its name\n** The Episcopal Church, an affiliate of Anglicanism based in the United States\n*Episcopal Conference, an official assembly of bishops in a territory of the Roman Catholic Church\n*Episcopal polity, the church united under the oversight of bishops\n*Episcopal see, the official seat of a bishop, often applied to the area over which he exercises authority\n*Historical episcopate, dioceses established according to apostolic succession\n* Of, or relating to, the Anglican church",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Episcopal" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10068" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Episcopal may refer to:\n\n*Bishop, an overseer in the Christian church\n*Episcopate, the see of a bishop – a diocese\n*Episcopal Church (disambiguation), any church with \"Episcopal\" in its name\n** The Episcopal Church, an affiliate of Anglicanism based in the United States\n*Episcopal Conference, an official assembly of bishops in a territory of the Roman Catholic Church\n*Episcopal polity, the church united under the oversight of bishops\n*Episcopal see, the official seat of a bishop, often applied to the area over which he exercises authority\n*Historical episcopate, dioceses established according to apostolic succession\n* Of, or relating to, the Anglican church. Episcopal. http://en.wikipedia.org/?curid=10068."
+  }
+}

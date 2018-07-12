@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7676",
+  "eid" : "e2c265c0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778460188,
+  "textBody" : "In linguistics, creaky voice (sometimes called laryngealisation, pulse phonation, vocal fry, or glottal fry) is a special kind of phonation in which the arytenoid cartilages in the larynx are drawn together; as a result, the vocal folds are compressed rather tightly, becoming relatively slack and compact. They normally vibrate irregularly at 20–50 pulses per second, about two octaves below the frequency of normal voicing, and the airflow through the glottis is very slow. Although creaky voice may occur with very low pitch, as at the end of a long intonation unit, it can also occur with a higher pitch.\n\nCreaky voice is prevalent as a peer-group affectation among young women in the United States.Vuolo, Mike. [http://www.slate.com/articles/podcasts/lexicon_valley/2013/01/lexicon_valley_on_creaky_voice_or_vocal_fry_in_young_american_women.html \"Do You Creak?\"], Slate, undated (audio) from c. 03:45 mins. According to a 2012 study in PLOS ONE, young women using creaky voice are viewed as less competent, less educated, less trustworthy, less attractive and less employable.Anderson, Rindy C., et al. [http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0097506 \"Vocal Fry May Undermine the Success of Young Women in the Labor Market\"], PLOS ONE, 28 May 2014.  Some suggest that creaky voice can function as a marker of parentheticals in conversations; creaky voice may indicate that certain phrases, when uttered with creaky voice, contain less central information. \n\nIn some languages, such as Jalapa Mazatec, creaky voice has a phonemic status; that is, the presence or absence of creaky voice can change the meaning of a word. In the International Phonetic Alphabet, creaky voice of a phone is represented by a diacritical tilde , for example. The Danish prosodic feature stød is an example of a form of laryngealisation that has a phonemic function.\n\nA slight degree of laryngealisation, occurring in some Korean consonants for example, is called \"stiff voice\".",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Creaky voice" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7676" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "In linguistics, creaky voice (sometimes called laryngealisation, pulse phonation, vocal fry, or glottal fry) is a special kind of phonation in which the arytenoid cartilages in the larynx are drawn together; as a result, the vocal folds are compressed rather tightly, becoming relatively slack and compact. They normally vibrate irregularly at 20–50 pulses per second, about two octaves below the frequency of normal voicing, and the airflow through the glottis is very slow. Although creaky voice may occur with very low pitch, as at the end of a long intonation unit, it can also occur with a higher pitch.\n\nCreaky voice is prevalent as a peer-group affectation among young women in the United States.Vuolo, Mike. [http://www.slate.com/articles/podcasts/lexicon_valley/2013/01/lexicon_valley_on_creaky_voice_or_vocal_fry_in_young_american_women.html \"Do You Creak?\"], Slate, undated (audio) from c. 03:45 mins. According to a 2012 study in PLOS ONE, young women using creaky voice are viewed as less competent, less educated, less trustworthy, less attractive and less employable.Anderson, Rindy C., et al. [http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0097506 \"Vocal Fry May Undermine the Success of Young Women in the Labor Market\"], PLOS ONE, 28 May 2014.  Some suggest that creaky voice can function as a marker of parentheticals in conversations; creaky voice may indicate that certain phrases, when uttered with creaky voice, contain less central information. \n\nIn some languages, such as Jalapa Mazatec, creaky voice has a phonemic status; that is, the presence or absence of creaky voice can change the meaning of a word. In the International Phonetic Alphabet, creaky voice of a phone is represented by a diacritical tilde , for example. The Danish prosodic feature stød is an example of a form of laryngealisation that has a phonemic function.\n\nA slight degree of laryngealisation, occurring in some Korean consonants for example, is called \"stiff voice\". Creaky voice. http://en.wikipedia.org/?curid=7676."
+  }
+}

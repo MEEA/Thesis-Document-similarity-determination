@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17789",
+  "eid" : "2e2feff0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778586735,
+  "textBody" : "The Lesotho Defence Force is the state military organisation of Lesotho.\n\nLesotho's security forces are composed of the Lesotho Defence Force (LDF) and the Lesotho Mounted Police Service. The LDF consists of an army, an air wing, and a newly formed paramilitary wing. The LDF is answerable to the Prime Minister through the Ministry of Defence.\n\nThe Lesotho Government in 1999 began an open debate on the future structure, size, and role of the armed forces, especially considering the Lesotho Defence Force's (LDF) history of intervening in political affairs.Central Intelligence Agency, The World Factbook\n\nArmy units\n\n*7 x Infantry Companies\n*1 x Support Company (81mm mortars)\n*1 x Armoured Recon. Company \n*1 x Artillery Battery (L-118 Light-gun 105mm towed howitzer)\n*1 x Logistic Support Group\n\nStatistics\n\nMilitary manpower - availability:\nmales age 15-49:\n526,332 (2002 est.)\n\nMilitary manpower - fit for military service:\nmales age 15-49:\n283,203 (2002 est.)\n\nMilitary expenditures - dollar figure:\n$34 million (1999)\n\nOther security forces\n\nThe Lesotho Mounted Police Service reports to the Prime Minister through the ministry of Defence, Police and National Security Service. There also is a National Security Service, Intelligence, which is directly accountable to the Prime Minister. Relations between the police and the army have been tense, and in 1997 the army was called upon to put down a serious police mutiny.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Military of Lesotho" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17789" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The Lesotho Defence Force is the state military organisation of Lesotho.\n\nLesotho's security forces are composed of the Lesotho Defence Force (LDF) and the Lesotho Mounted Police Service. The LDF consists of an army, an air wing, and a newly formed paramilitary wing. The LDF is answerable to the Prime Minister through the Ministry of Defence.\n\nThe Lesotho Government in 1999 began an open debate on the future structure, size, and role of the armed forces, especially considering the Lesotho Defence Force's (LDF) history of intervening in political affairs.Central Intelligence Agency, The World Factbook\n\nArmy units\n\n*7 x Infantry Companies\n*1 x Support Company (81mm mortars)\n*1 x Armoured Recon. Company \n*1 x Artillery Battery (L-118 Light-gun 105mm towed howitzer)\n*1 x Logistic Support Group\n\nStatistics\n\nMilitary manpower - availability:\nmales age 15-49:\n526,332 (2002 est.)\n\nMilitary manpower - fit for military service:\nmales age 15-49:\n283,203 (2002 est.)\n\nMilitary expenditures - dollar figure:\n$34 million (1999)\n\nOther security forces\n\nThe Lesotho Mounted Police Service reports to the Prime Minister through the ministry of Defence, Police and National Security Service. There also is a National Security Service, Intelligence, which is directly accountable to the Prime Minister. Relations between the police and the army have been tense, and in 1997 the army was called upon to put down a serious police mutiny. Military of Lesotho. http://en.wikipedia.org/?curid=17789."
+  }
+}

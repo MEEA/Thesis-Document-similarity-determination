@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13822",
+  "eid" : "0e02f010-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778532753,
+  "textBody" : "is a Japanese mathematician. He entered Kyoto University in 1949. After completing his undergraduate studies at Kyoto University, he received his Ph.D. in 1960 from Harvard while under the direction of Oscar Zariski. He was awarded the Fields Medal in 1970. \n\nHe is celebrated for proving in 1964 that singularities of algebraic varieties admit resolutions in characteristic zero. This means that any algebraic variety can be replaced by (more precisely is birationally equivalent to) a similar variety which has no singularities. He also introduced Hironaka's example showing that a deformation of Kähler manifolds need not be Kähler. In 2017 he posted to his personal webpage a manuscript that claims to prove the existence of a resolution of singularities in positive characteristic.\n\nHironaka was for many years a Professor of mathematics at Harvard University (1968-1992) but currently lives in Japan. He held teaching positions at Brandeis University (1960-1963), Columbia University (1964) and Kyoto University (1975-1988). He was a president of Yamaguchi University (1996-2002). He has been active in raising funds for causes such as mathematical education.\n\nList of books available in English \n\n* Formal functions and formal imbeddings / by Heisuke Hironaka and Hideyuki Matsumura (1967)\n* On the characters \\nu and \\tau of singularities / by Heisuke Hironaka\n* Introduction to the theory of infinitely near singular points / Heisuke Hironaka (1974)\n* The theory of the maximal contact / José M. Aroca, Heisuke Hironaka and José L. Vicente (1975)\n* Desingularization theorems / Jose M. Aroca, Heisuke Hironaka and Jose L. Vicente (1977)\n* Geometric singularity theory / editors of the volume, Heisuke Hironaka, Stanisław Janeczko (2004)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Heisuke Hironaka" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13822" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "is a Japanese mathematician. He entered Kyoto University in 1949. After completing his undergraduate studies at Kyoto University, he received his Ph.D. in 1960 from Harvard while under the direction of Oscar Zariski. He was awarded the Fields Medal in 1970. \n\nHe is celebrated for proving in 1964 that singularities of algebraic varieties admit resolutions in characteristic zero. This means that any algebraic variety can be replaced by (more precisely is birationally equivalent to) a similar variety which has no singularities. He also introduced Hironaka's example showing that a deformation of Kähler manifolds need not be Kähler. In 2017 he posted to his personal webpage a manuscript that claims to prove the existence of a resolution of singularities in positive characteristic.\n\nHironaka was for many years a Professor of mathematics at Harvard University (1968-1992) but currently lives in Japan. He held teaching positions at Brandeis University (1960-1963), Columbia University (1964) and Kyoto University (1975-1988). He was a president of Yamaguchi University (1996-2002). He has been active in raising funds for causes such as mathematical education.\n\nList of books available in English \n\n* Formal functions and formal imbeddings / by Heisuke Hironaka and Hideyuki Matsumura (1967)\n* On the characters \\nu and \\tau of singularities / by Heisuke Hironaka\n* Introduction to the theory of infinitely near singular points / Heisuke Hironaka (1974)\n* The theory of the maximal contact / José M. Aroca, Heisuke Hironaka and José L. Vicente (1975)\n* Desingularization theorems / Jose M. Aroca, Heisuke Hironaka and Jose L. Vicente (1977)\n* Geometric singularity theory / editors of the volume, Heisuke Hironaka, Stanisław Janeczko (2004). Heisuke Hironaka. http://en.wikipedia.org/?curid=13822."
+  }
+}

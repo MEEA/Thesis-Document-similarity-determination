@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16247",
+  "eid" : "24f19ab0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778571227,
+  "textBody" : "John van Melle (11 February 1887 – 8 November 1953) was the pen name of a Dutch-born South African author. His real name was Johannes van Melle.\n\nVan Melle was born in Goes.  He arrived in South Africa in 1906, and after a short sojourn in the Netherlands East Indies, settled in South Africa permanently in  1913. He worked as a teacher in many rural schools and soon started to publish in both Dutch and the newly emerging Afrikaans language.\n\nVan Melle's best known work is the novel Bart Nel, a classic of Afrikaans literature. It tells the tale of a farmer whose indomitable spirit allows him to survive the destruction and loss of his farm in wartime and being abandoned by his wife and family.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "John van Melle" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16247" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "John van Melle (11 February 1887 – 8 November 1953) was the pen name of a Dutch-born South African author. His real name was Johannes van Melle.\n\nVan Melle was born in Goes.  He arrived in South Africa in 1906, and after a short sojourn in the Netherlands East Indies, settled in South Africa permanently in  1913. He worked as a teacher in many rural schools and soon started to publish in both Dutch and the newly emerging Afrikaans language.\n\nVan Melle's best known work is the novel Bart Nel, a classic of Afrikaans literature. It tells the tale of a farmer whose indomitable spirit allows him to survive the destruction and loss of his farm in wartime and being abandoned by his wife and family. John van Melle. http://en.wikipedia.org/?curid=16247."
+  }
+}

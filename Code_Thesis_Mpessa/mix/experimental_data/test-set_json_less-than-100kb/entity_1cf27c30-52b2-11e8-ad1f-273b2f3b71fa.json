@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15536",
+  "eid" : "1cf27c30-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778557811,
+  "textBody" : "An airport is an aerodrome with facilities for flights to take off and land. Airports often have facilities to store and maintain aircraft, and a control tower. An airport consists of a landing area, which comprises an aerially accessible open space including at least one operationally active surface such as a runway for a plane to take off or a helipad, and often includes adjacent utility buildings such as control towers, hangars and terminals.\n\nAn airport with a helipad for rotorcraft but no runway is called a heliport. An airport for use by seaplanes and amphibious aircraft is called a seaplane base. Such a base typically includes a stretch of open water for takeoffs and landings, and seaplane docks for tying-up.\n\nAn international airport has additional facilities for customs and immigration.\n\n* By country: see :Category:Lists of airports by country\n* By metropolitan area: see :Category:Airports by city\n* List of eponyms of airports (airports named after people)\n* Lists of military installations\n* Lists of the World's busiest airports:\n** by aircraft movements\n** by cargo traffic\n** by passenger traffic\n** by international passenger traffic\n* Worldwide list of airports with scheduled commercial service, see: Airline destinations",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "List of airports" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15536" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "An airport is an aerodrome with facilities for flights to take off and land. Airports often have facilities to store and maintain aircraft, and a control tower. An airport consists of a landing area, which comprises an aerially accessible open space including at least one operationally active surface such as a runway for a plane to take off or a helipad, and often includes adjacent utility buildings such as control towers, hangars and terminals.\n\nAn airport with a helipad for rotorcraft but no runway is called a heliport. An airport for use by seaplanes and amphibious aircraft is called a seaplane base. Such a base typically includes a stretch of open water for takeoffs and landings, and seaplane docks for tying-up.\n\nAn international airport has additional facilities for customs and immigration.\n\n* By country: see :Category:Lists of airports by country\n* By metropolitan area: see :Category:Airports by city\n* List of eponyms of airports (airports named after people)\n* Lists of military installations\n* Lists of the World's busiest airports:\n** by aircraft movements\n** by cargo traffic\n** by passenger traffic\n** by international passenger traffic\n* Worldwide list of airports with scheduled commercial service, see: Airline destinations. List of airports. http://en.wikipedia.org/?curid=15536."
+  }
+}

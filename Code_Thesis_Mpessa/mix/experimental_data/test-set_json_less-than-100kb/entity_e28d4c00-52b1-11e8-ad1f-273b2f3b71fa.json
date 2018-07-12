@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7603",
+  "eid" : "e28d4c00-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778459840,
+  "textBody" : "CIT or cit may refer to:\n\n* β-CIT, phenyltropane-based psychostimulant;  RTI-55 and iometopane\n* Cash-in-transit\n* Cit (consciousness), Sanskrit for consciousness or awareness; alternately spelled chit \n* CIT (gene), citron kinase\n* CIT - the IATA code for Shymkent International Airport\n* CIT Program Tumor Identity Cards, programme for characterising tumours\n* Collagen induction therapy, aesthetic medical procedure\n* CollegeInsider.com Postseason Tournament in basketball\n* Counselor-in-Training at a summer camp\n* Crisis intervention training\n* Critical Incident Technique\n* Customer Interaction Tracker\n\nOrganizations\n\n* CIT Group, financial holding company\n* Center for Information Technology of the US government\n* Compagnia Italiana Turismo, an Italian travel agency\n* Confederación Interamericana de Trabajadores, an inter-American trade union confederation\n* Conseil Intermunicipal de Transport, Montreal, Canada\n\nEducational institutions\n\n* California Institute of Technology, officially Caltech, rarely CIT\n* Canberra Institute of Technology\n* Carnegie Institute of Technology, former name for Carnegie Mellon University\n* Cebu Institute of Technology – University, Cebu City, Philippines\n* Changshu Institute of Technology, Jiangsu, China\n* Chiba Institute of Technology, Japan\n* Chungyu Institute of Technology, Keelung, Taiwan\n* Coimbatore Institute of Technology, India\n* Cork Institute of Technology, Ireland\n* Chartered Institute of Transport,  London",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "CIT" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7603" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "CIT or cit may refer to:\n\n* β-CIT, phenyltropane-based psychostimulant;  RTI-55 and iometopane\n* Cash-in-transit\n* Cit (consciousness), Sanskrit for consciousness or awareness; alternately spelled chit \n* CIT (gene), citron kinase\n* CIT - the IATA code for Shymkent International Airport\n* CIT Program Tumor Identity Cards, programme for characterising tumours\n* Collagen induction therapy, aesthetic medical procedure\n* CollegeInsider.com Postseason Tournament in basketball\n* Counselor-in-Training at a summer camp\n* Crisis intervention training\n* Critical Incident Technique\n* Customer Interaction Tracker\n\nOrganizations\n\n* CIT Group, financial holding company\n* Center for Information Technology of the US government\n* Compagnia Italiana Turismo, an Italian travel agency\n* Confederación Interamericana de Trabajadores, an inter-American trade union confederation\n* Conseil Intermunicipal de Transport, Montreal, Canada\n\nEducational institutions\n\n* California Institute of Technology, officially Caltech, rarely CIT\n* Canberra Institute of Technology\n* Carnegie Institute of Technology, former name for Carnegie Mellon University\n* Cebu Institute of Technology – University, Cebu City, Philippines\n* Changshu Institute of Technology, Jiangsu, China\n* Chiba Institute of Technology, Japan\n* Chungyu Institute of Technology, Keelung, Taiwan\n* Coimbatore Institute of Technology, India\n* Cork Institute of Technology, Ireland\n* Chartered Institute of Transport,  London. CIT. http://en.wikipedia.org/?curid=7603."
+  }
+}

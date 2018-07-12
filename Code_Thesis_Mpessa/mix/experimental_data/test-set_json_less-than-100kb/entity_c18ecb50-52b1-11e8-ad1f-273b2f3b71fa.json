@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2677",
+  "eid" : "c18ecb50-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778404485,
+  "textBody" : "Abd ar-Rahman II () (792–852) was the fourth Umayyad Emir of Córdoba in the Al-Andalus (Moorish Iberia) from 822 until his death.\n\nBiography\n\nAbd ar-Rahman II was born in Toledo, the son of Emir Al-Hakam I. In his youth he took part in the so-called \"massacre of the ditch\", when from 700 to 5,000 people come to pay homage to the princes who were killed by order of Al-Hakam.\n\nHe succeeded his father as Emir of Córdoba in 822 and engaged in nearly continuous warfare against Alfonso II of Asturias, whose southward advance he halted (822–842). \nIn 837, he suppressed a revolt of Christians and Jews in Toledo. \nHe issued a decree by which the Christians were forbidden to seek martyrdom, and he had a Christian synod held to forbid  martyrdom.\n\nIn 844, Abd ar-Rahman repulsed an assault by Vikings who had disembarked in Cádiz, conquered Seville (with the exception of its citadel) and attacked Córdoba itself. \nThereafter he constructed a fleet and naval arsenal at Seville to repel future raids.\n\nHe responded to William of Septimania's requests of assistance in his struggle against Charles the Bald's nominations.\n\nAbd ar-Rahman was famous for his public building program in Córdoba where he died in 852. He made additions to the Mosque–Cathedral of Córdoba. A vigorous and effective frontier warrior, he was also well known as a patron of the arts. \nHe was also involved in the execution of the \"Martyrs of Córdoba\".",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Abd ar-Rahman II" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2677" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Abd ar-Rahman II () (792–852) was the fourth Umayyad Emir of Córdoba in the Al-Andalus (Moorish Iberia) from 822 until his death.\n\nBiography\n\nAbd ar-Rahman II was born in Toledo, the son of Emir Al-Hakam I. In his youth he took part in the so-called \"massacre of the ditch\", when from 700 to 5,000 people come to pay homage to the princes who were killed by order of Al-Hakam.\n\nHe succeeded his father as Emir of Córdoba in 822 and engaged in nearly continuous warfare against Alfonso II of Asturias, whose southward advance he halted (822–842). \nIn 837, he suppressed a revolt of Christians and Jews in Toledo. \nHe issued a decree by which the Christians were forbidden to seek martyrdom, and he had a Christian synod held to forbid  martyrdom.\n\nIn 844, Abd ar-Rahman repulsed an assault by Vikings who had disembarked in Cádiz, conquered Seville (with the exception of its citadel) and attacked Córdoba itself. \nThereafter he constructed a fleet and naval arsenal at Seville to repel future raids.\n\nHe responded to William of Septimania's requests of assistance in his struggle against Charles the Bald's nominations.\n\nAbd ar-Rahman was famous for his public building program in Córdoba where he died in 852. He made additions to the Mosque–Cathedral of Córdoba. A vigorous and effective frontier warrior, he was also well known as a patron of the arts. \nHe was also involved in the execution of the \"Martyrs of Córdoba\". Abd ar-Rahman II. http://en.wikipedia.org/?curid=2677."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19321",
+  "eid" : "39da1510-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778606305,
+  "textBody" : "Mental process or mental function are all the things that individuals can do with their minds. These include perception, memory, thinking (such as ideation, imagination, belief, reasoning, etc.), volition, and emotion.\n\nSometimes the term cognitive function is used instead.\n\nA specific instance of engaging in cognitive process is a mental event. The event of perceiving something is different from the entire process, or capacity of perception — one's ability to perceive things. In other words, an instance of perceiving is different from the ability that makes those instances possible.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Mental process" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19321" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Mental process or mental function are all the things that individuals can do with their minds. These include perception, memory, thinking (such as ideation, imagination, belief, reasoning, etc.), volition, and emotion.\n\nSometimes the term cognitive function is used instead.\n\nA specific instance of engaging in cognitive process is a mental event. The event of perceiving something is different from the entire process, or capacity of perception — one's ability to perceive things. In other words, an instance of perceiving is different from the ability that makes those instances possible. Mental process. http://en.wikipedia.org/?curid=19321."
+  }
+}

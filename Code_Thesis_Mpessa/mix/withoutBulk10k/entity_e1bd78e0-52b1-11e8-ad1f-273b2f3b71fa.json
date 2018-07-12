@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7467",
+  "eid" : "e1bd78e0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778458478,
+  "textBody" : "Cobbler(s) may refer to:\n\nPlaces\n\n* The Cobbler, a mountain located near the head of Loch Long in Scotland\n* Cobbler, Missouri, a community in the United States\n\nArt, entertainment and media\n\n* The Cobbler (1923 film), a short comedy by Hal Roach\n* The Cobbler (2014 film), a comedy-drama starring Adam Sandler\n* \"Cobbler\" (Better Call Saul), an episode of the TV series Better Call Saul\n* \"The Cunning Cobbler\", a folk song, No. 174 in the Roud Folk Song Index, also called \"The Cunning Cobbler Done Over\"\n\nFish\n\n* Cobbler or river cobbler, a marketing name in the UK for Southeast Asian Pangasius bocourti and Pangasius pangasius (also marketed as \"basa\", \"pangasius\" and \"panga\")\n* Cobbler, a common name for Cnidoglanis macrocephalus, a species of catfish found along the coasts of Australia\n* Cobbler, a common name for the South Australian cobbler, a brown fish found in estuaries in southern Australia\n\nFood and drink\n\n* Cobbler (food), a type of pie\n* Cobbler, a type of mixed drink made with wine or sherry, citrus juice and sugar\n\nOccupations\n\n* Cobbler, a person who repairs, and sometimes makes, shoes\n* Cobbler, a person who illegally forges passports and other documents\n\nOther uses\n\n* Cobbler (software), a network-oriented install server for Linux\n* , a former submarine in the United States Navy\n* \"The Cobblers\", a nickname for the English association football club Northampton Town F.C.\n* Cobblers, a slang term for nonsense; see Rhyming slang#Taboo terms",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Cobbler" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7467" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Cobbler(s) may refer to:\n\nPlaces\n\n* The Cobbler, a mountain located near the head of Loch Long in Scotland\n* Cobbler, Missouri, a community in the United States\n\nArt, entertainment and media\n\n* The Cobbler (1923 film), a short comedy by Hal Roach\n* The Cobbler (2014 film), a comedy-drama starring Adam Sandler\n* \"Cobbler\" (Better Call Saul), an episode of the TV series Better Call Saul\n* \"The Cunning Cobbler\", a folk song, No. 174 in the Roud Folk Song Index, also called \"The Cunning Cobbler Done Over\"\n\nFish\n\n* Cobbler or river cobbler, a marketing name in the UK for Southeast Asian Pangasius bocourti and Pangasius pangasius (also marketed as \"basa\", \"pangasius\" and \"panga\")\n* Cobbler, a common name for Cnidoglanis macrocephalus, a species of catfish found along the coasts of Australia\n* Cobbler, a common name for the South Australian cobbler, a brown fish found in estuaries in southern Australia\n\nFood and drink\n\n* Cobbler (food), a type of pie\n* Cobbler, a type of mixed drink made with wine or sherry, citrus juice and sugar\n\nOccupations\n\n* Cobbler, a person who repairs, and sometimes makes, shoes\n* Cobbler, a person who illegally forges passports and other documents\n\nOther uses\n\n* Cobbler (software), a network-oriented install server for Linux\n* , a former submarine in the United States Navy\n* \"The Cobblers\", a nickname for the English association football club Northampton Town F.C.\n* Cobblers, a slang term for nonsense; see Rhyming slang#Taboo terms. Cobbler. http://en.wikipedia.org/?curid=7467."
+  }
+}

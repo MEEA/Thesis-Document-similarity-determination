@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=9365",
+  "eid" : "ee9807b0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778480043,
+  "textBody" : "El Salvador is a member of the United Nations and several of its specialized agencies, the Organization of American States (OAS), the Central American Common Market (CACM), the Central American Parliament (PARLACEN), and the Central American Integration System (SICA). It actively participates in the Central American Security Commission (CASC), which seeks to promote regional arms control.\n\nIn November, 1950 El Salvador helped the newly empowered 14th Dalai Lama by supporting his Tibetan Government cabinet minister's telegram requesting an appeal before the General Assembly of the United Nations to stop the Communist China's People's Liberation Army's invasion of Tibet. \"Only the tiny country of El Salvador agreed to sponsor Tibet's plea.\"\"At the UN, no one was willing to stand up beside El Salvador. The other nations had overriding self-interests, which made it impossible for them to support San Salvador's attempt to bring the invasion before the General Assembly.\" With no other countries in support, \"the UN unanimously dropped the Tibetan plea from its agenda.\"\n\nEl Salvador also is a member of the World Trade Organization and is pursuing regional free trade agreements. An active participant in the Summit of the Americas process, El Salvador chairs a working group on market access under the Free Trade Area of the Americas initiative.\n\nEl Salvador has joined its six Central American neighbors in signing the Alliance for Sustainable Development, known as the Conjunta Centroamerica-USA or CONCAUSA to promote sustainable economic development in the region.\n\nBilateral relations",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Foreign relations of El Salvador" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=9365" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "El Salvador is a member of the United Nations and several of its specialized agencies, the Organization of American States (OAS), the Central American Common Market (CACM), the Central American Parliament (PARLACEN), and the Central American Integration System (SICA). It actively participates in the Central American Security Commission (CASC), which seeks to promote regional arms control.\n\nIn November, 1950 El Salvador helped the newly empowered 14th Dalai Lama by supporting his Tibetan Government cabinet minister's telegram requesting an appeal before the General Assembly of the United Nations to stop the Communist China's People's Liberation Army's invasion of Tibet. \"Only the tiny country of El Salvador agreed to sponsor Tibet's plea.\"\"At the UN, no one was willing to stand up beside El Salvador. The other nations had overriding self-interests, which made it impossible for them to support San Salvador's attempt to bring the invasion before the General Assembly.\" With no other countries in support, \"the UN unanimously dropped the Tibetan plea from its agenda.\"\n\nEl Salvador also is a member of the World Trade Organization and is pursuing regional free trade agreements. An active participant in the Summit of the Americas process, El Salvador chairs a working group on market access under the Free Trade Area of the Americas initiative.\n\nEl Salvador has joined its six Central American neighbors in signing the Alliance for Sustainable Development, known as the Conjunta Centroamerica-USA or CONCAUSA to promote sustainable economic development in the region.\n\nBilateral relations. Foreign relations of El Salvador. http://en.wikipedia.org/?curid=9365."
+  }
+}

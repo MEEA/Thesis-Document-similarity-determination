@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=6681",
+  "eid" : "dd07b900-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778450576,
+  "textBody" : "Crank may refer to:\n\nMechanism\n\n* Crank (mechanism), in mechanical engineering, a bent portion of an axle or shaft, or an arm keyed at right angles to the end of a shaft, by which motion is imparted to or received from it\n* Crankset, the component of a bicycle drivetrain that converts the reciprocating motion of the rider's legs into rotational motion\n* Crankshaft, the part of a piston engine which translates reciprocating linear piston motion into rotation\n* Crank machine, a machine used to deliver hard labour in early Victorian prisons in the United Kingdom\n\nPlaces\n\n* Crank, Merseyside, a village near Rainford, England\n* Crank Halt railway station in the village of Crank, Merseyside\n* Cranks, Kentucky, United States\n\nPopular culture\n\n* Crank (film), a 2006 film starring Jason Statham\n** Crank: High Voltage, the 2009 sequel\n* Crank (Hoodoo Gurus album), 1994\n* Crank (novel), a 2004 book written by Ellen Hopkins\n* \"Crank\" (song), a 1993 song by the alternative rock band Catherine Wheel\n* Crank (The Almighty album), the fourth studio album released by Scottish heavy metal band The Almighty\n* Crank! A Record Company, a record label that released albums by indie bands Mineral, The Gloria Record, and Bright Eyes\n\nSlang\n\n* Crank (person), a pejorative term used for a person who holds an unshakable belief that most of his or her contemporaries consider to be false.\n* Prank call or crank call, a false telephone call\n* Crank, slang term for powdered substituted amphetamines, especially methamphetamine\n\nOther uses \n\n* Cranks (restaurant), a chain of English wholefood vegetarian restaurants\n* Crank (surname), a surname, notable people with the surname see there\n* Crank conjecture, a term coined by Freeman Dyson to explain congruence patterns in integer partitions\n* Crank of a partition, of a partition of an integer is a certain integer associated with the partition",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Crank" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=6681" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Crank may refer to:\n\nMechanism\n\n* Crank (mechanism), in mechanical engineering, a bent portion of an axle or shaft, or an arm keyed at right angles to the end of a shaft, by which motion is imparted to or received from it\n* Crankset, the component of a bicycle drivetrain that converts the reciprocating motion of the rider's legs into rotational motion\n* Crankshaft, the part of a piston engine which translates reciprocating linear piston motion into rotation\n* Crank machine, a machine used to deliver hard labour in early Victorian prisons in the United Kingdom\n\nPlaces\n\n* Crank, Merseyside, a village near Rainford, England\n* Crank Halt railway station in the village of Crank, Merseyside\n* Cranks, Kentucky, United States\n\nPopular culture\n\n* Crank (film), a 2006 film starring Jason Statham\n** Crank: High Voltage, the 2009 sequel\n* Crank (Hoodoo Gurus album), 1994\n* Crank (novel), a 2004 book written by Ellen Hopkins\n* \"Crank\" (song), a 1993 song by the alternative rock band Catherine Wheel\n* Crank (The Almighty album), the fourth studio album released by Scottish heavy metal band The Almighty\n* Crank! A Record Company, a record label that released albums by indie bands Mineral, The Gloria Record, and Bright Eyes\n\nSlang\n\n* Crank (person), a pejorative term used for a person who holds an unshakable belief that most of his or her contemporaries consider to be false.\n* Prank call or crank call, a false telephone call\n* Crank, slang term for powdered substituted amphetamines, especially methamphetamine\n\nOther uses \n\n* Cranks (restaurant), a chain of English wholefood vegetarian restaurants\n* Crank (surname), a surname, notable people with the surname see there\n* Crank conjecture, a term coined by Freeman Dyson to explain congruence patterns in integer partitions\n* Crank of a partition, of a partition of an integer is a certain integer associated with the partition. Crank. http://en.wikipedia.org/?curid=6681."
+  }
+}

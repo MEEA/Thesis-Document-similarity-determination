@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19866",
+  "eid" : "3e662ce0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778613934,
+  "textBody" : "The Morona is a tributary to the Marañón River, and flows parallel to the Pastaza River and immediately to the west of it, and is the last stream of any importance on the northern side of the Amazon before reaching the Pongo de Manseriche.\n\nIt is formed from a multitude of water-courses which descend the slopes of the Ecuadorian Andes south of the gigantic volcano of Sangay; but it soon reaches the plain, which commences where it receives its Cusulima branch.  The Morona is navigable for small craft for about 300 miles above its mouth, but it is extremely tortuous. Canoes may ascend many of its branches, especially the Cusuhma and the Miazal, the latter almost to the base of Sangay. The Morona has been the scene of many rude explorations, with the hope of finding it serviceable as a commercial route between the inter-Andean tableland of Ecuador and the Amazon river.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Morona" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19866" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The Morona is a tributary to the Marañón River, and flows parallel to the Pastaza River and immediately to the west of it, and is the last stream of any importance on the northern side of the Amazon before reaching the Pongo de Manseriche.\n\nIt is formed from a multitude of water-courses which descend the slopes of the Ecuadorian Andes south of the gigantic volcano of Sangay; but it soon reaches the plain, which commences where it receives its Cusulima branch.  The Morona is navigable for small craft for about 300 miles above its mouth, but it is extremely tortuous. Canoes may ascend many of its branches, especially the Cusuhma and the Miazal, the latter almost to the base of Sangay. The Morona has been the scene of many rude explorations, with the hope of finding it serviceable as a commercial route between the inter-Andean tableland of Ecuador and the Amazon river. Morona. http://en.wikipedia.org/?curid=19866."
+  }
+}

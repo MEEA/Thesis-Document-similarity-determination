@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2964",
+  "eid" : "c357f290-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778407481,
+  "textBody" : "An Audio optical disc is an optical disc that stores sound information such as music or speech.\n\nIt may specifically refer to:\n\nAudio CDs\n\n*Compact disc (CD), an optical disc used to store digital data (700 MB storage)\n** Compact Disc Digital Audio (CD-DA), a CD that contains PCM encoded digital audio in the original \"Red Book\" CD-DA format\n** 5.1 Music Disc, an extension to the red book standard that uses DTS Coherent Acoustics 5.1 surround sound\n** Compressed audio optical disc, an optical disc storing MP3s and other compressed audio files as data, rather than in the Red Book format\n\nAudio DVDs\n\n*DVD, 4 GB single layer, 8 GB double layer storage\n** DVD-Audio, a DVD that plays audio\n** Super Audio CD (SACD), a format which competes with DVD-Audio\n\nAudio Blu-rays\n\n*Blu-Ray, 25 GB single layer, 50 GB double layer\n** BD-Audio, a Blu-ray disc that is capable of audio-only playback",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Optical audio disc" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2964" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "An Audio optical disc is an optical disc that stores sound information such as music or speech.\n\nIt may specifically refer to:\n\nAudio CDs\n\n*Compact disc (CD), an optical disc used to store digital data (700 MB storage)\n** Compact Disc Digital Audio (CD-DA), a CD that contains PCM encoded digital audio in the original \"Red Book\" CD-DA format\n** 5.1 Music Disc, an extension to the red book standard that uses DTS Coherent Acoustics 5.1 surround sound\n** Compressed audio optical disc, an optical disc storing MP3s and other compressed audio files as data, rather than in the Red Book format\n\nAudio DVDs\n\n*DVD, 4 GB single layer, 8 GB double layer storage\n** DVD-Audio, a DVD that plays audio\n** Super Audio CD (SACD), a format which competes with DVD-Audio\n\nAudio Blu-rays\n\n*Blu-Ray, 25 GB single layer, 50 GB double layer\n** BD-Audio, a Blu-ray disc that is capable of audio-only playback. Optical audio disc. http://en.wikipedia.org/?curid=2964."
+  }
+}

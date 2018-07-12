@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2139",
+  "eid" : "bde6f900-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778398352,
+  "textBody" : "These are lists of animated television series. Animated television series are television programs produced by means of animation. Animated series produced for theaters are not included in this lists; for those, see List of animated short series. These lists include compilation series of theatrical shorts such as The Bugs Bunny Show since they often feature some new wrap-around animation.\n\nLists by decade\n\n*List of animated television series of the 1940s and 1950s\n*List of animated television series of the 1960s\n*List of animated television series of the 1970s\n*List of animated television series of the 1980s\n*List of animated television series of the 1990s\n*List of animated television series of the 2000s\n*List of animated television series of the 2010s\n\nOther lists\n\n*List of animated television series created for syndication\n*List of animated television series by episode count\n*List of children animated series\n*List of adult animated television series\n*List of prime time animated television series\n*List of anime series by episode count\n*List of anime franchises by episode count\n*List of American animated television series\n*List of British animated television series\n*List of Canadian animated television series\n*List of French animated television series\n*List of Italian animated television series\n*List of Flash animated television series\n*List of animated television programs with LGBT characters",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "List of animated television series" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2139" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "These are lists of animated television series. Animated television series are television programs produced by means of animation. Animated series produced for theaters are not included in this lists; for those, see List of animated short series. These lists include compilation series of theatrical shorts such as The Bugs Bunny Show since they often feature some new wrap-around animation.\n\nLists by decade\n\n*List of animated television series of the 1940s and 1950s\n*List of animated television series of the 1960s\n*List of animated television series of the 1970s\n*List of animated television series of the 1980s\n*List of animated television series of the 1990s\n*List of animated television series of the 2000s\n*List of animated television series of the 2010s\n\nOther lists\n\n*List of animated television series created for syndication\n*List of animated television series by episode count\n*List of children animated series\n*List of adult animated television series\n*List of prime time animated television series\n*List of anime series by episode count\n*List of anime franchises by episode count\n*List of American animated television series\n*List of British animated television series\n*List of Canadian animated television series\n*List of French animated television series\n*List of Italian animated television series\n*List of Flash animated television series\n*List of animated television programs with LGBT characters. List of animated television series. http://en.wikipedia.org/?curid=2139."
+  }
+}

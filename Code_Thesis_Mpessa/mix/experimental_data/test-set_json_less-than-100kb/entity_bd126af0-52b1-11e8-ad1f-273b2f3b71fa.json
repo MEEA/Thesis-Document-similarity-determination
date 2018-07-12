@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1985",
+  "eid" : "bd126af0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778396959,
+  "textBody" : "Absorption may refer to:\n\nChemistry and biology \n\n* Absorption (chemistry), diffusion of particles of gas or liquid in liquid or solid materials\n* Absorption (skin), a route by which substances can enter the body through the skin\n* Absorption (pharmacokinetics), absorption of drugs in body\n* CO2 scrubber, the absorbent (of carbon dioxide) in a rebreather\n* Absorption (small intestine)\n* Absorption (biology)\n\nPhysics and chemical engineering \n\n* Absorption (electromagnetic radiation), absorption of light or other electromagnetic radiation by a material\n* Absorption (acoustics), absorption of sound waves by a material\n* Dielectric absorption, the inability of a charged capacitor to completely discharge when briefly discharged\n* Absorption refrigerator, a refrigerator that runs on surplus heat rather than electricity\n* Absorption air conditioning, a type of solar air conditioning\n\nMathematics and economics \n\n* Absorption (logic), one of the rules of inference\n* Absorption law, in mathematics, an identity linking a pair of binary operations\n* Absorbing element, in mathematics, an element that does not change when it is combined in a binary operation with some other element\n* Absorption (economics), the total demand of an economy for goods and services both from within and without\n* Absorption costing, or total absorption costing, a method for appraising or valuing a firm's total inventory by including all the manufacturing costs incurred to produce those goods",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Absorption" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1985" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Absorption may refer to:\n\nChemistry and biology \n\n* Absorption (chemistry), diffusion of particles of gas or liquid in liquid or solid materials\n* Absorption (skin), a route by which substances can enter the body through the skin\n* Absorption (pharmacokinetics), absorption of drugs in body\n* CO2 scrubber, the absorbent (of carbon dioxide) in a rebreather\n* Absorption (small intestine)\n* Absorption (biology)\n\nPhysics and chemical engineering \n\n* Absorption (electromagnetic radiation), absorption of light or other electromagnetic radiation by a material\n* Absorption (acoustics), absorption of sound waves by a material\n* Dielectric absorption, the inability of a charged capacitor to completely discharge when briefly discharged\n* Absorption refrigerator, a refrigerator that runs on surplus heat rather than electricity\n* Absorption air conditioning, a type of solar air conditioning\n\nMathematics and economics \n\n* Absorption (logic), one of the rules of inference\n* Absorption law, in mathematics, an identity linking a pair of binary operations\n* Absorbing element, in mathematics, an element that does not change when it is combined in a binary operation with some other element\n* Absorption (economics), the total demand of an economy for goods and services both from within and without\n* Absorption costing, or total absorption costing, a method for appraising or valuing a firm's total inventory by including all the manufacturing costs incurred to produce those goods. Absorption. http://en.wikipedia.org/?curid=1985."
+  }
+}

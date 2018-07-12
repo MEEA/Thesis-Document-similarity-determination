@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11477",
+  "eid" : "fbef4091-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778502425,
+  "textBody" : "There are two Epistles to the Thessalonians in the Bible:\n* First Epistle to the Thessalonians\n* Second Epistle to the Thessalonians",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Epistles to the Thessalonians" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11477" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "There are two Epistles to the Thessalonians in the Bible:\n* First Epistle to the Thessalonians\n* Second Epistle to the Thessalonians. Epistles to the Thessalonians. http://en.wikipedia.org/?curid=11477."
+  }
+}

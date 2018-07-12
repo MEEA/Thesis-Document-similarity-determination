@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17357",
+  "eid" : "2b7f4ee0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778582222,
+  "textBody" : "K9 or K-9 may refer to:\n\nHomophone for canine\n\n* Canine (disambiguation)\n* Dog, the domestic dog\n** Assistance dog\n** Guard dog\n** Police dog\n\nFictional dogs\n\n* K9 (Doctor Who), several robotic canines in the British science fiction television series Doctor Who\n* K-9 (Looney Tunes), Marvin the Martian's pet Martian dog in the Looney Tunes cartoon series from Warner Bros\n* K-9 (Transformers)\n* K9 Murphy, a mechanical dog in the Japanese television series Tokusou Sentai Dekaranger\n\nComputing\n\n* AMD K9, a microprocessor\n* K9Copy, a DVD backup and authoring program for Unix-like operating systems\n* K-9 Mail, a mail client for the Android operating system\n* K9 Web Protection, Web content control software\n\nEntertainment\n\n* K-9 (film), starring James Belushi\n* K-9 (TV series) a British/Australian comedy/adventure series starring the same character as featured in Doctor Who\n* KNIN-TV, a television station for Idaho's Treasure Valley, previously known as K9\n* Violin Sonata No. 4 (Mozart) K. 9, by Wolfgang Amadeus Mozart\n\nMilitary and weapons\n\n* HMAS K9, an Australian submarine\n* Pusan East (K-9) Air Base, an abandoned air base in Busan, South Korea\n* K9 Thunder, a 155 mm self-propelled artillery used by the Republic of Korea Armed Forces\n* Kahr K9, a 9×19mm Parabellum semi-automatic pistol manufactured by the American company Kahr Arms\n* K-9 (missile), a Soviet short-range air-to-air missile\n\nOther\n\n*Kia K9, a car\n*K-9 (Kansas highway), a state highway in the U.S. state of Kansas\n*BYD electric bus, called K9 in China\n*K9, a children's shoe size",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "K9" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17357" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "K9 or K-9 may refer to:\n\nHomophone for canine\n\n* Canine (disambiguation)\n* Dog, the domestic dog\n** Assistance dog\n** Guard dog\n** Police dog\n\nFictional dogs\n\n* K9 (Doctor Who), several robotic canines in the British science fiction television series Doctor Who\n* K-9 (Looney Tunes), Marvin the Martian's pet Martian dog in the Looney Tunes cartoon series from Warner Bros\n* K-9 (Transformers)\n* K9 Murphy, a mechanical dog in the Japanese television series Tokusou Sentai Dekaranger\n\nComputing\n\n* AMD K9, a microprocessor\n* K9Copy, a DVD backup and authoring program for Unix-like operating systems\n* K-9 Mail, a mail client for the Android operating system\n* K9 Web Protection, Web content control software\n\nEntertainment\n\n* K-9 (film), starring James Belushi\n* K-9 (TV series) a British/Australian comedy/adventure series starring the same character as featured in Doctor Who\n* KNIN-TV, a television station for Idaho's Treasure Valley, previously known as K9\n* Violin Sonata No. 4 (Mozart) K. 9, by Wolfgang Amadeus Mozart\n\nMilitary and weapons\n\n* HMAS K9, an Australian submarine\n* Pusan East (K-9) Air Base, an abandoned air base in Busan, South Korea\n* K9 Thunder, a 155 mm self-propelled artillery used by the Republic of Korea Armed Forces\n* Kahr K9, a 9×19mm Parabellum semi-automatic pistol manufactured by the American company Kahr Arms\n* K-9 (missile), a Soviet short-range air-to-air missile\n\nOther\n\n*Kia K9, a car\n*K-9 (Kansas highway), a state highway in the U.S. state of Kansas\n*BYD electric bus, called K9 in China\n*K9, a children's shoe size. K9. http://en.wikipedia.org/?curid=17357."
+  }
+}

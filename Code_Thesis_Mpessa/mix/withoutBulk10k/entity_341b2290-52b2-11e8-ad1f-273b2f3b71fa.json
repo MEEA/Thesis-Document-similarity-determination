@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18634",
+  "eid" : "341b2290-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778596665,
+  "textBody" : "In mathematics, a \"helping theorem\" or lemma (plural lemmas or lemmata) is a proven proposition which is used as a stepping stone to a larger result rather than as a statement of interest by itself.  The word derives from the Ancient Greek λῆμμα (\"anything which is received, such as a gift, profit, or a bribe\"). \n\nComparison with theorem\n\nThere is no formal distinction between a lemma and a theorem, only one of intention – see Theorem terminology.  However, a lemma can be considered a minor result whose sole purpose is to help prove a theorem  – a step in the direction of proof.[http://divisbyzero.com/2008/09/22/what-is-the-difference-between-a-theorem-a-lemma-and-a-corollary/ \"What is the difference between a theorem, a lemma, and a corollary?\"]\n\nWell-known lemmas\n\nA good stepping stone can lead to many others. Some powerful results in mathematics are known as lemmas, such as Bézout's lemma, Dehn's lemma, Euclid's lemma, Farkas' lemma, Fatou's lemma, Gauss's lemma, Greendlinger's lemma, Itō's lemma, Jordan's lemma, Nakayama's lemma, Poincaré's lemma, Riesz's lemma, Schur's lemma, Schwarz's lemma, Urysohn's lemma, Vitali covering lemma, Yoneda's lemma and Zorn's lemma. While these results originally seemed too simple or too technical to warrant independent interest, they have turned out to be central to the theories in which they occur.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Lemma (mathematics)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18634" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "In mathematics, a \"helping theorem\" or lemma (plural lemmas or lemmata) is a proven proposition which is used as a stepping stone to a larger result rather than as a statement of interest by itself.  The word derives from the Ancient Greek λῆμμα (\"anything which is received, such as a gift, profit, or a bribe\"). \n\nComparison with theorem\n\nThere is no formal distinction between a lemma and a theorem, only one of intention – see Theorem terminology.  However, a lemma can be considered a minor result whose sole purpose is to help prove a theorem  – a step in the direction of proof.[http://divisbyzero.com/2008/09/22/what-is-the-difference-between-a-theorem-a-lemma-and-a-corollary/ \"What is the difference between a theorem, a lemma, and a corollary?\"]\n\nWell-known lemmas\n\nA good stepping stone can lead to many others. Some powerful results in mathematics are known as lemmas, such as Bézout's lemma, Dehn's lemma, Euclid's lemma, Farkas' lemma, Fatou's lemma, Gauss's lemma, Greendlinger's lemma, Itō's lemma, Jordan's lemma, Nakayama's lemma, Poincaré's lemma, Riesz's lemma, Schur's lemma, Schwarz's lemma, Urysohn's lemma, Vitali covering lemma, Yoneda's lemma and Zorn's lemma. While these results originally seemed too simple or too technical to warrant independent interest, they have turned out to be central to the theories in which they occur. Lemma (mathematics). http://en.wikipedia.org/?curid=18634."
+  }
+}

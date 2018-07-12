@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19283",
+  "eid" : "3985da90-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778605753,
+  "textBody" : "Montserrat is an island in the Caribbean Sea, in the Leeward Islands. Its nearest neighbours in the island chain include Guadeloupe to the south-east, Antigua to the north-east and Nevis to the north-west. The island is 16 km (9.9 mi) long and 11 km (6.8 mi) wide, with a coastline of about 40 km.\n\nThe island is volcanic and largely mountainous. The Soufrière Hills volcano became active in 1995, causing widespread devastation, including the destruction of the capital and formerly largest settlement on the island, Plymouth. The southern part of the island is now uninhabitable and human settlement is constrained to the north.\n\nMontserrat has two islets, Little Redonda and Virgin, as well as Statue Rock.\n\nClimate \n\nMontserrat has a tropical climate, with little daily or seasonal temperature variation.\n\nStatistics \n\nLocation:\nCaribbean, island in the Caribbean Sea, about 500 km south-east of Puerto Rico\n\nGeographic coordinates:\n\nMap references:\nCentral America and the Caribbean\n\nArea:\ntotal:\n102 km²\nland:\n102 km²\nwater:\n0 km²\n\nLand boundaries:\n0 km\n\nCoastline:\n40 km\n\nMaritime claims:\nterritorial sea:\n3 nmi\nexclusive fishing zone:\n200 nmi\n\nTerrain:\nvolcanic islands, mostly mountainous, with small coastal lowland\n\nElevation extremes:\nlowest point:\nCaribbean Sea 0 m\nhighest point:\nPrior to 1995, the highest point was Chances Peak (in the Soufrière Hills) at 915m. Ongoing volcanic activity has created a lava dome estimated at 1050m in 2013.\n\nNatural resources:\nNegligible\n\nLand use:\narable land:\n20%\npermanent crops:\n0%\nother:\n80% (2011)\n\nIrrigated land:\nNA km²\n\nNatural hazards:\nsevere hurricanes (June to November); volcanic eruptions\n\nEnvironment - current issues:\nLand erosion occurs on slopes that have been cleared for cultivation.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Geography of Montserrat" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19283" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Montserrat is an island in the Caribbean Sea, in the Leeward Islands. Its nearest neighbours in the island chain include Guadeloupe to the south-east, Antigua to the north-east and Nevis to the north-west. The island is 16 km (9.9 mi) long and 11 km (6.8 mi) wide, with a coastline of about 40 km.\n\nThe island is volcanic and largely mountainous. The Soufrière Hills volcano became active in 1995, causing widespread devastation, including the destruction of the capital and formerly largest settlement on the island, Plymouth. The southern part of the island is now uninhabitable and human settlement is constrained to the north.\n\nMontserrat has two islets, Little Redonda and Virgin, as well as Statue Rock.\n\nClimate \n\nMontserrat has a tropical climate, with little daily or seasonal temperature variation.\n\nStatistics \n\nLocation:\nCaribbean, island in the Caribbean Sea, about 500 km south-east of Puerto Rico\n\nGeographic coordinates:\n\nMap references:\nCentral America and the Caribbean\n\nArea:\ntotal:\n102 km²\nland:\n102 km²\nwater:\n0 km²\n\nLand boundaries:\n0 km\n\nCoastline:\n40 km\n\nMaritime claims:\nterritorial sea:\n3 nmi\nexclusive fishing zone:\n200 nmi\n\nTerrain:\nvolcanic islands, mostly mountainous, with small coastal lowland\n\nElevation extremes:\nlowest point:\nCaribbean Sea 0 m\nhighest point:\nPrior to 1995, the highest point was Chances Peak (in the Soufrière Hills) at 915m. Ongoing volcanic activity has created a lava dome estimated at 1050m in 2013.\n\nNatural resources:\nNegligible\n\nLand use:\narable land:\n20%\npermanent crops:\n0%\nother:\n80% (2011)\n\nIrrigated land:\nNA km²\n\nNatural hazards:\nsevere hurricanes (June to November); volcanic eruptions\n\nEnvironment - current issues:\nLand erosion occurs on slopes that have been cleared for cultivation. Geography of Montserrat. http://en.wikipedia.org/?curid=19283."
+  }
+}

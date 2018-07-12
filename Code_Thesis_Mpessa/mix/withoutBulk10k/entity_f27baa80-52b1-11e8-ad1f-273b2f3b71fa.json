@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=9877",
+  "eid" : "f27baa80-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778486568,
+  "textBody" : "The erg is a unit of energy and work equal to 10−7 joules. It originated in the centimetre–gram–second (CGS) system of units. It has the symbol erg. The erg is not an SI unit. Its name is derived from ergon (’έργον) a Greek word meaning work or task.\n\nAn erg is the amount of work done by a force of one dyne exerted for a distance of one centimeter. In the CGS base units, it is equal to one gram centimeter-squared per second-squared (g·cm2/s2). It is thus equal to 10−7 joules or 100 nanojoules (nJ) in SI units. An erg is approximately the amount of work done (or energy consumed) by one common house fly performing one \"push up,\" the leg-bending dip that brings its mouth to the surface on which it stands and back up.\n\n1 erg 10−7 J \n 100 nJ\n1 erg 10−10sn·m  \n 100 psn·m = 100 picosthène-metres\n1 erg 624.15 GeV \n \n1 erg 1 dyne cm \n 1 g·cm2/s2\n\nHistory\n\nIn 1864, Rudolf Clausius proposed the Greek word (') ergon for the unit of energy, work and heat. In 1873, a committee of the British Association for the Advancement of Science, including British physicists James Clerk Maxwell and William Thomson defined the C.G.S. System of Units, and recommended the name erg or ergon for the C.G.S. unit of energy.\n\nIn 1922, William Draper Harkins proposed the name micri-erg as a convenient unit to measure the surface energy of molecules in surface chemistry. It would equate to 10−14 erg, the equivalent to 10−21 joule.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Erg" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=9877" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The erg is a unit of energy and work equal to 10−7 joules. It originated in the centimetre–gram–second (CGS) system of units. It has the symbol erg. The erg is not an SI unit. Its name is derived from ergon (’έργον) a Greek word meaning work or task.\n\nAn erg is the amount of work done by a force of one dyne exerted for a distance of one centimeter. In the CGS base units, it is equal to one gram centimeter-squared per second-squared (g·cm2/s2). It is thus equal to 10−7 joules or 100 nanojoules (nJ) in SI units. An erg is approximately the amount of work done (or energy consumed) by one common house fly performing one \"push up,\" the leg-bending dip that brings its mouth to the surface on which it stands and back up.\n\n1 erg 10−7 J \n 100 nJ\n1 erg 10−10sn·m  \n 100 psn·m = 100 picosthène-metres\n1 erg 624.15 GeV \n \n1 erg 1 dyne cm \n 1 g·cm2/s2\n\nHistory\n\nIn 1864, Rudolf Clausius proposed the Greek word (') ergon for the unit of energy, work and heat. In 1873, a committee of the British Association for the Advancement of Science, including British physicists James Clerk Maxwell and William Thomson defined the C.G.S. System of Units, and recommended the name erg or ergon for the C.G.S. unit of energy.\n\nIn 1922, William Draper Harkins proposed the name micri-erg as a convenient unit to measure the surface energy of molecules in surface chemistry. It would equate to 10−14 erg, the equivalent to 10−21 joule. Erg. http://en.wikipedia.org/?curid=9877."
+  }
+}

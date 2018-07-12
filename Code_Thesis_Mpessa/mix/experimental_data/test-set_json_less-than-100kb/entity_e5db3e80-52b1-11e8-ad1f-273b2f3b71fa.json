@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8142",
+  "eid" : "e5db3e80-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778465384,
+  "textBody" : "Democrat or Democratic may refer to:\n\n*A proponent of democracy, or democratic government; rule of the people or rule by many.\n*A member of a Democratic Party:\n**Democratic Party (United States) (D)\n**Democratic Party (Italy) (PD)\n**Democratic Party (Japan) (DP)\n**Democratic Party (Hong Kong) (DPHK)\n**Democratic Progressive Party (DPP)\n**Democratic Party of Korea\n**Democratic Party (disambiguation), for a full list\n*A member of a Democrat Party\n*A member of a Democracy Party\n* Supporters of certain movements in Hong Kong and Macau:\n**Pro-democracy camp (Hong Kong)\n**Pro-democracy camp (Macau)\n\nPlaces\n\n* Democrat, California\n* Democrat, Kentucky\n* Democrat Gulch, a valley in Oregon\n\nFilms\n\n* Democrats (film), a 2014 documentary about politics in Zimbabwe",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Democrat" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8142" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Democrat or Democratic may refer to:\n\n*A proponent of democracy, or democratic government; rule of the people or rule by many.\n*A member of a Democratic Party:\n**Democratic Party (United States) (D)\n**Democratic Party (Italy) (PD)\n**Democratic Party (Japan) (DP)\n**Democratic Party (Hong Kong) (DPHK)\n**Democratic Progressive Party (DPP)\n**Democratic Party of Korea\n**Democratic Party (disambiguation), for a full list\n*A member of a Democrat Party\n*A member of a Democracy Party\n* Supporters of certain movements in Hong Kong and Macau:\n**Pro-democracy camp (Hong Kong)\n**Pro-democracy camp (Macau)\n\nPlaces\n\n* Democrat, California\n* Democrat, Kentucky\n* Democrat Gulch, a valley in Oregon\n\nFilms\n\n* Democrats (film), a 2014 documentary about politics in Zimbabwe. Democrat. http://en.wikipedia.org/?curid=8142."
+  }
+}

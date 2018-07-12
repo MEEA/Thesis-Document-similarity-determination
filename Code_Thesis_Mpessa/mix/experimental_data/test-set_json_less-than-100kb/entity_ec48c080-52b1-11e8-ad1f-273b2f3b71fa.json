@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=9069",
+  "eid" : "ec48c080-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778476168,
+  "textBody" : "Dia\nis free and open source general-purpose diagramming software, developed originally by Alexander Larsson. Dia uses a controlled single document interface (SDI) similar to GIMP and Inkscape.\n\nFeatures \n\nDia has a modular design with several shape packages available for different needs: flowchart, network diagrams, circuit diagrams, and more. It does not restrict symbols and connectors from various categories from being placed together.\n\nDia has special objects to help draw entity-relationship models (obsoleted [http://tedia2sql.tigris.org/ tedia2sql] or newer [https://metacpan.org/module/Parse::Dia::SQL parsediasql] can be used to create the SQL DDL), Unified Modeling Language (UML) diagrams, flowcharts, network diagrams, and simple electrical circuits. It is also possible to add support for new shapes by writing simple XML files, using a subset of Scalable Vector Graphics (SVG) to draw the shape.\n\nDia loads and saves diagrams in a custom XML format which is, by default, gzipped to save space. It can print large diagrams spanning multiple pages and can also be scripted using the Python programming language.\n\nExports \n\nDia can export diagrams to various formats including the following:\n* EPS (Encapsulated PostScript)\n* SVG (Scalable Vector Graphics)\n* DXF (Autocad's Drawing Interchange format)\n* CGM (Computer Graphics Metafile defined by ISO standards)\n* WMF (Windows Meta File)\n* PNG (Portable Network Graphics)\n* JPEG (Joint Photographic Experts Group)\n* VDX (Microsoft's XML for Visio Drawing)\n\nDevelopment \n\nDia was originally created by Alexander Larsson but he moved on to work on GNOME and other projects. James Henstridge then took over as the lead developer, but he also moved on to other projects. He was followed by Cyrille Chepelov and Lars Ræder Clausen in turn.\n\nDia is maintained by a group of developers: Hans Breuer, Steffen Macke, and Sameer Sahasrabuddhe.\n\nDia is written in C, and has an extension system, which also supports writing extensions in Python.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Dia (software)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=9069" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Dia\nis free and open source general-purpose diagramming software, developed originally by Alexander Larsson. Dia uses a controlled single document interface (SDI) similar to GIMP and Inkscape.\n\nFeatures \n\nDia has a modular design with several shape packages available for different needs: flowchart, network diagrams, circuit diagrams, and more. It does not restrict symbols and connectors from various categories from being placed together.\n\nDia has special objects to help draw entity-relationship models (obsoleted [http://tedia2sql.tigris.org/ tedia2sql] or newer [https://metacpan.org/module/Parse::Dia::SQL parsediasql] can be used to create the SQL DDL), Unified Modeling Language (UML) diagrams, flowcharts, network diagrams, and simple electrical circuits. It is also possible to add support for new shapes by writing simple XML files, using a subset of Scalable Vector Graphics (SVG) to draw the shape.\n\nDia loads and saves diagrams in a custom XML format which is, by default, gzipped to save space. It can print large diagrams spanning multiple pages and can also be scripted using the Python programming language.\n\nExports \n\nDia can export diagrams to various formats including the following:\n* EPS (Encapsulated PostScript)\n* SVG (Scalable Vector Graphics)\n* DXF (Autocad's Drawing Interchange format)\n* CGM (Computer Graphics Metafile defined by ISO standards)\n* WMF (Windows Meta File)\n* PNG (Portable Network Graphics)\n* JPEG (Joint Photographic Experts Group)\n* VDX (Microsoft's XML for Visio Drawing)\n\nDevelopment \n\nDia was originally created by Alexander Larsson but he moved on to work on GNOME and other projects. James Henstridge then took over as the lead developer, but he also moved on to other projects. He was followed by Cyrille Chepelov and Lars Ræder Clausen in turn.\n\nDia is maintained by a group of developers: Hans Breuer, Steffen Macke, and Sameer Sahasrabuddhe.\n\nDia is written in C, and has an extension system, which also supports writing extensions in Python. Dia (software). http://en.wikipedia.org/?curid=9069."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18109",
+  "eid" : "30dee350-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778591237,
+  "textBody" : "The Lennon Wall or John Lennon Wall is a wall in Prague, Czech Republic. Once a normal wall, since the 1980s it has been filled with John Lennon-inspired graffiti and pieces of lyrics from Beatles' songs.\n\nIn 1988, the wall was a source of irritation for the communist regime of Gustáv Husák. Young Czechs would write grievances on the wall and in a report of the time this led to a clash between hundreds of students and security police on the nearby Charles Bridge. The movement these students followed was described ironically as \"Lennonism\" and Czech authorities described these people variously as alcoholics, mentally deranged, sociopathic, and agents of Western capitalism.\n\nThe wall continuously undergoes change and the original portrait of Lennon is long lost under layers of new paint. Even when the wall was repainted by some authorities, on the second day it was again full of poems and flowers. Today, the wall represents a symbol of global ideals such as love and peace.\n\nThe wall is owned by the Sovereign Military Order of Malta, which allowed the graffiti to continue on the wall, and is located at Velkopřevorské náměstí (Grand Priory Square), Malá Strana.\n\nA similar wall inspired by the original wall has appeared on the walls of the Hong Kong Central Government Offices, with citizens posting colourful post-it notes with their democratic wishes for Hong Kong during 2014 Hong Kong protests.https://www.nytimes.com/2014/11/15/world/asia/rescuing-protest-artwork-from-hong-kongs-streets.html?_r=2\n\nOn 17 November 2014, the 25th anniversary of the Velvet Revolution, the wall was painted over in pure white by a group of art students, leaving only the text \"wall is over\" . The Knights of Malta initially filed a criminal complaint for vandalism against the students, which they later retracted after gaining contact with them.\nThe wall mural is still there as of July 23, 2017. And the \"Wall is Over\" bit has been changed to \"War Is Over\".",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Lennon Wall" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18109" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The Lennon Wall or John Lennon Wall is a wall in Prague, Czech Republic. Once a normal wall, since the 1980s it has been filled with John Lennon-inspired graffiti and pieces of lyrics from Beatles' songs.\n\nIn 1988, the wall was a source of irritation for the communist regime of Gustáv Husák. Young Czechs would write grievances on the wall and in a report of the time this led to a clash between hundreds of students and security police on the nearby Charles Bridge. The movement these students followed was described ironically as \"Lennonism\" and Czech authorities described these people variously as alcoholics, mentally deranged, sociopathic, and agents of Western capitalism.\n\nThe wall continuously undergoes change and the original portrait of Lennon is long lost under layers of new paint. Even when the wall was repainted by some authorities, on the second day it was again full of poems and flowers. Today, the wall represents a symbol of global ideals such as love and peace.\n\nThe wall is owned by the Sovereign Military Order of Malta, which allowed the graffiti to continue on the wall, and is located at Velkopřevorské náměstí (Grand Priory Square), Malá Strana.\n\nA similar wall inspired by the original wall has appeared on the walls of the Hong Kong Central Government Offices, with citizens posting colourful post-it notes with their democratic wishes for Hong Kong during 2014 Hong Kong protests.https://www.nytimes.com/2014/11/15/world/asia/rescuing-protest-artwork-from-hong-kongs-streets.html?_r=2\n\nOn 17 November 2014, the 25th anniversary of the Velvet Revolution, the wall was painted over in pure white by a group of art students, leaving only the text \"wall is over\" . The Knights of Malta initially filed a criminal complaint for vandalism against the students, which they later retracted after gaining contact with them.\nThe wall mural is still there as of July 23, 2017. And the \"Wall is Over\" bit has been changed to \"War Is Over\". Lennon Wall. http://en.wikipedia.org/?curid=18109."
+  }
+}

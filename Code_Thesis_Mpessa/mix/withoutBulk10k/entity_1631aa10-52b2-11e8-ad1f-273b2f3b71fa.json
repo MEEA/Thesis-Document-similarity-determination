@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14606",
+  "eid" : "1631aa10-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778546481,
+  "textBody" : "Infusion refers to the process of extracting chemical compounds or flavors from plant material in a solvent by allowing the material to remain suspended in the solvent over time.\n\nInfusion may also refer to:\n\n* A medical treatment in which liquid substances are delivered through various routes of administration:\n** Intravenous therapy,  the infusion of liquid substances directly into a vein for medical purposes\n** Hypodermoclysis, also known as subcutaneous infusion\n* Infusion (band), an Australian dance-music act\n* Tea infuser, a device in which loose tea leaves are placed for brewing\n* Infusion (roller coaster), a roller coaster at Pleasure Beach, Blackpool, UK",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Infusion (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14606" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Infusion refers to the process of extracting chemical compounds or flavors from plant material in a solvent by allowing the material to remain suspended in the solvent over time.\n\nInfusion may also refer to:\n\n* A medical treatment in which liquid substances are delivered through various routes of administration:\n** Intravenous therapy,  the infusion of liquid substances directly into a vein for medical purposes\n** Hypodermoclysis, also known as subcutaneous infusion\n* Infusion (band), an Australian dance-music act\n* Tea infuser, a device in which loose tea leaves are placed for brewing\n* Infusion (roller coaster), a roller coaster at Pleasure Beach, Blackpool, UK. Infusion (disambiguation). http://en.wikipedia.org/?curid=14606."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=9579",
+  "eid" : "eff68640-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778482340,
+  "textBody" : "EFTA is the European Free Trade Association, a trade organisation and free trade area.\n\nEFTA may also refer to:\n\n* European Fair Trade Association, an association of eleven fair trade importers\n* European Federation of Taiwanese Associations",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "EFTA (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=9579" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "EFTA is the European Free Trade Association, a trade organisation and free trade area.\n\nEFTA may also refer to:\n\n* European Fair Trade Association, an association of eleven fair trade importers\n* European Federation of Taiwanese Associations. EFTA (disambiguation). http://en.wikipedia.org/?curid=9579."
+  }
+}

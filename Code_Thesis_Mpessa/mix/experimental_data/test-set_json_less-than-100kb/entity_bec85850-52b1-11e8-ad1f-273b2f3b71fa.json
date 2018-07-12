@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2209",
+  "eid" : "bec85850-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778399829,
+  "textBody" : "Anglo-Saxon may refer to:  \n* Anglo-Saxon economy, modern macroeconomic term\n* Anglo-Saxon world, modern societies based on or influenced by English customs\n* Anglo-Saxons, Germanic tribes that settled down in Britain and founded England\n** Anglo-Saxon England, their history\n** Old English, their language\n* , one of various ships\n* White Anglo-Saxon Protestant, an ethnicity",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Anglo-Saxon (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2209" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Anglo-Saxon may refer to:  \n* Anglo-Saxon economy, modern macroeconomic term\n* Anglo-Saxon world, modern societies based on or influenced by English customs\n* Anglo-Saxons, Germanic tribes that settled down in Britain and founded England\n** Anglo-Saxon England, their history\n** Old English, their language\n* , one of various ships\n* White Anglo-Saxon Protestant, an ethnicity. Anglo-Saxon (disambiguation). http://en.wikipedia.org/?curid=2209."
+  }
+}

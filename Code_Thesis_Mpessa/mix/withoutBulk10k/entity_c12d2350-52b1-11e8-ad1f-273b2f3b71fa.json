@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2604",
+  "eid" : "c12d2350-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778403845,
+  "textBody" : ":See also, Abatement.\nAbated, an ancient technical term applied in masonry and metal work to those portions which are sunk beneath the surface, as in inscriptions where the ground is sunk round the letters so as to leave the letters or ornament in relief.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Abated" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2604" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : ":See also, Abatement.\nAbated, an ancient technical term applied in masonry and metal work to those portions which are sunk beneath the surface, as in inscriptions where the ground is sunk round the letters so as to leave the letters or ornament in relief. Abated. http://en.wikipedia.org/?curid=2604."
+  }
+}

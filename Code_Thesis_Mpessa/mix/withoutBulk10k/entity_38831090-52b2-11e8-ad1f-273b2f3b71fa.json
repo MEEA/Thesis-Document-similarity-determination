@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19175",
+  "eid" : "38831090-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778604057,
+  "textBody" : "Communications in Martinique.\n\nTelephone\n\nTelephones - main lines in use:\n172,000 (2001)\n\nTelephones - mobile cellular:\n319,900 (2002)\n\nTelephone system:\ndomestic facilities are adequate\ndomestic:\nNA\ninternational:\nmicrowave radio relay to Guadeloupe, Dominica, and Saint Lucia; satellite earth stations - 2 Intelsat (Atlantic Ocean)\n\nInternational calling code: 596\n\nRadio\n\nRadio broadcast stations:\nAM 0, FM 14, shortwave 0 (1998)\n\nRadios:\n82,000 (1997)\n\nTelevision\n\nTelevision broadcast stations:\n11 (plus nine repeaters) (1997)\n\nTelevisions:\n66,000 (1997)\n\nInternet\n\nInternet Service Providers (ISPs):\n2 (2000)\n\nInternet users:\n107 000 (2005)\n\nCountry code (Top level domain): MQ",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Telecommunications in Martinique" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19175" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Communications in Martinique.\n\nTelephone\n\nTelephones - main lines in use:\n172,000 (2001)\n\nTelephones - mobile cellular:\n319,900 (2002)\n\nTelephone system:\ndomestic facilities are adequate\ndomestic:\nNA\ninternational:\nmicrowave radio relay to Guadeloupe, Dominica, and Saint Lucia; satellite earth stations - 2 Intelsat (Atlantic Ocean)\n\nInternational calling code: 596\n\nRadio\n\nRadio broadcast stations:\nAM 0, FM 14, shortwave 0 (1998)\n\nRadios:\n82,000 (1997)\n\nTelevision\n\nTelevision broadcast stations:\n11 (plus nine repeaters) (1997)\n\nTelevisions:\n66,000 (1997)\n\nInternet\n\nInternet Service Providers (ISPs):\n2 (2000)\n\nInternet users:\n107 000 (2005)\n\nCountry code (Top level domain): MQ. Telecommunications in Martinique. http://en.wikipedia.org/?curid=19175."
+  }
+}

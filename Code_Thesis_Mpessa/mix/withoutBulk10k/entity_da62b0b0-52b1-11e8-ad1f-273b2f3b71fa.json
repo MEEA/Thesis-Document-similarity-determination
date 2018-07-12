@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=6217",
+  "eid" : "da62b0b0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778446139,
+  "textBody" : "Charon may refer to:\n\nAncient world\n\n*Charon (mythology), in Greek mythology, the ferryman who ferried the dead to the underworld\n*Charon, a Theban military commander (fl. mid-4th century BC); see Androcydes\n\nAstronomy\n\n*Charon (moon), a moon of the dwarf planet Pluto\n\nScience, technology and manufacturing\n\n*Charon (arachnid), a genus of whipspider\n*Charon (web browser), a web browser for the Inferno operating system\n*Charon (software), a legacy hardware emulator for VAX, Alpha, HP 3000, PDP-11, and SPARC systems\n*Charon, the first flight test vehicle of Blue Origin\n*Charon (gun), an open source 3D-printable gun\n\nPopular culture\n\n*Charon (band), a Finnish gothic metal band\n*Charon (CrossGen), a comic book character from CrossGen Entertainment's Sigilverse\n*Charon (Dungeons & Dragons), a lord of the Yugoloths whose primary function is to provide passage across the River Styx for a steep price\n*Charon (Marvel Comics), a villainous wizard\n*Charon (The Three Worlds), a fictional human species from Ian Irvine's arc of novels, The Three Worlds Cycle\n*Commander Charon, one of the Galactic Commanders from Pokémon Platinum\n*Caronte (album) (Charon), a 1971 album by Italian band The Trip\n*An Eve Online, freighter\n\nOther\n\n*Charon (horse), a racehorse\n*Charon, Louisiana, United States, an unincorporated community in Vermilion Parish\n*HMS Charon, several ships of the British Royal Navy\n*Charon, a summon from a password-enhanced Golden Sun: The Lost Age, and Golden Sun: Dark Dawn\n\nPeople\n\n*Alexios Charon, early 11th-century Byzantine offici\n*Charon Asetoyer (born 1951), Comanche activist and women's health advocate\n*Carl Charon (born 1940), former American football player\n*Jacques Charon (1920–1975), French actor and film director\n*Jean-Émile Charon (1920–1998), French nuclear physicist, philosopher and writer.  \n*Joel M. Charon, professor emeritus of sociology at Minnesota State University at Moorhead \n*Rita Charon (born 1949), physician and literary scholar",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Charon" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=6217" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Charon may refer to:\n\nAncient world\n\n*Charon (mythology), in Greek mythology, the ferryman who ferried the dead to the underworld\n*Charon, a Theban military commander (fl. mid-4th century BC); see Androcydes\n\nAstronomy\n\n*Charon (moon), a moon of the dwarf planet Pluto\n\nScience, technology and manufacturing\n\n*Charon (arachnid), a genus of whipspider\n*Charon (web browser), a web browser for the Inferno operating system\n*Charon (software), a legacy hardware emulator for VAX, Alpha, HP 3000, PDP-11, and SPARC systems\n*Charon, the first flight test vehicle of Blue Origin\n*Charon (gun), an open source 3D-printable gun\n\nPopular culture\n\n*Charon (band), a Finnish gothic metal band\n*Charon (CrossGen), a comic book character from CrossGen Entertainment's Sigilverse\n*Charon (Dungeons & Dragons), a lord of the Yugoloths whose primary function is to provide passage across the River Styx for a steep price\n*Charon (Marvel Comics), a villainous wizard\n*Charon (The Three Worlds), a fictional human species from Ian Irvine's arc of novels, The Three Worlds Cycle\n*Commander Charon, one of the Galactic Commanders from Pokémon Platinum\n*Caronte (album) (Charon), a 1971 album by Italian band The Trip\n*An Eve Online, freighter\n\nOther\n\n*Charon (horse), a racehorse\n*Charon, Louisiana, United States, an unincorporated community in Vermilion Parish\n*HMS Charon, several ships of the British Royal Navy\n*Charon, a summon from a password-enhanced Golden Sun: The Lost Age, and Golden Sun: Dark Dawn\n\nPeople\n\n*Alexios Charon, early 11th-century Byzantine offici\n*Charon Asetoyer (born 1951), Comanche activist and women's health advocate\n*Carl Charon (born 1940), former American football player\n*Jacques Charon (1920–1975), French actor and film director\n*Jean-Émile Charon (1920–1998), French nuclear physicist, philosopher and writer.  \n*Joel M. Charon, professor emeritus of sociology at Minnesota State University at Moorhead \n*Rita Charon (born 1949), physician and literary scholar. Charon. http://en.wikipedia.org/?curid=6217."
+  }
+}

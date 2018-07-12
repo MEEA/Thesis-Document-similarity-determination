@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7453",
+  "eid" : "e1a9f0e0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778458350,
+  "textBody" : "Christian persecution could refer to:\n\n* History of Christian thought on persecution and tolerance\n\n;Persecution of other groups by Christians\n* Historical persecution by Christians\n*Persecution of Heathens (disambiguation)\n*Anti-paganism policies of the early Byzantine Empire\n* Persecution of pagans in the late Roman Empire\n* Christian persecution of paganism under Theodosius I\n*Anti-paganism policy of Constantius II\n* Persecution of Germanic Pagans (disambiguation)\n* Persecution of Ottoman Muslims\n* Persecution of Jews\n*Black Death Jewish persecutions\n\n;Persecutions of Christians by other Christians\n*Anti-Protestantism\n*Persecution of Christians in Mexico\n\n;Persecution of Christians by other groups\n* Persecution of Christians \n* Persecution of Orthodox Christians\n* Persecution of Christians in the New Testament\n* Persecution of Christians in the Roman Empire\n***Decian persecution\n**Persecution in Lyon\n** Diocletianic Persecution\n**List of Christians martyred during the reign of Diocletian\n*Persecution of Copts\n* Gothic persecution of Christians\n* The Myth of Persecution\n* Persecution of Christians in the modern era\n**Nazi persecution of the Catholic Church in Germany\n**Persecution of Jehovah's Witnesses in Nazi Germany\n** Persecution of Christians in the Soviet Union\n** Persecution of Christians in the Eastern Bloc\n**Eastern Catholic victims of Soviet persecutions\n**Religious persecution during the Soviet occupation of Bessarabia and Northern Bukovina\n** Anti-Christian violence in India\n** Genocide of Christians by ISIL\n\nMore generally, see:\n\n* Religious persecution",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Christian persecution" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7453" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Christian persecution could refer to:\n\n* History of Christian thought on persecution and tolerance\n\n;Persecution of other groups by Christians\n* Historical persecution by Christians\n*Persecution of Heathens (disambiguation)\n*Anti-paganism policies of the early Byzantine Empire\n* Persecution of pagans in the late Roman Empire\n* Christian persecution of paganism under Theodosius I\n*Anti-paganism policy of Constantius II\n* Persecution of Germanic Pagans (disambiguation)\n* Persecution of Ottoman Muslims\n* Persecution of Jews\n*Black Death Jewish persecutions\n\n;Persecutions of Christians by other Christians\n*Anti-Protestantism\n*Persecution of Christians in Mexico\n\n;Persecution of Christians by other groups\n* Persecution of Christians \n* Persecution of Orthodox Christians\n* Persecution of Christians in the New Testament\n* Persecution of Christians in the Roman Empire\n***Decian persecution\n**Persecution in Lyon\n** Diocletianic Persecution\n**List of Christians martyred during the reign of Diocletian\n*Persecution of Copts\n* Gothic persecution of Christians\n* The Myth of Persecution\n* Persecution of Christians in the modern era\n**Nazi persecution of the Catholic Church in Germany\n**Persecution of Jehovah's Witnesses in Nazi Germany\n** Persecution of Christians in the Soviet Union\n** Persecution of Christians in the Eastern Bloc\n**Eastern Catholic victims of Soviet persecutions\n**Religious persecution during the Soviet occupation of Bessarabia and Northern Bukovina\n** Anti-Christian violence in India\n** Genocide of Christians by ISIL\n\nMore generally, see:\n\n* Religious persecution. Christian persecution. http://en.wikipedia.org/?curid=7453."
+  }
+}

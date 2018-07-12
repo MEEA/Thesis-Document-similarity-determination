@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11748",
+  "eid" : "fda57c10-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778505297,
+  "textBody" : "A vast number of aquatic species have successfully adapted to live in the freshwater aquarium. This list gives some examples of the most common species found in home aquariums.\n\nBichirs and reedfish\n\n \n\nCatfish\n\nCharacins and other characiformes\n\nCichlids\n\nCyprinids\n\nDarters\n\nGobies and sleepers\n\nKillifish\n\nLabyrinth fish\n\nLive-bearers\n\nLoaches and related cypriniformes\n\nNeotropical electric fish\n\nPufferfish\n\nRainbowfish\n\nSpiny eels\n\nSunfish and relatives\n\nGar\n\nOther fish",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "List of freshwater aquarium fish species" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11748" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A vast number of aquatic species have successfully adapted to live in the freshwater aquarium. This list gives some examples of the most common species found in home aquariums.\n\nBichirs and reedfish\n\n \n\nCatfish\n\nCharacins and other characiformes\n\nCichlids\n\nCyprinids\n\nDarters\n\nGobies and sleepers\n\nKillifish\n\nLabyrinth fish\n\nLive-bearers\n\nLoaches and related cypriniformes\n\nNeotropical electric fish\n\nPufferfish\n\nRainbowfish\n\nSpiny eels\n\nSunfish and relatives\n\nGar\n\nOther fish. List of freshwater aquarium fish species. http://en.wikipedia.org/?curid=11748."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1176",
+  "eid" : "af47afc0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778373820,
+  "textBody" : "In mathematics, a binary relation R on a set X is anti-symmetric if there is no pair of distinct elements of X each of which is related by R to the other. More formally, R is anti-symmetric precisely if for all a and b in X\nif R(a,b) and R(b,a), then a = b,\nor, equivalently,\nif R(a,b) with a ≠ b, then R(b,a) must not hold.\n\nAs a simple example, the divisibility order on the natural numbers is an anti-symmetric relation. In this context, anti-symmetry means that the only way each of two numbers can be divisible by the other is if the two are, in fact, the same number; equivalently, if n and m are distinct and n is a factor of m, then m cannot be a factor of n.\n\nIn mathematical notation, this is:\n\n\\forall a, b \\in X,\\ (aRb \\and bRa) \\; \\Rightarrow \\; a = b\n\nor, equivalently,\n\n\\forall a, b \\in X,\\ (aRb \\and a \\ne b \\Rightarrow \\lnot  bRa) .\n\nThe usual order relation ≤ on the real numbers is anti-symmetric: if for two real numbers x and y both inequalities x ≤ y and y ≤ x hold then x and y must be equal. Similarly,  the subset order ⊆ on the subsets of any given set is anti-symmetric: given two sets A and B, if every element in A also is in B and every element in B is also in A, then A and B must contain all the same elements and therefore be equal:\nA \\subseteq B \\and B \\subseteq A \\Rightarrow A = B\n\nPartial and total orders are anti-symmetric by definition. A relation can be both symmetric and anti-symmetric (e.g., the equality relation), and there are relations which are neither symmetric nor anti-symmetric (e.g., the \"preys on\" relation on biological species).\n\nAnti-symmetry is different from asymmetry, which requires both anti-symmetry and irreflexivity.\n\nExamples\n\nThe relation \"x is even, y is odd\" between a pair (x, y) of integers is anti-symmetric:\n:\n\nEvery asymmetric relation is also an anti-symmetric relation.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Antisymmetric relation" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1176" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "In mathematics, a binary relation R on a set X is anti-symmetric if there is no pair of distinct elements of X each of which is related by R to the other. More formally, R is anti-symmetric precisely if for all a and b in X\nif R(a,b) and R(b,a), then a = b,\nor, equivalently,\nif R(a,b) with a ≠ b, then R(b,a) must not hold.\n\nAs a simple example, the divisibility order on the natural numbers is an anti-symmetric relation. In this context, anti-symmetry means that the only way each of two numbers can be divisible by the other is if the two are, in fact, the same number; equivalently, if n and m are distinct and n is a factor of m, then m cannot be a factor of n.\n\nIn mathematical notation, this is:\n\n\\forall a, b \\in X,\\ (aRb \\and bRa) \\; \\Rightarrow \\; a = b\n\nor, equivalently,\n\n\\forall a, b \\in X,\\ (aRb \\and a \\ne b \\Rightarrow \\lnot  bRa) .\n\nThe usual order relation ≤ on the real numbers is anti-symmetric: if for two real numbers x and y both inequalities x ≤ y and y ≤ x hold then x and y must be equal. Similarly,  the subset order ⊆ on the subsets of any given set is anti-symmetric: given two sets A and B, if every element in A also is in B and every element in B is also in A, then A and B must contain all the same elements and therefore be equal:\nA \\subseteq B \\and B \\subseteq A \\Rightarrow A = B\n\nPartial and total orders are anti-symmetric by definition. A relation can be both symmetric and anti-symmetric (e.g., the equality relation), and there are relations which are neither symmetric nor anti-symmetric (e.g., the \"preys on\" relation on biological species).\n\nAnti-symmetry is different from asymmetry, which requires both anti-symmetry and irreflexivity.\n\nExamples\n\nThe relation \"x is even, y is odd\" between a pair (x, y) of integers is anti-symmetric:\n:\n\nEvery asymmetric relation is also an anti-symmetric relation. Antisymmetric relation. http://en.wikipedia.org/?curid=1176."
+  }
+}

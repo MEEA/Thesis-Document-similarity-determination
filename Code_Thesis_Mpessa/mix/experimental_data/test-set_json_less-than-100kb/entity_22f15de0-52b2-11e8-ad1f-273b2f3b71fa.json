@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16031",
+  "eid" : "22f15de0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778567870,
+  "textBody" : "The Javary River, Javari River or Yavarí River (; ) is a 1184 km tributary of the Amazon that forms the boundary between Brazil and Peru for more than 500 mi.[https://books.google.com/books?idAYvlAAAAMAAJ&pg\nPA334&lpgPA334&dq\nJavary++river+-%22is+a+1184+km+tributary+of+the+Amazon+that+forms+the+boundary+between+Brazil+and+Peru%22+-necktie+-wikipedia+-facebook+-horse+-LinkedIn+-myspace+-%22bow+tie%22+-%22supposed+to+be+navigable+by+canoe+for+900%22&sourcebl&ots\nfDtxnIaVwn&sigfzeKCL0b2kmwrEREIFTJxd16msQ&hl\nen&ei4jTES6bfIJ7gM7GTqYYO&sa\nX&oibook_result&ct\nresult&resnum2&ved\n0CAcQ6AEwATgo#vonepage&q\nJavary%20%20river%20-%22is%20a%201184%20km%20tributary%20of%20the%20Amazon%20that%20forms%20the%20boundary%20between%20Brazil%20and%20Peru%22%20-necktie%20-wikipedia%20-facebook%20-horse%20-LinkedIn%20-myspace%20-%22bow%20tie%22%20-%22supposed%20to%20be%20navigable%20by%20canoe%20for%20900%22&f=false The Nation, Volume 50] It is navigable by canoe for 900 mi from above its mouth to its source in the Ucayali highlands, but only 260 were found suitable for steam navigation. The Brazilian Boundary Commission ascended it in 1866 to the junction of the Shino with its Jaquirana branch. The country it traverses in its extremely sinuous course is very level, similar in character to that of the Juruá.\n\nThe river is one of the best places to observe Amazonian wildlife, including the Amazon river dolphin and tucuxi. There are a number of small private reserves along the river, which arrange wildlife viewing\n\nThe town of Benjamin Constant lies at the mouth of the river, on the Brazilian bank.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Javary River" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16031" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The Javary River, Javari River or Yavarí River (; ) is a 1184 km tributary of the Amazon that forms the boundary between Brazil and Peru for more than 500 mi.[https://books.google.com/books?idAYvlAAAAMAAJ&pg\nPA334&lpgPA334&dq\nJavary++river+-%22is+a+1184+km+tributary+of+the+Amazon+that+forms+the+boundary+between+Brazil+and+Peru%22+-necktie+-wikipedia+-facebook+-horse+-LinkedIn+-myspace+-%22bow+tie%22+-%22supposed+to+be+navigable+by+canoe+for+900%22&sourcebl&ots\nfDtxnIaVwn&sigfzeKCL0b2kmwrEREIFTJxd16msQ&hl\nen&ei4jTES6bfIJ7gM7GTqYYO&sa\nX&oibook_result&ct\nresult&resnum2&ved\n0CAcQ6AEwATgo#vonepage&q\nJavary%20%20river%20-%22is%20a%201184%20km%20tributary%20of%20the%20Amazon%20that%20forms%20the%20boundary%20between%20Brazil%20and%20Peru%22%20-necktie%20-wikipedia%20-facebook%20-horse%20-LinkedIn%20-myspace%20-%22bow%20tie%22%20-%22supposed%20to%20be%20navigable%20by%20canoe%20for%20900%22&f=false The Nation, Volume 50] It is navigable by canoe for 900 mi from above its mouth to its source in the Ucayali highlands, but only 260 were found suitable for steam navigation. The Brazilian Boundary Commission ascended it in 1866 to the junction of the Shino with its Jaquirana branch. The country it traverses in its extremely sinuous course is very level, similar in character to that of the Juruá.\n\nThe river is one of the best places to observe Amazonian wildlife, including the Amazon river dolphin and tucuxi. There are a number of small private reserves along the river, which arrange wildlife viewing\n\nThe town of Benjamin Constant lies at the mouth of the river, on the Brazilian bank. Javary River. http://en.wikipedia.org/?curid=16031."
+  }
+}

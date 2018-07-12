@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2452",
+  "eid" : "c058e360-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778402454,
+  "textBody" : "A&W, AW, Aw, aW or aw may refer to:\n\nPeople\n\n* Aw (surname), a Cantonese surname\n* A. W. (poet), anonymous 16th century poet\n* A. W. (wrestler), a ring name of Brian Bary Jossie\n* A.W. (musician), an American singer-songwriter formerly known as Allison Weiss\n* Alan Walker (music producer) (born 1997), uses the initials and logo AW\n\nPlaces\n\n* Ahrweiler (district), Germany, vehicle registration code\n* Aruba (ISO 3166-1 2-letter country code AW)\n\nCompanies\n\n* A&W Restaurants\n** A&W Root Beer\n* Addison-Wesley, publishers\n* Africa World Airlines, IATA code\n* Prefix for helicopters made by AgustaWestland, e.g., AW101\n* Allied Waste Industries Inc, stock symbol on NYSE\n* Armstrong Whitworth, a British manufacturing company in the early 20th century\n\nMedia and entertainment\n\n* Active Worlds, a 3D virtual reality platform\n* Another World (TV series), an American soap opera\n* Aviation Week, magazine\n\nScience and technology\n\n* aw, or Water activity, the relative availability of water in a substance\n* Airwatt, a unit of the effectiveness of vacuum cleaners\n* aw, or attowatt, an SI unit of power\n* .aw, the internet top level domain country code for Aruba\n* Aw, categorization for tropical savanna climate in the Köppen classification system\n* AW, in German email subject line, equivalent to Re:\n\nOther uses\n\n* AW, US Navy hull classification symbol for \"distilling ship\"\n* Agencja Wywiadu, the Polish foreign intelligence service\n* Ahnapee and Western Railway, A&W\n* Arctic Warfare, a British sniper rifle\n* Aviation Warfare Systems Operator, a rating in the United States Navy\n* Ibanez AW Series, acoustic guitars",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "AW" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2452" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A&W, AW, Aw, aW or aw may refer to:\n\nPeople\n\n* Aw (surname), a Cantonese surname\n* A. W. (poet), anonymous 16th century poet\n* A. W. (wrestler), a ring name of Brian Bary Jossie\n* A.W. (musician), an American singer-songwriter formerly known as Allison Weiss\n* Alan Walker (music producer) (born 1997), uses the initials and logo AW\n\nPlaces\n\n* Ahrweiler (district), Germany, vehicle registration code\n* Aruba (ISO 3166-1 2-letter country code AW)\n\nCompanies\n\n* A&W Restaurants\n** A&W Root Beer\n* Addison-Wesley, publishers\n* Africa World Airlines, IATA code\n* Prefix for helicopters made by AgustaWestland, e.g., AW101\n* Allied Waste Industries Inc, stock symbol on NYSE\n* Armstrong Whitworth, a British manufacturing company in the early 20th century\n\nMedia and entertainment\n\n* Active Worlds, a 3D virtual reality platform\n* Another World (TV series), an American soap opera\n* Aviation Week, magazine\n\nScience and technology\n\n* aw, or Water activity, the relative availability of water in a substance\n* Airwatt, a unit of the effectiveness of vacuum cleaners\n* aw, or attowatt, an SI unit of power\n* .aw, the internet top level domain country code for Aruba\n* Aw, categorization for tropical savanna climate in the Köppen classification system\n* AW, in German email subject line, equivalent to Re:\n\nOther uses\n\n* AW, US Navy hull classification symbol for \"distilling ship\"\n* Agencja Wywiadu, the Polish foreign intelligence service\n* Ahnapee and Western Railway, A&W\n* Arctic Warfare, a British sniper rifle\n* Aviation Warfare Systems Operator, a rating in the United States Navy\n* Ibanez AW Series, acoustic guitars. AW. http://en.wikipedia.org/?curid=2452."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7544",
+  "eid" : "e21b5050-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778459093,
+  "textBody" : "Cadence may refer to:\n\n* Intonation (linguistics), the variation of pitch in speech.\n* Speech tempo, the rate or speed at which a language is spoken\n\nMusic\n\n*Cadence (music), a melodic and/or harmonic configuration at the end of a phrase, section, or piece of music\n*Cadence (poetry), the rhythmic pacing of literary language \n*Cadence Magazine, a monthly review of jazz, blues and improvised music\n*Cadence Jazz Records, a record label issued by the above magazine\n*Cadence Records, an American record label during the 1940s and 1950s\n*Cadence (vocal group), A Toronto, Canada, based a cappella jazz quartet. Winner of the 2008 Juno Award.\n*Cadence rampa, a modern Haitian méringue, popularized by saxophone player Webert Sicot, also known as kadans in Creole\n*Cadence Weapon, a rap artist from Edmonton, Alberta, San Luis Potosí\n*Cadence-lypso, Dominica's kadans\n*Military cadence, a chant that is sung by military personnel while marching\n*Drum cadence, a work played exclusively by the percussion section of a modern marching band\n\nOther\n\n*Cadence (cycling),  the number of revolutions of the crankset per minute\n*Cadence Design Systems, an electronic design automation company\n*Cadence (film), a 1990 film directed by Martin Sheen\n*Cadence (gait), the number of human walking steps per minute\n*Cadence (given name), a feminine name.\n*Cadence Industries, publishing company formed in the 1970s that owned Marvel Comics\n* \"Cadence of Accountability\" for (Industry) FranklinCovey time management training - Cadence is basically accountability with rhythm. (4DX) The cadence of accountability is a rhythm of regular, frequent employee staff meetings that occur weekly and last approximately twenty minutes.\n*Cadence, or DJ Cadence, a fictional DJ in the online virtual game Club Penguin\n*Cadence (software), the rhythm and frequence of releasing a piece of software.\n*Cadence (software), a personal digital assistant",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Cadence" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7544" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Cadence may refer to:\n\n* Intonation (linguistics), the variation of pitch in speech.\n* Speech tempo, the rate or speed at which a language is spoken\n\nMusic\n\n*Cadence (music), a melodic and/or harmonic configuration at the end of a phrase, section, or piece of music\n*Cadence (poetry), the rhythmic pacing of literary language \n*Cadence Magazine, a monthly review of jazz, blues and improvised music\n*Cadence Jazz Records, a record label issued by the above magazine\n*Cadence Records, an American record label during the 1940s and 1950s\n*Cadence (vocal group), A Toronto, Canada, based a cappella jazz quartet. Winner of the 2008 Juno Award.\n*Cadence rampa, a modern Haitian méringue, popularized by saxophone player Webert Sicot, also known as kadans in Creole\n*Cadence Weapon, a rap artist from Edmonton, Alberta, San Luis Potosí\n*Cadence-lypso, Dominica's kadans\n*Military cadence, a chant that is sung by military personnel while marching\n*Drum cadence, a work played exclusively by the percussion section of a modern marching band\n\nOther\n\n*Cadence (cycling),  the number of revolutions of the crankset per minute\n*Cadence Design Systems, an electronic design automation company\n*Cadence (film), a 1990 film directed by Martin Sheen\n*Cadence (gait), the number of human walking steps per minute\n*Cadence (given name), a feminine name.\n*Cadence Industries, publishing company formed in the 1970s that owned Marvel Comics\n* \"Cadence of Accountability\" for (Industry) FranklinCovey time management training - Cadence is basically accountability with rhythm. (4DX) The cadence of accountability is a rhythm of regular, frequent employee staff meetings that occur weekly and last approximately twenty minutes.\n*Cadence, or DJ Cadence, a fictional DJ in the online virtual game Club Penguin\n*Cadence (software), the rhythm and frequence of releasing a piece of software.\n*Cadence (software), a personal digital assistant. Cadence. http://en.wikipedia.org/?curid=7544."
+  }
+}

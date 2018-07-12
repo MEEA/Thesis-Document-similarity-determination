@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7560",
+  "eid" : "e22fc2b0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778459227,
+  "textBody" : "College of the City of New York may refer to:\n\n* City University of New York (CUNY), the public university system of New York City\n** College of the City of New York, an old name (1866–1929) for City College of New York, now part of CUNY\n** New York City College of Technology, CUNY's technology college, founded in 1946\n* University of the City of New York, old name for New York University, a private research university founded in 1831",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "College of the City of New York" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7560" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "College of the City of New York may refer to:\n\n* City University of New York (CUNY), the public university system of New York City\n** College of the City of New York, an old name (1866–1929) for City College of New York, now part of CUNY\n** New York City College of Technology, CUNY's technology college, founded in 1946\n* University of the City of New York, old name for New York University, a private research university founded in 1831. College of the City of New York. http://en.wikipedia.org/?curid=7560."
+  }
+}

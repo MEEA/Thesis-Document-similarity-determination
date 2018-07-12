@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13370",
+  "eid" : "086d3070-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778523383,
+  "textBody" : "Helsingborg Municipality (Helsingborgs kommun) is a municipality in Skåne County in Sweden. Its seat is located in the city of Helsingborg, which is Sweden's eighth largest city. The municipality had a population of 132,011 on January 1, 2013, and the population is increasing with roughly 1500 people annually.\n\nBetween 1912 and 1971 the name of the town was officially spelled Hälsingborg (rather like the region of Hälsingland but unlike neighbouring Danish Helsingør and the Finnish capital Helsingfors (Helsinki)). The spelling was changed back to the older version when the present municipality was created in 1971 through the amalgamation of the Town of Hälsingborg with four surrounding rural municipalities. Since the 1990s the municipality again styles itself Helsingborgs stad (Town of Helsingborg). This usage is only nominal and has no effect on the status of the municipality.\n\nLocalities\n\nThere are 15 urban areas (also called a Tätort or locality) in Helsingborg Municipality. In the table they are listed according to the size of the population as of December 31, 2010. The municipal seat is in bold characters.\n\n1) Rydebäck is bimunicipal [http://w41.scb.se/templates/Publikation____186288.asp] locality as a minor part of it (with about 40 inhabitants) is located in Landskrona Municipality.\n\n2) Population for Helsingborg tätort-locality 2009\n\nInternational relations\n\nTwin towns — sister cities\n\nHelsingborg is twinned with:\nHelsingør Municipality, Denmark\nAlexandria, USA\nDubrovnik, Croatia\nPärnu, Estonia",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Helsingborg Municipality" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13370" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Helsingborg Municipality (Helsingborgs kommun) is a municipality in Skåne County in Sweden. Its seat is located in the city of Helsingborg, which is Sweden's eighth largest city. The municipality had a population of 132,011 on January 1, 2013, and the population is increasing with roughly 1500 people annually.\n\nBetween 1912 and 1971 the name of the town was officially spelled Hälsingborg (rather like the region of Hälsingland but unlike neighbouring Danish Helsingør and the Finnish capital Helsingfors (Helsinki)). The spelling was changed back to the older version when the present municipality was created in 1971 through the amalgamation of the Town of Hälsingborg with four surrounding rural municipalities. Since the 1990s the municipality again styles itself Helsingborgs stad (Town of Helsingborg). This usage is only nominal and has no effect on the status of the municipality.\n\nLocalities\n\nThere are 15 urban areas (also called a Tätort or locality) in Helsingborg Municipality. In the table they are listed according to the size of the population as of December 31, 2010. The municipal seat is in bold characters.\n\n1) Rydebäck is bimunicipal [http://w41.scb.se/templates/Publikation____186288.asp] locality as a minor part of it (with about 40 inhabitants) is located in Landskrona Municipality.\n\n2) Population for Helsingborg tätort-locality 2009\n\nInternational relations\n\nTwin towns — sister cities\n\nHelsingborg is twinned with:\nHelsingør Municipality, Denmark\nAlexandria, USA\nDubrovnik, Croatia\nPärnu, Estonia. Helsingborg Municipality. http://en.wikipedia.org/?curid=13370."
+  }
+}

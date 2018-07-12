@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17177",
+  "eid" : "2ad2bb30-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778581091,
+  "textBody" : "Kit may refer to:\n\nPlaces\n\n*Kitt, Indiana, United States, formerly spelled Kit, an unincorporated community\n* Kit, Iran, a village in Mazandaran Province\n* Kit Hill, Cornwall, England\n\nPeople\n\n* Kit (given name), a list of people and fictitious entities \n* Barys Kit (1910–2018), Russian-born American rocket scientist\n\nAnimals\n\n* Young animals:\n** A short form of kitten, a young cat\n** A young beaver\n** A young ferret\n** A young fox \n** A young mink\n** A young rabbit\n** A young raccoon\n** A young skunk\n** A young squirrel\n** A young wolverine\n* Oxen, cows or any other form of cattle (Old English)\n* A group of pigeons flying together\n\nArts, entertainment, and media\n\n* KIT (AM), a radio station (1280 AM) licensed to serve Yakima, Washington, United States\n* Kit (BG = whale), original Bulgarian title of the film Whale, 1970 satirical movie directed by Petar B. Vasilev, see \nWhale (film)\n\nKinds of sets\n\n* Standard equipment in sports:\n** Kit (association football), the standard equipment and attire worn by players in association football\n** Kit (rugby football), the standard equipment and attire worn by players in rugby football\n* Kit (of components), a set of components such as\n** Electronic kit, a package of electrical components used to build an electronic device\n** Kit car (\"component car\"), an automobile that the buyer assembles into a functioning car\n\nOther uses\n\n* Kit lens, a low-end SLR camera lens\n* Kit violin or kit, a small stringed musical instrument\n* Tropical Storm Kit (disambiguation)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Kit" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17177" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Kit may refer to:\n\nPlaces\n\n*Kitt, Indiana, United States, formerly spelled Kit, an unincorporated community\n* Kit, Iran, a village in Mazandaran Province\n* Kit Hill, Cornwall, England\n\nPeople\n\n* Kit (given name), a list of people and fictitious entities \n* Barys Kit (1910–2018), Russian-born American rocket scientist\n\nAnimals\n\n* Young animals:\n** A short form of kitten, a young cat\n** A young beaver\n** A young ferret\n** A young fox \n** A young mink\n** A young rabbit\n** A young raccoon\n** A young skunk\n** A young squirrel\n** A young wolverine\n* Oxen, cows or any other form of cattle (Old English)\n* A group of pigeons flying together\n\nArts, entertainment, and media\n\n* KIT (AM), a radio station (1280 AM) licensed to serve Yakima, Washington, United States\n* Kit (BG = whale), original Bulgarian title of the film Whale, 1970 satirical movie directed by Petar B. Vasilev, see \nWhale (film)\n\nKinds of sets\n\n* Standard equipment in sports:\n** Kit (association football), the standard equipment and attire worn by players in association football\n** Kit (rugby football), the standard equipment and attire worn by players in rugby football\n* Kit (of components), a set of components such as\n** Electronic kit, a package of electrical components used to build an electronic device\n** Kit car (\"component car\"), an automobile that the buyer assembles into a functioning car\n\nOther uses\n\n* Kit lens, a low-end SLR camera lens\n* Kit violin or kit, a small stringed musical instrument\n* Tropical Storm Kit (disambiguation). Kit. http://en.wikipedia.org/?curid=17177."
+  }
+}

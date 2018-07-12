@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17199",
+  "eid" : "2ad83971-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778581127,
+  "textBody" : "Keilhauite (also known as yttrotitanite) is a variety of the mineral titanite of a brownish black color, related to titanite in form. It consists chiefly of silicon dioxide, titanium dioxide, calcium oxide, and yttrium oxide.\n\nKeilhauite has a chemical formula of (CaTi,Al2,Fe23+,Y23+)SiO5. It differs from titanite only in that calcium is substituted by up to 12 percent (Y,Ce)2O3.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Keilhauite" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17199" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Keilhauite (also known as yttrotitanite) is a variety of the mineral titanite of a brownish black color, related to titanite in form. It consists chiefly of silicon dioxide, titanium dioxide, calcium oxide, and yttrium oxide.\n\nKeilhauite has a chemical formula of (CaTi,Al2,Fe23+,Y23+)SiO5. It differs from titanite only in that calcium is substituted by up to 12 percent (Y,Ce)2O3. Keilhauite. http://en.wikipedia.org/?curid=17199."
+  }
+}

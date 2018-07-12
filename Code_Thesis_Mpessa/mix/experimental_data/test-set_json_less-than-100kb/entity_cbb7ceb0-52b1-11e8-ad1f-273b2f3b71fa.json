@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=4178",
+  "eid" : "cbb7ceb0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778421531,
+  "textBody" : "William Frederick Schelter (1947[https://web.archive.org/web/20160612195350/http://www.utexas.edu/faculty/council/2004-2005/memorials/schelter/schelter.html In memoriam]. Access in 2007-07-05. – July 30, 2001) was a professor of mathematics at The University of Texas at Austin and a Lisp developer and programmer.  Schelter is credited with the development of the GNU Common Lisp (GCL) implementation of Common Lisp and the GPL'd version of the computer algebra system Macsyma called Maxima. Schelter authored Austin Kyoto Common Lisp (AKCL) under contract with IBM. AKCL formed the foundation for Axiom, another computer algebra system. AKCL eventually became GNU Common Lisp. He is also credited with the first port of the GNU C compiler to the Intel 386 architecture, used in the original implementation of the Linux kernel.[http://alamos.math.arizona.edu/symcomp/announcement.txt ] \n\nSchelter obtained his Ph.D. at McGill University in 1972. His mathematical specialties were noncommutative ring theory and computational algebra and its applications, including automated theorem proving in geometry.\n\nIn the summer of 2001, age 54, he died suddenly of a heart attack while traveling in Russia.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Bill Schelter" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=4178" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "William Frederick Schelter (1947[https://web.archive.org/web/20160612195350/http://www.utexas.edu/faculty/council/2004-2005/memorials/schelter/schelter.html In memoriam]. Access in 2007-07-05. – July 30, 2001) was a professor of mathematics at The University of Texas at Austin and a Lisp developer and programmer.  Schelter is credited with the development of the GNU Common Lisp (GCL) implementation of Common Lisp and the GPL'd version of the computer algebra system Macsyma called Maxima. Schelter authored Austin Kyoto Common Lisp (AKCL) under contract with IBM. AKCL formed the foundation for Axiom, another computer algebra system. AKCL eventually became GNU Common Lisp. He is also credited with the first port of the GNU C compiler to the Intel 386 architecture, used in the original implementation of the Linux kernel.[http://alamos.math.arizona.edu/symcomp/announcement.txt ] \n\nSchelter obtained his Ph.D. at McGill University in 1972. His mathematical specialties were noncommutative ring theory and computational algebra and its applications, including automated theorem proving in geometry.\n\nIn the summer of 2001, age 54, he died suddenly of a heart attack while traveling in Russia. Bill Schelter. http://en.wikipedia.org/?curid=4178."
+  }
+}

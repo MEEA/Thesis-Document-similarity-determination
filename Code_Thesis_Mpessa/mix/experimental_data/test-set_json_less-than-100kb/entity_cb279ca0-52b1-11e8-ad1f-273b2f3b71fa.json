@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=4074",
+  "eid" : "cb279ca0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778420586,
+  "textBody" : "A barrel is a cylindrical container, traditionally made with wooden material.\n\nBarrel may also refer to:\n\n* Barrel (unit), several units of volume\n* BARREL (Balloon Array for RBSP Relativistic Electron Losses), a NASA mission\n* Barrel (album), a 1970 album by Lee Michaels\n* barrel hinge, a simple hinge consisting of a barrel and a pivot\n* barrel (horology), a watch component\n* barrel distortion in optics\n* barrel organ, a musical instrument\n* barrel pillory, or Spanish mantle\n* barrel processor, a type of Central Processing Unit\n* barrel racing, an equestrian sport\n* barrel roll, an aerial maneuver\n* barrelled space in functional analysis\n* gun barrel\n* the venturi of a carburetor\n* barrel crimp, also known as \"F crimp\" solderless connections\n* another name for Nintendo tumbler puzzle\n* Clarinet barrel, a component of a clarinet\n* A name used for a tank (an armoured fighting vehicle) in some works of speculative fiction, such as Harry Turtledove's books, and Victoria: An Empire Under the Sun.\n* The outside of a low voltage DC connector.\n* Red Barrels, a Canadian independent video game developer and publisher.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Barrel (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=4074" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A barrel is a cylindrical container, traditionally made with wooden material.\n\nBarrel may also refer to:\n\n* Barrel (unit), several units of volume\n* BARREL (Balloon Array for RBSP Relativistic Electron Losses), a NASA mission\n* Barrel (album), a 1970 album by Lee Michaels\n* barrel hinge, a simple hinge consisting of a barrel and a pivot\n* barrel (horology), a watch component\n* barrel distortion in optics\n* barrel organ, a musical instrument\n* barrel pillory, or Spanish mantle\n* barrel processor, a type of Central Processing Unit\n* barrel racing, an equestrian sport\n* barrel roll, an aerial maneuver\n* barrelled space in functional analysis\n* gun barrel\n* the venturi of a carburetor\n* barrel crimp, also known as \"F crimp\" solderless connections\n* another name for Nintendo tumbler puzzle\n* Clarinet barrel, a component of a clarinet\n* A name used for a tank (an armoured fighting vehicle) in some works of speculative fiction, such as Harry Turtledove's books, and Victoria: An Empire Under the Sun.\n* The outside of a low voltage DC connector.\n* Red Barrels, a Canadian independent video game developer and publisher. Barrel (disambiguation). http://en.wikipedia.org/?curid=4074."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17105",
+  "eid" : "2a90a920-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778580658,
+  "textBody" : "K7, K07 or K-7 may refer to:\n\n* A complete graph with 7 Vertices\n* Bluebird K7, a high speed hydroplane raced by Donald Campbell\n* Daewoo Precision Industries K7, a submachine gun with an integrated suppressor\n* Deep Space Station K7, a fictional space station featured in the Star Trek episodes \"The Trouble With Tribbles\" and \"Trials and Tribble-ations\"\n* K7 (mountain), a mountain of the Karakoram range, in Pakistan\n* K-7 (Kansas highway), a state highway in Kansas\n* Kalinin K-7, a heavy experimental aircraft designed and tested in the Soviet Union in the early 1930s\n* Kronprinsens husarregemente, a Swedish Army cavalry regiment disbanded 1927\n* Pentax K-7, a DSLR camera by Hoya Corporation\n* Schleicher K7, a 2-seater glider plane made from wood and steel\nComputing \n\n* AMD K7, codename for certain AMD CPUs, including the Athlon and Duron microprocessors\n\nMusic \n\n* Ibanez K7, a series of guitars\n* K7 (musician) (born 1967), American rapper\n* Studio !K7, German record label\n* Violin Sonata No. 2 (Mozart), by Wolfgang Amadeus Mozart\n\nSubmarines\n\n* , a British submarine of the First World War\n* , a 1914 United States Navy K-class submarine",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "K7" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17105" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "K7, K07 or K-7 may refer to:\n\n* A complete graph with 7 Vertices\n* Bluebird K7, a high speed hydroplane raced by Donald Campbell\n* Daewoo Precision Industries K7, a submachine gun with an integrated suppressor\n* Deep Space Station K7, a fictional space station featured in the Star Trek episodes \"The Trouble With Tribbles\" and \"Trials and Tribble-ations\"\n* K7 (mountain), a mountain of the Karakoram range, in Pakistan\n* K-7 (Kansas highway), a state highway in Kansas\n* Kalinin K-7, a heavy experimental aircraft designed and tested in the Soviet Union in the early 1930s\n* Kronprinsens husarregemente, a Swedish Army cavalry regiment disbanded 1927\n* Pentax K-7, a DSLR camera by Hoya Corporation\n* Schleicher K7, a 2-seater glider plane made from wood and steel\nComputing \n\n* AMD K7, codename for certain AMD CPUs, including the Athlon and Duron microprocessors\n\nMusic \n\n* Ibanez K7, a series of guitars\n* K7 (musician) (born 1967), American rapper\n* Studio !K7, German record label\n* Violin Sonata No. 2 (Mozart), by Wolfgang Amadeus Mozart\n\nSubmarines\n\n* , a British submarine of the First World War\n* , a 1914 United States Navy K-class submarine. K7. http://en.wikipedia.org/?curid=17105."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16792",
+  "eid" : "28912fa1-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778577306,
+  "textBody" : "The Klondike is a region of the Yukon territory in northwest Canada, east of the Alaskan border. It lies around the Klondike River, a small river that enters the Yukon River from the east at Dawson City.\n\nThe Klondike is famed because of the Klondike Gold Rush, which started in 1897 and lasted until 1899. Gold has been mined continuously in that area except for a hiatus in the late 1960s and early 1970s.\n\nThe name \"Klondike\" evolved from the Hän word Tr'ondëk, which means \"hammerstone water\". Early gold seekers found it difficult to pronounce the First Nations word, so \"Klondike\" was the result of this poor pronunciation.\n\nClimate\n\nThe climate is warm in the short summer, and very cold during the long winter. By late October ice is formed over the rivers. The ground for the majority of the year is frozen to the depth of 1 to.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Klondike, Yukon" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16792" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The Klondike is a region of the Yukon territory in northwest Canada, east of the Alaskan border. It lies around the Klondike River, a small river that enters the Yukon River from the east at Dawson City.\n\nThe Klondike is famed because of the Klondike Gold Rush, which started in 1897 and lasted until 1899. Gold has been mined continuously in that area except for a hiatus in the late 1960s and early 1970s.\n\nThe name \"Klondike\" evolved from the Hän word Tr'ondëk, which means \"hammerstone water\". Early gold seekers found it difficult to pronounce the First Nations word, so \"Klondike\" was the result of this poor pronunciation.\n\nClimate\n\nThe climate is warm in the short summer, and very cold during the long winter. By late October ice is formed over the rivers. The ground for the majority of the year is frozen to the depth of 1 to. Klondike, Yukon. http://en.wikipedia.org/?curid=16792."
+  }
+}

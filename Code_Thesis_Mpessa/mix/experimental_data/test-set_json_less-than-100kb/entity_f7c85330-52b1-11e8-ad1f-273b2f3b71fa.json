@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10804",
+  "eid" : "f7c85330-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778495459,
+  "textBody" : "Finnish may refer to:\n* Something or someone from, or related to Finland\n* Finnish culture\n* Finnish people or Finns, the primary ethnic group in Finland\n* Finnish language, the national language of the Finnish people\n* Finnish cuisine",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Finnish" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10804" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Finnish may refer to:\n* Something or someone from, or related to Finland\n* Finnish culture\n* Finnish people or Finns, the primary ethnic group in Finland\n* Finnish language, the national language of the Finnish people\n* Finnish cuisine. Finnish. http://en.wikipedia.org/?curid=10804."
+  }
+}

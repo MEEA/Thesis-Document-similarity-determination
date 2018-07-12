@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12969",
+  "eid" : "05c89d50-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778518949,
+  "textBody" : "Giovanni Arduino is the name of:\n* Giovanni Arduino (geologist) (1714–1795), known as the “father of Italian Geology”\n* Giovanni Arduino (author) (born 1970), Italian writer",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Giovanni Arduino" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12969" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Giovanni Arduino is the name of:\n* Giovanni Arduino (geologist) (1714–1795), known as the “father of Italian Geology”\n* Giovanni Arduino (author) (born 1970), Italian writer. Giovanni Arduino. http://en.wikipedia.org/?curid=12969."
+  }
+}

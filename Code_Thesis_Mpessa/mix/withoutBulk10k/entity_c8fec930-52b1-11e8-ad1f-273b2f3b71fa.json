@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3822",
+  "eid" : "c8fec930-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778416963,
+  "textBody" : "BCD may refer to:\n\nComputing\n\n* Binary-coded decimal, a representation of decimal digits in binary\n** BCD (character encoding), a 6-bit superset of binary-coded decimal derived from the binary encoding of the same name\n* Boot Configuration Data, the configuration data required to boot Microsoft Windows Vista and later\n* Bipolar-CMOS-DMOS, a kind of BiCMOS, a type of semiconductor\n\nOrganisations\n\n* The British Columbia Dragoons, a Canadian Forces armoured regiment\n* Basnahira Cricket Dundee, a Sri Lankan cricket team\n* Berkshire Country Day School, an independent school in Lenox, Massachusetts, US\n* BCD Travel, a provider of global corporate travel management\n\nPlaces\n\n* Beirut Central District, Beirut, Lebanon\n* Bacolod–Silay International Airport (IATA code), Silay City, Philippines\n\nOther uses\n\n* Bad Conduct Discharge, a form of discharge from US military service\n* Barrels per calendar day, a unit for measuring output of oil refineries\n* Blue compact dwarf galaxy, a small galaxy which contains large clusters of young, hot, massive stars\n* Board-certified diplomate, in the list of credentials in psychology\n* Buoyancy control device, in scuba diving\n* Bitcoin Diamond\n* Bolt circle diameter, for example, of a crankset or in wheel sizing",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "BCD" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3822" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "BCD may refer to:\n\nComputing\n\n* Binary-coded decimal, a representation of decimal digits in binary\n** BCD (character encoding), a 6-bit superset of binary-coded decimal derived from the binary encoding of the same name\n* Boot Configuration Data, the configuration data required to boot Microsoft Windows Vista and later\n* Bipolar-CMOS-DMOS, a kind of BiCMOS, a type of semiconductor\n\nOrganisations\n\n* The British Columbia Dragoons, a Canadian Forces armoured regiment\n* Basnahira Cricket Dundee, a Sri Lankan cricket team\n* Berkshire Country Day School, an independent school in Lenox, Massachusetts, US\n* BCD Travel, a provider of global corporate travel management\n\nPlaces\n\n* Beirut Central District, Beirut, Lebanon\n* Bacolod–Silay International Airport (IATA code), Silay City, Philippines\n\nOther uses\n\n* Bad Conduct Discharge, a form of discharge from US military service\n* Barrels per calendar day, a unit for measuring output of oil refineries\n* Blue compact dwarf galaxy, a small galaxy which contains large clusters of young, hot, massive stars\n* Board-certified diplomate, in the list of credentials in psychology\n* Buoyancy control device, in scuba diving\n* Bitcoin Diamond\n* Bolt circle diameter, for example, of a crankset or in wheel sizing. BCD. http://en.wikipedia.org/?curid=3822."
+  }
+}

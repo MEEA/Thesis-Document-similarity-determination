@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17898",
+  "eid" : "2f2b18d0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778588381,
+  "textBody" : "Laundering may refer to:\n\n* Laundry, washing clothes\n* Child laundering, the illegal acquisition of children through monetary transactions, etc.\n* Money laundering, disguising the origin of illegally gained wealth\n* Policy laundering, disguising the origin of legislation",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Laundering" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17898" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Laundering may refer to:\n\n* Laundry, washing clothes\n* Child laundering, the illegal acquisition of children through monetary transactions, etc.\n* Money laundering, disguising the origin of illegally gained wealth\n* Policy laundering, disguising the origin of legislation. Laundering. http://en.wikipedia.org/?curid=17898."
+  }
+}

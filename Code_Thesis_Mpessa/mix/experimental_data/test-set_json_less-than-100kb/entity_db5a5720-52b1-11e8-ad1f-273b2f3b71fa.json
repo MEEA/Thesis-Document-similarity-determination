@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=6417",
+  "eid" : "db5a5720-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778447762,
+  "textBody" : "Corvus is a genus of birds including species commonly known as crows, ravens, rooks and jackdaws.\n\nCorvus may also refer to:\n\n* Corvus (boarding device), used by ancient Roman warships\n* Corvus (constellation)\n** Corvus (Chinese astronomy), the same constellation as considered in traditional Chinese uranography\n* Corvus (heraldry), the use of crows and ravens in heraldry\n* Corvus: A Life With Birds, a 2008 non-fiction book by Esther Woolfson\n* Corvus Hungary, an aircraft manufacturer\n* Corvus Systems, a computer hardware manufacturer\n* ASM-N-8 Corvus, United States Navy missile\n* Gibson Corvus, a guitar product line\n* Marcus Valerius Corvus (4th-century BC), Roman military commander and politician\n* SS Corvus, a Norwegian steamship sunk by German U-boats in February 1945\n* Corvus, a character in the video game Call of Duty: Black Ops III\n* Corvus, a character in the video game Dragon Quest IX: Sentinels of the Starry Skies\n* Corvus, a character in the video games Heretic and Heretic II\n* The Corvus, a ship in the 2017 video game Star Wars Battlefront II",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Corvus (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=6417" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Corvus is a genus of birds including species commonly known as crows, ravens, rooks and jackdaws.\n\nCorvus may also refer to:\n\n* Corvus (boarding device), used by ancient Roman warships\n* Corvus (constellation)\n** Corvus (Chinese astronomy), the same constellation as considered in traditional Chinese uranography\n* Corvus (heraldry), the use of crows and ravens in heraldry\n* Corvus: A Life With Birds, a 2008 non-fiction book by Esther Woolfson\n* Corvus Hungary, an aircraft manufacturer\n* Corvus Systems, a computer hardware manufacturer\n* ASM-N-8 Corvus, United States Navy missile\n* Gibson Corvus, a guitar product line\n* Marcus Valerius Corvus (4th-century BC), Roman military commander and politician\n* SS Corvus, a Norwegian steamship sunk by German U-boats in February 1945\n* Corvus, a character in the video game Call of Duty: Black Ops III\n* Corvus, a character in the video game Dragon Quest IX: Sentinels of the Starry Skies\n* Corvus, a character in the video games Heretic and Heretic II\n* The Corvus, a ship in the 2017 video game Star Wars Battlefront II. Corvus (disambiguation). http://en.wikipedia.org/?curid=6417."
+  }
+}

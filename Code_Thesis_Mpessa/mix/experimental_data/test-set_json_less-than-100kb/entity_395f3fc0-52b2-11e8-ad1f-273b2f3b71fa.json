@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19267",
+  "eid" : "395f3fc0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778605500,
+  "textBody" : "Monaco Telecom is the main telecommunications provider in the Principality of Monaco.\n\nThe following are some data about telecommunications in Monaco.\n\n*Telephones - main lines in use: 20 831 (2015)\n*Telephones - mobile cellular: 35 506 (2015)\n*Telephone system: automatic telephone system\ndomestic : NA\n\nInternational\n\nNo satellite earth stations; connected by cable into the French communications system, however since June 1996, Monaco has had a separate country calling code, +377.\n\nRadio and television\n\n*Radio broadcast stations: AM 1, FM 3, shortwave 8 (1998)\n*Radios: 34,000 (1997)\n*Television broadcast stations: 5 (1998)\n*Televisions: 13 829 (2015)\n\nInternet\n\n*Internet service providers (ISPs) : Monaco Telecom (due to monopolistic situation of the unique provider)\n*Internet users: 18 096 users (December 2015)\n*5 connection levels : modem, DSL 512 kbit/s, ADSL 1024 kbit/s, ADSL 4096 kbit/s, DSL 15Mbit/s and VDSL 30 Mbit/s\n*Country code (Top level domain) : mc",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Telecommunications in Monaco" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19267" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Monaco Telecom is the main telecommunications provider in the Principality of Monaco.\n\nThe following are some data about telecommunications in Monaco.\n\n*Telephones - main lines in use: 20 831 (2015)\n*Telephones - mobile cellular: 35 506 (2015)\n*Telephone system: automatic telephone system\ndomestic : NA\n\nInternational\n\nNo satellite earth stations; connected by cable into the French communications system, however since June 1996, Monaco has had a separate country calling code, +377.\n\nRadio and television\n\n*Radio broadcast stations: AM 1, FM 3, shortwave 8 (1998)\n*Radios: 34,000 (1997)\n*Television broadcast stations: 5 (1998)\n*Televisions: 13 829 (2015)\n\nInternet\n\n*Internet service providers (ISPs) : Monaco Telecom (due to monopolistic situation of the unique provider)\n*Internet users: 18 096 users (December 2015)\n*5 connection levels : modem, DSL 512 kbit/s, ADSL 1024 kbit/s, ADSL 4096 kbit/s, DSL 15Mbit/s and VDSL 30 Mbit/s\n*Country code (Top level domain) : mc. Telecommunications in Monaco. http://en.wikipedia.org/?curid=19267."
+  }
+}

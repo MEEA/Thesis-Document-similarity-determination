@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1194",
+  "eid" : "b6e414d0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778386589,
+  "textBody" : "Atomic may refer to:\n\n* Of or relating to the atom, the smallest particle of a chemical element that retains its chemical properties\n* Atomic physics, the study of the atom\n* Atomic Age, also known as the \"Atomic Era\"\n* Atomic (magazine), an Australian computing and technology magazine\n* Atomic Skis, an Austrian ski producer\n* Atom (order theory), in mathematics\n* Atomic, Living in Dread and Promise, a 2015 documentary by Mark Cousins\n* The \"Atomic Kid\" Buddy Wayne, American professional wrestler from All Star Wrestling\n\nMusic \n\n* Atomic (band), a Norwegian jazz quintet\n* Atomic (EP), a 2013 extended play by \n* Atomic (Lit album), a 2001 album by Lit\n* \"Atomic\" (song), a 1979 song by Blondie\n* \"Atomic\", a song by Tiger Army from Tiger Army III: Ghost Tigers Rise\n* Atomic (Mogwai album), a 2016 soundtrack by Mogwai to the above documentary\n\nVideo games \n\n* Alton Atomic, a video game Spiritual Successor to Duke Nukem series as Developers and Publishers from PS5, 3DS's Successor 2018 and Switch.\n* Atomic Runner, a video game Published by Data East (Formerly)\n* Atomic Punk, a video game Published by Hudson Soft (Formerly)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Atomic" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1194" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Atomic may refer to:\n\n* Of or relating to the atom, the smallest particle of a chemical element that retains its chemical properties\n* Atomic physics, the study of the atom\n* Atomic Age, also known as the \"Atomic Era\"\n* Atomic (magazine), an Australian computing and technology magazine\n* Atomic Skis, an Austrian ski producer\n* Atom (order theory), in mathematics\n* Atomic, Living in Dread and Promise, a 2015 documentary by Mark Cousins\n* The \"Atomic Kid\" Buddy Wayne, American professional wrestler from All Star Wrestling\n\nMusic \n\n* Atomic (band), a Norwegian jazz quintet\n* Atomic (EP), a 2013 extended play by \n* Atomic (Lit album), a 2001 album by Lit\n* \"Atomic\" (song), a 1979 song by Blondie\n* \"Atomic\", a song by Tiger Army from Tiger Army III: Ghost Tigers Rise\n* Atomic (Mogwai album), a 2016 soundtrack by Mogwai to the above documentary\n\nVideo games \n\n* Alton Atomic, a video game Spiritual Successor to Duke Nukem series as Developers and Publishers from PS5, 3DS's Successor 2018 and Switch.\n* Atomic Runner, a video game Published by Data East (Formerly)\n* Atomic Punk, a video game Published by Hudson Soft (Formerly). Atomic. http://en.wikipedia.org/?curid=1194."
+  }
+}

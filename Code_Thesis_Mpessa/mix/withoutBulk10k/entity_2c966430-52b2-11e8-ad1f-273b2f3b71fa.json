@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17544",
+  "eid" : "2c966430-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778584051,
+  "textBody" : "Playing by ear is the ability of an instrumental musician to reproduce a piece of music they have heard, without having observed another musician play it or having seen the sheet music notation.[http://idioms.thefreedictionary.com/play+by+ear Play by ear - Idioms by the Free Dictionary] at thefreedictionary.com It is the most common way to learn to play a musical instrument in cultures and musical that do not use musical notation, such as by early Blues guitarists and pianists, Romani fiddlers and folk music guitarists. Outside of the Suzuki method, playing by ear is less common in Western Classical music. In this musical tradition, instrumentalists learn new pieces by reading the music notation. Classical students do study how to notate music by ear during \"ear training\" courses that are a standard part of conservatory or college music programs and by the use of Solfège.\n\nLearning music by ear is done by repeatedly listening to other musicians, either their live shows or sound recordings of their songs, and then attempting to recreate what one hears. This is how people learn music in any musical tradition in which there is no complete musical notation. Audiation involves hearing sounds mentally, although on a different level than just \"hearing a song in one's head\". In addition to mentally hearing rhythms and pitches, the skill of reproducing those sounds involves melody, harmony (chords) and bass line. In the West, learning by ear is associated with folk music, blues, rock, and jazz. But many classical music forms throughout the world lack notation and have therefore been passed from generation to generation by ear.\n\nSuzuki method\n\nThe Suzuki method of teaching music has a highly developed focus on playing by ear from a very young age.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Playing by ear" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17544" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Playing by ear is the ability of an instrumental musician to reproduce a piece of music they have heard, without having observed another musician play it or having seen the sheet music notation.[http://idioms.thefreedictionary.com/play+by+ear Play by ear - Idioms by the Free Dictionary] at thefreedictionary.com It is the most common way to learn to play a musical instrument in cultures and musical that do not use musical notation, such as by early Blues guitarists and pianists, Romani fiddlers and folk music guitarists. Outside of the Suzuki method, playing by ear is less common in Western Classical music. In this musical tradition, instrumentalists learn new pieces by reading the music notation. Classical students do study how to notate music by ear during \"ear training\" courses that are a standard part of conservatory or college music programs and by the use of Solfège.\n\nLearning music by ear is done by repeatedly listening to other musicians, either their live shows or sound recordings of their songs, and then attempting to recreate what one hears. This is how people learn music in any musical tradition in which there is no complete musical notation. Audiation involves hearing sounds mentally, although on a different level than just \"hearing a song in one's head\". In addition to mentally hearing rhythms and pitches, the skill of reproducing those sounds involves melody, harmony (chords) and bass line. In the West, learning by ear is associated with folk music, blues, rock, and jazz. But many classical music forms throughout the world lack notation and have therefore been passed from generation to generation by ear.\n\nSuzuki method\n\nThe Suzuki method of teaching music has a highly developed focus on playing by ear from a very young age. Playing by ear. http://en.wikipedia.org/?curid=17544."
+  }
+}

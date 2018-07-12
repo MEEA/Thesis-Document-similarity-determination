@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=9319",
+  "eid" : "ee306c40-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778479364,
+  "textBody" : "Eriocaulales is a botanical name for an order of flowering plants. The name was published by Nakai. In the Cronquist system the name was used for an order placed in the subclass Commelinidae. The order consisted of one family only (1981):\n\n* order Eriocaulales\n*: family Eriocaulaceae\n\nThe APG IV system assigns these plants to the order Poales.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Eriocaulales" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=9319" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Eriocaulales is a botanical name for an order of flowering plants. The name was published by Nakai. In the Cronquist system the name was used for an order placed in the subclass Commelinidae. The order consisted of one family only (1981):\n\n* order Eriocaulales\n*: family Eriocaulaceae\n\nThe APG IV system assigns these plants to the order Poales. Eriocaulales. http://en.wikipedia.org/?curid=9319."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16364",
+  "eid" : "259ca7c0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778572348,
+  "textBody" : "Judicial economy is the principle that the limited resources of the legal system or a given court should be conserved by the refusal to decide one or more claims raised in a case. For example, the plaintiff may claim that the defendant's actions violated three distinct laws. Having found for the plaintiff for a violation of the first law, the court then has the discretion to exercise judicial economy and refuse to make a decision on the remaining two claims, on the grounds that the finding of one violation should be sufficient to satisfy the plaintiff.\n\nThreshold issue in a given case \n\nIn the presence of a threshold issue that will ultimately decide a case, a court may, depending on the degree of prejudice to the litigants rights, elect to hear that issue rather than proceeding with a full-blown trial.\n\nClass action lawsuits \n\nClass action lawsuits are another example of judicial economy in action, as they are often tried as a single case, yet involve many cases with similar facts.  Rather than trying each case individually, which would unduly burden the judicial system, the cases can be consolidated into a class action.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Judicial economy" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16364" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Judicial economy is the principle that the limited resources of the legal system or a given court should be conserved by the refusal to decide one or more claims raised in a case. For example, the plaintiff may claim that the defendant's actions violated three distinct laws. Having found for the plaintiff for a violation of the first law, the court then has the discretion to exercise judicial economy and refuse to make a decision on the remaining two claims, on the grounds that the finding of one violation should be sufficient to satisfy the plaintiff.\n\nThreshold issue in a given case \n\nIn the presence of a threshold issue that will ultimately decide a case, a court may, depending on the degree of prejudice to the litigants rights, elect to hear that issue rather than proceeding with a full-blown trial.\n\nClass action lawsuits \n\nClass action lawsuits are another example of judicial economy in action, as they are often tried as a single case, yet involve many cases with similar facts.  Rather than trying each case individually, which would unduly burden the judicial system, the cases can be consolidated into a class action. Judicial economy. http://en.wikipedia.org/?curid=16364."
+  }
+}

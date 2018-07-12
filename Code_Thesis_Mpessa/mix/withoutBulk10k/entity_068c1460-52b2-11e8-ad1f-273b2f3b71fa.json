@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13086",
+  "eid" : "068c1460-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778520230,
+  "textBody" : "Gayo may refer to:\n\n* Gayo language of Sumatra\n* Gayo people, an ethnic group in Aceh, Indonesia\n* Gayo Lues Regency, a regency in Aceh, Indonesia\n* Gayo, or K-pop, the Korean term for pop music\n* Gayo (poem), old form of the Korean traditional poetry",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Gayo" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13086" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Gayo may refer to:\n\n* Gayo language of Sumatra\n* Gayo people, an ethnic group in Aceh, Indonesia\n* Gayo Lues Regency, a regency in Aceh, Indonesia\n* Gayo, or K-pop, the Korean term for pop music\n* Gayo (poem), old form of the Korean traditional poetry. Gayo. http://en.wikipedia.org/?curid=13086."
+  }
+}

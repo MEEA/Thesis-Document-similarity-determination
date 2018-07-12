@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12657",
+  "eid" : "03ec1520-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778515826,
+  "textBody" : "Groningen is a city in the Netherlands.\n\nGroningen may also refer to:\n\nIn geography:\n*Groningen (province), a province of the Netherlands of which Groningen is the capital city\n*Lordship of Groningen, the name under which the province was ruled by the Habsburg between 1536 and 1594\n*Groningen gas field, a natural gas field in province of Groningen\n*Groningen, Suriname, a town in the Saramacca District, Suriname\n*Groningen, Minnesota, an unincorporated community in Minnesota, United States\n*Gröningen, a town in Saxony-Anhalt, Germany\n*Grøningen, a Norwegian lake\n\nOther uses:\n*FC Groningen, the football club from Groningen, Netherlands\n*Groningen Grizzlies, the Groningen ice hockey club\n*Groningen epidemic, an 1826 malaria epidemic that occurred in the city of Groningen\n*Groningen 1946 chess tournament, an international chess tournament in the city of Groningen\n*Groningen, a breed of dairy cattle from the province of Groningen, black or red with a white head",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Groningen (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12657" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Groningen is a city in the Netherlands.\n\nGroningen may also refer to:\n\nIn geography:\n*Groningen (province), a province of the Netherlands of which Groningen is the capital city\n*Lordship of Groningen, the name under which the province was ruled by the Habsburg between 1536 and 1594\n*Groningen gas field, a natural gas field in province of Groningen\n*Groningen, Suriname, a town in the Saramacca District, Suriname\n*Groningen, Minnesota, an unincorporated community in Minnesota, United States\n*Gröningen, a town in Saxony-Anhalt, Germany\n*Grøningen, a Norwegian lake\n\nOther uses:\n*FC Groningen, the football club from Groningen, Netherlands\n*Groningen Grizzlies, the Groningen ice hockey club\n*Groningen epidemic, an 1826 malaria epidemic that occurred in the city of Groningen\n*Groningen 1946 chess tournament, an international chess tournament in the city of Groningen\n*Groningen, a breed of dairy cattle from the province of Groningen, black or red with a white head. Groningen (disambiguation). http://en.wikipedia.org/?curid=12657."
+  }
+}

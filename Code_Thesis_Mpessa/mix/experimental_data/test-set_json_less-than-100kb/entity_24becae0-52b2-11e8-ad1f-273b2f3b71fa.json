@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16223",
+  "eid" : "24becae0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778570894,
+  "textBody" : "Joel or Yoel is a name meaning \"Yahweh Is God\" and may refer to:\n* Joel (given name), origin of the name including a list of people with the first name\n* Joel (surname), a surname\n* Joel (prophet), a prophet of ancient Israel\n** Book of Joel, a book in the Jewish Tanakh, and in the Christian Bible, ascribed to the prophet\n* Joel (son of Samuel), firstborn son of Samuel",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Joel" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16223" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Joel or Yoel is a name meaning \"Yahweh Is God\" and may refer to:\n* Joel (given name), origin of the name including a list of people with the first name\n* Joel (surname), a surname\n* Joel (prophet), a prophet of ancient Israel\n** Book of Joel, a book in the Jewish Tanakh, and in the Christian Bible, ascribed to the prophet\n* Joel (son of Samuel), firstborn son of Samuel. Joel. http://en.wikipedia.org/?curid=16223."
+  }
+}

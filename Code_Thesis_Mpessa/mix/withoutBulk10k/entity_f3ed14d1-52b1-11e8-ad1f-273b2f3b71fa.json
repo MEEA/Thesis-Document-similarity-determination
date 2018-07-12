@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10121",
+  "eid" : "f3ed14d1-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778488989,
+  "textBody" : "Epimetheus may refer to:\n\n*Epimetheus (mythology), a Titan from Greek mythology\n*Epimetheus (moon), a moon of Saturn\n*1810 Epimetheus, an asteroid",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Epimetheus" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10121" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Epimetheus may refer to:\n\n*Epimetheus (mythology), a Titan from Greek mythology\n*Epimetheus (moon), a moon of Saturn\n*1810 Epimetheus, an asteroid. Epimetheus. http://en.wikipedia.org/?curid=10121."
+  }
+}

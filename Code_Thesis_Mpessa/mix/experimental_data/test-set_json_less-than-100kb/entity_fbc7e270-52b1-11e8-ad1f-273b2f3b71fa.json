@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11454",
+  "eid" : "fbc7e270-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778502167,
+  "textBody" : "Frederick V or Friedrich V may refer to: \n\n*Frederick V, Burgrave of Nuremberg (c. 1333–1398), German noble\n*Frederick V of Austria (1415–1493), or Frederick III, Holy Roman Emperor\n*Frederick I, Margrave of Brandenburg-Ansbach (1460–1536), or Friedrich V, Margrave von Brandenburg-Ansbach-Bayreuth\n*Frederick V, Elector Palatine (1596–1632), or Friedrich V von der Pfalz\n*Frederick V of Denmark (1723–1766), king of Denmark and Norway",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Frederick V" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11454" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Frederick V or Friedrich V may refer to: \n\n*Frederick V, Burgrave of Nuremberg (c. 1333–1398), German noble\n*Frederick V of Austria (1415–1493), or Frederick III, Holy Roman Emperor\n*Frederick I, Margrave of Brandenburg-Ansbach (1460–1536), or Friedrich V, Margrave von Brandenburg-Ansbach-Bayreuth\n*Frederick V, Elector Palatine (1596–1632), or Friedrich V von der Pfalz\n*Frederick V of Denmark (1723–1766), king of Denmark and Norway. Frederick V. http://en.wikipedia.org/?curid=11454."
+  }
+}

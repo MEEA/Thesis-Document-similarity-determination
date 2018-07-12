@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=4387",
+  "eid" : "cd5e79d0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778424301,
+  "textBody" : "Browse, browser or browsing may refer to:\n\n;Browser\n*Web browser, used to access the World Wide Web\n*Hardware browser, for displaying under the server or network hardware devices, and allows users to interact with the hardware of these tools. used to sense, detect, display and control hardware devices in the network.\n*File browser, also known as a file manager, used to manage files and related objects\n*Help browser, for reading online help\n*Browser service, a feature of Microsoft Windows to let users browse and locate shared resources in neighboring computers\n*Code browser, for navigating source code\n\n;Browse\n*Browse Island, Australia\n*Browse LNG, Australian liquefied natural gas plant project\n\n;Browsing\n*Browsing, a kind of orienting strategy in animals and human beings\n*Browsing (herbivory), a type of feeding behavior in herbivores",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Browser" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=4387" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Browse, browser or browsing may refer to:\n\n;Browser\n*Web browser, used to access the World Wide Web\n*Hardware browser, for displaying under the server or network hardware devices, and allows users to interact with the hardware of these tools. used to sense, detect, display and control hardware devices in the network.\n*File browser, also known as a file manager, used to manage files and related objects\n*Help browser, for reading online help\n*Browser service, a feature of Microsoft Windows to let users browse and locate shared resources in neighboring computers\n*Code browser, for navigating source code\n\n;Browse\n*Browse Island, Australia\n*Browse LNG, Australian liquefied natural gas plant project\n\n;Browsing\n*Browsing, a kind of orienting strategy in animals and human beings\n*Browsing (herbivory), a type of feeding behavior in herbivores. Browser. http://en.wikipedia.org/?curid=4387."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=4834",
+  "eid" : "d0bc71e0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778429950,
+  "textBody" : "BadTrans is a malicious Microsoft Windows computer worm distributed by e-mail. Because of a known vulnerability in older versions of Internet Explorer, some e-mail programs, such as Microsoft's Outlook Express and Microsoft Outlook programs, may install and execute the worm as soon as the e-mail message is viewed.\n\nOnce executed, the worm replicates by sending copies of itself to other e-mail addresses found on the host's machine, and installs a keystroke logger, which then captures everything typed on the affected computer.  Badtrans then transmits the data to one of several e-mail addresses. \n\nAmong the e-mail addresses that received the keyloggers were free addresses at Excite, Yahoo, and IJustGotFired.com.\n\nThe target address at IJustGotFired began receiving e-mails at 3:23pm on November 24, 2001.  Once the account exceeded its quotas, it was automatically disabled, but the messages were still saved as they arrived.  The address received over 100,000 keylogs in the first day alone.\n\nIn mid-December, the FBI contacted Rudy Rucker, Jr., owner of MonkeyBrains, and requested a copy of the keylogged data. All of that data was stolen from the victims of the worm; it includes no information about the creator of Badtrans.\nInstead of complying with the FBI request, MonkeyBrains published a database website http://badtrans.monkeybrains.net for the public to determine if a given address has been compromised.  The database does not reveal the actual passwords or keylogged data.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Badtrans" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=4834" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "BadTrans is a malicious Microsoft Windows computer worm distributed by e-mail. Because of a known vulnerability in older versions of Internet Explorer, some e-mail programs, such as Microsoft's Outlook Express and Microsoft Outlook programs, may install and execute the worm as soon as the e-mail message is viewed.\n\nOnce executed, the worm replicates by sending copies of itself to other e-mail addresses found on the host's machine, and installs a keystroke logger, which then captures everything typed on the affected computer.  Badtrans then transmits the data to one of several e-mail addresses. \n\nAmong the e-mail addresses that received the keyloggers were free addresses at Excite, Yahoo, and IJustGotFired.com.\n\nThe target address at IJustGotFired began receiving e-mails at 3:23pm on November 24, 2001.  Once the account exceeded its quotas, it was automatically disabled, but the messages were still saved as they arrived.  The address received over 100,000 keylogs in the first day alone.\n\nIn mid-December, the FBI contacted Rudy Rucker, Jr., owner of MonkeyBrains, and requested a copy of the keylogged data. All of that data was stolen from the victims of the worm; it includes no information about the creator of Badtrans.\nInstead of complying with the FBI request, MonkeyBrains published a database website http://badtrans.monkeybrains.net for the public to determine if a given address has been compromised.  The database does not reveal the actual passwords or keylogged data. Badtrans. http://en.wikipedia.org/?curid=4834."
+  }
+}

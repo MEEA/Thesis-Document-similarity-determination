@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14107",
+  "eid" : "11f782d0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778539389,
+  "textBody" : "Harvard University is a university in Cambridge, Massachusetts, USA.\n\nHarvard may also refer to:\n\nPeople \n\n*Allison Harvard (born 1988), model and television personality\n*Jack Harvard (born 1946), American politician\n*John Harvard (clergyman) (1607–1638), clergyman after whom Harvard University is named\n*John Harvard (politician) (1938–2016), former Lieutenant-Governor of Manitoba\n\nBoston area \n\n*Harvard College, the undergraduate division of Harvard University\n*Harvard Crimson, Harvard University's athletic program\n*The Harvard Crimson, Harvard University's daily student newspaper\n*Harvard Bridge, a bridge over the Charles River near the Massachusetts Institute of Technology\n*Harvard Square, a square in Cambridge, Massachusetts, adjacent to the Harvard University campus\n*Harvard Yard, the center of the Harvard campus, adjacent to Harvard Square\n*Harvard (MBTA station), the subway station located in Harvard Square\n\nCities \n\n*Harvard, Illinois, a city in the United States\n*Harvard, Massachusetts, a town in the United States\n*Harvard, Nebraska, a city in the United States\n*Harvard Township, Clay County, Nebraska, a township in the United States\n*Harvard, Idaho\n\nAeroplanes \n\n*Harvard (aeroplane), often used name for the North American T-6.\n*Harvard Blue Yonder EZ (aeroplane), a replica of the Harvard.\n\nOther \n\n* Harvard (name), given name/first name and surname/last name.  \n* Harvard architecture, a type of computer architecture.\n* Harvard (automobile), a Brass Era car built in New York between 1915 and 1921.\n* Harvard Graphics, an early breaking computer software for handling diagrams.\n* Harvard Mark I, an early digital computer.\n* Harvard referencing, a citation style also known as the \"author-date method\".\n* Harvard station (disambiguation), stations of the name.\n* Harvard-Westlake School, a prep school in Los Angeles.\n* Harvard 736 (planet), a minor planet orbiting the Sun.\n* Fender Harvard, a guitar amplifier.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Harvard (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14107" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Harvard University is a university in Cambridge, Massachusetts, USA.\n\nHarvard may also refer to:\n\nPeople \n\n*Allison Harvard (born 1988), model and television personality\n*Jack Harvard (born 1946), American politician\n*John Harvard (clergyman) (1607–1638), clergyman after whom Harvard University is named\n*John Harvard (politician) (1938–2016), former Lieutenant-Governor of Manitoba\n\nBoston area \n\n*Harvard College, the undergraduate division of Harvard University\n*Harvard Crimson, Harvard University's athletic program\n*The Harvard Crimson, Harvard University's daily student newspaper\n*Harvard Bridge, a bridge over the Charles River near the Massachusetts Institute of Technology\n*Harvard Square, a square in Cambridge, Massachusetts, adjacent to the Harvard University campus\n*Harvard Yard, the center of the Harvard campus, adjacent to Harvard Square\n*Harvard (MBTA station), the subway station located in Harvard Square\n\nCities \n\n*Harvard, Illinois, a city in the United States\n*Harvard, Massachusetts, a town in the United States\n*Harvard, Nebraska, a city in the United States\n*Harvard Township, Clay County, Nebraska, a township in the United States\n*Harvard, Idaho\n\nAeroplanes \n\n*Harvard (aeroplane), often used name for the North American T-6.\n*Harvard Blue Yonder EZ (aeroplane), a replica of the Harvard.\n\nOther \n\n* Harvard (name), given name/first name and surname/last name.  \n* Harvard architecture, a type of computer architecture.\n* Harvard (automobile), a Brass Era car built in New York between 1915 and 1921.\n* Harvard Graphics, an early breaking computer software for handling diagrams.\n* Harvard Mark I, an early digital computer.\n* Harvard referencing, a citation style also known as the \"author-date method\".\n* Harvard station (disambiguation), stations of the name.\n* Harvard-Westlake School, a prep school in Los Angeles.\n* Harvard 736 (planet), a minor planet orbiting the Sun.\n* Fender Harvard, a guitar amplifier. Harvard (disambiguation). http://en.wikipedia.org/?curid=14107."
+  }
+}

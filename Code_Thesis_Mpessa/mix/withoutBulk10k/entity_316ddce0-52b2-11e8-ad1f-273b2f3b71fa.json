@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18173",
+  "eid" : "316ddce0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778592174,
+  "textBody" : "Many countries and subnational political entities have libertarian political parties. Although these parties may describe themselves as \"libertarian,\" their ideologies differ considerably and not all of them support all elements of the libertarian agenda.\n\nBy country \n\nDefunct parties\n\nLibertarian socialist parties\n\nLibertarian organizations associated with other political parties",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "List of libertarian political parties" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18173" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Many countries and subnational political entities have libertarian political parties. Although these parties may describe themselves as \"libertarian,\" their ideologies differ considerably and not all of them support all elements of the libertarian agenda.\n\nBy country \n\nDefunct parties\n\nLibertarian socialist parties\n\nLibertarian organizations associated with other political parties. List of libertarian political parties. http://en.wikipedia.org/?curid=18173."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=5255",
+  "eid" : "d3897490-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778434649,
+  "textBody" : "Civil law may refer to:\n* Civil law (common law), a branch of  law which consists of non-criminal law. It is concerned with the rights and duties of persons i.e. Individuals and corporations.\n* Civil law (legal system) (or Continental law), any of the various systems or codes of law which are derived from Roman law historically\n** Civil law (area), a branch of Continental law which is the general part of private law\n* Municipal law, the domestic law of a state",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Civil law" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=5255" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Civil law may refer to:\n* Civil law (common law), a branch of  law which consists of non-criminal law. It is concerned with the rights and duties of persons i.e. Individuals and corporations.\n* Civil law (legal system) (or Continental law), any of the various systems or codes of law which are derived from Roman law historically\n** Civil law (area), a branch of Continental law which is the general part of private law\n* Municipal law, the domestic law of a state. Civil law. http://en.wikipedia.org/?curid=5255."
+  }
+}

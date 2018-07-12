@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15588",
+  "eid" : "1d3eee80-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778558312,
+  "textBody" : "Carl Gustav Jung (1875–1961) was the founder of analytical psychology.\n\nJung may also refer to:\n\nPeople\n\n* Jung (surname)\n* Jung (Korean given name)\n* Xirong (Hsi-jung), or Rong (Jung), various ancient barbarian peoples\n\nOther uses\n\n*Jung, Victoria, Australia\n* JUNG, Java Universal Network/Graph Framework\n* Jung (1996 film)\n* Jung (2000 film)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Jung (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15588" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Carl Gustav Jung (1875–1961) was the founder of analytical psychology.\n\nJung may also refer to:\n\nPeople\n\n* Jung (surname)\n* Jung (Korean given name)\n* Xirong (Hsi-jung), or Rong (Jung), various ancient barbarian peoples\n\nOther uses\n\n*Jung, Victoria, Australia\n* JUNG, Java Universal Network/Graph Framework\n* Jung (1996 film)\n* Jung (2000 film). Jung (disambiguation). http://en.wikipedia.org/?curid=15588."
+  }
+}

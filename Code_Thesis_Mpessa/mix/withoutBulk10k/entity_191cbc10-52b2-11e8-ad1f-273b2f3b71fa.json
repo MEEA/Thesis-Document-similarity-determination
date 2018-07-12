@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15001",
+  "eid" : "191cbc10-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778551377,
+  "textBody" : "IGF may stand for:\n* Immediate graft function\n* Insulin-like growth factor\n* Independent Games Festival\n* Internet Governance Forum\n* Identity Governance Framework\n* Inoki Genome Federation\n* Interior Guard Force\n* International Golf Federation\n* International Gravity Formula\n* International Gymnastics Federation\n* International Go Federation\n* Induced Gas Flotation\n* Investors Group Field",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "IGF" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15001" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "IGF may stand for:\n* Immediate graft function\n* Insulin-like growth factor\n* Independent Games Festival\n* Internet Governance Forum\n* Identity Governance Framework\n* Inoki Genome Federation\n* Interior Guard Force\n* International Golf Federation\n* International Gravity Formula\n* International Gymnastics Federation\n* International Go Federation\n* Induced Gas Flotation\n* Investors Group Field. IGF. http://en.wikipedia.org/?curid=15001."
+  }
+}

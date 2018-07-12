@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8882",
+  "eid" : "eb329590-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778474345,
+  "textBody" : "Domnall mac Ailpín (Modern Gaelic: Dòmhnall mac Ailpein,Domnall mac Ailpín is the Mediaeval Gaelic form. anglicised sometimes as Donald MacAlpin, known in most modern regnal lists as Donald I); (812 – 13 April 862) was King of the Picts from 858 to 862. He followed his brother Kenneth I to the Pictish throne.\n\nReign\n\nThe Chronicle of the Kings of Alba says that Domnall reigned for four years, matching the notices in the Annals of Ulster of his brother's death in February 858 and his own in April 862.Annals of Ulster, s.a. 858 & 862. The Chronicle notes:\n\nThe laws of Áed Find are entirely lost, but it has been assumed that, like the laws attributed to Giric and Constantine II (Causantín mac Áeda), these related to the church and in particular to granting the privileges and immunities common elsewhere.Smyth, p. 188. The significance of Forteviot as the site of this law-making, along with Kenneth's death there and Constantine's later gathering at nearby Scone, may point to this as being the heartland of the sons of Alpín's support.\n\nThe Chronicle of Melrose says of Domnall, \"in war he was a vigorous soldier ... he is said to have been assassinated at Scone.\"Anderson, ESSH, p. 291. No other source reports Domnall's death by violence.\n\nThe Prophecy of Berchán may refer to Domnall in stanzas 123–124:\n\nAlthough Domnall is generally supposed to have been childless, it has been suggested that Giric was a son of Domnall, reading his patronym as mac Domnaill rather than the commonly supposed mac Dúngail.Smyth, p. 187. This, however, is not widely accepted.Compare Duncan, p. 11ff.\n\nDomnall died, either at the palace of Cinnbelachoir (location unknown), or at Rathinveralmond (also unknown, and may be the same place, presumed to be near the junction of the Almond and the Tay, near Scone).Anderson, ESSH, p. 291; Duncan, pp. 10–11. He was buried on Iona.\n\nNotes",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Domnall mac Ailpín" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8882" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Domnall mac Ailpín (Modern Gaelic: Dòmhnall mac Ailpein,Domnall mac Ailpín is the Mediaeval Gaelic form. anglicised sometimes as Donald MacAlpin, known in most modern regnal lists as Donald I); (812 – 13 April 862) was King of the Picts from 858 to 862. He followed his brother Kenneth I to the Pictish throne.\n\nReign\n\nThe Chronicle of the Kings of Alba says that Domnall reigned for four years, matching the notices in the Annals of Ulster of his brother's death in February 858 and his own in April 862.Annals of Ulster, s.a. 858 & 862. The Chronicle notes:\n\nThe laws of Áed Find are entirely lost, but it has been assumed that, like the laws attributed to Giric and Constantine II (Causantín mac Áeda), these related to the church and in particular to granting the privileges and immunities common elsewhere.Smyth, p. 188. The significance of Forteviot as the site of this law-making, along with Kenneth's death there and Constantine's later gathering at nearby Scone, may point to this as being the heartland of the sons of Alpín's support.\n\nThe Chronicle of Melrose says of Domnall, \"in war he was a vigorous soldier ... he is said to have been assassinated at Scone.\"Anderson, ESSH, p. 291. No other source reports Domnall's death by violence.\n\nThe Prophecy of Berchán may refer to Domnall in stanzas 123–124:\n\nAlthough Domnall is generally supposed to have been childless, it has been suggested that Giric was a son of Domnall, reading his patronym as mac Domnaill rather than the commonly supposed mac Dúngail.Smyth, p. 187. This, however, is not widely accepted.Compare Duncan, p. 11ff.\n\nDomnall died, either at the palace of Cinnbelachoir (location unknown), or at Rathinveralmond (also unknown, and may be the same place, presumed to be near the junction of the Almond and the Tay, near Scone).Anderson, ESSH, p. 291; Duncan, pp. 10–11. He was buried on Iona.\n\nNotes. Domnall mac Ailpín. http://en.wikipedia.org/?curid=8882."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2578",
+  "eid" : "c114b950-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778403685,
+  "textBody" : "Amaltheia can refer to:\n*Amaltheia (Technical Summit), the annual Technical Summit of IIT Gandhinagar\n*Amaltheia (mythology), the foster-mother of Zeus in Greek mythology.\n*Amaltheia, alternative name of the Cumaean Sibyl\n*MV Amalthea, a cargo ship\n*Amalthea (moon), a moon of Jupiter.\n*Amalthea Cellars, a winery in New Jersey\n*113 Amalthea, an asteroid in the (main) asteroid belt.\n*Amalthea, a ship bombed by the communist Anton Nilson in Malmö, Sweden in 1908.\n*Lady Amalthea, a character in the fantasy novel and animated movie The Last Unicorn.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Amalthea" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2578" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Amaltheia can refer to:\n*Amaltheia (Technical Summit), the annual Technical Summit of IIT Gandhinagar\n*Amaltheia (mythology), the foster-mother of Zeus in Greek mythology.\n*Amaltheia, alternative name of the Cumaean Sibyl\n*MV Amalthea, a cargo ship\n*Amalthea (moon), a moon of Jupiter.\n*Amalthea Cellars, a winery in New Jersey\n*113 Amalthea, an asteroid in the (main) asteroid belt.\n*Amalthea, a ship bombed by the communist Anton Nilson in Malmö, Sweden in 1908.\n*Lady Amalthea, a character in the fantasy novel and animated movie The Last Unicorn. Amalthea. http://en.wikipedia.org/?curid=2578."
+  }
+}

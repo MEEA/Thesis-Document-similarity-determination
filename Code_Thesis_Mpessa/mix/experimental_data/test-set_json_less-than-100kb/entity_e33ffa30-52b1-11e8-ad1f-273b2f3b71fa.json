@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7757",
+  "eid" : "e33ffa30-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778461011,
+  "textBody" : "Conrad II may refer to:\n\n*Conrad II, Duke of Transjurane Burgundy ()\n*Conrad II, Holy Roman Emperor (c. 990 – 1039)\n*Conrad II, Duke of Carinthia (probably 1003–1039)\n*Conrad II of Znojmo\n*Conrad II of Bohemia (died 1191)\n*Conrad II of Dachau (died 1159)\n*Conrad II of Italy (1074–1101)\n*Conrad II of Jerusalem (1228–1254)\n*Conrad II of Teck (1235–1292)\n*Conrad II the Hunchback (1252/65 – 1304)\n*Konrad II the Gray (ca. 1340 – 1403)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Conrad II (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7757" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Conrad II may refer to:\n\n*Conrad II, Duke of Transjurane Burgundy ()\n*Conrad II, Holy Roman Emperor (c. 990 – 1039)\n*Conrad II, Duke of Carinthia (probably 1003–1039)\n*Conrad II of Znojmo\n*Conrad II of Bohemia (died 1191)\n*Conrad II of Dachau (died 1159)\n*Conrad II of Italy (1074–1101)\n*Conrad II of Jerusalem (1228–1254)\n*Conrad II of Teck (1235–1292)\n*Conrad II the Hunchback (1252/65 – 1304)\n*Konrad II the Gray (ca. 1340 – 1403). Conrad II (disambiguation). http://en.wikipedia.org/?curid=7757."
+  }
+}

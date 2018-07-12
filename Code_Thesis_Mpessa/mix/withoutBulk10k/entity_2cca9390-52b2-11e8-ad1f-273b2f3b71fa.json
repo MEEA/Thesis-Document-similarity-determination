@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17568",
+  "eid" : "2cca9390-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778584393,
+  "textBody" : "Local color/colour may refer to:\n\n*Local Color (book), a 1950 note and sketch study by Truman Capote\n*Local Color (album), a 1958 album by Mose Allison\n*Local Color (film), a 2006 film starring Trevor Morgan\n*Local color (visual art), the natural color of an object\n*Local Colour: Travels in the Other Australia, a book by Bill Bachman and Tim Winton\n*Local Color, European travel essays by Truman Capote published in 1950\n*Local Color, a short-story collection by John Andrew Rice\n*Local Color, an art exhibition by Tullio DeSantis",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Local color" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17568" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Local color/colour may refer to:\n\n*Local Color (book), a 1950 note and sketch study by Truman Capote\n*Local Color (album), a 1958 album by Mose Allison\n*Local Color (film), a 2006 film starring Trevor Morgan\n*Local color (visual art), the natural color of an object\n*Local Colour: Travels in the Other Australia, a book by Bill Bachman and Tim Winton\n*Local Color, European travel essays by Truman Capote published in 1950\n*Local Color, a short-story collection by John Andrew Rice\n*Local Color, an art exhibition by Tullio DeSantis. Local color. http://en.wikipedia.org/?curid=17568."
+  }
+}

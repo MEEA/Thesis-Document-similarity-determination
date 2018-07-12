@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=4772",
+  "eid" : "d04f7f40-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778429236,
+  "textBody" : "BBS may refer to:\n\nTechnologies\n\n* Bulletin board system, a computer that allows users to dial into the system over a phone line or telnet connection\n* BIOS Boot Specification, a system firmware specification related initial program load (IPL; AKA booting)\n* Blum Blum Shub, a pseudorandom number generator\n\nOrganisations\n\n* Bahrain Bayan School, a school in Bahrain\n* Birmingham Business School, a business school in the UK\n* Bologna Business School, a business school in Italy\n* Budapest Business School, a business school in Hungary\n* BBS Kraftfahrzeugtechnik AG, an automobile wheel manufacturer\n* Bankenes Betalingssentral, a Norwegian bank clearing company\n* Bodu Bala Sena, a Sri Lankan political organization\n* British Blind Sport, a sporting charity for people who are visually impaired\n* Badger Boys State, a youth government camp held in Wisconsin\n\nScience\n\n* Bardet-Biedl syndrome, a genetic disorder\n* Behavioral and Brain Sciences, a peer-reviewed journal\n* Berg Balance Scale, a test of a person's static and dynamic balance abilities\n* Bogart-Bacall Syndrome, a vocal misuse disorder named after Humphrey Bogart and Lauren Bacall\n* Borate buffered saline\n* Breeding Bird Survey, which monitors the status and trends of bird populations\n\nCulture\n\n* Baton Broadcast System, a system of Canadian television stations\n* Bhutan Broadcasting Service, a radio and television service in Bhutan\n* BBS Productions, a film production company of early 1970s New Hollywood\n* Kingdom Hearts Birth by Sleep, a video game for the PlayStation Portable\n\nOther\n\n* Behavior-based safety, a process to reduce risks by focusing on the behaviors that lead to increased hazards\n* Bachelor of Business Studies, an academic degree\n* BBs, another name for airsoft gun pellets\n* Bronze Bauhinia Star, in the Hong Kong honours system",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "BBS" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=4772" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "BBS may refer to:\n\nTechnologies\n\n* Bulletin board system, a computer that allows users to dial into the system over a phone line or telnet connection\n* BIOS Boot Specification, a system firmware specification related initial program load (IPL; AKA booting)\n* Blum Blum Shub, a pseudorandom number generator\n\nOrganisations\n\n* Bahrain Bayan School, a school in Bahrain\n* Birmingham Business School, a business school in the UK\n* Bologna Business School, a business school in Italy\n* Budapest Business School, a business school in Hungary\n* BBS Kraftfahrzeugtechnik AG, an automobile wheel manufacturer\n* Bankenes Betalingssentral, a Norwegian bank clearing company\n* Bodu Bala Sena, a Sri Lankan political organization\n* British Blind Sport, a sporting charity for people who are visually impaired\n* Badger Boys State, a youth government camp held in Wisconsin\n\nScience\n\n* Bardet-Biedl syndrome, a genetic disorder\n* Behavioral and Brain Sciences, a peer-reviewed journal\n* Berg Balance Scale, a test of a person's static and dynamic balance abilities\n* Bogart-Bacall Syndrome, a vocal misuse disorder named after Humphrey Bogart and Lauren Bacall\n* Borate buffered saline\n* Breeding Bird Survey, which monitors the status and trends of bird populations\n\nCulture\n\n* Baton Broadcast System, a system of Canadian television stations\n* Bhutan Broadcasting Service, a radio and television service in Bhutan\n* BBS Productions, a film production company of early 1970s New Hollywood\n* Kingdom Hearts Birth by Sleep, a video game for the PlayStation Portable\n\nOther\n\n* Behavior-based safety, a process to reduce risks by focusing on the behaviors that lead to increased hazards\n* Bachelor of Business Studies, an academic degree\n* BBs, another name for airsoft gun pellets\n* Bronze Bauhinia Star, in the Hong Kong honours system. BBS. http://en.wikipedia.org/?curid=4772."
+  }
+}

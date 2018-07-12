@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=6105",
+  "eid" : "d9e14bb0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778445291,
+  "textBody" : "Conventional insulin therapy is a therapeutic regimen for treatment of diabetes mellitus which contrasts with the newer intensive insulin therapy.\n\nThis older method (prior to the development home blood glucose monitoring) is still in use in a proportion of cases.\n\nConventional insulin therapy is characterized by:\n*Insulin injections of a mixture of regular (or rapid) and intermediate acting insulin are performed two times a day, or to improve overnight glucose, mixed in the morning to cover breakfast and lunch, but with regular (or rapid) acting insulin alone for dinner and intermediate acting insulin at bedtime (instead of being mixed in at dinner).\n*Meals are scheduled to match the anticipated peaks in the insulin profiles.http://ars.els-cdn.com/content/image/1-s2.0-S0002934302012780-gr4.gif\n*The target range for blood glucose levels is higher than is desired in the intensive regimen.\n*Frequent measurements of blood glucose levels were not used.\n\nThe down side of this method is that it is difficult to achieve as good results of glycemic control as with intensive insulin therapy.  The advantage is that, for diabetics with a regular lifestyle, the regime is less intrusive than the intensive therapy.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Conventional insulin therapy" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=6105" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Conventional insulin therapy is a therapeutic regimen for treatment of diabetes mellitus which contrasts with the newer intensive insulin therapy.\n\nThis older method (prior to the development home blood glucose monitoring) is still in use in a proportion of cases.\n\nConventional insulin therapy is characterized by:\n*Insulin injections of a mixture of regular (or rapid) and intermediate acting insulin are performed two times a day, or to improve overnight glucose, mixed in the morning to cover breakfast and lunch, but with regular (or rapid) acting insulin alone for dinner and intermediate acting insulin at bedtime (instead of being mixed in at dinner).\n*Meals are scheduled to match the anticipated peaks in the insulin profiles.http://ars.els-cdn.com/content/image/1-s2.0-S0002934302012780-gr4.gif\n*The target range for blood glucose levels is higher than is desired in the intensive regimen.\n*Frequent measurements of blood glucose levels were not used.\n\nThe down side of this method is that it is difficult to achieve as good results of glycemic control as with intensive insulin therapy.  The advantage is that, for diabetics with a regular lifestyle, the regime is less intrusive than the intensive therapy. Conventional insulin therapy. http://en.wikipedia.org/?curid=6105."
+  }
+}

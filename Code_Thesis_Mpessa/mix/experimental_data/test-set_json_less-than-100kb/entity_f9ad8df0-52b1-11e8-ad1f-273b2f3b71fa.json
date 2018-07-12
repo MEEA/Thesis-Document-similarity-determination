@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11115",
+  "eid" : "f9ad8df0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778498639,
+  "textBody" : "Flank may refer to:\n* Flank (anatomy), part of the abdomen\n** Flank steak, a cut of beef\n** Part of the external anatomy of a horse\n* Flank speed, a nautical term\n* Flank opening, a chess opening\n* A term in Australian rules football\n* The side of a military unit, as in a flanking maneuver\n* Flanking, a sound path in architectural acoustics\n* Flanking region, a region of DNA in directionality",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Flank" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11115" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Flank may refer to:\n* Flank (anatomy), part of the abdomen\n** Flank steak, a cut of beef\n** Part of the external anatomy of a horse\n* Flank speed, a nautical term\n* Flank opening, a chess opening\n* A term in Australian rules football\n* The side of a military unit, as in a flanking maneuver\n* Flanking, a sound path in architectural acoustics\n* Flanking region, a region of DNA in directionality. Flank. http://en.wikipedia.org/?curid=11115."
+  }
+}

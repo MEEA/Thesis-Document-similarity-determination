@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8226",
+  "eid" : "e67e8360-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778466454,
+  "textBody" : "Danish may refer to:\n* Something of, from, or related to the country of Denmark\n* A national or citizen of Denmark, also called a \"Dane\", see Demographics of Denmark\n* Danish people or Danes, people with a Danish ancestral or ethnic identity\n* Danish language, a North Germanic language used mostly in Denmark and Northern Germany\n* Danish cuisine\n* Danish culture\n* Danish pastry, often simply called a \"Danish\"\n* Danish tongue or Old Norse, the parent language of all North Germanic languages\n* A member of the Danes, a Germanic tribe\n*Danish (name), a male given name",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Danish" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8226" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Danish may refer to:\n* Something of, from, or related to the country of Denmark\n* A national or citizen of Denmark, also called a \"Dane\", see Demographics of Denmark\n* Danish people or Danes, people with a Danish ancestral or ethnic identity\n* Danish language, a North Germanic language used mostly in Denmark and Northern Germany\n* Danish cuisine\n* Danish culture\n* Danish pastry, often simply called a \"Danish\"\n* Danish tongue or Old Norse, the parent language of all North Germanic languages\n* A member of the Danes, a Germanic tribe\n*Danish (name), a male given name. Danish. http://en.wikipedia.org/?curid=8226."
+  }
+}

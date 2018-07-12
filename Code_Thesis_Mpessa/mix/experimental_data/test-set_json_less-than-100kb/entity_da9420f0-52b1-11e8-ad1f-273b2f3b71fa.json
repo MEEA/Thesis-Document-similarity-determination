@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=6249",
+  "eid" : "da9420f0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778446463,
+  "textBody" : "Timeline of computing presents events in the history of computing organized by year and grouped into six topic areas: predictions and concepts, first use and inventions, hardware systems and processors, operating systems, programming languages, and new application areas.\n\nDetailed computing timelines: before 1950, 1950–1979, 1980–1989, 1990–1999, 2000-2009, 2010-\n\n__TOC__\n\nGraphical timeline",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Timeline of computing" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=6249" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Timeline of computing presents events in the history of computing organized by year and grouped into six topic areas: predictions and concepts, first use and inventions, hardware systems and processors, operating systems, programming languages, and new application areas.\n\nDetailed computing timelines: before 1950, 1950–1979, 1980–1989, 1990–1999, 2000-2009, 2010-\n\n__TOC__\n\nGraphical timeline. Timeline of computing. http://en.wikipedia.org/?curid=6249."
+  }
+}

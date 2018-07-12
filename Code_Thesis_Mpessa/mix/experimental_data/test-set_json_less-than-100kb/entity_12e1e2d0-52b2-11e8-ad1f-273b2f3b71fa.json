@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14203",
+  "eid" : "12e1e2d0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778540925,
+  "textBody" : "Harpers Ferry is the name of several places in the United States of America:\n*Harpers Ferry, Iowa, a city in Allamakee County, Iowa\n*Harpers Ferry, West Virginia, a town in Jefferson County, West Virginia\n**John Brown's raid on Harpers Ferry (1859)\n**Harpers Ferry Armory, second federal armory (construction begun 1799) and site of John Brown's slave revolt of 1859\n**Harpers Ferry National Historical Park\n**The Battle of Harpers Ferry (September 12–15, 1862), a battle in the American Civil War that took place around what is now Harpers Ferry, West Virginia\n\nHarpers Ferry may also refer to:\n* Harpers Ferry class dock landing ship, a ship class in the United States Navy\n** USS Harpers Ferry (LSD-49), a Harpers Ferry class dock landing ship of the United States Navy, commissioned in 1995\n*Harpers Ferry, a music venue and nightclub in Boston",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Harpers Ferry (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14203" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Harpers Ferry is the name of several places in the United States of America:\n*Harpers Ferry, Iowa, a city in Allamakee County, Iowa\n*Harpers Ferry, West Virginia, a town in Jefferson County, West Virginia\n**John Brown's raid on Harpers Ferry (1859)\n**Harpers Ferry Armory, second federal armory (construction begun 1799) and site of John Brown's slave revolt of 1859\n**Harpers Ferry National Historical Park\n**The Battle of Harpers Ferry (September 12–15, 1862), a battle in the American Civil War that took place around what is now Harpers Ferry, West Virginia\n\nHarpers Ferry may also refer to:\n* Harpers Ferry class dock landing ship, a ship class in the United States Navy\n** USS Harpers Ferry (LSD-49), a Harpers Ferry class dock landing ship of the United States Navy, commissioned in 1995\n*Harpers Ferry, a music venue and nightclub in Boston. Harpers Ferry (disambiguation). http://en.wikipedia.org/?curid=14203."
+  }
+}

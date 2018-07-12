@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18546",
+  "eid" : "337bd551-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778595621,
+  "textBody" : "Below are lists of newspapers organized by continent.\n\nAfrica\n\nAsia\n\nEurope\n\nNorth America\n\nOceania\n\nSouth America",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Lists of newspapers" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18546" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Below are lists of newspapers organized by continent.\n\nAfrica\n\nAsia\n\nEurope\n\nNorth America\n\nOceania\n\nSouth America. Lists of newspapers. http://en.wikipedia.org/?curid=18546."
+  }
+}

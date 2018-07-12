@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17634",
+  "eid" : "2d044130-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778584771,
+  "textBody" : "A letter game involves the exchange of written letters, or e-mails, between two or more participants. The first player writes a letter in the voice of a newly created character; in this first letter, the writer should establish their own identity and that of their correspondent, should set the scene, and should explain why they and their correspondent must communicate in written fashion. In subsequent letters, plot and character can be developed, but the writers should not talk about plot outside of the letters and the characters should never meet. Letter games can be a writing exercise or a form of collaborative fiction.\n\nNovels written using or inspired by this type of letter game include Sorcery and Cecelia or The Enchanted Chocolate Pot, The Grand Tour or The Purloined Coronation Regalia, and The Mislaid Magician or Ten Years After, all three by Patricia Wrede and Caroline Stevermer; Freedom and Necessity, by Steven Brust and Emma Bull; and the children's books P.S. Longer Letter Later and Snail Mail No More by Paula Danziger and Ann M. Martin.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Letter game" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17634" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A letter game involves the exchange of written letters, or e-mails, between two or more participants. The first player writes a letter in the voice of a newly created character; in this first letter, the writer should establish their own identity and that of their correspondent, should set the scene, and should explain why they and their correspondent must communicate in written fashion. In subsequent letters, plot and character can be developed, but the writers should not talk about plot outside of the letters and the characters should never meet. Letter games can be a writing exercise or a form of collaborative fiction.\n\nNovels written using or inspired by this type of letter game include Sorcery and Cecelia or The Enchanted Chocolate Pot, The Grand Tour or The Purloined Coronation Regalia, and The Mislaid Magician or Ten Years After, all three by Patricia Wrede and Caroline Stevermer; Freedom and Necessity, by Steven Brust and Emma Bull; and the children's books P.S. Longer Letter Later and Snail Mail No More by Paula Danziger and Ann M. Martin. Letter game. http://en.wikipedia.org/?curid=17634."
+  }
+}

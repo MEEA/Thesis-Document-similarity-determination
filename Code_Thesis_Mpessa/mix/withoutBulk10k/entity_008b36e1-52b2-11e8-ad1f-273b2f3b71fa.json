@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12154",
+  "eid" : "008b36e1-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778510158,
+  "textBody" : "The United States territory of Guam has no railways or freeways, nor does it have a merchant marine.  The largest port is Apra Harbor,  which serves almost all commercial traffic including cruise, cargo and fishing vessels. There are smaller harbors located on the island (most notably one in Hagatna and one in Agat) which serve recreational boaters.  Roads are primarily paved by a coral/oil mixture that when it gets wet, the oil tends to float to the surface of the roads making them dangerous. This is one of the reasons the speed limit on most of the island is 35 mph. But, during road repair or maintenance, a different mixture of asphalt that is not as slippery is used. Its main commercial airport is the Antonio B. Won Pat International Airport.\n\nHighways:\ntotal: 885 km\npaved: 675 km\nunpaved: 210 km\nnote: there is another 685 km of roads classified non-public, including roads located on federal government installations\n\nAirports:\n5 (1999 est.)\n\nAirports - with paved runways:\ntotal: 4\nover 3,047 m: 2\n2,438 to 3,047 m: 1\n914 to 1,523 m: 1 (2007 est.)\n\nAirports - with unpaved runways:\ntotal: 1\nunder 914 m: 1 (2007 est.)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Transportation in Guam" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12154" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The United States territory of Guam has no railways or freeways, nor does it have a merchant marine.  The largest port is Apra Harbor,  which serves almost all commercial traffic including cruise, cargo and fishing vessels. There are smaller harbors located on the island (most notably one in Hagatna and one in Agat) which serve recreational boaters.  Roads are primarily paved by a coral/oil mixture that when it gets wet, the oil tends to float to the surface of the roads making them dangerous. This is one of the reasons the speed limit on most of the island is 35 mph. But, during road repair or maintenance, a different mixture of asphalt that is not as slippery is used. Its main commercial airport is the Antonio B. Won Pat International Airport.\n\nHighways:\ntotal: 885 km\npaved: 675 km\nunpaved: 210 km\nnote: there is another 685 km of roads classified non-public, including roads located on federal government installations\n\nAirports:\n5 (1999 est.)\n\nAirports - with paved runways:\ntotal: 4\nover 3,047 m: 2\n2,438 to 3,047 m: 1\n914 to 1,523 m: 1 (2007 est.)\n\nAirports - with unpaved runways:\ntotal: 1\nunder 914 m: 1 (2007 est.). Transportation in Guam. http://en.wikipedia.org/?curid=12154."
+  }
+}

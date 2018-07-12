@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17971",
+  "eid" : "2fcc88f0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778589439,
+  "textBody" : "LCD is a liquid-crystal display, an electronic device.\n\nLCD may also refer to:\n\nScience and technology\n\n* Lowest common denominator, a mathematical quantity\n* Lacida, a cryptograph\n* Lattice corneal dystrophy\n* Liquor carbonis detergens, medical coal tar\n\nMusic\n\n* LCD (music act), a performance group\n* Loudest Common Denominator, an album by Drowning Pool\n\nOther uses\n\n* Lesotho Congress for Democracy, a political party\n* Lord Chancellor's Department, an English government department\n* Low-carbohydrate diet, a food regimen\n* Local coverage determination, as opposed to national coverage determination in medical insurance",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "LCD (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17971" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "LCD is a liquid-crystal display, an electronic device.\n\nLCD may also refer to:\n\nScience and technology\n\n* Lowest common denominator, a mathematical quantity\n* Lacida, a cryptograph\n* Lattice corneal dystrophy\n* Liquor carbonis detergens, medical coal tar\n\nMusic\n\n* LCD (music act), a performance group\n* Loudest Common Denominator, an album by Drowning Pool\n\nOther uses\n\n* Lesotho Congress for Democracy, a political party\n* Lord Chancellor's Department, an English government department\n* Low-carbohydrate diet, a food regimen\n* Local coverage determination, as opposed to national coverage determination in medical insurance. LCD (disambiguation). http://en.wikipedia.org/?curid=17971."
+  }
+}

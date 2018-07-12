@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12619",
+  "eid" : "03b9ba80-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778515496,
+  "textBody" : "Garbage collection, or waste collection, is part of municipal waste management.\n\nGarbage collection may also refer to:\n\n* Garbage collection (computer science), in automatic memory management\n* Garbage collection (SSD), in flash memory",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Garbage collection (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12619" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Garbage collection, or waste collection, is part of municipal waste management.\n\nGarbage collection may also refer to:\n\n* Garbage collection (computer science), in automatic memory management\n* Garbage collection (SSD), in flash memory. Garbage collection (disambiguation). http://en.wikipedia.org/?curid=12619."
+  }
+}

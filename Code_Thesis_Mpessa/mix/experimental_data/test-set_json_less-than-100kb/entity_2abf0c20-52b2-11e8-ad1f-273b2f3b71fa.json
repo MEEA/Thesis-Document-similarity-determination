@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17155",
+  "eid" : "2abf0c20-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778580962,
+  "textBody" : "Kirin may refer to:\n\nPlaces\n\n* Jilin or Kirin, a province in northeastern China\n** Jilin City or Kirin, a city in the province of Jilin, China\n* Kirin, Croatia, a settlement in Vrginmost\n\nCompanies and products\n\n* Kirin Company, a Japanese beverages company\n* Brasil Kirin, a Brazilian brewery and beverage company\n* Kyowa Hakko Kirin, a Japanese pharmaceutical company\n* Kirin, a series of integrated circuit chips produced by HiSilicon\n\nSports\n\n* Kirin Cup, an association football tournament organised in Japan\n* Kirin Open, a Japanese golf tournament from 1974 to 2001\n\nOther uses\n\n* Qilin or Kirin, a mythical creature known in various East Asian cultures\n* Kirin (manga), a 1987 Japanese manga series\n* Ki-rin (Dungeons & Dragons), a type of monster in D&D\n* Kirin (chess) or giraffe, a fairy chess piece\n* Kirin language or Kili, a Tungusic language of Russia and China\n\nPeople with the name\n\n* Ivica Kirin (born 1970), former Interior Minister of Croatia\n* Kirin Junna (born 1978), stage name of Japanese model Jun Kusanagi\n* Kirin Kiki (born 1943), Japanese TV and film actress\n* Kirin Narayan (born 1959), Indian-born American anthropologist and writer\n* Kirin Kotecha, a character in Emmerdale",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Kirin" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17155" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Kirin may refer to:\n\nPlaces\n\n* Jilin or Kirin, a province in northeastern China\n** Jilin City or Kirin, a city in the province of Jilin, China\n* Kirin, Croatia, a settlement in Vrginmost\n\nCompanies and products\n\n* Kirin Company, a Japanese beverages company\n* Brasil Kirin, a Brazilian brewery and beverage company\n* Kyowa Hakko Kirin, a Japanese pharmaceutical company\n* Kirin, a series of integrated circuit chips produced by HiSilicon\n\nSports\n\n* Kirin Cup, an association football tournament organised in Japan\n* Kirin Open, a Japanese golf tournament from 1974 to 2001\n\nOther uses\n\n* Qilin or Kirin, a mythical creature known in various East Asian cultures\n* Kirin (manga), a 1987 Japanese manga series\n* Ki-rin (Dungeons & Dragons), a type of monster in D&D\n* Kirin (chess) or giraffe, a fairy chess piece\n* Kirin language or Kili, a Tungusic language of Russia and China\n\nPeople with the name\n\n* Ivica Kirin (born 1970), former Interior Minister of Croatia\n* Kirin Junna (born 1978), stage name of Japanese model Jun Kusanagi\n* Kirin Kiki (born 1943), Japanese TV and film actress\n* Kirin Narayan (born 1959), Indian-born American anthropologist and writer\n* Kirin Kotecha, a character in Emmerdale. Kirin. http://en.wikipedia.org/?curid=17155."
+  }
+}

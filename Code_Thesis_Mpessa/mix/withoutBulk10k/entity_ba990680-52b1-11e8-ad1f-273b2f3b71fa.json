@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1578",
+  "eid" : "ba990680-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778392808,
+  "textBody" : "Alcamenes () was an ancient Greek sculptor of Lemnos and Athens,  who flourished in the 2nd half of the 5th century BC. He was a younger contemporary of Phidias and noted for the delicacy and finish of his works, among which a Hephaestus and an Aphrodite \"of the Gardens\" were conspicuous.\n\nPausanias saysDescription of Greece V. 10. 8 that he was the author of one of the pediments of the temple of Zeus at Olympia, but this seems a chronological and stylistic impossibility. PausaniasDescription of Greece I. 8. 4 also refers to a statue of Ares by Alcamenes that was erected on the Athenian agora, which some have related to the Ares Borghese.  However, the temple of Ares to which he refers had only been moved from Acharnes and re-sited in the Agora in Augustus's time, and statues known to derive from Alcamenes' statue show the god in a breastplate,One sculpture of Ares and Aphrodite is depicted [http://cartelen.louvre.fr/cartelen/visite?srv\ncar_not_frame&idNotice=20221 in this relief] so the identification of Alcamenes' Ares with the Ares Borghese is not secure.\n\nAt Pergamum there was discovered in 1903 a Hellenistic copy of the head of the Hermes \"Propylaeus\" of Alcamenes.Athenische Mittheilungen, 1904, p. 180 As, however, the deity is represented in an Neo-Attic, archaistic and conventional character, this copy cannot be relied on as giving us much information as to the usual style of Alcamenes, who was almost certainly a progressive and original artist.\n\nIt is safer to judge him by the sculptural decoration of the Parthenon, in which he must almost certainly have taken a share under the direction of Phidias. He is said to be the most eminent sculptor in Athens after the departure of Phidias for Olympia, but enigmatic in that none of the sculptures associated with his name in classical literature can be securely connected with existing copies.\n\nNotes",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Alcamenes" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1578" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Alcamenes () was an ancient Greek sculptor of Lemnos and Athens,  who flourished in the 2nd half of the 5th century BC. He was a younger contemporary of Phidias and noted for the delicacy and finish of his works, among which a Hephaestus and an Aphrodite \"of the Gardens\" were conspicuous.\n\nPausanias saysDescription of Greece V. 10. 8 that he was the author of one of the pediments of the temple of Zeus at Olympia, but this seems a chronological and stylistic impossibility. PausaniasDescription of Greece I. 8. 4 also refers to a statue of Ares by Alcamenes that was erected on the Athenian agora, which some have related to the Ares Borghese.  However, the temple of Ares to which he refers had only been moved from Acharnes and re-sited in the Agora in Augustus's time, and statues known to derive from Alcamenes' statue show the god in a breastplate,One sculpture of Ares and Aphrodite is depicted [http://cartelen.louvre.fr/cartelen/visite?srv\ncar_not_frame&idNotice=20221 in this relief] so the identification of Alcamenes' Ares with the Ares Borghese is not secure.\n\nAt Pergamum there was discovered in 1903 a Hellenistic copy of the head of the Hermes \"Propylaeus\" of Alcamenes.Athenische Mittheilungen, 1904, p. 180 As, however, the deity is represented in an Neo-Attic, archaistic and conventional character, this copy cannot be relied on as giving us much information as to the usual style of Alcamenes, who was almost certainly a progressive and original artist.\n\nIt is safer to judge him by the sculptural decoration of the Parthenon, in which he must almost certainly have taken a share under the direction of Phidias. He is said to be the most eminent sculptor in Athens after the departure of Phidias for Olympia, but enigmatic in that none of the sculptures associated with his name in classical literature can be securely connected with existing copies.\n\nNotes. Alcamenes. http://en.wikipedia.org/?curid=1578."
+  }
+}

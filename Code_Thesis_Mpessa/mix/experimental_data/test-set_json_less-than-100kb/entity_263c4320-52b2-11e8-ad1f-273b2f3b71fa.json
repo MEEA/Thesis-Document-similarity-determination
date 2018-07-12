@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16474",
+  "eid" : "263c4320-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778573394,
+  "textBody" : "Joint Interoperability of Tactical Command and Control Systems or JINTACCS is a United States military program for the development and maintenance of tactical information exchange configuration items (CIs) and operational procedures. It was originated to ensure that the command and control (C2 and C3) and weapons systems of all US military services and NATO forces would be interoperable.\n\nIt is made up of standard Message Text Formats (MTF) for man-readable and machine-processable information, a core set of common warfighting symbols, and data link standards called Tactical Data Links (TDLs).",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Joint Interoperability of Tactical Command and Control Systems" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16474" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Joint Interoperability of Tactical Command and Control Systems or JINTACCS is a United States military program for the development and maintenance of tactical information exchange configuration items (CIs) and operational procedures. It was originated to ensure that the command and control (C2 and C3) and weapons systems of all US military services and NATO forces would be interoperable.\n\nIt is made up of standard Message Text Formats (MTF) for man-readable and machine-processable information, a core set of common warfighting symbols, and data link standards called Tactical Data Links (TDLs). Joint Interoperability of Tactical Command and Control Systems. http://en.wikipedia.org/?curid=16474."
+  }
+}

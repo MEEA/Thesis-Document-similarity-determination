@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13727",
+  "eid" : "0c94ba11-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778530353,
+  "textBody" : "Huallaga may refer to:\n\n*Locations in Peru:\n**Huallaga Province\n**Huallaga River\n**Huallaga Valley",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Huallaga" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13727" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Huallaga may refer to:\n\n*Locations in Peru:\n**Huallaga Province\n**Huallaga River\n**Huallaga Valley. Huallaga. http://en.wikipedia.org/?curid=13727."
+  }
+}

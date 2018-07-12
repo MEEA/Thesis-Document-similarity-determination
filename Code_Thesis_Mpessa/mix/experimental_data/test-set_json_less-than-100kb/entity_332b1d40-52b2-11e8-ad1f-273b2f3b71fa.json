@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18486",
+  "eid" : "332b1d40-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778595092,
+  "textBody" : "Law enforcement is any system by which some members of society act in an organized manner to enforce the law by discovering, deterring, rehabilitating, or punishing people who violate the rules and norms governing that society.New Law Journal - Volume 123, Part 1 - Page 358, 1974 Although the term may encompass entities such as courts and prisons, it is most frequently applied to those who directly engage in patrols or surveillance to dissuade and discover criminal activity, and those who investigate crimes and apprehend offenders,Kären M. Hess, Christine Hess Orthmann, Introduction to Law Enforcement and Criminal Justice (2008), p. 1. a task typically carried out by the police or another law enforcement agency. Furthermore, although law enforcement may be most concerned with the prevention and punishment of crimes, organizations exist to discourage a wide variety of non-criminal violations of rules and norms, effected through the imposition of less severe consequences.\n\nOrganizations\n\nMost law enforcement is conducted by some type of law enforcement agency, with the most typical agency fulfilling this role being the police. Societal investment in enforcement through such organizations can be massive, both in terms of the resources invested in the activity, and in the number of people professionally engaged to perform those functions.\n\nLaw enforcement agencies tend to be limited to operating within a specified jurisdiction. In some cases, jurisdiction may overlap inbetween organizations; for example, in the United States, each state has its own statewide law enforcement arms, but the Federal Bureau of Investigation is able to act against certain types of crimes occurring in any state. Various specialized segments of society may have their own internal law enforcement arrangements. For example, military organizations may have military police.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Law enforcement" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18486" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Law enforcement is any system by which some members of society act in an organized manner to enforce the law by discovering, deterring, rehabilitating, or punishing people who violate the rules and norms governing that society.New Law Journal - Volume 123, Part 1 - Page 358, 1974 Although the term may encompass entities such as courts and prisons, it is most frequently applied to those who directly engage in patrols or surveillance to dissuade and discover criminal activity, and those who investigate crimes and apprehend offenders,Kären M. Hess, Christine Hess Orthmann, Introduction to Law Enforcement and Criminal Justice (2008), p. 1. a task typically carried out by the police or another law enforcement agency. Furthermore, although law enforcement may be most concerned with the prevention and punishment of crimes, organizations exist to discourage a wide variety of non-criminal violations of rules and norms, effected through the imposition of less severe consequences.\n\nOrganizations\n\nMost law enforcement is conducted by some type of law enforcement agency, with the most typical agency fulfilling this role being the police. Societal investment in enforcement through such organizations can be massive, both in terms of the resources invested in the activity, and in the number of people professionally engaged to perform those functions.\n\nLaw enforcement agencies tend to be limited to operating within a specified jurisdiction. In some cases, jurisdiction may overlap inbetween organizations; for example, in the United States, each state has its own statewide law enforcement arms, but the Federal Bureau of Investigation is able to act against certain types of crimes occurring in any state. Various specialized segments of society may have their own internal law enforcement arrangements. For example, military organizations may have military police. Law enforcement. http://en.wikipedia.org/?curid=18486."
+  }
+}

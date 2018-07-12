@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2623",
+  "eid" : "c1397f60-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778403926,
+  "textBody" : "The Aegadian Islands  (; Sicilian: Ìsuli Ègadi, , , meaning \"the islands of goats\") are a group of five small mountainous islands in the Mediterranean Sea off the northwest coast of Sicily, Italy, near the cities of Trapani and Marsala, with a total area of .\n\nThe Island of Favignana (Aegusa), the largest, lies 16 km southwest of Trapani; Levanzo (Phorbantia) lies 13 km west; and Marettimo, the ancient Iera Nesos, 24 km west of Trapani, is now reckoned as a part of the group. There are also two minor islands, Formica and Maraone, lying between Levanzo and Sicily. For administrative purposes the archipelago constitutes the comune of Favignana in the Province of Trapani.\n\nThe overall population in 1987 was estimated at about 5,000. Winter frost is unknown and rainfall is low. The main occupation of the islanders is fishing, and the largest tuna fishery in Sicily is here.\n\nHistory\n\nThere is evidence of Neolithic and even Paleolithic paintings in caves on Levanzo, and to a lesser extent on Favignana.\n\nThe islands were the scene of the Battle of the Aegates of 241 BC, in which the Carthaginian fleet was defeated by the Roman fleet led by C. Lutatius Catulus; the engagement ended the First Punic War. After the end of Western Roman power in the first millennium AD, the islands, to the extent that they were governed at all, were part of territories of Goths, Vandals, Saracens, before the Normans fortified Favignana in 1081.\n\nThe islands belonged to the Pallavicini-Rusconi family of Genoa until 1874, when the Florio family of Palermo bought them.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Aegadian Islands" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2623" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The Aegadian Islands  (; Sicilian: Ìsuli Ègadi, , , meaning \"the islands of goats\") are a group of five small mountainous islands in the Mediterranean Sea off the northwest coast of Sicily, Italy, near the cities of Trapani and Marsala, with a total area of .\n\nThe Island of Favignana (Aegusa), the largest, lies 16 km southwest of Trapani; Levanzo (Phorbantia) lies 13 km west; and Marettimo, the ancient Iera Nesos, 24 km west of Trapani, is now reckoned as a part of the group. There are also two minor islands, Formica and Maraone, lying between Levanzo and Sicily. For administrative purposes the archipelago constitutes the comune of Favignana in the Province of Trapani.\n\nThe overall population in 1987 was estimated at about 5,000. Winter frost is unknown and rainfall is low. The main occupation of the islanders is fishing, and the largest tuna fishery in Sicily is here.\n\nHistory\n\nThere is evidence of Neolithic and even Paleolithic paintings in caves on Levanzo, and to a lesser extent on Favignana.\n\nThe islands were the scene of the Battle of the Aegates of 241 BC, in which the Carthaginian fleet was defeated by the Roman fleet led by C. Lutatius Catulus; the engagement ended the First Punic War. After the end of Western Roman power in the first millennium AD, the islands, to the extent that they were governed at all, were part of territories of Goths, Vandals, Saracens, before the Normans fortified Favignana in 1081.\n\nThe islands belonged to the Pallavicini-Rusconi family of Genoa until 1874, when the Florio family of Palermo bought them. Aegadian Islands. http://en.wikipedia.org/?curid=2623."
+  }
+}

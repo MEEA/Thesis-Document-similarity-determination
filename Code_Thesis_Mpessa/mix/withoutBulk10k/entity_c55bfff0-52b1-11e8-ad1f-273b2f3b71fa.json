@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3353",
+  "eid" : "c55bfff0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778410863,
+  "textBody" : "Bluegrass refers to several species of grasses of the genus Poa (with the most famous being the Kentucky bluegrass).\n\nThe term has also been applied to various things that relate to the region in which the grass grows:\n*Bluegrass region, a region of the United States centered in Kentucky\n* Blue Grass, a brand name used by Belknap Hardware and Manufacturing Company\n*Bluegrass music, a form of American roots music\n*The Blue Grass Boys, the band led by Bill Monroe that defined the Bluegrass genre\n*Bluegrass & Backroads,  a television show about people and places in the Bluegrass region\n\n;Places\n*Blue Grass, Iowa, United States\n*Blue Grass, Minnesota, United States\n*Blue Grass, Virginia, United States\n\n;Other uses\n*Blue Grass Army Depot in Richmond, Kentucky\n*Bluegrass Films, an independent film studio based in Los Angeles \n*Bluegrass (Sirius)\n*Bluegrass (train), a passenger train of the Monon Railroad",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Bluegrass" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3353" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Bluegrass refers to several species of grasses of the genus Poa (with the most famous being the Kentucky bluegrass).\n\nThe term has also been applied to various things that relate to the region in which the grass grows:\n*Bluegrass region, a region of the United States centered in Kentucky\n* Blue Grass, a brand name used by Belknap Hardware and Manufacturing Company\n*Bluegrass music, a form of American roots music\n*The Blue Grass Boys, the band led by Bill Monroe that defined the Bluegrass genre\n*Bluegrass & Backroads,  a television show about people and places in the Bluegrass region\n\n;Places\n*Blue Grass, Iowa, United States\n*Blue Grass, Minnesota, United States\n*Blue Grass, Virginia, United States\n\n;Other uses\n*Blue Grass Army Depot in Richmond, Kentucky\n*Bluegrass Films, an independent film studio based in Los Angeles \n*Bluegrass (Sirius)\n*Bluegrass (train), a passenger train of the Monon Railroad. Bluegrass. http://en.wikipedia.org/?curid=3353."
+  }
+}

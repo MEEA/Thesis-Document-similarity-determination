@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=742",
+  "eid" : "91b46d90-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778324201,
+  "textBody" : "Algorithms is a peer-reviewed open access mathematics journal  concerning design, analysis, and experiments on algorithms.\n The journal is published by MDPI and was established in 2008 by founding editor-in-chief is Kazuo Iwama.. Its current editor-in-chief is Henning Fernau.\n\nAbstracting and indexing \n\nThe journal is abstracted and indexed in Chemical Abstracts Service, Compendex, DBLP Computer Science Bibliography, Inspec, MathSciNet, Scopus, and Zentralblatt MATH.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Algorithms (journal)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=742" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Algorithms is a peer-reviewed open access mathematics journal  concerning design, analysis, and experiments on algorithms.\n The journal is published by MDPI and was established in 2008 by founding editor-in-chief is Kazuo Iwama.. Its current editor-in-chief is Henning Fernau.\n\nAbstracting and indexing \n\nThe journal is abstracted and indexed in Chemical Abstracts Service, Compendex, DBLP Computer Science Bibliography, Inspec, MathSciNet, Scopus, and Zentralblatt MATH. Algorithms (journal). http://en.wikipedia.org/?curid=742."
+  }
+}

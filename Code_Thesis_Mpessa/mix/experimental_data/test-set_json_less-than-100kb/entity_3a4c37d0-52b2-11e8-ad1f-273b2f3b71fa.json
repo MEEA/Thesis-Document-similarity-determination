@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19365",
+  "eid" : "3a4c37d0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778607053,
+  "textBody" : "Maquis may refer to:\n\nResistance groups \n\n* Maquis (Star Trek), anti-Cardassian resistance movement in the fictional Star Trek universe\n** \"The Maquis\" (Star Trek: Deep Space Nine), episode that introduced the group\n* Maquis (World War II), predominantly rural guerrilla bands of the French Resistance\n* Spanish Maquis, guerrillas who fought against Francoist Spain in the aftermath of the Spanish Civil War\n* The network of rural bases operated by the Communist Party of Kampuchea prior to the Cambodian Civil War\n\nOther uses \n\n* Maquis shrubland, a Mediterranean shrubland biome known as macchia  in Italian\n* Aristotelia chilensis, a bush in southern Chile\n* Maquis (pigeon), a pigeon who received the Dickin Medal for service during the Second World War",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Maquis" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19365" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Maquis may refer to:\n\nResistance groups \n\n* Maquis (Star Trek), anti-Cardassian resistance movement in the fictional Star Trek universe\n** \"The Maquis\" (Star Trek: Deep Space Nine), episode that introduced the group\n* Maquis (World War II), predominantly rural guerrilla bands of the French Resistance\n* Spanish Maquis, guerrillas who fought against Francoist Spain in the aftermath of the Spanish Civil War\n* The network of rural bases operated by the Communist Party of Kampuchea prior to the Cambodian Civil War\n\nOther uses \n\n* Maquis shrubland, a Mediterranean shrubland biome known as macchia  in Italian\n* Aristotelia chilensis, a bush in southern Chile\n* Maquis (pigeon), a pigeon who received the Dickin Medal for service during the Second World War. Maquis. http://en.wikipedia.org/?curid=19365."
+  }
+}

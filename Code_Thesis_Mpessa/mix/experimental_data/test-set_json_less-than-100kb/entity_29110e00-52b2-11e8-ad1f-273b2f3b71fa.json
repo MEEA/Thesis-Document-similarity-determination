@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16850",
+  "eid" : "29110e00-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778578144,
+  "textBody" : "Karel van het Reve (19 May 1921 – 4 March 1999) was a Dutch writer, translator and literary historian, teaching and writing on Russian literature.\n\nHe was born in Amsterdam and was raised as a communist. He lost his 'faith' in his twenties and became an active critic and opponent of the Soviet regime. With his help, work of dissident Andrei Sakharov was smuggled to the west, and his Alexander Herzen Foundation published dissident Soviet literature.\n\nHe is considered to be one of the finest Dutch essayists, his interests ranging from the fallacies of Marxism to nude beach etiquette. His works include a history of Russian literature, 2 novels and several collections of essays. In 1978, Karel van het Reve delivered the Huizinga Lecture, under the title: Literatuurwetenschap: het raadsel der onleesbaarheid (Literary studies: the enigma of unreadability).\n\nHis brother, Gerard Reve, was a prominent prose writer.\n\nThe main-belt asteroid 12174 van het Reve, discovered by the Palomar–Leiden Survey in 1977, was named in his honor.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Karel van het Reve" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16850" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Karel van het Reve (19 May 1921 – 4 March 1999) was a Dutch writer, translator and literary historian, teaching and writing on Russian literature.\n\nHe was born in Amsterdam and was raised as a communist. He lost his 'faith' in his twenties and became an active critic and opponent of the Soviet regime. With his help, work of dissident Andrei Sakharov was smuggled to the west, and his Alexander Herzen Foundation published dissident Soviet literature.\n\nHe is considered to be one of the finest Dutch essayists, his interests ranging from the fallacies of Marxism to nude beach etiquette. His works include a history of Russian literature, 2 novels and several collections of essays. In 1978, Karel van het Reve delivered the Huizinga Lecture, under the title: Literatuurwetenschap: het raadsel der onleesbaarheid (Literary studies: the enigma of unreadability).\n\nHis brother, Gerard Reve, was a prominent prose writer.\n\nThe main-belt asteroid 12174 van het Reve, discovered by the Palomar–Leiden Survey in 1977, was named in his honor. Karel van het Reve. http://en.wikipedia.org/?curid=16850."
+  }
+}

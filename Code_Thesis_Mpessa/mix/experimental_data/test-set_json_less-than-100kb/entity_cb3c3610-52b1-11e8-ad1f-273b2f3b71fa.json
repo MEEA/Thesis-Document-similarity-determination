@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=4093",
+  "eid" : "cb3c3610-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778420721,
+  "textBody" : "Bertrand Andrieu (24 November 1761 – 6 December 1822) was a French engraver of medals. He was born in Bordeaux. In France, he was considered as the restorer of the art, which had declined after the time of Louis XIV. During the last twenty years of his life, the French government commissioned him to undertake every major work of importance.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Bertrand Andrieu" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=4093" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Bertrand Andrieu (24 November 1761 – 6 December 1822) was a French engraver of medals. He was born in Bordeaux. In France, he was considered as the restorer of the art, which had declined after the time of Louis XIV. During the last twenty years of his life, the French government commissioned him to undertake every major work of importance. Bertrand Andrieu. http://en.wikipedia.org/?curid=4093."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16773",
+  "eid" : "2858ba80-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778576936,
+  "textBody" : "A kite is a type of aircraft.\n\nKite or kites may also refer to:\n\nBiology\n\n* Kite (bird)\n\nMusic \n\n* Kite (band), a Swedish synthpop duo\n* \"Kite\" (U2 song)\n* \"Kite\" (Kate Bush song)\n* Kite (Kirsty MacColl album)\n* Kite (Stefanie Sun album)\n* \"Kites\" (song), a song by Simon Dupree\n* \"Kite\", a song by Nick Heyward from his album From Monday to Sunday\n\nFilm \n\n* Patang (film) (The Kite in English), a 1993 Indian film directed by Goutam Ghose\n* Kite (film series), an anime series \n**Kite (1999 film), a 1999 anime film and the first in the series\n** Kite Liberator, a 2008 anime film and the second installment of the Kite film series\n** Kite (2014 film), a 2014 film based on the anime\n* The Kite (film), a 2003 Lebanese drama\n* Kites (film), a 2010 Bollywood film\n\nShips\n\n* , the name of seven ships of the Royal Navy\n* , 280-ton sealer used by Robert Peary on the Peary expedition to Greenland of 1891–92\n* , various ships of the U.S. Navy\n\nOther uses \n\n* Alpi Pioneer 300 Kite, an Italian light-sport aircraft design\n* Kite (geometry), a kite-shaped quadrilateral\n* Kite (sail)\n* Kite (surname), a surname\n* Kite (.hack), a fictional character\n* Kite (Hunter × Hunter), a fictional character\n* Kite, Georgia, United States\n* Kite aspect, a concept in astrology\n* Kite and dart tiling\n* Desert kite, a man-made pattern of boulders believed to have been used for funneling herds of wild animals for hunting\n* Kite, a hypothetical creature in the TV series Extraterrestrial\n* Kite (novel), by Melvin Burgess\n* Kite, an electronic trading platform from Zerodha\n* The Kite, a novel by W. O. Mitchell\n* Kite shield a type of shield used in the 10th to 12th centuries\n* Kite, any aircraft, in RAF slang\n* KITE (AM), a radio station (1410 AM) licensed to serve Victoria, Texas, United States\n* KNAL (FM), a radio station in Texas (93.3 FM) licensed to serve Port Lavaca, which held the call sign KITE from 2001 to 2014\n* KiTE, a private engineering college in Coimbatore, India",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Kite (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16773" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A kite is a type of aircraft.\n\nKite or kites may also refer to:\n\nBiology\n\n* Kite (bird)\n\nMusic \n\n* Kite (band), a Swedish synthpop duo\n* \"Kite\" (U2 song)\n* \"Kite\" (Kate Bush song)\n* Kite (Kirsty MacColl album)\n* Kite (Stefanie Sun album)\n* \"Kites\" (song), a song by Simon Dupree\n* \"Kite\", a song by Nick Heyward from his album From Monday to Sunday\n\nFilm \n\n* Patang (film) (The Kite in English), a 1993 Indian film directed by Goutam Ghose\n* Kite (film series), an anime series \n**Kite (1999 film), a 1999 anime film and the first in the series\n** Kite Liberator, a 2008 anime film and the second installment of the Kite film series\n** Kite (2014 film), a 2014 film based on the anime\n* The Kite (film), a 2003 Lebanese drama\n* Kites (film), a 2010 Bollywood film\n\nShips\n\n* , the name of seven ships of the Royal Navy\n* , 280-ton sealer used by Robert Peary on the Peary expedition to Greenland of 1891–92\n* , various ships of the U.S. Navy\n\nOther uses \n\n* Alpi Pioneer 300 Kite, an Italian light-sport aircraft design\n* Kite (geometry), a kite-shaped quadrilateral\n* Kite (sail)\n* Kite (surname), a surname\n* Kite (.hack), a fictional character\n* Kite (Hunter × Hunter), a fictional character\n* Kite, Georgia, United States\n* Kite aspect, a concept in astrology\n* Kite and dart tiling\n* Desert kite, a man-made pattern of boulders believed to have been used for funneling herds of wild animals for hunting\n* Kite, a hypothetical creature in the TV series Extraterrestrial\n* Kite (novel), by Melvin Burgess\n* Kite, an electronic trading platform from Zerodha\n* The Kite, a novel by W. O. Mitchell\n* Kite shield a type of shield used in the 10th to 12th centuries\n* Kite, any aircraft, in RAF slang\n* KITE (AM), a radio station (1410 AM) licensed to serve Victoria, Texas, United States\n* KNAL (FM), a radio station in Texas (93.3 FM) licensed to serve Port Lavaca, which held the call sign KITE from 2001 to 2014\n* KiTE, a private engineering college in Coimbatore, India. Kite (disambiguation). http://en.wikipedia.org/?curid=16773."
+  }
+}

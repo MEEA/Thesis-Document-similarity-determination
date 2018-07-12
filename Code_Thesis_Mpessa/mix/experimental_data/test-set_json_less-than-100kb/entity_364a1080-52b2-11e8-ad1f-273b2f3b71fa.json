@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18937",
+  "eid" : "364a1080-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778600328,
+  "textBody" : "Mapping is the creation of maps, a graphic symbolic representation of the significant features of a part of the surface of the Earth.\n\n* Cartography, mapping in general\n** Web mapping, mapping using data delivered by GISs\n* Mapping (mathematics), a synonym for mathematical function or for Morphism.\n* Gene mapping, the assignment of DNA fragments to chromosomes\n* Brain mapping, set of techniques to study the brain\n* Data mapping, data element mappings between two distinct data models\n* Texture mapping, in computer graphics\n* Mind mapping is the drawing of ideas and the relations among them\n* Robotic mapping, creation and use of maps by robots\n* Spiritual mapping, a practice of some religions",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Mapping" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18937" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Mapping is the creation of maps, a graphic symbolic representation of the significant features of a part of the surface of the Earth.\n\n* Cartography, mapping in general\n** Web mapping, mapping using data delivered by GISs\n* Mapping (mathematics), a synonym for mathematical function or for Morphism.\n* Gene mapping, the assignment of DNA fragments to chromosomes\n* Brain mapping, set of techniques to study the brain\n* Data mapping, data element mappings between two distinct data models\n* Texture mapping, in computer graphics\n* Mind mapping is the drawing of ideas and the relations among them\n* Robotic mapping, creation and use of maps by robots\n* Spiritual mapping, a practice of some religions. Mapping. http://en.wikipedia.org/?curid=18937."
+  }
+}

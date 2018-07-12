@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2093",
+  "eid" : "bda53510-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778397921,
+  "textBody" : "Abimelech (also spelled Abimelek or Avimelech; ) was the name of multiple Philistine kings mentioned in the Hebrew Bible.\n\nEtymology\n\nThe name or title Abimelech is formed from Hebrew words for \"father\" and \"king,\" and may be interpreted in a variety of ways, including \"Father-King\", \"My father is king,\" or \"Father of a king.\" In the Pentateuch, it is used as a title for kings in the land of Canaan.\n\nAt the time of the Amarna tablets (mid-14th century BC), there was an Egyptian governor of Tyre similarly named Abimilki, who is sometimes speculated to be connected with one or more of the biblical Abimelechs.\n\nAbimelech of Gerar\n\nAbimelech was most prominently the name of a polytheistic king of Gerar who is mentioned in two of the three wife-sister narratives in Genesis, in connection with both Abraham (chap. 20) and Isaac (chap. 26).  \n\nKing Abimelech of Gerar also appears in an extra-biblical tradition recounted in texts such as the Kitab al-Magall, the Cave of Treasures and the Conflict of Adam and Eve with Satan, as one of 12 regional kings in Abraham's time said to have built the city of Jerusalem for Melchizedek.\n\nOther people with this name\n\nApart from the king (or kings) of Gerar, the Bible also records this name for:\n*Abimelech, son of Gideon (), proclaimed king after the death of his father ().\n*The father of Abiathar, and high priest in the time of David (). In the parallel passage, , the name is given as Ahimelech; most authorities consider this the more correct reading.\n*The king of Gath better known as Achish, referred to as Abimelech or Achimelech in the title of .\n\nOther literary references include:\n*Abimélech, Satrap of Gaza is a character (baritone) in Saint-Saëns' opera Samson and Delilah (Weimar, 1877)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Abimelech" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2093" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Abimelech (also spelled Abimelek or Avimelech; ) was the name of multiple Philistine kings mentioned in the Hebrew Bible.\n\nEtymology\n\nThe name or title Abimelech is formed from Hebrew words for \"father\" and \"king,\" and may be interpreted in a variety of ways, including \"Father-King\", \"My father is king,\" or \"Father of a king.\" In the Pentateuch, it is used as a title for kings in the land of Canaan.\n\nAt the time of the Amarna tablets (mid-14th century BC), there was an Egyptian governor of Tyre similarly named Abimilki, who is sometimes speculated to be connected with one or more of the biblical Abimelechs.\n\nAbimelech of Gerar\n\nAbimelech was most prominently the name of a polytheistic king of Gerar who is mentioned in two of the three wife-sister narratives in Genesis, in connection with both Abraham (chap. 20) and Isaac (chap. 26).  \n\nKing Abimelech of Gerar also appears in an extra-biblical tradition recounted in texts such as the Kitab al-Magall, the Cave of Treasures and the Conflict of Adam and Eve with Satan, as one of 12 regional kings in Abraham's time said to have built the city of Jerusalem for Melchizedek.\n\nOther people with this name\n\nApart from the king (or kings) of Gerar, the Bible also records this name for:\n*Abimelech, son of Gideon (), proclaimed king after the death of his father ().\n*The father of Abiathar, and high priest in the time of David (). In the parallel passage, , the name is given as Ahimelech; most authorities consider this the more correct reading.\n*The king of Gath better known as Achish, referred to as Abimelech or Achimelech in the title of .\n\nOther literary references include:\n*Abimélech, Satrap of Gaza is a character (baritone) in Saint-Saëns' opera Samson and Delilah (Weimar, 1877). Abimelech. http://en.wikipedia.org/?curid=2093."
+  }
+}

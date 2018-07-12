@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1586",
+  "eid" : "ba9e84c0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778392844,
+  "textBody" : "Alexander I Balas (), was the ruler of the Greek Seleucid kingdom in 150–146 BC. Alexander defeated Demetrius Soter for the crown in 150 BC. Ruling briefly, he lost the crown to Demetrius II Nicator during his defeat at the Battle of Antioch (145 BC) in Syria, dying shortly after.\n\nHe is the title character of the oratorio Alexander Balus, written in 1747 by George Frideric Handel.\n\nBiography\n\nEarly life and reign\n\n \nHe was a native of Smyrna of humble origin, but gave himself out to be the son of Antiochus IV Epiphanes and Laodice IV and heir to the Seleucid throne. Along with his sister Laodice VI, the youngster Alexander was \"discovered\" by Heracleides, a former minister of Antiochus IV and brother of Timarchus, an usurper in Media who had been executed by the reigning king Demetrius I Soter.\n\nAlexander's claims were recognized by the Roman Senate, Ptolemy Philometor of Egypt and others. He married Cleopatra Thea, a daughter of the Ptolemaic dynasty. At first unsuccessful, Alexander finally defeated Demetrius Soter in 150 BC. Being now master of the empire, he is said to have abandoned himself to a life of debauchery. Whatever the truth behind this, the young king was forced to depend heavily on his Ptolemaic support and even struck portraits with the characteristic features of king Ptolemy I.\n\nFinal battle and death\n\nDemetrius Soter's son Demetrius II profited by the opportunity to regain the throne. Ptolemy Philometor, who was Alexander's father-in-law, went over to his side, and Alexander was defeated in the  battle of Antioch (145 BC) in Syria, sometimes known as the battle of the Oenoparus.\n\nHe fled for refuge to a Nabataean prince, who murdered him and sent his head to Ptolemy Philometor, who had been mortally wounded in the engagement.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Alexander Balas" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1586" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Alexander I Balas (), was the ruler of the Greek Seleucid kingdom in 150–146 BC. Alexander defeated Demetrius Soter for the crown in 150 BC. Ruling briefly, he lost the crown to Demetrius II Nicator during his defeat at the Battle of Antioch (145 BC) in Syria, dying shortly after.\n\nHe is the title character of the oratorio Alexander Balus, written in 1747 by George Frideric Handel.\n\nBiography\n\nEarly life and reign\n\n \nHe was a native of Smyrna of humble origin, but gave himself out to be the son of Antiochus IV Epiphanes and Laodice IV and heir to the Seleucid throne. Along with his sister Laodice VI, the youngster Alexander was \"discovered\" by Heracleides, a former minister of Antiochus IV and brother of Timarchus, an usurper in Media who had been executed by the reigning king Demetrius I Soter.\n\nAlexander's claims were recognized by the Roman Senate, Ptolemy Philometor of Egypt and others. He married Cleopatra Thea, a daughter of the Ptolemaic dynasty. At first unsuccessful, Alexander finally defeated Demetrius Soter in 150 BC. Being now master of the empire, he is said to have abandoned himself to a life of debauchery. Whatever the truth behind this, the young king was forced to depend heavily on his Ptolemaic support and even struck portraits with the characteristic features of king Ptolemy I.\n\nFinal battle and death\n\nDemetrius Soter's son Demetrius II profited by the opportunity to regain the throne. Ptolemy Philometor, who was Alexander's father-in-law, went over to his side, and Alexander was defeated in the  battle of Antioch (145 BC) in Syria, sometimes known as the battle of the Oenoparus.\n\nHe fled for refuge to a Nabataean prince, who murdered him and sent his head to Ptolemy Philometor, who had been mortally wounded in the engagement. Alexander Balas. http://en.wikipedia.org/?curid=1586."
+  }
+}

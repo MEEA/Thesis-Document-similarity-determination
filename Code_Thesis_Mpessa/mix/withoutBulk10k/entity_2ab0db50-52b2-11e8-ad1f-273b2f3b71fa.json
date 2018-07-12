@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17138",
+  "eid" : "2ab0db50-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778580869,
+  "textBody" : "Keyword may refer to:\n\n* Keyword (linguistics), word which occurs in a text more often  than we would expect to occur by chance alone\n* Keyword (computer programming), word or identifier that has a particular meaning to the programming language\n* Keyword (cryptography), word used as the key to determine the letter matchingof the cipher alphabet to the plain alphabet\n* Index term, a term used as a keyword to retrieve documents in an information system such as a catalog or a search engine\n* Keyword (rhetoric), a word that academics use to reveal the internal structure of an author's reasoning\n* Keyword (Tohoshinki song), a 2008 J-pop song\n* Keywords: A Vocabulary of Culture and Society, 1973 non-fiction book by Raymond Williams\n* Keyword density, the percentage of times a keyword or phrase appears on a web page compared to the total number of words on the page",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Keyword" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17138" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Keyword may refer to:\n\n* Keyword (linguistics), word which occurs in a text more often  than we would expect to occur by chance alone\n* Keyword (computer programming), word or identifier that has a particular meaning to the programming language\n* Keyword (cryptography), word used as the key to determine the letter matchingof the cipher alphabet to the plain alphabet\n* Index term, a term used as a keyword to retrieve documents in an information system such as a catalog or a search engine\n* Keyword (rhetoric), a word that academics use to reveal the internal structure of an author's reasoning\n* Keyword (Tohoshinki song), a 2008 J-pop song\n* Keywords: A Vocabulary of Culture and Society, 1973 non-fiction book by Raymond Williams\n* Keyword density, the percentage of times a keyword or phrase appears on a web page compared to the total number of words on the page. Keyword. http://en.wikipedia.org/?curid=17138."
+  }
+}

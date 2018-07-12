@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17090",
+  "eid" : "2a86e520-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778580594,
+  "textBody" : "KAOS or Kaos may refer to:\n\nPeople \n\n* Kaos One (born 1971), Italian rapper\n* Kaos of Iberia, an ancient king of Causasian Iberia\n* Kenny Kaos or Kaos (born 1970), American professional wrestler\n* Wych Kaosayananda or Kaos (born 1974), Thai film director\n\nFiction \n\n* KAOS (Get Smart), a fictional criminal spy agency in Get Smart\n* Kaos (film), a 1984 Italian film by Paolo and Vittorio Taviani\n* The Ancient One (Ronin Warriors) or Kaos, a character from Ronin Warriors\n* Kaos, a character from Battle Angel Alita\n* Kaos (Discworld), an anthropomorphic personification in Discworld\n\nVideo gaming \n\n* Kaos Studios, a defunct video game developer\n* KAOS, a character in Donkey Kong Country 3: Dixie Kong's Double Trouble!\n* KAOS, a fictional computer from Red Alert\n* Kaos, an antagonist character from the Skylanders video game series\n\nMusic \n\n* KAOS (FM), a radio station in Olympia, Washington, United States\n* Kaos (Bo Kaspers Orkester album), 2001\n* Kaos (Anita Tijoux album), 2007\n* KAOS, a 1958 novelty 45 RPM record by Stanley Ralph Ross and Bob Arbogast\n\nComputing \n\n* KAoS, a policy services framework\n* KAOS (software development), a goal modeling method\n\nOther uses \n\n* Kaos Worldwide, a maker of technical clothing systems\n* Assassin (game) or KAOS (Killing as organized sport), a live-action game",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "KAOS" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17090" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "KAOS or Kaos may refer to:\n\nPeople \n\n* Kaos One (born 1971), Italian rapper\n* Kaos of Iberia, an ancient king of Causasian Iberia\n* Kenny Kaos or Kaos (born 1970), American professional wrestler\n* Wych Kaosayananda or Kaos (born 1974), Thai film director\n\nFiction \n\n* KAOS (Get Smart), a fictional criminal spy agency in Get Smart\n* Kaos (film), a 1984 Italian film by Paolo and Vittorio Taviani\n* The Ancient One (Ronin Warriors) or Kaos, a character from Ronin Warriors\n* Kaos, a character from Battle Angel Alita\n* Kaos (Discworld), an anthropomorphic personification in Discworld\n\nVideo gaming \n\n* Kaos Studios, a defunct video game developer\n* KAOS, a character in Donkey Kong Country 3: Dixie Kong's Double Trouble!\n* KAOS, a fictional computer from Red Alert\n* Kaos, an antagonist character from the Skylanders video game series\n\nMusic \n\n* KAOS (FM), a radio station in Olympia, Washington, United States\n* Kaos (Bo Kaspers Orkester album), 2001\n* Kaos (Anita Tijoux album), 2007\n* KAOS, a 1958 novelty 45 RPM record by Stanley Ralph Ross and Bob Arbogast\n\nComputing \n\n* KAoS, a policy services framework\n* KAOS (software development), a goal modeling method\n\nOther uses \n\n* Kaos Worldwide, a maker of technical clothing systems\n* Assassin (game) or KAOS (Killing as organized sport), a live-action game. KAOS. http://en.wikipedia.org/?curid=17090."
+  }
+}

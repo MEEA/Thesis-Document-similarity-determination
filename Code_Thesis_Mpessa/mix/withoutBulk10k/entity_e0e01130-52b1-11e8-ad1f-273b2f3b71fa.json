@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7295",
+  "eid" : "e0e01130-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778457027,
+  "textBody" : "Consumption may refer to:\n\nBiology\n\n* Consumption (ecology), receipt of energy by consuming other organisms\n* The disease tuberculosis, historically\n\nSocial sciences\n\n* Consumption (economics), a category of economic activity primarily including purchasing\n** Consumption function, an economic formula\n* Consumption (sociology) of resources, associated with social class, identity, group membership, and age",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Consumption" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7295" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Consumption may refer to:\n\nBiology\n\n* Consumption (ecology), receipt of energy by consuming other organisms\n* The disease tuberculosis, historically\n\nSocial sciences\n\n* Consumption (economics), a category of economic activity primarily including purchasing\n** Consumption function, an economic formula\n* Consumption (sociology) of resources, associated with social class, identity, group membership, and age. Consumption. http://en.wikipedia.org/?curid=7295."
+  }
+}

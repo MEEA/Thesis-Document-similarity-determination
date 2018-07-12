@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16936",
+  "eid" : "29c4a691-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778579321,
+  "textBody" : "Kabyle may refer to:\n\n* Kabyle people, an ethnic group in Algeria\n* Kabyle language\n** Kabyle alphabet, also known as Berber Latin alphabet\n** Kabyle grammar\n* Kabylie, the Kabyle ethnic homeland\n* Kabyles du Pacifique, a group of Algerians deported to New Caledonia after an uprising in 1871\n* Kabyle (ancient city), an ancient Thracian city in southeastern Bulgaria\n* Kabile, Bulgaria, a modern village near the Thracian city\n* Kabyle musket",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Kabyle" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16936" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Kabyle may refer to:\n\n* Kabyle people, an ethnic group in Algeria\n* Kabyle language\n** Kabyle alphabet, also known as Berber Latin alphabet\n** Kabyle grammar\n* Kabylie, the Kabyle ethnic homeland\n* Kabyles du Pacifique, a group of Algerians deported to New Caledonia after an uprising in 1871\n* Kabyle (ancient city), an ancient Thracian city in southeastern Bulgaria\n* Kabile, Bulgaria, a modern village near the Thracian city\n* Kabyle musket. Kabyle. http://en.wikipedia.org/?curid=16936."
+  }
+}

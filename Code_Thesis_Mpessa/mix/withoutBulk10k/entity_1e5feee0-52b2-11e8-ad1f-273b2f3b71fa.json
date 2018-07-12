@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15768",
+  "eid" : "1e5feee0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778560206,
+  "textBody" : "Joyce K. Reynolds (died 2015) was an American computer scientist.\n\nReynolds held bachelor's and master's degrees from the University of Southern California, United States. She was active in the development of the protocols underlying the Internet. In particular, she authored or co-authored many RFCs, most notably those introducing and specifying the Telnet, FTP, and POP protocols.[http://www.rfc-editor.org/rfc-index2.html \"RFC Index\"] RFC Editor, 5 March 2013\n\nReynolds served as part of the editorial team of the Request For Comments series from 1987 to 2006, and performed the IANA function with Jon Postel until this was transferred to ICANN, then worked with ICANN in this role until 2001, while remaining an employee of ISI.\n\nAs Area Director of the User Services area, she was a member of the Internet Engineering Steering Group of the IETF from 1990 to March 1998.[http://www.ietf.org/iesg/past-members.html \"Past IESG Members and IETF Chairs\"], Internet Engineering Task Force (IETF), retrieved 5 March 2013\n\nTogether with Bob Braden, she received the 2006 Postel Award in recognition of her services to the Internet. She is mentioned, along with a brief biography, in RFC 1336, Who's Who in the Internet (1992).RFC 1336 Who's Who in the Internet: Biographies of IAB, IESG and IRSG Members, G. Malkin, Internet Engineering Task Force (IETF), May 1992\n\nShe died on December 28, 2015 due to complications from cancer.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Joyce K. Reynolds" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15768" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Joyce K. Reynolds (died 2015) was an American computer scientist.\n\nReynolds held bachelor's and master's degrees from the University of Southern California, United States. She was active in the development of the protocols underlying the Internet. In particular, she authored or co-authored many RFCs, most notably those introducing and specifying the Telnet, FTP, and POP protocols.[http://www.rfc-editor.org/rfc-index2.html \"RFC Index\"] RFC Editor, 5 March 2013\n\nReynolds served as part of the editorial team of the Request For Comments series from 1987 to 2006, and performed the IANA function with Jon Postel until this was transferred to ICANN, then worked with ICANN in this role until 2001, while remaining an employee of ISI.\n\nAs Area Director of the User Services area, she was a member of the Internet Engineering Steering Group of the IETF from 1990 to March 1998.[http://www.ietf.org/iesg/past-members.html \"Past IESG Members and IETF Chairs\"], Internet Engineering Task Force (IETF), retrieved 5 March 2013\n\nTogether with Bob Braden, she received the 2006 Postel Award in recognition of her services to the Internet. She is mentioned, along with a brief biography, in RFC 1336, Who's Who in the Internet (1992).RFC 1336 Who's Who in the Internet: Biographies of IAB, IESG and IRSG Members, G. Malkin, Internet Engineering Task Force (IETF), May 1992\n\nShe died on December 28, 2015 due to complications from cancer. Joyce K. Reynolds. http://en.wikipedia.org/?curid=15768."
+  }
+}

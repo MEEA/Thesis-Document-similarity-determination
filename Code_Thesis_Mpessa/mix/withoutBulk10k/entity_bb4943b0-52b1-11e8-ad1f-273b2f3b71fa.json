@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1691",
+  "eid" : "bb4943b0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778393963,
+  "textBody" : "Alfonso II may refer to:\n*Alfonso II of Asturias (791–842)\n*Alfonso II of Aragon (1162–1196)\n*Alfonso II, Count of Provence (1174–1209)\n*Afonso II of Portugal (1185–1223), \"the Fat\"\n*Alfonso, Count of Poitou (1220–1271), jure uxoris Alfonso II, Count of Toulouse\n*Alfonso II of Naples (1448–1495)\n*Alfonso II d'Este (1533–1597), duke of Ferrara from 1559 to 1597",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Alfonso II" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1691" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Alfonso II may refer to:\n*Alfonso II of Asturias (791–842)\n*Alfonso II of Aragon (1162–1196)\n*Alfonso II, Count of Provence (1174–1209)\n*Afonso II of Portugal (1185–1223), \"the Fat\"\n*Alfonso, Count of Poitou (1220–1271), jure uxoris Alfonso II, Count of Toulouse\n*Alfonso II of Naples (1448–1495)\n*Alfonso II d'Este (1533–1597), duke of Ferrara from 1559 to 1597. Alfonso II. http://en.wikipedia.org/?curid=1691."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7043",
+  "eid" : "df973d80-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778454872,
+  "textBody" : "-\\overset{\\displaystyle H \\atop |}{\\underset{\\underset{\\underset{\\underset{\\underset{\\underset",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Chemical formula" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7043" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "-\\overset{\\displaystyle H \\atop |}{\\underset{\\underset{\\underset{\\underset{\\underset{\\underset. Chemical formula. http://en.wikipedia.org/?curid=7043."
+  }
+}

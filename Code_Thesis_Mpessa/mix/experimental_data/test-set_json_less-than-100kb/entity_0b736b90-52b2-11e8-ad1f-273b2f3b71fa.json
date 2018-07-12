@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13605",
+  "eid" : "0b736b90-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778528457,
+  "textBody" : "In organic chemistry, a heteroatom (from Ancient Greek heteros, \"different\", + atomos, \"uncut\") is any atom that is not carbon or hydrogen. Usually, the term is used to indicate that non-carbon atoms have replaced carbon in the backbone of the molecular structure. Typical heteroatoms are nitrogen, oxygen, sulfur, phosphorus, chlorine, bromine, and iodine.\n\nIn the description of protein structure, in particular in the Protein Data Bank file format, a heteroatom record (HETATM) describes an atom as belonging to a small molecule cofactor rather than being part of a biopolymer chain.\n\nIn the context of zeolites, the term heteroatom refers to partial isomorphous substitution of the typical framework atoms (silicon, aluminium, and phosphorus) by other elements such as beryllium, vanadium, and chromium. The goal is usually to adjust properties of the material (e.g., Lewis acidity) to optimize the material for a certain application (e.g., catalysis).",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Heteroatom" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13605" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "In organic chemistry, a heteroatom (from Ancient Greek heteros, \"different\", + atomos, \"uncut\") is any atom that is not carbon or hydrogen. Usually, the term is used to indicate that non-carbon atoms have replaced carbon in the backbone of the molecular structure. Typical heteroatoms are nitrogen, oxygen, sulfur, phosphorus, chlorine, bromine, and iodine.\n\nIn the description of protein structure, in particular in the Protein Data Bank file format, a heteroatom record (HETATM) describes an atom as belonging to a small molecule cofactor rather than being part of a biopolymer chain.\n\nIn the context of zeolites, the term heteroatom refers to partial isomorphous substitution of the typical framework atoms (silicon, aluminium, and phosphorus) by other elements such as beryllium, vanadium, and chromium. The goal is usually to adjust properties of the material (e.g., Lewis acidity) to optimize the material for a certain application (e.g., catalysis). Heteroatom. http://en.wikipedia.org/?curid=13605."
+  }
+}

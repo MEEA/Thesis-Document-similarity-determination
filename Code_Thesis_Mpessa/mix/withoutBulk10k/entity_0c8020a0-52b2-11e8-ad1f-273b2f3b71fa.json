@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13704",
+  "eid" : "0c8020a0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778530218,
+  "textBody" : "Hydroxy can refer to:\n* In chemical nomenclature, the prefix \"hydroxy-\" shows the presence of a hydroxyl functional group (−OH)\n* An abbreviation for the medication hydroxyzine, which is commonly sold under the brand names Atarax, Ucerax, Serecid, and Vistaril\n* Hydroxy gas: A nickname for oxyhydrogen, a combination of hydrogen and oxygen gas produced from the electrolysis of water",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Hydroxy" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13704" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Hydroxy can refer to:\n* In chemical nomenclature, the prefix \"hydroxy-\" shows the presence of a hydroxyl functional group (−OH)\n* An abbreviation for the medication hydroxyzine, which is commonly sold under the brand names Atarax, Ucerax, Serecid, and Vistaril\n* Hydroxy gas: A nickname for oxyhydrogen, a combination of hydrogen and oxygen gas produced from the electrolysis of water. Hydroxy. http://en.wikipedia.org/?curid=13704."
+  }
+}

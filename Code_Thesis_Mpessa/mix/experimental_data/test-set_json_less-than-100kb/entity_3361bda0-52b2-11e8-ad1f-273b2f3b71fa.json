@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18530",
+  "eid" : "3361bda0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778595450,
+  "textBody" : "Lynx is a programming language for large distributed networks, using remote procedure calls. It was developed by the University of Wisconsin–Madison in 1984 for the Charlotte multicomputer operating system. \n\nIn 1986 at the University of Rochester Lynx was ported to the Chrysalis operating system running on a BBN Butterfly multiprocessor.\n\nBibliography\n\nM. L. Scott, \"The Lynx Distributed Programming Language: Motivation, Design, and Experience,\" Computer Languages 16:3/4 (1991), pp. 209-233. http://citeseer.ist.psu.edu/scott91lynx.html",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Lynx (programming language)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18530" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Lynx is a programming language for large distributed networks, using remote procedure calls. It was developed by the University of Wisconsin–Madison in 1984 for the Charlotte multicomputer operating system. \n\nIn 1986 at the University of Rochester Lynx was ported to the Chrysalis operating system running on a BBN Butterfly multiprocessor.\n\nBibliography\n\nM. L. Scott, \"The Lynx Distributed Programming Language: Motivation, Design, and Experience,\" Computer Languages 16:3/4 (1991), pp. 209-233. http://citeseer.ist.psu.edu/scott91lynx.html. Lynx (programming language). http://en.wikipedia.org/?curid=18530."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14703",
+  "eid" : "17331480-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778548168,
+  "textBody" : "Telephones - main lines in use:[https://www.cia.gov/library/publications/the-world-factbook/geos/it.html#Comm CIA World Fact Book]\n20.031 million (2008)\n\nTelephones - mobile cellular:\n88.58 million (2008)\n\nTelephone system:\nmodern, well-developed, fast; fully automated telephone, telex, and data services\ndomestic:\nhigh-capacity cable and microwave radio relay trunks\ninternational:\nsatellite earth stations - 3 Intelsat (with a total of 5 antennas - 3 for Atlantic Ocean and 2 for Indian Ocean), 1 Inmarsat (Atlantic Ocean region), and NA Eutelsat; 21 submarine cables.\n\nRadio broadcast stations:\nAM about 100, FM about 4,600, shortwave 9 (1998)\n\nRadios:\n50.5 million (1997)\n\nTelevision broadcast stations:\n358 (plus 4,728 repeaters) (1995)\n\nTelevisions:\n30.5 million (1997)\n\nInternet Hosts:\n22.152 million (2009)\n\nInternet users:\n24.992 million (2008)\n\nCountry code (Top-level domain): .it",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Telecommunications in Italy" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14703" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Telephones - main lines in use:[https://www.cia.gov/library/publications/the-world-factbook/geos/it.html#Comm CIA World Fact Book]\n20.031 million (2008)\n\nTelephones - mobile cellular:\n88.58 million (2008)\n\nTelephone system:\nmodern, well-developed, fast; fully automated telephone, telex, and data services\ndomestic:\nhigh-capacity cable and microwave radio relay trunks\ninternational:\nsatellite earth stations - 3 Intelsat (with a total of 5 antennas - 3 for Atlantic Ocean and 2 for Indian Ocean), 1 Inmarsat (Atlantic Ocean region), and NA Eutelsat; 21 submarine cables.\n\nRadio broadcast stations:\nAM about 100, FM about 4,600, shortwave 9 (1998)\n\nRadios:\n50.5 million (1997)\n\nTelevision broadcast stations:\n358 (plus 4,728 repeaters) (1995)\n\nTelevisions:\n30.5 million (1997)\n\nInternet Hosts:\n22.152 million (2009)\n\nInternet users:\n24.992 million (2008)\n\nCountry code (Top-level domain): .it. Telecommunications in Italy. http://en.wikipedia.org/?curid=14703."
+  }
+}

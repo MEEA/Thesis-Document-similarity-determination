@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=6119",
+  "eid" : "da032b90-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778445513,
+  "textBody" : "Context-sensitive is an adjective meaning \"depending on context\" or \"depending on circumstances\". It may refer to:\n\n* Context-sensitive meaning, where meaning depends on context (language use)\n** Context-sensitive grammar, a formal grammar in which the left-hand sides and right-hand sides of any production rules may be surrounded by a context of terminal and nonterminal symbols\n** Context-sensitive language, a formal language that can be defined by a context-sensitive grammar (and equivalently by a noncontracting grammar). Context-sensitive is one of the four types of grammars in the Chomsky hierarchy\n* Context-sensitive help, a kind of online help that is obtained from a specific point in the state of the software, providing help for the situation that is associated with that state\n* Context-sensitive solutions (transport) (also called Context Sensitive Design), a theoretical and practical approach to transportation decision-making and design that takes into consideration the communities and lands through which streets, roads, and highways pass (\"the context\")\n* Context-sensitive user interface, in computing",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Context-sensitive" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=6119" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Context-sensitive is an adjective meaning \"depending on context\" or \"depending on circumstances\". It may refer to:\n\n* Context-sensitive meaning, where meaning depends on context (language use)\n** Context-sensitive grammar, a formal grammar in which the left-hand sides and right-hand sides of any production rules may be surrounded by a context of terminal and nonterminal symbols\n** Context-sensitive language, a formal language that can be defined by a context-sensitive grammar (and equivalently by a noncontracting grammar). Context-sensitive is one of the four types of grammars in the Chomsky hierarchy\n* Context-sensitive help, a kind of online help that is obtained from a specific point in the state of the software, providing help for the situation that is associated with that state\n* Context-sensitive solutions (transport) (also called Context Sensitive Design), a theoretical and practical approach to transportation decision-making and design that takes into consideration the communities and lands through which streets, roads, and highways pass (\"the context\")\n* Context-sensitive user interface, in computing. Context-sensitive. http://en.wikipedia.org/?curid=6119."
+  }
+}

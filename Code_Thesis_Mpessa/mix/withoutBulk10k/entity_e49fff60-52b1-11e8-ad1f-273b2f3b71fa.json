@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7991",
+  "eid" : "e49fff60-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778463318,
+  "textBody" : "A disperser is a one-sided extractor.Ronen Shaltiel. Recent developments in explicit construction of extractors. P. 7. Where an extractor requires that every event gets the same probability under the uniform distribution and the extracted distribution, only the latter is required for a disperser. So for a disperser, an event A \\subseteq \\{0,1\\}^{m} we have:\nPr_{U_{m}}[A] > 1 - \\epsilon\n\nDefinition (Disperser): A (k, \\epsilon)-disperser is a function\n\nDis: \\{0,1\\}^{n}\\times \\{0,1\\}^{d}\\rightarrow \\{0,1\\}^{m}\n\nsuch that for every distribution X on \\{0,1\\}^{n} with H_{\\infty}(X) \\geq k the support of the distribution Dis(X,U_{d}) is of size at least (1-\\epsilon)2^{m}.\n\nGraph theory\n\nAn (N, M, D, K, e)-disperser is a bipartite graph with N vertices on the left side, each with degree D, and M vertices on the right side, such that every subset of K vertices on the left side is connected to more than (1 − e)M vertices on the right.\n\nAn extractor is a related type of graph that guarantees an even stronger property; every (N, M, D, K, e)-extractor is also an (N, M, D, K, e)-disperser.\n\nOther meanings\n\nA disperser is a high-speed mixing device used to disperse or dissolve pigments and other solids into a liquid.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Disperser" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7991" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A disperser is a one-sided extractor.Ronen Shaltiel. Recent developments in explicit construction of extractors. P. 7. Where an extractor requires that every event gets the same probability under the uniform distribution and the extracted distribution, only the latter is required for a disperser. So for a disperser, an event A \\subseteq \\{0,1\\}^{m} we have:\nPr_{U_{m}}[A] > 1 - \\epsilon\n\nDefinition (Disperser): A (k, \\epsilon)-disperser is a function\n\nDis: \\{0,1\\}^{n}\\times \\{0,1\\}^{d}\\rightarrow \\{0,1\\}^{m}\n\nsuch that for every distribution X on \\{0,1\\}^{n} with H_{\\infty}(X) \\geq k the support of the distribution Dis(X,U_{d}) is of size at least (1-\\epsilon)2^{m}.\n\nGraph theory\n\nAn (N, M, D, K, e)-disperser is a bipartite graph with N vertices on the left side, each with degree D, and M vertices on the right side, such that every subset of K vertices on the left side is connected to more than (1 − e)M vertices on the right.\n\nAn extractor is a related type of graph that guarantees an even stronger property; every (N, M, D, K, e)-extractor is also an (N, M, D, K, e)-disperser.\n\nOther meanings\n\nA disperser is a high-speed mixing device used to disperse or dissolve pigments and other solids into a liquid. Disperser. http://en.wikipedia.org/?curid=7991."
+  }
+}

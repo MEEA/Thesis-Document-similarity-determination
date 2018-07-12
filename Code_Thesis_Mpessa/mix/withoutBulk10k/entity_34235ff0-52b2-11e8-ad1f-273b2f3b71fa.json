@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18641",
+  "eid" : "34235ff0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778596719,
+  "textBody" : "Jonathan Smeeton is a British lighting designer who has also worked under the name of Liquid Len.\n\nSmeeton was the creator of \"Liquid Len and the Lensmen\" (a reference to the Lensman space opera books) who provided lightshows for the band Hawkwind in the 1970s.\n\nHe has worked for groups such as The Rolling Stones, Jane's Addiction, Marilyn Manson, and Wham!\n\nHe was name-checked in the Genesis tune \"The Battle of Epping Forest\" from Selling England by the Pound: \n\nIn 2009, Smeeton was production designer to Taylor Swift.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Jonathan Smeeton" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18641" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Jonathan Smeeton is a British lighting designer who has also worked under the name of Liquid Len.\n\nSmeeton was the creator of \"Liquid Len and the Lensmen\" (a reference to the Lensman space opera books) who provided lightshows for the band Hawkwind in the 1970s.\n\nHe has worked for groups such as The Rolling Stones, Jane's Addiction, Marilyn Manson, and Wham!\n\nHe was name-checked in the Genesis tune \"The Battle of Epping Forest\" from Selling England by the Pound: \n\nIn 2009, Smeeton was production designer to Taylor Swift. Jonathan Smeeton. http://en.wikipedia.org/?curid=18641."
+  }
+}

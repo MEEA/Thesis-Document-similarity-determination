@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=5634",
+  "eid" : "d6636f90-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778439433,
+  "textBody" : "The pages listed below contain information about trends and events in particular centuries and millennia.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "List of centuries" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=5634" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The pages listed below contain information about trends and events in particular centuries and millennia. List of centuries. http://en.wikipedia.org/?curid=5634."
+  }
+}

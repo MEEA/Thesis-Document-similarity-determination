@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2429",
+  "eid" : "c04904e0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778402350,
+  "textBody" : "Audio most commonly refers to sound, as it is transmitted in signal form. It may also refer to:\n\nSound\n\n*Audio signal, an electrical representation of sound\n*Audio frequency, a frequency in the audio spectrum\n*Digital audio, representation of sound in a form processed and/or stored by computers or other digital electronics\n*Audio, audible content (media) in audio production and publishing\n*Semantic audio, extraction of symbols or meaning from audio\n\nEntertainment\n\n*AUDIO (group), an American R&B band of 5 brothers formerly known as TNT Boyz and as B5\n*Audio (album), an album by the Blue Man Group\n*Audio (magazine), a magazine published from 1947 to 2000\n*Audio (musician), a UK drum and bass artist\n\nComputing\n\n*, an HTML element, see HTML5 Audio",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Audio" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2429" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Audio most commonly refers to sound, as it is transmitted in signal form. It may also refer to:\n\nSound\n\n*Audio signal, an electrical representation of sound\n*Audio frequency, a frequency in the audio spectrum\n*Digital audio, representation of sound in a form processed and/or stored by computers or other digital electronics\n*Audio, audible content (media) in audio production and publishing\n*Semantic audio, extraction of symbols or meaning from audio\n\nEntertainment\n\n*AUDIO (group), an American R&B band of 5 brothers formerly known as TNT Boyz and as B5\n*Audio (album), an album by the Blue Man Group\n*Audio (magazine), a magazine published from 1947 to 2000\n*Audio (musician), a UK drum and bass artist\n\nComputing\n\n*, an HTML element, see HTML5 Audio. Audio. http://en.wikipedia.org/?curid=2429."
+  }
+}

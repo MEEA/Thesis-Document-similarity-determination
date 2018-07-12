@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8058",
+  "eid" : "e5061430-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778463987,
+  "textBody" : "There is no standing army in Dominica since 1981.[http://www.demilitarisation.org/spip.php?article51&lang=en Overview. 26 countries without armies], ARPED  Defense is the responsibility of Regional Security System (RSS).\n\nThe civil Commonwealth of Dominica Police Force includes a Special Service Unit, Coast Guard. In the event of war or other emergency, if proclaimed by the authorities, the Police Force shall be a military force which may be employed for State defence (Police Act, Chapter 14:01).cited literally from [http://www.resdal.org/atlas/atlas10-ing-09-the-caribbean.pdf The Caribbean: Defence and Security in the Anglophone Caribbean — The Roads to Cooperation]. in A Comparative Atlas of Defence in Latin America and Caribbean, 2010 Edition, table Defence Force’s Mission, p. 113 (pp. 113-128, pdf p. 1)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Military of Dominica" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8058" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "There is no standing army in Dominica since 1981.[http://www.demilitarisation.org/spip.php?article51&lang=en Overview. 26 countries without armies], ARPED  Defense is the responsibility of Regional Security System (RSS).\n\nThe civil Commonwealth of Dominica Police Force includes a Special Service Unit, Coast Guard. In the event of war or other emergency, if proclaimed by the authorities, the Police Force shall be a military force which may be employed for State defence (Police Act, Chapter 14:01).cited literally from [http://www.resdal.org/atlas/atlas10-ing-09-the-caribbean.pdf The Caribbean: Defence and Security in the Anglophone Caribbean — The Roads to Cooperation]. in A Comparative Atlas of Defence in Latin America and Caribbean, 2010 Edition, table Defence Force’s Mission, p. 113 (pp. 113-128, pdf p. 1). Military of Dominica. http://en.wikipedia.org/?curid=8058."
+  }
+}

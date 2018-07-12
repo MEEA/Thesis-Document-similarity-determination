@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7291",
+  "eid" : "e0d514b0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778456955,
+  "textBody" : "CuteFTP is a series of FTP (file transfer protocol) client applications distributed and supported  since 1996 by GlobalSCAPE, who later bought the rights to the software. Both a Windows-based or Mac-based interface were made for both home and professional use.\n\nCuteFTP is used to transfer files between computers and File Transfer Protocol (FTP) servers to publish web pages, download digital images, music, multi-media files and software, and transfer files of any size or type between home and office.http://www.Globalscape.fr/?producteft-server French Website with Schreenshothttp://www.Globalscape.it/?product\nftp-server-per-la-piccola-impressa Italian Website with Schreenshots Since 1999, CuteFTP Pro and CuteFTP Mac Pro have also been available alongside CuteFTP Home with free trial periods.\n\nIt was originally developed by Alex Kunadze, a Russian programmer.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "CuteFTP" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7291" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "CuteFTP is a series of FTP (file transfer protocol) client applications distributed and supported  since 1996 by GlobalSCAPE, who later bought the rights to the software. Both a Windows-based or Mac-based interface were made for both home and professional use.\n\nCuteFTP is used to transfer files between computers and File Transfer Protocol (FTP) servers to publish web pages, download digital images, music, multi-media files and software, and transfer files of any size or type between home and office.http://www.Globalscape.fr/?producteft-server French Website with Schreenshothttp://www.Globalscape.it/?product\nftp-server-per-la-piccola-impressa Italian Website with Schreenshots Since 1999, CuteFTP Pro and CuteFTP Mac Pro have also been available alongside CuteFTP Home with free trial periods.\n\nIt was originally developed by Alex Kunadze, a Russian programmer. CuteFTP. http://en.wikipedia.org/?curid=7291."
+  }
+}

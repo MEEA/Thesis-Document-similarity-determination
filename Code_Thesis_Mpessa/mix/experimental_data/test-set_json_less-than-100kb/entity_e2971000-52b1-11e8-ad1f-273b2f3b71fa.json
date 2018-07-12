@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7619",
+  "eid" : "e2971000-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778459904,
+  "textBody" : "Capella, meaning \"small she goat\" in classical Latin, and chapel in medieval Latin, may refer to:\n\nObjects\n\n* Capella is a bright star in the constellation of Auriga (after the she goat)\n* Capella (crater), an impact crater on the Moon\n* Mazda Capella, a model of automobile manufactured by Mazda\n* USS Capella, a cargo ship in the United States Navy\n* Gallinago or Capella, a genus of snipes\n* Capella, an Open Source engineering solution\n\nOrganizations\n\n* Capella Aircraft, an American aircraft manufacturer\n\nPlaces\n\n* Capella, Queensland, a small town in Australia\n* Capella Island, a minor island of the U.S. Virgin Islands\n* Capella University, an online academic institution based in Minneapolis, Minnesota\n* Capella, Aragon, a municipality in Huesca, Spain\n\nMusic\n\n* Capella, meaning 'chapel' a generic term for a musical ensemble\n* Capella (notation program), a music scorewriter by capella Software AG (formerly WHC software), Germany\n* Capella Cracoviensis, Kraków, a music emsemble \n* Capella Savaria, Szombathely, a music emsemble \n* Capella Istropolitana, Bratislava,  a music emsemble \n* Capella, Catalan for 'chapel', as La Capella Reial de Catalunya\n* Alta capella, also Capella alta, \"high chapel\", wind ensemble in renaissance Europe\n* Cappella, Italian Eurodance group from the 1990s - also related to Anticappella\n\nPeople with the name\n\n* Martianus Capella, writer and astronomer of late antiquity\n* Tom Capella, American politician",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Capella (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7619" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Capella, meaning \"small she goat\" in classical Latin, and chapel in medieval Latin, may refer to:\n\nObjects\n\n* Capella is a bright star in the constellation of Auriga (after the she goat)\n* Capella (crater), an impact crater on the Moon\n* Mazda Capella, a model of automobile manufactured by Mazda\n* USS Capella, a cargo ship in the United States Navy\n* Gallinago or Capella, a genus of snipes\n* Capella, an Open Source engineering solution\n\nOrganizations\n\n* Capella Aircraft, an American aircraft manufacturer\n\nPlaces\n\n* Capella, Queensland, a small town in Australia\n* Capella Island, a minor island of the U.S. Virgin Islands\n* Capella University, an online academic institution based in Minneapolis, Minnesota\n* Capella, Aragon, a municipality in Huesca, Spain\n\nMusic\n\n* Capella, meaning 'chapel' a generic term for a musical ensemble\n* Capella (notation program), a music scorewriter by capella Software AG (formerly WHC software), Germany\n* Capella Cracoviensis, Kraków, a music emsemble \n* Capella Savaria, Szombathely, a music emsemble \n* Capella Istropolitana, Bratislava,  a music emsemble \n* Capella, Catalan for 'chapel', as La Capella Reial de Catalunya\n* Alta capella, also Capella alta, \"high chapel\", wind ensemble in renaissance Europe\n* Cappella, Italian Eurodance group from the 1990s - also related to Anticappella\n\nPeople with the name\n\n* Martianus Capella, writer and astronomer of late antiquity\n* Tom Capella, American politician. Capella (disambiguation). http://en.wikipedia.org/?curid=7619."
+  }
+}

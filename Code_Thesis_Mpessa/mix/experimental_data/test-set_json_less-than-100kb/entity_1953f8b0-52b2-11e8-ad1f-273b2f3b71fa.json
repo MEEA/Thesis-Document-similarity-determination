@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15031",
+  "eid" : "1953f8b0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778551739,
+  "textBody" : "IPCC may refer to:\n\n* Independent Police Complaints Commission of England and Wales\n* Independent Police Complaints Council of Hong Kong\n* Integrated Professional Competency Course, a course of the Institute of Chartered Accountants of India\n* Intergovernmental Panel on Climate Change, a scientific body under the auspices of the United Nations.\n* Interworld Police Coordinating Company, a fictional organization in Jack Vance's novels\n* Irish Peatland Conservation Council",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "IPCC (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15031" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "IPCC may refer to:\n\n* Independent Police Complaints Commission of England and Wales\n* Independent Police Complaints Council of Hong Kong\n* Integrated Professional Competency Course, a course of the Institute of Chartered Accountants of India\n* Intergovernmental Panel on Climate Change, a scientific body under the auspices of the United Nations.\n* Interworld Police Coordinating Company, a fictional organization in Jack Vance's novels\n* Irish Peatland Conservation Council. IPCC (disambiguation). http://en.wikipedia.org/?curid=15031."
+  }
+}

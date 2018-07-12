@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8780",
+  "eid" : "ea4bb800-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778472832,
+  "textBody" : "Debian GNU/Hurd is the Debian project's distribution of the GNU operating system, using the GNU Hurd microkernel.\n\nDebian GNU/Hurd has been in development since 1998,\n and made a formal release in May 2013, with 78% of the software packaged for Debian GNU/Linux ported to the GNU Hurd.\n The Debian GNU/Hurd developers were hoping to be able to release it with Debian \"Wheezy\" in 2013. However, Hurd is not yet an official Debian release, and is maintained and developed as an unofficial port.\n\nAccording to the GNU/Hurd compatibility guide, the current version is compatible with laptops but there is no PCMCIA support yet.\n\nDebian GNU/Hurd is distributed as an installer CD (running the official Debian installer) or ready-to-run virtual disk image (Live CD, Live USB). The CD uses the IA-32 architecture, making it compatible with IA-32 and x86-64 PCs.\n\nThe current version of Debian GNU/Hurd is 2017, published in January 2017.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Debian GNU/Hurd" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8780" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Debian GNU/Hurd is the Debian project's distribution of the GNU operating system, using the GNU Hurd microkernel.\n\nDebian GNU/Hurd has been in development since 1998,\n and made a formal release in May 2013, with 78% of the software packaged for Debian GNU/Linux ported to the GNU Hurd.\n The Debian GNU/Hurd developers were hoping to be able to release it with Debian \"Wheezy\" in 2013. However, Hurd is not yet an official Debian release, and is maintained and developed as an unofficial port.\n\nAccording to the GNU/Hurd compatibility guide, the current version is compatible with laptops but there is no PCMCIA support yet.\n\nDebian GNU/Hurd is distributed as an installer CD (running the official Debian installer) or ready-to-run virtual disk image (Live CD, Live USB). The CD uses the IA-32 architecture, making it compatible with IA-32 and x86-64 PCs.\n\nThe current version of Debian GNU/Hurd is 2017, published in January 2017. Debian GNU/Hurd. http://en.wikipedia.org/?curid=8780."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=5763",
+  "eid" : "d7a2cd60-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778441526,
+  "textBody" : "Cantonese is a language originating in Guangzhou City, Southern China\n\nCantonese may also refer to:\n* Yue Chinese, Chinese languages that includes Cantonese\n* Cantonese cuisine, the cuisine of Guangdong province\n* Cantonese grammar, the grammar of the Cantonese language\n* Cantonese opera, a type of Chinese Opera\n* Cantonese people, the native people of Guangdong and Guangxi\n* Cantonese pronouns, the pronouns of the Cantonese language\n* Cantonese Braille, a Cantonese language version of Braille in Hong Kong\n* Cantonese cancer, one of the many names for Nasopharynx cancer",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Cantonese (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=5763" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Cantonese is a language originating in Guangzhou City, Southern China\n\nCantonese may also refer to:\n* Yue Chinese, Chinese languages that includes Cantonese\n* Cantonese cuisine, the cuisine of Guangdong province\n* Cantonese grammar, the grammar of the Cantonese language\n* Cantonese opera, a type of Chinese Opera\n* Cantonese people, the native people of Guangdong and Guangxi\n* Cantonese pronouns, the pronouns of the Cantonese language\n* Cantonese Braille, a Cantonese language version of Braille in Hong Kong\n* Cantonese cancer, one of the many names for Nasopharynx cancer. Cantonese (disambiguation). http://en.wikipedia.org/?curid=5763."
+  }
+}

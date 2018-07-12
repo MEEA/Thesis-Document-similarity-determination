@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14327",
+  "eid" : "13be6020-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778542370,
+  "textBody" : "Five ships of the Royal Australian Navy (RAN) have been named HMAS Sydney, after Sydney, the capital city of New South Wales.\n\n*, a Town-class light cruiser launched in 1912, decommissioned in 1928, and broken up for scrap\n*, a Leander-class light cruiser launched in 1934, and sunk following a battle with the German auxiliary cruiser Kormoran on 19 November 1941\n*, a Majestic-class light aircraft carrier launched in 1944, decommissioned in 1973, and broken up for scrap\n*, an Adelaide-class guided missile frigate launched in 1980, and decommissioned in 2015\n*, a Hobart-class air warfare destroyer slated to enter service in 2020\n\nBattle honours\n\nBetween them, vessels named HMAS Sydney have been awarded fourteen battle honours by the Royal Australian Navy. These include two of the only three battle honours awarded in the 20th century for an action involving a single opposing ship:The two action honours were awarded for the sinking of the German vessels Emden and Kormoran. The third honour was awarded to ships involved in the last battle of the battleship Bismarck.\n\n* Rabaul 1914\n* Emden 1914\n* North Sea 1916–18\n* Calabria 1940\n* Spada 1940\n* Mediterranean 1940\n* Kormoran 1941\n* Korea 1951–52\n* Malaysia 1964\n* Vietnam 1965–72\n* Kuwait 1991\n* East Timor 1999\n* Persian Gulf 2001–03\n* Iraq 2003",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "HMAS Sydney" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14327" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Five ships of the Royal Australian Navy (RAN) have been named HMAS Sydney, after Sydney, the capital city of New South Wales.\n\n*, a Town-class light cruiser launched in 1912, decommissioned in 1928, and broken up for scrap\n*, a Leander-class light cruiser launched in 1934, and sunk following a battle with the German auxiliary cruiser Kormoran on 19 November 1941\n*, a Majestic-class light aircraft carrier launched in 1944, decommissioned in 1973, and broken up for scrap\n*, an Adelaide-class guided missile frigate launched in 1980, and decommissioned in 2015\n*, a Hobart-class air warfare destroyer slated to enter service in 2020\n\nBattle honours\n\nBetween them, vessels named HMAS Sydney have been awarded fourteen battle honours by the Royal Australian Navy. These include two of the only three battle honours awarded in the 20th century for an action involving a single opposing ship:The two action honours were awarded for the sinking of the German vessels Emden and Kormoran. The third honour was awarded to ships involved in the last battle of the battleship Bismarck.\n\n* Rabaul 1914\n* Emden 1914\n* North Sea 1916–18\n* Calabria 1940\n* Spada 1940\n* Mediterranean 1940\n* Kormoran 1941\n* Korea 1951–52\n* Malaysia 1964\n* Vietnam 1965–72\n* Kuwait 1991\n* East Timor 1999\n* Persian Gulf 2001–03\n* Iraq 2003. HMAS Sydney. http://en.wikipedia.org/?curid=14327."
+  }
+}

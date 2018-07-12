@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10267",
+  "eid" : "f4a8eac0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778490220,
+  "textBody" : "Entente, meaning a diplomatic \"understanding\", may refer to a number of agreements:\n\nHistory \n\n* The Entente cordiale, 1904 between France and the United Kingdom\n* The Anglo-Russian Entente, 1907 between the United Kingdom and Russia\n* The Triple Entente, an alliance between Great Britain, France and Russia formed by the two aforementioned Ententes\n** Allies of World War I, with the Triple Entente countries as the main participants, sometimes referred to as \"The Entente\", \"The Entente Powers\", or \"The Entente Forces\"\n* The Little Entente, 1920 to 1938 between Czechoslovakia, Romania, and the Kingdom of Yugoslavia\n* The Balkan Entente, 1934 to 1938 between Greece, Turkey, Romania and Yugoslavia\n* The Baltic Entente, 1934 to 1939 between Lithuania, Latvia, and Estonia\n* The Conseil de l'Entente, 1959 between Côte d'Ivoire, Burkina Faso, Benin, Niger, and (in 1966) Togo\n* Entente frugale, cooperation between the British and French governments, announced in November 2010\n* Entente (type of alliance), a type of treaty or military alliance where the signatories promise to consult each other or to cooperate with each other in case of a crisis or military action.\n\nOther \n\n* The Entente Florale, an international competition recognising European municipalities and villages for excellence in horticultural displays\n* International Entente Against the Third International, an international anticommunist organisation founded in 1924",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Entente" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10267" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Entente, meaning a diplomatic \"understanding\", may refer to a number of agreements:\n\nHistory \n\n* The Entente cordiale, 1904 between France and the United Kingdom\n* The Anglo-Russian Entente, 1907 between the United Kingdom and Russia\n* The Triple Entente, an alliance between Great Britain, France and Russia formed by the two aforementioned Ententes\n** Allies of World War I, with the Triple Entente countries as the main participants, sometimes referred to as \"The Entente\", \"The Entente Powers\", or \"The Entente Forces\"\n* The Little Entente, 1920 to 1938 between Czechoslovakia, Romania, and the Kingdom of Yugoslavia\n* The Balkan Entente, 1934 to 1938 between Greece, Turkey, Romania and Yugoslavia\n* The Baltic Entente, 1934 to 1939 between Lithuania, Latvia, and Estonia\n* The Conseil de l'Entente, 1959 between Côte d'Ivoire, Burkina Faso, Benin, Niger, and (in 1966) Togo\n* Entente frugale, cooperation between the British and French governments, announced in November 2010\n* Entente (type of alliance), a type of treaty or military alliance where the signatories promise to consult each other or to cooperate with each other in case of a crisis or military action.\n\nOther \n\n* The Entente Florale, an international competition recognising European municipalities and villages for excellence in horticultural displays\n* International Entente Against the Third International, an international anticommunist organisation founded in 1924. Entente. http://en.wikipedia.org/?curid=10267."
+  }
+}

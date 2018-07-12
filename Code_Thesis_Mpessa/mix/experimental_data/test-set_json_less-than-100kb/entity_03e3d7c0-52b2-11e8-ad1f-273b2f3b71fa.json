@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12649",
+  "eid" : "03e3d7c0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778515772,
+  "textBody" : "Gary may refer to: \n\nPlaces\n \n;Iran\n*Gary, Iran, Sistan and Baluchestan Province\n;United States\n*Gary (Tampa), Florida\n*Gary, Indiana\n*Gary, Minnesota\n*Gary, South Dakota\n*Gary, West Virginia\n*Gary – New Duluth, a neighborhood in Duluth, Minnesota\n*Gary Air Force Base, San Marcos, Texas\n*Gary City, Texas\n\nShips\n\n*USS Gary (DE-61), a destroyer escort launched in 1943\n*USS Gary (CL-147), scheduled to be a light cruiser, but canceled prior to construction in 1945\n*USS Gary (FFG-51), a frigate, commissioned in 1984\n*USS Thomas J. Gary (DE-326), a destroyer escort commissioned in 1943\n\nPeople and fictional characters\n\n*Gary (given name), a common masculine given name, including a list of people and fictional characters with the name\n*Gary (surname), including a list of people with the name\n*Gary (entertainer), South Korean rapper and entertainer\n\nOther uses\n\n*Gary: Tank Commander, a British television sitcom\n*Gary (mango), a mango cultivar\n*4735 Gary, an asteroid",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Gary" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12649" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Gary may refer to: \n\nPlaces\n \n;Iran\n*Gary, Iran, Sistan and Baluchestan Province\n;United States\n*Gary (Tampa), Florida\n*Gary, Indiana\n*Gary, Minnesota\n*Gary, South Dakota\n*Gary, West Virginia\n*Gary – New Duluth, a neighborhood in Duluth, Minnesota\n*Gary Air Force Base, San Marcos, Texas\n*Gary City, Texas\n\nShips\n\n*USS Gary (DE-61), a destroyer escort launched in 1943\n*USS Gary (CL-147), scheduled to be a light cruiser, but canceled prior to construction in 1945\n*USS Gary (FFG-51), a frigate, commissioned in 1984\n*USS Thomas J. Gary (DE-326), a destroyer escort commissioned in 1943\n\nPeople and fictional characters\n\n*Gary (given name), a common masculine given name, including a list of people and fictional characters with the name\n*Gary (surname), including a list of people with the name\n*Gary (entertainer), South Korean rapper and entertainer\n\nOther uses\n\n*Gary: Tank Commander, a British television sitcom\n*Gary (mango), a mango cultivar\n*4735 Gary, an asteroid. Gary. http://en.wikipedia.org/?curid=12649."
+  }
+}

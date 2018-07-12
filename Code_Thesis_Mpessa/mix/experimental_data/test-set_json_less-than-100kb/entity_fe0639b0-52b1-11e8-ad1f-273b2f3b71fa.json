@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11800",
+  "eid" : "fe0639b0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778505931,
+  "textBody" : "Futurism was an artistic and social movement that originated in Italy in the early 20th century.\n\nA Futurist may be:\n*A practitioner of futurism, an artistic and social movement\n*A practitioner of futures studies, also known as futurology, the study of possible futures\n\nFuturism or futurist may also refer to:\n\n* Afrofuturism, an African-American and African diaspora subculture\n* Cubo-Futurism\n* Ego-Futurism\n* Futurism (Christianity), an interpretation of the Bible in Christian eschatology\n* Futurism (Judaism)\n* Futurism (literature)\n* Futurism (website)\n* Futurist (comics), a Marvel Comics character\n* Futurist (magazine), published by the World Future Society\n* Futurist Architecture, an architectural movement begun in Italy in 1904\n* Futurist meals, a gastronomic movement based on Futurism\n* Futurist Theatre, based in Scarborough, England\n* Futurists or futurologists, scientists whose speciality is to attempt to predict the future\n* Futurists (play), a play by Dusty Hughes\n* Indigenous Futurism\n* Italian Futurism (cinema)\n* Neo-Futurism, a contemporary art and architecture movement\n* Post-Futurism\n* Retro-futurism, a modern art movement\n* Russian Futurism\n\nMusic\n\n* Futurist (Alec Empire album), 2005\n* Futurist (Keeno album), 2016\n* The Futurist (Robert Downey Jr. album), 2004\n* The Futurist (Shellac album), 1997\n* Futurism (music), a movement in music\n* Musica Futurista, an album of Futurist music\n* \"Futurist\", a song by Miss Kittin from On the Road\n* Futurism, an album by Danny Tenaglia",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Futurism (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11800" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Futurism was an artistic and social movement that originated in Italy in the early 20th century.\n\nA Futurist may be:\n*A practitioner of futurism, an artistic and social movement\n*A practitioner of futures studies, also known as futurology, the study of possible futures\n\nFuturism or futurist may also refer to:\n\n* Afrofuturism, an African-American and African diaspora subculture\n* Cubo-Futurism\n* Ego-Futurism\n* Futurism (Christianity), an interpretation of the Bible in Christian eschatology\n* Futurism (Judaism)\n* Futurism (literature)\n* Futurism (website)\n* Futurist (comics), a Marvel Comics character\n* Futurist (magazine), published by the World Future Society\n* Futurist Architecture, an architectural movement begun in Italy in 1904\n* Futurist meals, a gastronomic movement based on Futurism\n* Futurist Theatre, based in Scarborough, England\n* Futurists or futurologists, scientists whose speciality is to attempt to predict the future\n* Futurists (play), a play by Dusty Hughes\n* Indigenous Futurism\n* Italian Futurism (cinema)\n* Neo-Futurism, a contemporary art and architecture movement\n* Post-Futurism\n* Retro-futurism, a modern art movement\n* Russian Futurism\n\nMusic\n\n* Futurist (Alec Empire album), 2005\n* Futurist (Keeno album), 2016\n* The Futurist (Robert Downey Jr. album), 2004\n* The Futurist (Shellac album), 1997\n* Futurism (music), a movement in music\n* Musica Futurista, an album of Futurist music\n* \"Futurist\", a song by Miss Kittin from On the Road\n* Futurism, an album by Danny Tenaglia. Futurism (disambiguation). http://en.wikipedia.org/?curid=11800."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16931",
+  "eid" : "29c283b1-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778579307,
+  "textBody" : "Kaber may refer to:\n\n* a variant spelling for caber\n\nPeople \n\n* Kaber (Jubilees), a person named in Jubilees\n\nPlace \n\n* Kaber, Cumbria",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Kaber" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16931" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Kaber may refer to:\n\n* a variant spelling for caber\n\nPeople \n\n* Kaber (Jubilees), a person named in Jubilees\n\nPlace \n\n* Kaber, Cumbria. Kaber. http://en.wikipedia.org/?curid=16931."
+  }
+}

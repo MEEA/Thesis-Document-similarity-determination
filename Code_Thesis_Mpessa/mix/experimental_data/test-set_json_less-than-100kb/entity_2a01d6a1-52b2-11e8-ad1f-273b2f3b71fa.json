@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17010",
+  "eid" : "2a01d6a1-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778579722,
+  "textBody" : "There are several places named Kinderhook in the United States:\n\nPlaces\n\n* Kinderhook, Illinois, a village in Pike County\n* Kinderhook Creek, a tributary of the Hudson River\n* Kinderhook (town), New York, in Columbia County\n** Kinderhook (village), New York, in the above town\n* Kinderhook, Ohio, an unincorporated community\n* Kinderhook Township, Pike County, Illinois\n* Kinderhook Township, Michigan, in Branch County\n\nOther\n\n*\"Old Kinderhook\", a name applied to U.S. President Martin Van Buren\n*Kinderhook plates, a hoax perpetrated on 19th century Mormons",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Kinderhook" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17010" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "There are several places named Kinderhook in the United States:\n\nPlaces\n\n* Kinderhook, Illinois, a village in Pike County\n* Kinderhook Creek, a tributary of the Hudson River\n* Kinderhook (town), New York, in Columbia County\n** Kinderhook (village), New York, in the above town\n* Kinderhook, Ohio, an unincorporated community\n* Kinderhook Township, Pike County, Illinois\n* Kinderhook Township, Michigan, in Branch County\n\nOther\n\n*\"Old Kinderhook\", a name applied to U.S. President Martin Van Buren\n*Kinderhook plates, a hoax perpetrated on 19th century Mormons. Kinderhook. http://en.wikipedia.org/?curid=17010."
+  }
+}

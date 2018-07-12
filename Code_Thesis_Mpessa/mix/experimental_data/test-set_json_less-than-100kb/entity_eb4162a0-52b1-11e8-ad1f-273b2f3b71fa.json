@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8895",
+  "eid" : "eb4162a0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778474442,
+  "textBody" : "Despina is a given name for girls, meaning 'lady' in Greek. Most of the time it refers to the Virgin Mary, Our Lady.  The masculine of Despina is Despot or the equivalent of ruler or king.  Very common among Greek people, it may refer to:\n\n* Despina Delios\n* Despina Vandi\n* Olivera Despina (ca. 1373 - died after 1444), Serbian princess and Ottoman queen consort\n* Milica Despina of Wallachia, Princess consort of Wallachia by marriage to Neagoe Basarab.\n* Maria Despina\n\nIt may also refer to:\n* Despoina, a figure in Greek mythology\n* Despina (moon), a moon of Neptune\n* Despina, a character in Mozart's opera Così fan tutte\n* \"Despoina\", a song by Nikos Karvelas",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Despina" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8895" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Despina is a given name for girls, meaning 'lady' in Greek. Most of the time it refers to the Virgin Mary, Our Lady.  The masculine of Despina is Despot or the equivalent of ruler or king.  Very common among Greek people, it may refer to:\n\n* Despina Delios\n* Despina Vandi\n* Olivera Despina (ca. 1373 - died after 1444), Serbian princess and Ottoman queen consort\n* Milica Despina of Wallachia, Princess consort of Wallachia by marriage to Neagoe Basarab.\n* Maria Despina\n\nIt may also refer to:\n* Despoina, a figure in Greek mythology\n* Despina (moon), a moon of Neptune\n* Despina, a character in Mozart's opera Così fan tutte\n* \"Despoina\", a song by Nikos Karvelas. Despina. http://en.wikipedia.org/?curid=8895."
+  }
+}

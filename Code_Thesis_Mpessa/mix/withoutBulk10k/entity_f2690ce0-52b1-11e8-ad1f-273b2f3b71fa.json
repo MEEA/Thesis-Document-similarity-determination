@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=9846",
+  "eid" : "f2690ce0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778486446,
+  "textBody" : "Elbing is the German name of Elbląg, a city in northern Poland which until 1945 was a German city in the province of East Prussia.\n\nElbing may also refer to:\n\nPlaces \n\n* Elbląg (river), on which the city of Elbląg is located\n* Elbing, Kansas, a city in USA\n\nShips \n\n* SMS Elbing, light cruiser of the Imperial Germany Navy\n* Elbing class torpedo boat in the German Kriegsmarine during World War II\n* , a cargo ship in service 1934-45",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Elbing (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=9846" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Elbing is the German name of Elbląg, a city in northern Poland which until 1945 was a German city in the province of East Prussia.\n\nElbing may also refer to:\n\nPlaces \n\n* Elbląg (river), on which the city of Elbląg is located\n* Elbing, Kansas, a city in USA\n\nShips \n\n* SMS Elbing, light cruiser of the Imperial Germany Navy\n* Elbing class torpedo boat in the German Kriegsmarine during World War II\n* , a cargo ship in service 1934-45. Elbing (disambiguation). http://en.wikipedia.org/?curid=9846."
+  }
+}

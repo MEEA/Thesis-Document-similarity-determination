@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14952",
+  "eid" : "18eb24c0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778551052,
+  "textBody" : "IBF may refer to:\n\nBusiness\n\n*International Banking Facility (IBF) is a legal entity of a US bank\n*Irish Banking Federation, a banking representative body in Ireland\n\nSports\n\n*International Boxing Federation (IBF) is one of several boxing organisations\n* International Bandy Federation, former name of Federation of International Bandy (FIB), the international governing body for bandy\n* International Badminton Federation, former name of Badminton World Federation (BWF), the international governing body for badminton\n*International Baseball Federation (IBAF), the international governing body for baseball\n*International Basketball Federation (FIBA), the international governing body for basketball\n*Iran Basketball Federation (IBF) is a basketball league in Iran",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "IBF (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14952" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "IBF may refer to:\n\nBusiness\n\n*International Banking Facility (IBF) is a legal entity of a US bank\n*Irish Banking Federation, a banking representative body in Ireland\n\nSports\n\n*International Boxing Federation (IBF) is one of several boxing organisations\n* International Bandy Federation, former name of Federation of International Bandy (FIB), the international governing body for bandy\n* International Badminton Federation, former name of Badminton World Federation (BWF), the international governing body for badminton\n*International Baseball Federation (IBAF), the international governing body for baseball\n*International Basketball Federation (FIBA), the international governing body for basketball\n*Iran Basketball Federation (IBF) is a basketball league in Iran. IBF (disambiguation). http://en.wikipedia.org/?curid=14952."
+  }
+}

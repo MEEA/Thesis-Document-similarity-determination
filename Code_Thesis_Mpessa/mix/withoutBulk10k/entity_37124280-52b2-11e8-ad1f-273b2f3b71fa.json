@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19020",
+  "eid" : "37124280-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778601640,
+  "textBody" : "Morphology, from the Greek and meaning \"study of shape\", may mean:\n\nDisciplines\n\n*Morphology (archaeology), study of the shapes or forms of artifacts\n*Morphology (astronomy), study of the shape of astronomical objects such as nebulae, galaxies, or other extended objects\n*Morphology (biology), the study of the form or shape of an organism or part thereof\n*Morphology (folkloristics), the structure of narratives such as folk tales\n*Morphology (linguistics), the study of the structure and content of word forms\n*Mathematical morphology, a theoretical model based on lattice theory, used for digital image processing\n*River morphology, the field of science dealing with changes of river platform\n*Urban morphology, study of the form, structure, formation and transformation of human settlements\n*Geomorphology, the study of landforms\n*Morphology (architecture and engineering), research which is based on theories of two-dimensional and three-dimensional symmetries, and then uses these geometries for planning buildings and structures\n\nOther\n\n*Journal of Morphology, peer-reviewed scientific journal of anatomy and morphology \n*Morphology (journal), peer-reviewed academic journal in linguistic morphology\n*Morphology, 1994 album by Finnish band Neuroactive",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Morphology" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19020" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Morphology, from the Greek and meaning \"study of shape\", may mean:\n\nDisciplines\n\n*Morphology (archaeology), study of the shapes or forms of artifacts\n*Morphology (astronomy), study of the shape of astronomical objects such as nebulae, galaxies, or other extended objects\n*Morphology (biology), the study of the form or shape of an organism or part thereof\n*Morphology (folkloristics), the structure of narratives such as folk tales\n*Morphology (linguistics), the study of the structure and content of word forms\n*Mathematical morphology, a theoretical model based on lattice theory, used for digital image processing\n*River morphology, the field of science dealing with changes of river platform\n*Urban morphology, study of the form, structure, formation and transformation of human settlements\n*Geomorphology, the study of landforms\n*Morphology (architecture and engineering), research which is based on theories of two-dimensional and three-dimensional symmetries, and then uses these geometries for planning buildings and structures\n\nOther\n\n*Journal of Morphology, peer-reviewed scientific journal of anatomy and morphology \n*Morphology (journal), peer-reviewed academic journal in linguistic morphology\n*Morphology, 1994 album by Finnish band Neuroactive. Morphology. http://en.wikipedia.org/?curid=19020."
+  }
+}

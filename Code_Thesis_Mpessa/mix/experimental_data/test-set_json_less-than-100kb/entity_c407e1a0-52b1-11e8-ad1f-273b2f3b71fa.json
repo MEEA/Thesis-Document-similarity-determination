@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3074",
+  "eid" : "c407e1a0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778408634,
+  "textBody" : "Androphagi (Ancient Greek : \"Ἀνδροφάγοι\" for \"man-eaters\") was an ancient nation of cannibals north of Scythia (according to HerodotusHerodotus iv. 18, 106), probably in the forests between the upper waters of the Dnepr and Don. These people may have assisted the Scythians when King Darius the Great led a Persian invasion into what is now Southern Russia to punish the Scythians for their raids into the Achaemenid Empire.\n\nEtymology\n\nHistorian Marija Gimbutas has hypothesizedMarija Gimbutas's \"The Balts\" and \"The Slavs\" that \"Androphagoi\" is a Greek translation of *mard-xwaar \"man-eater\" in the old North Iranian language of the Scythians. From *mard-xwaar one can derive \"Mordva\" or \"Mordvin\", the Russian name of the Finno-Ugrian Erzya and Moksha peoples of east-central European Russia. From Herodotus we can deduce a location for the Androphagoi that is approximately the same as that occupied by the modern Mordvins.\n\nAncient accounts\n\nHerodotus first wrote of andropophagi in his Histories, where he described them as one of several tribes near Scythia.  An extra note indicates that the andropophagi are cannibals, as reflected in their name:\n\nPliny the Elder later wrote in his Naturalis Historia that the same cannibals near Scythia wore the scalps of men on their chest.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Androphagi" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3074" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Androphagi (Ancient Greek : \"Ἀνδροφάγοι\" for \"man-eaters\") was an ancient nation of cannibals north of Scythia (according to HerodotusHerodotus iv. 18, 106), probably in the forests between the upper waters of the Dnepr and Don. These people may have assisted the Scythians when King Darius the Great led a Persian invasion into what is now Southern Russia to punish the Scythians for their raids into the Achaemenid Empire.\n\nEtymology\n\nHistorian Marija Gimbutas has hypothesizedMarija Gimbutas's \"The Balts\" and \"The Slavs\" that \"Androphagoi\" is a Greek translation of *mard-xwaar \"man-eater\" in the old North Iranian language of the Scythians. From *mard-xwaar one can derive \"Mordva\" or \"Mordvin\", the Russian name of the Finno-Ugrian Erzya and Moksha peoples of east-central European Russia. From Herodotus we can deduce a location for the Androphagoi that is approximately the same as that occupied by the modern Mordvins.\n\nAncient accounts\n\nHerodotus first wrote of andropophagi in his Histories, where he described them as one of several tribes near Scythia.  An extra note indicates that the andropophagi are cannibals, as reflected in their name:\n\nPliny the Elder later wrote in his Naturalis Historia that the same cannibals near Scythia wore the scalps of men on their chest. Androphagi. http://en.wikipedia.org/?curid=3074."
+  }
+}

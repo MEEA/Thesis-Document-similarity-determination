@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14990",
+  "eid" : "1919d5e0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778551358,
+  "textBody" : "IMO or Imo may refer to:\n\nOrganizations and events\n\n* Icelandic Meteorological Office\n* Independent Market Operator of Ontario, Canada—now the Independent Electricity System Operator (IESO)\n* Intelligent Medical Objects, a privately held company specializing in medical vocabularies\n* International Maritime Organization\n** IMO number, a unique identity number issued to seacraft (pattern \"1234567\")\n* International Mathematical Olympiad\n* International Meteor Organization\n* International Meteorological Organization\n* Irish Medical Organisation, the main organization for doctors in the Republic of Ireland\n\nOther uses\n\n* IMO (in my opinion), an Internet slang expression\n* Imo State, Nigeria\n* SS Imo, a ship involved in the Halifax Explosion\n* Idiopathic Massive Osteolysis, a name for Gorham's disease\n* Isomaltooligosaccharide, a mixture of short-chain carbohydrates which has a digestion-resistant property",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "IMO" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14990" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "IMO or Imo may refer to:\n\nOrganizations and events\n\n* Icelandic Meteorological Office\n* Independent Market Operator of Ontario, Canada—now the Independent Electricity System Operator (IESO)\n* Intelligent Medical Objects, a privately held company specializing in medical vocabularies\n* International Maritime Organization\n** IMO number, a unique identity number issued to seacraft (pattern \"1234567\")\n* International Mathematical Olympiad\n* International Meteor Organization\n* International Meteorological Organization\n* Irish Medical Organisation, the main organization for doctors in the Republic of Ireland\n\nOther uses\n\n* IMO (in my opinion), an Internet slang expression\n* Imo State, Nigeria\n* SS Imo, a ship involved in the Halifax Explosion\n* Idiopathic Massive Osteolysis, a name for Gorham's disease\n* Isomaltooligosaccharide, a mixture of short-chain carbohydrates which has a digestion-resistant property. IMO. http://en.wikipedia.org/?curid=14990."
+  }
+}

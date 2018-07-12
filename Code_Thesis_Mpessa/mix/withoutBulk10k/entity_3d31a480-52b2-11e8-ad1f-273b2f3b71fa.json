@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19705",
+  "eid" : "3d31a480-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778611912,
+  "textBody" : "A microgyrus is an area of the cerebral cortex that includes only four cortical layers instead of six.\n\nMicrogyria are believed by some to be part of the genetic lack of prenatal development which is a cause of, or one of the causes of, dyslexia.\n\nAlbert Galaburda of Harvard Medical School noticed that language centers in dyslexic brains showed microscopic flaws known as ectopias and microgyria (Galaburda et al., 2006, Nature Neuroscience 9(10): 1213-1217). Both affect the normal six-layer structure of the cortex. These flaws affect connectivity and functionality of the cortex in critical areas related to sound and visual processing. These and similar structural abnormalities may be the basis of the inevitable and hard to overcome difficulty in reading.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Microgyrus" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19705" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A microgyrus is an area of the cerebral cortex that includes only four cortical layers instead of six.\n\nMicrogyria are believed by some to be part of the genetic lack of prenatal development which is a cause of, or one of the causes of, dyslexia.\n\nAlbert Galaburda of Harvard Medical School noticed that language centers in dyslexic brains showed microscopic flaws known as ectopias and microgyria (Galaburda et al., 2006, Nature Neuroscience 9(10): 1213-1217). Both affect the normal six-layer structure of the cortex. These flaws affect connectivity and functionality of the cortex in critical areas related to sound and visual processing. These and similar structural abnormalities may be the basis of the inevitable and hard to overcome difficulty in reading. Microgyrus. http://en.wikipedia.org/?curid=19705."
+  }
+}

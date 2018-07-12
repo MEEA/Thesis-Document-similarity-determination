@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=5497",
+  "eid" : "d582d390-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778437961,
+  "textBody" : "The Armed Forces of Chile () is the unified military organization comprising the Chilean Army, Air Force and Navy. The President of Chile is the commander in chief of the military, and formulates policy through the Minister of Defence. In recent years and after several major reequipment programs, the Chilean Armed Forces have become one of the most technologically advanced and professional armed forces in Latin America. The Chilean Army is mostly supplied with equipment from Germany, the United States, Israel, France, and Spain.\n\nStructure\n\nArmy\n\nThe current commander-in-chief of the Chilean Army is General de Ejército Sr. Humberto Oviedo Arriagada. The 80,000-person army is organized in seven divisions and one air brigade. The army operates German Leopard 1 and 2 tanks as its main battle tanks. The recent purchase of 200 second-hand Leopard 2A4CHL from the German army is now being delivered.\n\nNavy\n\nAdmiral Julio Leiva Molina directs the 25,000-person Chilean Navy, including 4,800 Marines. Of the fleet of 66 surface vessels, eight are major combatant ships and they are based in Valparaíso. The navy operates its own aircraft for transport and patrol; there are no fighters or bomber aircraft but they have attack helicopters. The Navy also operates four submarines based in Talcahuano.\n\nAir Force\n\nGen. Jorge Rojas Avila heads 11,000 strong Chilean Air Force. Air assets are distributed among five air brigades headquartered in Iquique, Antofagasta, Santiago, Puerto Montt, and Punta Arenas. The Air Force also operates an airbase on King George Island, Antarctica.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Military of Chile" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=5497" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The Armed Forces of Chile () is the unified military organization comprising the Chilean Army, Air Force and Navy. The President of Chile is the commander in chief of the military, and formulates policy through the Minister of Defence. In recent years and after several major reequipment programs, the Chilean Armed Forces have become one of the most technologically advanced and professional armed forces in Latin America. The Chilean Army is mostly supplied with equipment from Germany, the United States, Israel, France, and Spain.\n\nStructure\n\nArmy\n\nThe current commander-in-chief of the Chilean Army is General de Ejército Sr. Humberto Oviedo Arriagada. The 80,000-person army is organized in seven divisions and one air brigade. The army operates German Leopard 1 and 2 tanks as its main battle tanks. The recent purchase of 200 second-hand Leopard 2A4CHL from the German army is now being delivered.\n\nNavy\n\nAdmiral Julio Leiva Molina directs the 25,000-person Chilean Navy, including 4,800 Marines. Of the fleet of 66 surface vessels, eight are major combatant ships and they are based in Valparaíso. The navy operates its own aircraft for transport and patrol; there are no fighters or bomber aircraft but they have attack helicopters. The Navy also operates four submarines based in Talcahuano.\n\nAir Force\n\nGen. Jorge Rojas Avila heads 11,000 strong Chilean Air Force. Air assets are distributed among five air brigades headquartered in Iquique, Antofagasta, Santiago, Puerto Montt, and Punta Arenas. The Air Force also operates an airbase on King George Island, Antarctica. Military of Chile. http://en.wikipedia.org/?curid=5497."
+  }
+}

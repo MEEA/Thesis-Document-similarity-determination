@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19645",
+  "eid" : "3cb65a00-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778611104,
+  "textBody" : "Morpheus may refer to:\n\nCharacters\n\n*Morpheus (mythology), the principal god of dreams in Greek mythology\n*Morpheus (DC comics), a moniker for Dream, a fictional personification of dreams in the comic book series The Sandman\n*Morpheus (Marvel Comics), a Marvel Comics character\n*Morpheus (The Matrix), a character of The Matrix franchise\n*King Morpheus, a fictional character in the Little Nemo comics\n*Morpheus, a minor artificial intelligence character in the game Deus Ex\n*Morpheus (Percy Jackson), a character who appears in the last book in the Percy Jackson & the Olympians series\n*Morpheus D. Duvall, the principal antagonist of Resident Evil: Dead Aim\n\nTechnology\n\n*Morpheus (software), file-sharing client/server software operated by the company StreamCast Networks\n*Morpheus (morphing software), morphing software for Windows and Mac OS X\n*Morpheus (1987 video game), a video game developed by Andrew Braybrook in 1987\n*Morpheus (1998 video game), a video game released in 1998\n*Project Morpheus, a NASA project to produce a vertical test bed and pre-prototype lunar lander called Morpheus\n*Project Morpheus, the codename for PlayStation VR\n\nMusic\n\n*Morpheus (Rebecca Clarke), a composition for viola and piano by Rebecca Helferich Clarke\n*Morpheus (album), a music album by Canadian group Delerium\n*Morpheus (synthesizer) produced in the mid-1990s by E-mu Systems\n\nOther\n\n*\"Morpheus\" (Stargate SG-1), an episode of the sci-fi TV series Stargate SG-1\n*Morpheus (role-playing game), a tabletop role-playing game\n*Morpheus (hotel), a hotel under construction at City of Dreams, Macau",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Morpheus" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19645" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Morpheus may refer to:\n\nCharacters\n\n*Morpheus (mythology), the principal god of dreams in Greek mythology\n*Morpheus (DC comics), a moniker for Dream, a fictional personification of dreams in the comic book series The Sandman\n*Morpheus (Marvel Comics), a Marvel Comics character\n*Morpheus (The Matrix), a character of The Matrix franchise\n*King Morpheus, a fictional character in the Little Nemo comics\n*Morpheus, a minor artificial intelligence character in the game Deus Ex\n*Morpheus (Percy Jackson), a character who appears in the last book in the Percy Jackson & the Olympians series\n*Morpheus D. Duvall, the principal antagonist of Resident Evil: Dead Aim\n\nTechnology\n\n*Morpheus (software), file-sharing client/server software operated by the company StreamCast Networks\n*Morpheus (morphing software), morphing software for Windows and Mac OS X\n*Morpheus (1987 video game), a video game developed by Andrew Braybrook in 1987\n*Morpheus (1998 video game), a video game released in 1998\n*Project Morpheus, a NASA project to produce a vertical test bed and pre-prototype lunar lander called Morpheus\n*Project Morpheus, the codename for PlayStation VR\n\nMusic\n\n*Morpheus (Rebecca Clarke), a composition for viola and piano by Rebecca Helferich Clarke\n*Morpheus (album), a music album by Canadian group Delerium\n*Morpheus (synthesizer) produced in the mid-1990s by E-mu Systems\n\nOther\n\n*\"Morpheus\" (Stargate SG-1), an episode of the sci-fi TV series Stargate SG-1\n*Morpheus (role-playing game), a tabletop role-playing game\n*Morpheus (hotel), a hotel under construction at City of Dreams, Macau. Morpheus. http://en.wikipedia.org/?curid=19645."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16916",
+  "eid" : "29b58b60-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778579222,
+  "textBody" : "The KAB-500L is a laser-guided bomb developed by the Soviet Air Force. It remains in service with the CIS and post-Soviet Russian Air Force.\n\nThe KAB-500L is analogous to the United States Paveway series: it is a standard FAB-500 general-purpose bomb, which has a nominal weight of 500 kg, fitted with a semi-active laser seeker and guidance fins, turning it into an unpowered guided bomb.\n\nThe KAB-500L is  long and weighs 525 kg. Its warhead makes up 450 kg of the total weight, of which roughly 50% is blast-effect high explosive. Russian sources credit it with a CEP of 7 m. The technology of KAB-500L is also used for larger bombs, such as the KAB-1500L family.\n\nIt is also deployed by the Indian Air Force. The primary launch platform is Su-30MKI.\n\nKAB-500S-E\n\nKAB-500S-E is a Precision-Guided Munition (PGM) whose guidance system is based on GLONASS. The weapon can be dropped from aircraft flying at an altitude from 500 meters to 5000 meters and with an airspeed of 500–1150 km/h. The CEP is 7–12 meters. These bombs were used for the first time in the Russian military intervention in the Syrian Civil War in September 2015.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "KAB-500L" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16916" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The KAB-500L is a laser-guided bomb developed by the Soviet Air Force. It remains in service with the CIS and post-Soviet Russian Air Force.\n\nThe KAB-500L is analogous to the United States Paveway series: it is a standard FAB-500 general-purpose bomb, which has a nominal weight of 500 kg, fitted with a semi-active laser seeker and guidance fins, turning it into an unpowered guided bomb.\n\nThe KAB-500L is  long and weighs 525 kg. Its warhead makes up 450 kg of the total weight, of which roughly 50% is blast-effect high explosive. Russian sources credit it with a CEP of 7 m. The technology of KAB-500L is also used for larger bombs, such as the KAB-1500L family.\n\nIt is also deployed by the Indian Air Force. The primary launch platform is Su-30MKI.\n\nKAB-500S-E\n\nKAB-500S-E is a Precision-Guided Munition (PGM) whose guidance system is based on GLONASS. The weapon can be dropped from aircraft flying at an altitude from 500 meters to 5000 meters and with an airspeed of 500–1150 km/h. The CEP is 7–12 meters. These bombs were used for the first time in the Russian military intervention in the Syrian Civil War in September 2015. KAB-500L. http://en.wikipedia.org/?curid=16916."
+  }
+}

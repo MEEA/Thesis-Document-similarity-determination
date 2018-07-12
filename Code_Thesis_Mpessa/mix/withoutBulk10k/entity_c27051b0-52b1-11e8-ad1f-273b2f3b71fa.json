@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2809",
+  "eid" : "c27051b0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778405963,
+  "textBody" : "Arian may refer to:\n\nPertaining to Arius\n\n* A follower of Arius, a Christian presbyter in the 3rd and 4th century\n*Arianism\n*Arian controversy, several controversies which divided the early Christian church\n*Arian fragment, Arian palimpsest\n\nPeoples\n\nAriya (\"noble\") was a self designation of the peoples of Ancient India and Ancient Iran\n* Arians or Areians, ancient people living in Ariana (origin of the modern name Iran)\n** Aryan, a term associated with the Proto-Indo-Iranians\n** Aryan race, the racial concept\n* An inhabitant of Aria (a province of Ariana; today's Herat), used by the ancient and medieval Greeks (as Ἄρ(ε)ιοι/Ar(e)ioi) and Romans (as Arii).\n\nGiven name\n\n*Arian Asllani (born 1983), American rapper known as Action Bronson\n*Arian Bimo (born 1959), Albanian footballer\n*Arian Çuliqi, Albanian television director and screenwriter\n*Arian Foster (born 1986), American football player\n*Arián Iznaga, Cuban Paralympian sprinter\n*Arian Leviste (born 1970), American electronic music artist, producer, and DJ\n*Arian Moayed (born 1980), Iranian-born American actor and theater producer\n\nSurname\n\n*Arman Arian (born 1981),  Iranian author, novelist and researcher\n*Asher Arian (1938–2010), American political scientist\n*Laila Al-Arian (born 1980s), American broadcast journalist\n*Sami Al-Arian (born 1958), Palestinian-American civil rights activist\n*Praskovia Arian (1864–1949) Russian and Soviet writer and feminist\n\nOther\n\n* Arian (band), a pop band in Iran\n* Arian (newspaper), an Iranian newspaper since 1914\n* Arian, an outsider's name for a member of the Polish Brethren\n* Arian, a person born under the constellation Aries (astrology)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Arian (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2809" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Arian may refer to:\n\nPertaining to Arius\n\n* A follower of Arius, a Christian presbyter in the 3rd and 4th century\n*Arianism\n*Arian controversy, several controversies which divided the early Christian church\n*Arian fragment, Arian palimpsest\n\nPeoples\n\nAriya (\"noble\") was a self designation of the peoples of Ancient India and Ancient Iran\n* Arians or Areians, ancient people living in Ariana (origin of the modern name Iran)\n** Aryan, a term associated with the Proto-Indo-Iranians\n** Aryan race, the racial concept\n* An inhabitant of Aria (a province of Ariana; today's Herat), used by the ancient and medieval Greeks (as Ἄρ(ε)ιοι/Ar(e)ioi) and Romans (as Arii).\n\nGiven name\n\n*Arian Asllani (born 1983), American rapper known as Action Bronson\n*Arian Bimo (born 1959), Albanian footballer\n*Arian Çuliqi, Albanian television director and screenwriter\n*Arian Foster (born 1986), American football player\n*Arián Iznaga, Cuban Paralympian sprinter\n*Arian Leviste (born 1970), American electronic music artist, producer, and DJ\n*Arian Moayed (born 1980), Iranian-born American actor and theater producer\n\nSurname\n\n*Arman Arian (born 1981),  Iranian author, novelist and researcher\n*Asher Arian (1938–2010), American political scientist\n*Laila Al-Arian (born 1980s), American broadcast journalist\n*Sami Al-Arian (born 1958), Palestinian-American civil rights activist\n*Praskovia Arian (1864–1949) Russian and Soviet writer and feminist\n\nOther\n\n* Arian (band), a pop band in Iran\n* Arian (newspaper), an Iranian newspaper since 1914\n* Arian, an outsider's name for a member of the Polish Brethren\n* Arian, a person born under the constellation Aries (astrology). Arian (disambiguation). http://en.wikipedia.org/?curid=2809."
+  }
+}

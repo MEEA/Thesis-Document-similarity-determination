@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18720",
+  "eid" : "34852f00-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778597360,
+  "textBody" : "Lodovico de Ferrari (2 February 1522 – 5 October 1565) was an Italian mathematician.\n\nBorn in Bologna, Italy, Lodovico's grandfather, Bartholomew de Ferrari, was forced out of Milan to Bologna. Lodovico settled in Bologna, Italy and he began his career as the servant of Gerolamo Cardano.  He was extremely bright, so Cardano started teaching him mathematics.  Ferrari aided Cardano on his solutions for quadratic equations and cubic equations, and was mainly responsible for the solution of quartic equations that Cardano published. While still in his teens, Ferrari was able to obtain a prestigious teaching post in Rome after Cardano resigned from it and recommended him.  Ferrari retired when young at 42 years old, and wealthy. He then moved back to his home town of Bologna where he lived with his widowed sister Maddalena to take up a professorship of mathematics at the University of Bologna in 1565. Shortly thereafter, he died of white arsenic poisoning, according to a legend - because of his sisters.Alan Shuchat; Simon Gindikin. [https://books.google.com/books?id\nNg1Vn4byYHUC Tales of Mathematicians and Physicists]. Springer; 2007. . p. 18.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Lodovico Ferrari" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18720" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Lodovico de Ferrari (2 February 1522 – 5 October 1565) was an Italian mathematician.\n\nBorn in Bologna, Italy, Lodovico's grandfather, Bartholomew de Ferrari, was forced out of Milan to Bologna. Lodovico settled in Bologna, Italy and he began his career as the servant of Gerolamo Cardano.  He was extremely bright, so Cardano started teaching him mathematics.  Ferrari aided Cardano on his solutions for quadratic equations and cubic equations, and was mainly responsible for the solution of quartic equations that Cardano published. While still in his teens, Ferrari was able to obtain a prestigious teaching post in Rome after Cardano resigned from it and recommended him.  Ferrari retired when young at 42 years old, and wealthy. He then moved back to his home town of Bologna where he lived with his widowed sister Maddalena to take up a professorship of mathematics at the University of Bologna in 1565. Shortly thereafter, he died of white arsenic poisoning, according to a legend - because of his sisters.Alan Shuchat; Simon Gindikin. [https://books.google.com/books?id\nNg1Vn4byYHUC Tales of Mathematicians and Physicists]. Springer; 2007. . p. 18. Lodovico Ferrari. http://en.wikipedia.org/?curid=18720."
+  }
+}

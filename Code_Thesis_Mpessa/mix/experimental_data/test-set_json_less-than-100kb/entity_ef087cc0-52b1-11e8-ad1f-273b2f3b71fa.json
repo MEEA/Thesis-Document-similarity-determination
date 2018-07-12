@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=9433",
+  "eid" : "ef087cc0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778480780,
+  "textBody" : "Spain in Flames is a 1937 compilation film made by Helen van Dongen during the Spanish Civil War. Hal Erickson has written that the film \"... is remarkable in its willingness to offer both sides of the conflict -- though its sympathies are firmly with the Loyalists.\" The film consists of two parts. The first, \"The Fight for Freedom\", was based on film footage from a Spanish government documentary Spain and the Fight for Freedom.\n\nThe second part, \"They Shalt Not Pass\", was based on a short film No Pasaran! done by the Artkino Film Company of the Soviet Union, where van Dongen was working at the time the film was made. John Dos Passos narrated parts of the film, and the commentary was written by Dos Passos, Ernest Hemingway, Archibald MacLeish, and Prudencio de Pareda. Webpages based on the catalog for the Speiser and Easterling-Hallman Collection of Ernest Hemingway at the University of South Carolina. Erickson writes that, \"The horrendous images of battlefield carnage, not to mention the close-ups of suffering and dying Spanish children, still pack a wallop when seen today.\"\n\nLater, Hemingway, Dos Passos, Lillian Hellman and others founded the company Contemporary Historians, which produced another film called The Spanish Earth (1937), directed by Joris Ivens and edited by van Dongen.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Spain in Flames" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=9433" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Spain in Flames is a 1937 compilation film made by Helen van Dongen during the Spanish Civil War. Hal Erickson has written that the film \"... is remarkable in its willingness to offer both sides of the conflict -- though its sympathies are firmly with the Loyalists.\" The film consists of two parts. The first, \"The Fight for Freedom\", was based on film footage from a Spanish government documentary Spain and the Fight for Freedom.\n\nThe second part, \"They Shalt Not Pass\", was based on a short film No Pasaran! done by the Artkino Film Company of the Soviet Union, where van Dongen was working at the time the film was made. John Dos Passos narrated parts of the film, and the commentary was written by Dos Passos, Ernest Hemingway, Archibald MacLeish, and Prudencio de Pareda. Webpages based on the catalog for the Speiser and Easterling-Hallman Collection of Ernest Hemingway at the University of South Carolina. Erickson writes that, \"The horrendous images of battlefield carnage, not to mention the close-ups of suffering and dying Spanish children, still pack a wallop when seen today.\"\n\nLater, Hemingway, Dos Passos, Lillian Hellman and others founded the company Contemporary Historians, which produced another film called The Spanish Earth (1937), directed by Joris Ivens and edited by van Dongen. Spain in Flames. http://en.wikipedia.org/?curid=9433."
+  }
+}

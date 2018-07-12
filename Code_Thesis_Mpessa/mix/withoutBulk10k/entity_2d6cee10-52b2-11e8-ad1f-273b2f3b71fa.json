@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17712",
+  "eid" : "2d6cee10-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778585457,
+  "textBody" : "Law of nature or Laws of nature may refer to:\n\n*Physical law, a scientific generalization based upon empirical observation\n*Natural law, any of a number of doctrines in moral, political, and legal theory\n*Scientific law, statements based on experimental observations and describe some aspect of the world, implying a causal relationship\n*Laws of science, statements that describe, and predict phenomena as they appear in nature\n*Law of the jungle, the idea that in nature, the only \"law\" is to do whatever is needed for survival\n*\"Laws of Nature\" (Agents of S.H.I.E.L.D.), episode of television series Agents of S.H.I.E.L.D.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Law of nature" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17712" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Law of nature or Laws of nature may refer to:\n\n*Physical law, a scientific generalization based upon empirical observation\n*Natural law, any of a number of doctrines in moral, political, and legal theory\n*Scientific law, statements based on experimental observations and describe some aspect of the world, implying a causal relationship\n*Laws of science, statements that describe, and predict phenomena as they appear in nature\n*Law of the jungle, the idea that in nature, the only \"law\" is to do whatever is needed for survival\n*\"Laws of Nature\" (Agents of S.H.I.E.L.D.), episode of television series Agents of S.H.I.E.L.D. Law of nature. http://en.wikipedia.org/?curid=17712."
+  }
+}

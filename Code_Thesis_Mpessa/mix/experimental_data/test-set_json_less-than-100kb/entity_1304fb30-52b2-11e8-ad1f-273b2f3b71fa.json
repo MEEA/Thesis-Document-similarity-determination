@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14223",
+  "eid" : "1304fb30-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778541155,
+  "textBody" : "HSK may refer to:\n* Hanyu Shuiping Kaoshi, a standardized test of Mandarin Chinese\n* Hassocks railway station, in England\n* Helsingfors Segelklubb, a Finnish sailing club\n* Helsingfors Skridskoklubb, a Finnish figure skating club\n* High Street Kensington (disambiguation)\n* Homoserine kinase, an enzyme\n* Horrendous Space Kablooie, a Calvin and Hobbes reference to the Big Bang\n* Huesca–Pirineos Airport, in Spain\n* Highway Serial Killings, in the United States, Initiative and Database by the FBI\n* Handels-Stör-Kreuzer, a German auxiliary cruiser\n* Hohlschaftkegel (\"hollow shank taper\"), a form of machine taper",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "HSK" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14223" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "HSK may refer to:\n* Hanyu Shuiping Kaoshi, a standardized test of Mandarin Chinese\n* Hassocks railway station, in England\n* Helsingfors Segelklubb, a Finnish sailing club\n* Helsingfors Skridskoklubb, a Finnish figure skating club\n* High Street Kensington (disambiguation)\n* Homoserine kinase, an enzyme\n* Horrendous Space Kablooie, a Calvin and Hobbes reference to the Big Bang\n* Huesca–Pirineos Airport, in Spain\n* Highway Serial Killings, in the United States, Initiative and Database by the FBI\n* Handels-Stör-Kreuzer, a German auxiliary cruiser\n* Hohlschaftkegel (\"hollow shank taper\"), a form of machine taper. HSK. http://en.wikipedia.org/?curid=14223."
+  }
+}

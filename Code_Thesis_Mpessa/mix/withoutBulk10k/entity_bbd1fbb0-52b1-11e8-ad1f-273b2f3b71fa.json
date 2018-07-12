@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1810",
+  "eid" : "bbd1fbb0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778394859,
+  "textBody" : "Actium (Greek: Ἄκτιον) was the name of an ancient town on a promontory of western Greece in northwestern Acarnania, at the mouth of the Ambracian Gulf). Actium is chiefly famous as the name given to the nearby naval Battle of Actium, in which Octavian won a decisive victory over Mark Antony on September 2, 31 BC.\n\nActium was situated on the southern side of the strait opposite the later city of Nicopolis built by Octavian.http://www.enotes.com/occc-encyclopedia/actium Since 2002 the peninsular of Actium has been linked with Preveza on the north shore of the Ambracian Gulf by the Aktio-Preveza Undersea Tunnel.\n\nHistory\n\nActium belonged originally to the Corinthian colonists of Anactorium, who probably founded the sanctuary of Apollo Actius.E. Kristen: \"The Origins of the first inhabitants of Nicopolis\", Proceedings of the First International Symposium on Nicopolis, 1984 In the 3rd century BC it fell to the Acarnanians, who subsequently held their religious summits there.\n\nOn the promontory was the ancient sanctuary of Apollo Actius, which was later enlarged by Augustus, and also the town of Actium.\n\nOctavian also ordered a war monument to be constructed to commemorate his victory at the Battle of Actium in 31 BC on the site of his campsite prior to the naval engagement, near Nicopolis.Dio Cassius, Roman history, 51.1.3\n\nOctavian instituted or renewed the games known as Actia or Ludi Actiaci, named after Actium in Nicopolis (the new city) to memorialise the battle.  Actiaca Aera was a computation of time from the battle.\n\nArchaeology\n\nIn  1980 the Greek Ministry of Transport and Communications reported that shipwrecks from the Battle of Actium had been located at Actium near the entrance to the Ambracian Gulf.\n\nIn summer 2009 archaeologists discovered the ruins of the Temple of Apollo and found two statue heads, one of Apollo, one of Artemis (Diana).Dr. Harry Gouvas:History of Preveza Prefecture, 2009,",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Actium" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1810" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Actium (Greek: Ἄκτιον) was the name of an ancient town on a promontory of western Greece in northwestern Acarnania, at the mouth of the Ambracian Gulf). Actium is chiefly famous as the name given to the nearby naval Battle of Actium, in which Octavian won a decisive victory over Mark Antony on September 2, 31 BC.\n\nActium was situated on the southern side of the strait opposite the later city of Nicopolis built by Octavian.http://www.enotes.com/occc-encyclopedia/actium Since 2002 the peninsular of Actium has been linked with Preveza on the north shore of the Ambracian Gulf by the Aktio-Preveza Undersea Tunnel.\n\nHistory\n\nActium belonged originally to the Corinthian colonists of Anactorium, who probably founded the sanctuary of Apollo Actius.E. Kristen: \"The Origins of the first inhabitants of Nicopolis\", Proceedings of the First International Symposium on Nicopolis, 1984 In the 3rd century BC it fell to the Acarnanians, who subsequently held their religious summits there.\n\nOn the promontory was the ancient sanctuary of Apollo Actius, which was later enlarged by Augustus, and also the town of Actium.\n\nOctavian also ordered a war monument to be constructed to commemorate his victory at the Battle of Actium in 31 BC on the site of his campsite prior to the naval engagement, near Nicopolis.Dio Cassius, Roman history, 51.1.3\n\nOctavian instituted or renewed the games known as Actia or Ludi Actiaci, named after Actium in Nicopolis (the new city) to memorialise the battle.  Actiaca Aera was a computation of time from the battle.\n\nArchaeology\n\nIn  1980 the Greek Ministry of Transport and Communications reported that shipwrecks from the Battle of Actium had been located at Actium near the entrance to the Ambracian Gulf.\n\nIn summer 2009 archaeologists discovered the ruins of the Temple of Apollo and found two statue heads, one of Apollo, one of Artemis (Diana).Dr. Harry Gouvas:History of Preveza Prefecture, 2009,. Actium. http://en.wikipedia.org/?curid=1810."
+  }
+}

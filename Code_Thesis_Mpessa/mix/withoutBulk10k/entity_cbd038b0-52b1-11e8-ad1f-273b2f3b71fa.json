@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=4190",
+  "eid" : "cbd038b0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778421691,
+  "textBody" : "Bulgarian may refer to:\n\n* Something of, from, or related to the country of Bulgaria\n* Bulgarians, a South Slavic ethnic group\n* Bulgarian language, a Slavic language\n* A citizen of Bulgaria, see Demographics of Bulgaria \n* Bulgarian culture\n* Bulgarian cuisine, a representative of the cuisine of Southeastern Europe",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Bulgarian" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=4190" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Bulgarian may refer to:\n\n* Something of, from, or related to the country of Bulgaria\n* Bulgarians, a South Slavic ethnic group\n* Bulgarian language, a Slavic language\n* A citizen of Bulgaria, see Demographics of Bulgaria \n* Bulgarian culture\n* Bulgarian cuisine, a representative of the cuisine of Southeastern Europe. Bulgarian. http://en.wikipedia.org/?curid=4190."
+  }
+}

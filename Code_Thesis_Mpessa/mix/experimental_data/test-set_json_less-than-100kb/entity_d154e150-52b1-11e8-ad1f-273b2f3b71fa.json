@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=4937",
+  "eid" : "d154e150-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778430949,
+  "textBody" : "BND may refer to:\n\nOrganisations\n\n* Federal Intelligence Service (Germany) ('), the foreign intelligence agency of Germany\n* Bank of North Dakota, a state-owned and -run financial institution, based in Bismarck, North Dakota, US\n* Bulgarian New Democracy (), a Bulgarian centre-right political party\n* VID (company) (), a Russian TV company\n\nOther uses\n\n* Buy Nothing Day, an international day of protest against consumerism\n* Brunei dollar (ISO 4217 currency code BND), the currency of the Sultanate of Brunei since 1967\n* BTEC National Diploma, a further-education qualification in most of the United Kingdom\n* Brandon railway station (National Rail station code BND), Suffolk, England\n* \"BND\", a song on the album No Doubt by No Doubt",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "BND" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=4937" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "BND may refer to:\n\nOrganisations\n\n* Federal Intelligence Service (Germany) ('), the foreign intelligence agency of Germany\n* Bank of North Dakota, a state-owned and -run financial institution, based in Bismarck, North Dakota, US\n* Bulgarian New Democracy (), a Bulgarian centre-right political party\n* VID (company) (), a Russian TV company\n\nOther uses\n\n* Buy Nothing Day, an international day of protest against consumerism\n* Brunei dollar (ISO 4217 currency code BND), the currency of the Sultanate of Brunei since 1967\n* BTEC National Diploma, a further-education qualification in most of the United Kingdom\n* Brandon railway station (National Rail station code BND), Suffolk, England\n* \"BND\", a song on the album No Doubt by No Doubt. BND. http://en.wikipedia.org/?curid=4937."
+  }
+}

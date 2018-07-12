@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3851",
+  "eid" : "c9367b00-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778417328,
+  "textBody" : "There are nine fielding positions in baseball. Each position conventionally has an associated number, which is used to score putouts:\n\n1 (pitcher), 2 (catcher), 3 (first baseman), 4 (second baseman), 5 (third baseman), 6 (shortstop), 7 (left fielder), 8 (center fielder), and 9 (right fielder).\n\nFor example:\n*If the third baseman fields a ball and throws it to first, it is recorded as a 5–3 out.\n*A double play where the second baseman fields, throws to the shortstop covering second base, who throws to the 1st baseman is recorded as a 4–6–3 double play.\n\nOther roles\n\n*Designated hitter\n*Pinch hitter\n*Pinch runner\n*Utility infielder\n*Utility players\n*Starting pitcher\n*Relief pitcher\n*Left-handed specialist\n*Long reliever\n*Middle reliever\n*Setup pitcher (setup man)\n*Closer\n\nOther team personnel\n\n*Manager\n*Coaches\n*Trainer\n*Equipment manager\n*General manager\n*Batboy\n*Ball boy/girl\n*Team physician",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Baseball positions" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3851" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "There are nine fielding positions in baseball. Each position conventionally has an associated number, which is used to score putouts:\n\n1 (pitcher), 2 (catcher), 3 (first baseman), 4 (second baseman), 5 (third baseman), 6 (shortstop), 7 (left fielder), 8 (center fielder), and 9 (right fielder).\n\nFor example:\n*If the third baseman fields a ball and throws it to first, it is recorded as a 5–3 out.\n*A double play where the second baseman fields, throws to the shortstop covering second base, who throws to the 1st baseman is recorded as a 4–6–3 double play.\n\nOther roles\n\n*Designated hitter\n*Pinch hitter\n*Pinch runner\n*Utility infielder\n*Utility players\n*Starting pitcher\n*Relief pitcher\n*Left-handed specialist\n*Long reliever\n*Middle reliever\n*Setup pitcher (setup man)\n*Closer\n\nOther team personnel\n\n*Manager\n*Coaches\n*Trainer\n*Equipment manager\n*General manager\n*Batboy\n*Ball boy/girl\n*Team physician. Baseball positions. http://en.wikipedia.org/?curid=3851."
+  }
+}

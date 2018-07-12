@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8880",
+  "eid" : "eb250100-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778474256,
+  "textBody" : "In Greek mythology, Dryope (;  derived from δρῦς drys, \"oak\"; dryope \"woodpecker\"Graves, Robert, (1955) 1960. The Greek Myths.) is the name attributed to several distinct figures: \n* Dryope, daughter of Dryops and mother of Amphissus by Apollo.\n* Dryope, mother of Tarquitus by Faunus, the god of the woods. Tarquitus was slain by Aeneas.Virgil, Aeneid, 10. 551\n* Dryope, a nymph responsible for kidnapping Hylas, which she did in accord with Hera's will.Gaius Valerius Flaccus, Argonautica, 3. 529 ff; Statius, Silvae, 1. 5. 22; 3. 4. 42 Her name may have to do with the fact that Hylas was the son of Theiodamas, the king of the Dryopes.\n* Dryope, a Theban woman of Phoenician origin, mother of Chromis. She joined the Maenads disregarding her pregnancy, and got into labor when she was dragging a sacrificial bull by the horns.Statius, Thebaid, 2. 614 ff\n* Dryope, a Lemnian.Gaius Valerius Flaccus, Argonautica, 2. 174",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Dryope" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8880" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "In Greek mythology, Dryope (;  derived from δρῦς drys, \"oak\"; dryope \"woodpecker\"Graves, Robert, (1955) 1960. The Greek Myths.) is the name attributed to several distinct figures: \n* Dryope, daughter of Dryops and mother of Amphissus by Apollo.\n* Dryope, mother of Tarquitus by Faunus, the god of the woods. Tarquitus was slain by Aeneas.Virgil, Aeneid, 10. 551\n* Dryope, a nymph responsible for kidnapping Hylas, which she did in accord with Hera's will.Gaius Valerius Flaccus, Argonautica, 3. 529 ff; Statius, Silvae, 1. 5. 22; 3. 4. 42 Her name may have to do with the fact that Hylas was the son of Theiodamas, the king of the Dryopes.\n* Dryope, a Theban woman of Phoenician origin, mother of Chromis. She joined the Maenads disregarding her pregnancy, and got into labor when she was dragging a sacrificial bull by the horns.Statius, Thebaid, 2. 614 ff\n* Dryope, a Lemnian.Gaius Valerius Flaccus, Argonautica, 2. 174. Dryope. http://en.wikipedia.org/?curid=8880."
+  }
+}

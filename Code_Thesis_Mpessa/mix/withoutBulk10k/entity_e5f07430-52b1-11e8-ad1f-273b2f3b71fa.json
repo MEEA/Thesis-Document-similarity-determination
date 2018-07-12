@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8171",
+  "eid" : "e5f07430-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778465523,
+  "textBody" : "Dennis the Menace may refer to separate UK and U.S. comic strip characters that both appeared in March 1951 in their respective readership areas, and are still published as of 2018.\n\nBritish character\n\n* Dennis the Menace (UK comics) is the original title of a British comic strip which first appeared in \"The Beano\" on March 12, 1951 (in the edition cover dated March 17, 1951); it is now published as Dennis the Menace and Gnasher.\n**Dennis the Menace Annual, now known as the Dennis and Gnasher Annual, is a compilation of the comics plus new material.\n**Various television adaptations of the comic strip:\n***Dennis the Menace (1996 TV series) is an animated television series based on the Beano comic strip, known internationally as Dennis and Gnasher.\n***Dennis the Menace and Gnasher (2009 TV series) is the latest series based on the Beano comic, released on September 7, 2009.\n\nUnited States character\n\n* Dennis the Menace (U.S. comics), a daily US syndicated newspaper comic strip since March 12, 1951.\n**Various television and film adaptations of the comic strip:\n***Dennis the Menace (1959 TV series), a CBS network live action television show \n***Dennis the Menace (1986 TV series), an animated TV series\n***Dennis the Menace (1987 film), a made-for-television live action film released in 1987; a.k.a. Dennis the Menace: Dinosaur Hunter\n***All-New Dennis the Menace, a 1993 animated television series\n***Dennis the Menace (film), A live-action film released in 1993\n****Dennis the Menace (video game), based on the 1993 film\n***Dennis the Menace Strikes Again, a 1998 direct-to-video sequel of the 1993 film\n***A Dennis the Menace Christmas, a 2007 direct-to-video sequel of the 1993 film",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Dennis the Menace" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8171" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Dennis the Menace may refer to separate UK and U.S. comic strip characters that both appeared in March 1951 in their respective readership areas, and are still published as of 2018.\n\nBritish character\n\n* Dennis the Menace (UK comics) is the original title of a British comic strip which first appeared in \"The Beano\" on March 12, 1951 (in the edition cover dated March 17, 1951); it is now published as Dennis the Menace and Gnasher.\n**Dennis the Menace Annual, now known as the Dennis and Gnasher Annual, is a compilation of the comics plus new material.\n**Various television adaptations of the comic strip:\n***Dennis the Menace (1996 TV series) is an animated television series based on the Beano comic strip, known internationally as Dennis and Gnasher.\n***Dennis the Menace and Gnasher (2009 TV series) is the latest series based on the Beano comic, released on September 7, 2009.\n\nUnited States character\n\n* Dennis the Menace (U.S. comics), a daily US syndicated newspaper comic strip since March 12, 1951.\n**Various television and film adaptations of the comic strip:\n***Dennis the Menace (1959 TV series), a CBS network live action television show \n***Dennis the Menace (1986 TV series), an animated TV series\n***Dennis the Menace (1987 film), a made-for-television live action film released in 1987; a.k.a. Dennis the Menace: Dinosaur Hunter\n***All-New Dennis the Menace, a 1993 animated television series\n***Dennis the Menace (film), A live-action film released in 1993\n****Dennis the Menace (video game), based on the 1993 film\n***Dennis the Menace Strikes Again, a 1998 direct-to-video sequel of the 1993 film\n***A Dennis the Menace Christmas, a 2007 direct-to-video sequel of the 1993 film. Dennis the Menace. http://en.wikipedia.org/?curid=8171."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13773",
+  "eid" : "0d161f10-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778531201,
+  "textBody" : "Hradčany (; ), the Castle District, is the district of the city of Prague, Czech Republic surrounding Prague Castle.\n\nThe castle is said to be the biggest castle in the world at about 570 m in length and an average of about 130 m wide. Its history stretches back to the 9th century. St Vitus Cathedral is located in the castle area.\n\nMost of the district consists of noble historical palaces. There are many other attractions for visitors: romantic nooks, peaceful places and beautiful lookouts.\n\nHradčany was an independent borough until 1784, when the four independent boroughs that had formerly constituted Prague were proclaimed a single city. The other three were Malá Strana (, Lesser Quarter), Staré Město (, Old Town) and Nové Město (, New Town).",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Hradčany" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13773" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Hradčany (; ), the Castle District, is the district of the city of Prague, Czech Republic surrounding Prague Castle.\n\nThe castle is said to be the biggest castle in the world at about 570 m in length and an average of about 130 m wide. Its history stretches back to the 9th century. St Vitus Cathedral is located in the castle area.\n\nMost of the district consists of noble historical palaces. There are many other attractions for visitors: romantic nooks, peaceful places and beautiful lookouts.\n\nHradčany was an independent borough until 1784, when the four independent boroughs that had formerly constituted Prague were proclaimed a single city. The other three were Malá Strana (, Lesser Quarter), Staré Město (, Old Town) and Nové Město (, New Town). Hradčany. http://en.wikipedia.org/?curid=13773."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10865",
+  "eid" : "f82f7970-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778496135,
+  "textBody" : "FSF may refer to:\n\nArts and entertainment \n\n* Folsom Street Fair\n* Further Seems Forever, a rock band\n* Fugitive Strike Force, a 2006 television series\n* The Magazine of Fantasy & Science Fiction, also abbreviated F&SF\n\nSports \n\n* Faroe Islands Football Association (Faroese: ')\n* Federação Sergipana de Futebol, the Football Federation of Sergipe, Brazil\n* Football Supporters' Federation\n* Fuerte San Francisco, a Salvadoran football club\n* Sahrawi Football Federation (Spanish: ')\n* São Toméan Football Federation (Portuguese: ')\n* Senegalese Football Federation (French: ')\n\nOther uses \n\n* Free Software Foundation, an American non-profit organization with a mission to promote computer user freedom.\n* Familial Shar Pei fever\n* Federal Security Force (Pakistan)\n* Federación de Sindicatos Ferroviarios, a defunct Argentine trade union\n* Fibrin-stabilizing factor\n* Financial Stability Forum, a defunct international organization of financial regulators\n* Flexible Support Fund in the United Kingdom\n* Flight Safety Foundation, an American safety organization\n* Folsom Street Fair, in San Francisco, California, United States\n* Fourth suit forcing, a bidding convention in the game of contract bridge\n* Föreningen Sveriges Filmfotografer, Swedish Society of Cinematographers\n* Free speech fights, a series of 20th-century labor-related conflicts in the United States\n* Full state feedback\n* Progressive Party, an Icelandic political party (in Icelandic: Framsóknarflokkurinn)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "FSF" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10865" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "FSF may refer to:\n\nArts and entertainment \n\n* Folsom Street Fair\n* Further Seems Forever, a rock band\n* Fugitive Strike Force, a 2006 television series\n* The Magazine of Fantasy & Science Fiction, also abbreviated F&SF\n\nSports \n\n* Faroe Islands Football Association (Faroese: ')\n* Federação Sergipana de Futebol, the Football Federation of Sergipe, Brazil\n* Football Supporters' Federation\n* Fuerte San Francisco, a Salvadoran football club\n* Sahrawi Football Federation (Spanish: ')\n* São Toméan Football Federation (Portuguese: ')\n* Senegalese Football Federation (French: ')\n\nOther uses \n\n* Free Software Foundation, an American non-profit organization with a mission to promote computer user freedom.\n* Familial Shar Pei fever\n* Federal Security Force (Pakistan)\n* Federación de Sindicatos Ferroviarios, a defunct Argentine trade union\n* Fibrin-stabilizing factor\n* Financial Stability Forum, a defunct international organization of financial regulators\n* Flexible Support Fund in the United Kingdom\n* Flight Safety Foundation, an American safety organization\n* Folsom Street Fair, in San Francisco, California, United States\n* Fourth suit forcing, a bidding convention in the game of contract bridge\n* Föreningen Sveriges Filmfotografer, Swedish Society of Cinematographers\n* Free speech fights, a series of 20th-century labor-related conflicts in the United States\n* Full state feedback\n* Progressive Party, an Icelandic political party (in Icelandic: Framsóknarflokkurinn). FSF. http://en.wikipedia.org/?curid=10865."
+  }
+}

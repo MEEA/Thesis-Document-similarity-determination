@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10703",
+  "eid" : "f739f5e0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778494526,
+  "textBody" : "Telephones - main lines in use:\n22,000 (1995)\n\nTelephones - mobile cellular:\n35,000 (2004) est.\n\nTelephone system:\ngood international communications; good domestic facilities\ndomestic:\ndigitalization was to have been completed in 1998\ninternational:\nsatellite earth stations - 1 Orion; 2 fiber-optic submarine cable linking the Faroe Islands with Denmark, Iceland and Scotland\n\nRadio broadcast stations:\nAM 1, FM 13, shortwave 0 (1998)\n\nRadios:\n26,000 (1997)\n\nTelevision broadcast stations:\n7 (plus 51 low-power repeaters) (September 1995)\n\nTelevisions:\n15,000 (1997)\n\nInternet Service Providers (ISPs):\nDataNet [http://www.datanet.fo]\nEl & Tele [http://www.eltele.fo]\nFøroya Tele [http://www.ft.fo]\nKall [http://www.kall.fo]\nTeletech [http://www.teletech.fo]\n\nCountry code (TLD): FO",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Telecommunications in the Faroe Islands" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10703" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Telephones - main lines in use:\n22,000 (1995)\n\nTelephones - mobile cellular:\n35,000 (2004) est.\n\nTelephone system:\ngood international communications; good domestic facilities\ndomestic:\ndigitalization was to have been completed in 1998\ninternational:\nsatellite earth stations - 1 Orion; 2 fiber-optic submarine cable linking the Faroe Islands with Denmark, Iceland and Scotland\n\nRadio broadcast stations:\nAM 1, FM 13, shortwave 0 (1998)\n\nRadios:\n26,000 (1997)\n\nTelevision broadcast stations:\n7 (plus 51 low-power repeaters) (September 1995)\n\nTelevisions:\n15,000 (1997)\n\nInternet Service Providers (ISPs):\nDataNet [http://www.datanet.fo]\nEl & Tele [http://www.eltele.fo]\nFøroya Tele [http://www.ft.fo]\nKall [http://www.kall.fo]\nTeletech [http://www.teletech.fo]\n\nCountry code (TLD): FO. Telecommunications in the Faroe Islands. http://en.wikipedia.org/?curid=10703."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12881",
+  "eid" : "0542a470-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778518071,
+  "textBody" : "George Robert Aberigh-Mackay (25 July 184812 January 1881), Anglo-Indian writer, was the son of the Reverend James Aberigh-Mackay D.D., B.D. and his first wife Lucretia Livingston née Reed. He was educated at Magdalen College School, Oxford and Cambridge University. Entering the Indian education department in 1870, he became professor of English literature in Delhi College in 1873, tutor to the Raja of Rutlam in 1876, and principal of the Rajkumar College at Indore in 1877. On 8 January 1881 he developed symptoms of tetanus after playing polo and tennis on the previous 2 days, and died on 12 January 1881 in Indore.\n\nHe is best known for his book Twenty-one Days in India (1878–1879), a satire upon Anglo-Indian society and modes of thought. This book gave promise of a successful literary career, but the author died at the age of thirty-three.\nAberigh-Mackay wrote also an extensive manual giving first-hand data about the princely states and their rulers.[https://archive.org/details/nativechiefsand00macgoog G. R. Aberigh-Mackay, The Native Chiefs and Their States in 1877:A Manual of reference.]\n\nFamily\n\nGeorge Robert Aberigh-Mackay married Mary Ann Louisa Cherry on the 13th of October 1873 at Simla, Bengal, India.\nChildren of George Robert Aberigh-Mackay & Mary Ann Louisa Cherry\n# Mary Livingston (Miss Patty) Aberigh-Mackay (1874 - 1952)\n# Frances Lilian Aberigh-Mackay (1875 -?)\n# Beatrice Georgiana Aberigh-Mackay (1878 - 1948)\n# Katharine Madeline Aberigh-Mackay (1879 - 1945) married 1st Montague Tharp 2nd James Herbert Everett Evans.\n\nNotes",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "George Robert Aberigh-Mackay" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12881" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "George Robert Aberigh-Mackay (25 July 184812 January 1881), Anglo-Indian writer, was the son of the Reverend James Aberigh-Mackay D.D., B.D. and his first wife Lucretia Livingston née Reed. He was educated at Magdalen College School, Oxford and Cambridge University. Entering the Indian education department in 1870, he became professor of English literature in Delhi College in 1873, tutor to the Raja of Rutlam in 1876, and principal of the Rajkumar College at Indore in 1877. On 8 January 1881 he developed symptoms of tetanus after playing polo and tennis on the previous 2 days, and died on 12 January 1881 in Indore.\n\nHe is best known for his book Twenty-one Days in India (1878–1879), a satire upon Anglo-Indian society and modes of thought. This book gave promise of a successful literary career, but the author died at the age of thirty-three.\nAberigh-Mackay wrote also an extensive manual giving first-hand data about the princely states and their rulers.[https://archive.org/details/nativechiefsand00macgoog G. R. Aberigh-Mackay, The Native Chiefs and Their States in 1877:A Manual of reference.]\n\nFamily\n\nGeorge Robert Aberigh-Mackay married Mary Ann Louisa Cherry on the 13th of October 1873 at Simla, Bengal, India.\nChildren of George Robert Aberigh-Mackay & Mary Ann Louisa Cherry\n# Mary Livingston (Miss Patty) Aberigh-Mackay (1874 - 1952)\n# Frances Lilian Aberigh-Mackay (1875 -?)\n# Beatrice Georgiana Aberigh-Mackay (1878 - 1948)\n# Katharine Madeline Aberigh-Mackay (1879 - 1945) married 1st Montague Tharp 2nd James Herbert Everett Evans.\n\nNotes. George Robert Aberigh-Mackay. http://en.wikipedia.org/?curid=12881."
+  }
+}

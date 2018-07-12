@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=6634",
+  "eid" : "dc90b440-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778449796,
+  "textBody" : "Cadillac is a General Motors luxury car brand.\n\nCadillac may also refer to:\n\nPeople\n\n*Antoine de la Mothe Cadillac, French explorer, founder of Detroit\n*\"Cadillac\", nickname of NFL player Carnell Williams of the Tampa Bay Buccaneers\n\nGeography\n\n*Cadillac, Michigan, United States\n*Cadillac Mountain, Maine, United States\n*Cadillac, Saskatchewan, Canada\n*Cadillac, a former municipality now part of Rouyn-Noranda, Quebec, Canada\n*Cadillac, Gironde, a commune in the Gironde department, in southwestern France\n*Lake Cadillac, a lake in Cadillac, Michigan\n*Cadillac (Montreal Metro), a metro station on the green line in Montreal\n*Cadillac Ranch (disambiguation)\n\nCompanies and brands\n\n*Cadillac Gage, now part of Textron Marine & Land Systems\n* Cadillac insurance plan in the United States\n\nWine and grapes\n\n*Cadillac AOC, the appellation d'origine contrôlée Bordeaux wine produced in the French commune\n*Trebbiano, the Italian wine grape that is also known as Cadillac\n*Burger (grape), the California-French wine grape that is also known as Cadillac\n*Muscadelle, the French wine grape that is also known as Cadillac\n\nGames\n\n*Square Deal: The Game of Two Dimensional Poker, known in Japan as Cadillac II, a Hect video game\n*Cadillac, a variation on Thirty-one (card game) played in south Louisiana\n\nMusic\n\n*Cadillac, a guitar model made by Dean Guitars\n*Cadillac (band), a Spanish pop band\n*The Cadillacs, a vocal group from the United States\n*Cadillac (record label), a jazz record label founded in the United Kingdom in 1973\n\nAlbums\n\n*Cadillac (album), an album by Johnny Hallyday\n\nSongs\n\n*\"Cadillac\" (song), a song by Bo Diddley\n*\"Cadilac\" (T. Rex song), a B-side from \"Telegram Sam\"\n*\"Cadillac\" (The Firm song), song from the 1986 album Mean Business\n* \"Cadillac\", a song by The Original 7ven from Condensate\n\nOther\n\n*Cadillac, alternative name for Cocaine\n*\"The Cadillac\", an episode of the television series Seinfeld",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Cadillac (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=6634" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Cadillac is a General Motors luxury car brand.\n\nCadillac may also refer to:\n\nPeople\n\n*Antoine de la Mothe Cadillac, French explorer, founder of Detroit\n*\"Cadillac\", nickname of NFL player Carnell Williams of the Tampa Bay Buccaneers\n\nGeography\n\n*Cadillac, Michigan, United States\n*Cadillac Mountain, Maine, United States\n*Cadillac, Saskatchewan, Canada\n*Cadillac, a former municipality now part of Rouyn-Noranda, Quebec, Canada\n*Cadillac, Gironde, a commune in the Gironde department, in southwestern France\n*Lake Cadillac, a lake in Cadillac, Michigan\n*Cadillac (Montreal Metro), a metro station on the green line in Montreal\n*Cadillac Ranch (disambiguation)\n\nCompanies and brands\n\n*Cadillac Gage, now part of Textron Marine & Land Systems\n* Cadillac insurance plan in the United States\n\nWine and grapes\n\n*Cadillac AOC, the appellation d'origine contrôlée Bordeaux wine produced in the French commune\n*Trebbiano, the Italian wine grape that is also known as Cadillac\n*Burger (grape), the California-French wine grape that is also known as Cadillac\n*Muscadelle, the French wine grape that is also known as Cadillac\n\nGames\n\n*Square Deal: The Game of Two Dimensional Poker, known in Japan as Cadillac II, a Hect video game\n*Cadillac, a variation on Thirty-one (card game) played in south Louisiana\n\nMusic\n\n*Cadillac, a guitar model made by Dean Guitars\n*Cadillac (band), a Spanish pop band\n*The Cadillacs, a vocal group from the United States\n*Cadillac (record label), a jazz record label founded in the United Kingdom in 1973\n\nAlbums\n\n*Cadillac (album), an album by Johnny Hallyday\n\nSongs\n\n*\"Cadillac\" (song), a song by Bo Diddley\n*\"Cadilac\" (T. Rex song), a B-side from \"Telegram Sam\"\n*\"Cadillac\" (The Firm song), song from the 1986 album Mean Business\n* \"Cadillac\", a song by The Original 7ven from Condensate\n\nOther\n\n*Cadillac, alternative name for Cocaine\n*\"The Cadillac\", an episode of the television series Seinfeld. Cadillac (disambiguation). http://en.wikipedia.org/?curid=6634."
+  }
+}

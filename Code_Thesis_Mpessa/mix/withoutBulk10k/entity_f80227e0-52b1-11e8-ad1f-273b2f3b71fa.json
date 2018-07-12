@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10842",
+  "eid" : "f80227e0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778495838,
+  "textBody" : "In neuroscience, an F wave is the second of two voltage changes observed after electrical stimulation is applied to the skin surface above the distal region of a nerve. F waves are often used to measure nerve conduction velocity, and are particularly useful for evaluating conduction problems in the proximal region of nerves (i.e., portions of nerves near the spinal cord).\n\nIt's called F wave because it was initially recorded in the foot muscles.\n\nOverview \n\nIn a typical F wave study, a strong electrical stimulus (supramaximal stimulation) is applied to the skin surface above the distal portion of a nerve so that the impulse travels both distally (towards the muscle fiber) and proximally (back to the motor neurons of the spinal cord). (These directions are also known as orthodromic and antidromic, respectively.) When the orthodromic stimulus reaches the muscle fiber, it elicits a strong M-response indicative of muscle contraction. When the antidromic stimulus reaches the motor neuron cell bodies, a small portion of the motor neurons backfire and orthodromic wave travels back down the nerve towards the muscle. This reflected stimulus evokes small proportion of the muscle fibers causing a small, second CMAP called the F wave.\n\nBecause a different population of anterior horn cells is stimulated with each stimulation, each F wave have a slightly different shape, amplitude and latency.\n\nProperties \n\nF wave properties include:\n\n* amplitude (µV) - F wave height\n* duration (ms) - length of F wave\n* latency (ms) - period between F wave and initial stimulation\n\nF wave measurements\n\nSeveral measurements can be done on the F responses, including minimal and maximal latencies, and F wave persistence.\n\nThe minimal F wave latency is typically 25-32 ms in the upper extremities, and 45-56 ms in the lower extremities.\n\nF wave persistence is the number of F waves obtained per the number of stimulations, which is normally 80-100% (or above 50%).",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "F wave" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10842" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "In neuroscience, an F wave is the second of two voltage changes observed after electrical stimulation is applied to the skin surface above the distal region of a nerve. F waves are often used to measure nerve conduction velocity, and are particularly useful for evaluating conduction problems in the proximal region of nerves (i.e., portions of nerves near the spinal cord).\n\nIt's called F wave because it was initially recorded in the foot muscles.\n\nOverview \n\nIn a typical F wave study, a strong electrical stimulus (supramaximal stimulation) is applied to the skin surface above the distal portion of a nerve so that the impulse travels both distally (towards the muscle fiber) and proximally (back to the motor neurons of the spinal cord). (These directions are also known as orthodromic and antidromic, respectively.) When the orthodromic stimulus reaches the muscle fiber, it elicits a strong M-response indicative of muscle contraction. When the antidromic stimulus reaches the motor neuron cell bodies, a small portion of the motor neurons backfire and orthodromic wave travels back down the nerve towards the muscle. This reflected stimulus evokes small proportion of the muscle fibers causing a small, second CMAP called the F wave.\n\nBecause a different population of anterior horn cells is stimulated with each stimulation, each F wave have a slightly different shape, amplitude and latency.\n\nProperties \n\nF wave properties include:\n\n* amplitude (µV) - F wave height\n* duration (ms) - length of F wave\n* latency (ms) - period between F wave and initial stimulation\n\nF wave measurements\n\nSeveral measurements can be done on the F responses, including minimal and maximal latencies, and F wave persistence.\n\nThe minimal F wave latency is typically 25-32 ms in the upper extremities, and 45-56 ms in the lower extremities.\n\nF wave persistence is the number of F waves obtained per the number of stimulations, which is normally 80-100% (or above 50%). F wave. http://en.wikipedia.org/?curid=10842."
+  }
+}

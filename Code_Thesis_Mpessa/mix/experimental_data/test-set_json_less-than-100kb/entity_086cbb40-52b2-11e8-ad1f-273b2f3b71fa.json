@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13316",
+  "eid" : "086cbb40-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778523380,
+  "textBody" : "Condensed list of historical anniversaries.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "List of historical anniversaries" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13316" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Condensed list of historical anniversaries. List of historical anniversaries. http://en.wikipedia.org/?curid=13316."
+  }
+}

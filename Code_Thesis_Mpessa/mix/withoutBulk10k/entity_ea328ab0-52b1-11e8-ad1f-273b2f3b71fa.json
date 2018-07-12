@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8768",
+  "eid" : "ea328ab0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778472667,
+  "textBody" : "A dulcimer is a type of musical string instrument. It is a species of zither. Among its forms are:\n* Hammered dulcimer, free-standing, most frequently but not always trapezoidal in shape, with many strings struck by handheld \"hammers\". This type of instrument is found in many cultures, especially in England, in the British Isles and in the north of continental Europe. Most countries have their own name for the instrument, for instance in Thailand it is called a khim, in India it is called Santoor and many have different tuning systems. Being a struck string instrument, it is considered to be among the ancestors of the piano. \n* Fretted, three or four strings, generally played on the lap by strumming; including\n** Appalachian dulcimer, a folk instrument used in the Appalachian region of the U.S.\n** Banjo dulcimer, with banjo-like resonating membrane\n** Resonator dulcimer, with inset conical resonator\n* Other\n** Bowed dulcimer, teardrop-shaped and played upright with a bow\n** Electric dulcimer, various types of dulcimer which use a pickup to amplify the sound\n\nThe name, though perhaps not the design and sound, of the instrument is familiar to English-speaking readers from Samuel Taylor Coleridge's poem (published 1816) Kubla Khan:",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Dulcimer" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8768" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A dulcimer is a type of musical string instrument. It is a species of zither. Among its forms are:\n* Hammered dulcimer, free-standing, most frequently but not always trapezoidal in shape, with many strings struck by handheld \"hammers\". This type of instrument is found in many cultures, especially in England, in the British Isles and in the north of continental Europe. Most countries have their own name for the instrument, for instance in Thailand it is called a khim, in India it is called Santoor and many have different tuning systems. Being a struck string instrument, it is considered to be among the ancestors of the piano. \n* Fretted, three or four strings, generally played on the lap by strumming; including\n** Appalachian dulcimer, a folk instrument used in the Appalachian region of the U.S.\n** Banjo dulcimer, with banjo-like resonating membrane\n** Resonator dulcimer, with inset conical resonator\n* Other\n** Bowed dulcimer, teardrop-shaped and played upright with a bow\n** Electric dulcimer, various types of dulcimer which use a pickup to amplify the sound\n\nThe name, though perhaps not the design and sound, of the instrument is familiar to English-speaking readers from Samuel Taylor Coleridge's poem (published 1816) Kubla Khan:. Dulcimer. http://en.wikipedia.org/?curid=8768."
+  }
+}

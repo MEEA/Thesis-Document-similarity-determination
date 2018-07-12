@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19033",
+  "eid" : "372ea421-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778601826,
+  "textBody" : "Meroitic may refer to:\n\n* things related to the kingdom of Meroë in pre-Islamic Sudan\n* The Meroitic alphabet\n* The Meroitic language",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Meroitic" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19033" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Meroitic may refer to:\n\n* things related to the kingdom of Meroë in pre-Islamic Sudan\n* The Meroitic alphabet\n* The Meroitic language. Meroitic. http://en.wikipedia.org/?curid=19033."
+  }
+}

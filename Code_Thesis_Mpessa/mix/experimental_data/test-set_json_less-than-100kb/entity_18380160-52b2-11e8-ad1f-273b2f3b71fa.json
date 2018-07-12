@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14879",
+  "eid" : "18380160-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778549878,
+  "textBody" : "Interval may refer to:\n\nMaths and physics\n\n* Interval (mathematics), a range of numbers\n* A statistical level of measurement\n* Space-time interval, the distance between two points in 4-space\n\nArts and entertainment\n\nDramatic arts\n\n* Intermission, a British term for a break in a theatrical performance\n** Entr'acte, a French term for the same, but used in English often to mean a musical performance played during the break\n* Interval (play), a 1939 play by Sumner Locke Elliott\n* Interval (film), a 1973 film starring Merle Oberon\n\nMusic\n\n* Interval (music), the relationship in pitch between two notes\n* Intervals (band), a Canadian progressive metal band\n* Intervals (See You Next Tuesday album), 2008\n* Intervals (Ahmad Jamal album), 1980\n\nSport\n\n* Playing time (cricket)#Intervals, the breaks between play in cricket\n* Interval training, a training technique used by runners and cyclists\n* Interval starts in cross-country skiing\n\nOther uses\n\n* Interval Research Corporation, a technology think tank founded by Paul Allen\n* Recess (break), a break between classes, also called \"interval\" in New Zealand",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Interval" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14879" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Interval may refer to:\n\nMaths and physics\n\n* Interval (mathematics), a range of numbers\n* A statistical level of measurement\n* Space-time interval, the distance between two points in 4-space\n\nArts and entertainment\n\nDramatic arts\n\n* Intermission, a British term for a break in a theatrical performance\n** Entr'acte, a French term for the same, but used in English often to mean a musical performance played during the break\n* Interval (play), a 1939 play by Sumner Locke Elliott\n* Interval (film), a 1973 film starring Merle Oberon\n\nMusic\n\n* Interval (music), the relationship in pitch between two notes\n* Intervals (band), a Canadian progressive metal band\n* Intervals (See You Next Tuesday album), 2008\n* Intervals (Ahmad Jamal album), 1980\n\nSport\n\n* Playing time (cricket)#Intervals, the breaks between play in cricket\n* Interval training, a training technique used by runners and cyclists\n* Interval starts in cross-country skiing\n\nOther uses\n\n* Interval Research Corporation, a technology think tank founded by Paul Allen\n* Recess (break), a break between classes, also called \"interval\" in New Zealand. Interval. http://en.wikipedia.org/?curid=14879."
+  }
+}

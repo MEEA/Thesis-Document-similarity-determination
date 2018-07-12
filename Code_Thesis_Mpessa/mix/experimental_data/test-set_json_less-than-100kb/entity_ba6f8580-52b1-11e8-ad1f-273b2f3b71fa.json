@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1547",
+  "eid" : "ba6f8580-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778392536,
+  "textBody" : "Agasias was the name of several different people in Classical history, including two different Greek sculptors.\n\n* Agasias of Arcadia, a warrior mentioned by Xenophon\n* Agasias, son of Dositheus, Ephesian sculptor of the Borghese Gladiator\n* Agasias, son of Menophilus, Ephesian sculptor",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Agasias" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1547" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Agasias was the name of several different people in Classical history, including two different Greek sculptors.\n\n* Agasias of Arcadia, a warrior mentioned by Xenophon\n* Agasias, son of Dositheus, Ephesian sculptor of the Borghese Gladiator\n* Agasias, son of Menophilus, Ephesian sculptor. Agasias. http://en.wikipedia.org/?curid=1547."
+  }
+}

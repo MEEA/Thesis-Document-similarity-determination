@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17233",
+  "eid" : "2ae1fd70-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778581191,
+  "textBody" : "KSR is an initialism that may mean:\n\n* Kendall Square Research, a supercomputer company headquartered originally in Kendall Square in Cambridge, Massachusetts\n* Keyboard Send Receive, a designation used by Teletype Corporation for teleprinters that contain a keyboard but no punched tape equipment\n* Kim Stanley Robinson, an American science-fiction writer known for his award-winning Mars trilogy\n* a kinetic sculpture race of human-powered amphibious works of art\n* KSR v. Teleflex, a significant precedent (2007) in U.S. patent law\n* Katahdin Scout Reservation, otherwise known as Camp Roosevelt, a Boy Scouts of America camp in Maine\n* Krantivira Sangolli Rayanna railway station, Bengaluru\n* ksrct, otherwise known as K.S. Rangasamy College of Technology\n* Khao San Road, a short road in central Bangkok, popular with backpackers\n* Kinase suppressor of Ras, a protein in the MAP Kinase cascade\n* Killington Ski Resort, a ski area in Killington, Vermont",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "KSR" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17233" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "KSR is an initialism that may mean:\n\n* Kendall Square Research, a supercomputer company headquartered originally in Kendall Square in Cambridge, Massachusetts\n* Keyboard Send Receive, a designation used by Teletype Corporation for teleprinters that contain a keyboard but no punched tape equipment\n* Kim Stanley Robinson, an American science-fiction writer known for his award-winning Mars trilogy\n* a kinetic sculpture race of human-powered amphibious works of art\n* KSR v. Teleflex, a significant precedent (2007) in U.S. patent law\n* Katahdin Scout Reservation, otherwise known as Camp Roosevelt, a Boy Scouts of America camp in Maine\n* Krantivira Sangolli Rayanna railway station, Bengaluru\n* ksrct, otherwise known as K.S. Rangasamy College of Technology\n* Khao San Road, a short road in central Bangkok, popular with backpackers\n* Kinase suppressor of Ras, a protein in the MAP Kinase cascade\n* Killington Ski Resort, a ski area in Killington, Vermont. KSR. http://en.wikipedia.org/?curid=17233."
+  }
+}

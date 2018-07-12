@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12507",
+  "eid" : "030efb90-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778514377,
+  "textBody" : "Great Schism may refer to:\n\n* East–West Schism, between the Eastern Orthodox Church and the Catholic Church, beginning in 1054\n* Western Schism, a split within the Roman Catholic Church that lasted from 1378 to 1417",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Great Schism" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12507" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Great Schism may refer to:\n\n* East–West Schism, between the Eastern Orthodox Church and the Catholic Church, beginning in 1054\n* Western Schism, a split within the Roman Catholic Church that lasted from 1378 to 1417. Great Schism. http://en.wikipedia.org/?curid=12507."
+  }
+}

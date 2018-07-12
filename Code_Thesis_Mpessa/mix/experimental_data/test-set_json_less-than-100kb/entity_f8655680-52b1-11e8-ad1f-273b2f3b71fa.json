@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10905",
+  "eid" : "f8655680-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778496488,
+  "textBody" : "Family law (also called matrimonial law or the law of domestic relations) is an area of the law that deals with family matters and domestic relations.\n\nOverview\n\nSubjects that commonly fall under a nation's body of family law include:\n* Marriage, civil unions, and domestic partnerships:\n** Entry into legally recognized spousal and domestic relationships\n** The termination of legally recognized family relationships and ancillary matters, including divorce, annulment, property settlements, alimony, child custody and visitation, child support and alimony awards\n* Adoption: proceedings to adopt a child and, in some cases, an adult.\n* Surrogacy: the law and process of giving birth as a surrogate mother\n* Child protective proceedings: court proceedings that may result from state intervention in cases of child abuse and child neglect\n* Juvenile law: Matters relating to minors including status offenses, delinquency, emancipation and juvenile adjudication\n* Paternity: proceedings to establish and disestablish paternity, and the administration of paternity testing\n\nThis list is not exhaustive and varies depending on jurisdiction.\n\nConflict of laws\n\nIssues may arise in family law where there is a question as to the laws of the jurisdiction that apply to the marriage relationship or to custody and divorce, and whether a divorce or child custody order is recognized under the laws of another jurisdiction. For child custody, many nations have joined the Hague Convention on the Civil Aspects of International Child Abduction in order to grant recognition to other member states' custody orders and avoid issues of parental kidnapping.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Family law" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10905" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Family law (also called matrimonial law or the law of domestic relations) is an area of the law that deals with family matters and domestic relations.\n\nOverview\n\nSubjects that commonly fall under a nation's body of family law include:\n* Marriage, civil unions, and domestic partnerships:\n** Entry into legally recognized spousal and domestic relationships\n** The termination of legally recognized family relationships and ancillary matters, including divorce, annulment, property settlements, alimony, child custody and visitation, child support and alimony awards\n* Adoption: proceedings to adopt a child and, in some cases, an adult.\n* Surrogacy: the law and process of giving birth as a surrogate mother\n* Child protective proceedings: court proceedings that may result from state intervention in cases of child abuse and child neglect\n* Juvenile law: Matters relating to minors including status offenses, delinquency, emancipation and juvenile adjudication\n* Paternity: proceedings to establish and disestablish paternity, and the administration of paternity testing\n\nThis list is not exhaustive and varies depending on jurisdiction.\n\nConflict of laws\n\nIssues may arise in family law where there is a question as to the laws of the jurisdiction that apply to the marriage relationship or to custody and divorce, and whether a divorce or child custody order is recognized under the laws of another jurisdiction. For child custody, many nations have joined the Hague Convention on the Civil Aspects of International Child Abduction in order to grant recognition to other member states' custody orders and avoid issues of parental kidnapping. Family law. http://en.wikipedia.org/?curid=10905."
+  }
+}

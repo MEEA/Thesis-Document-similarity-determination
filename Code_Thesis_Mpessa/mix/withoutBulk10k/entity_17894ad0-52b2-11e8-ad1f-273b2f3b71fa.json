@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14743",
+  "eid" : "17894ad0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778548733,
+  "textBody" : "ISOC is an abbreviation which may refer to:\n\n* Information Security Operations Center, is a location where enterprise information systems are monitored, assessed, and defended.\n* Internet Society, ISoc, an international organization that promotes Internet use and access\n* Internal Security Operations Command, a unit of the Thai military devoted to national security issues\n* In Service Open Challenge, a Walt Disney World lifeguarding competition\n* Islamic Society, various Islamic-based groups\n* International Series of Champions, professional snowmobile snowcross racing organization.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "ISOC" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14743" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "ISOC is an abbreviation which may refer to:\n\n* Information Security Operations Center, is a location where enterprise information systems are monitored, assessed, and defended.\n* Internet Society, ISoc, an international organization that promotes Internet use and access\n* Internal Security Operations Command, a unit of the Thai military devoted to national security issues\n* In Service Open Challenge, a Walt Disney World lifeguarding competition\n* Islamic Society, various Islamic-based groups\n* International Series of Champions, professional snowmobile snowcross racing organization. ISOC. http://en.wikipedia.org/?curid=14743."
+  }
+}

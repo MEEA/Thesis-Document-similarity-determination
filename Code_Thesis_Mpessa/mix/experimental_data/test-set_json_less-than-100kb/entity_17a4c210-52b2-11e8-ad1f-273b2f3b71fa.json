@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14753",
+  "eid" : "17a4c210-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778548913,
+  "textBody" : "IOC most commonly refers to the International Olympic Committee.\n\nIOC may also refer to:\n\nComputing\n\n*IBM Open Class\n*I/O processor\n*Inversion of control (IoC), a software design pattern\n*Indicator of compromise, an artifact likely indicating a computer intrusion\n\nReligion\n\n*Indian Orthodox Church (IOC) officially known as Indian (Malankara) Orthodox Church\n\nOther\n\n*Icon of Coil\n*Immediate or cancel, a type of order used on some stock exchanges\n*Indian Ocean Commission, generally COI, but according to World Bank as well IOC\n*Indian Oil Corporation\n*International Olive Council\n*Initial operating capability\n*Initiatives of Change\n*Intergovernmental Oceanographic Commission\n*International Oil Company, as opposed to NOC, which stands for National Oil Company\n*International Ornithological Committee\n*International Ornithological Congress\n*International Order of Characters\n*Intraoral camera, a device used to take photos of the inside of a patient's mouth\n*Iron Ore Company of Canada\n*Italian Organized Crime",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "IOC (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14753" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "IOC most commonly refers to the International Olympic Committee.\n\nIOC may also refer to:\n\nComputing\n\n*IBM Open Class\n*I/O processor\n*Inversion of control (IoC), a software design pattern\n*Indicator of compromise, an artifact likely indicating a computer intrusion\n\nReligion\n\n*Indian Orthodox Church (IOC) officially known as Indian (Malankara) Orthodox Church\n\nOther\n\n*Icon of Coil\n*Immediate or cancel, a type of order used on some stock exchanges\n*Indian Ocean Commission, generally COI, but according to World Bank as well IOC\n*Indian Oil Corporation\n*International Olive Council\n*Initial operating capability\n*Initiatives of Change\n*Intergovernmental Oceanographic Commission\n*International Oil Company, as opposed to NOC, which stands for National Oil Company\n*International Ornithological Committee\n*International Ornithological Congress\n*International Order of Characters\n*Intraoral camera, a device used to take photos of the inside of a patient's mouth\n*Iron Ore Company of Canada\n*Italian Organized Crime. IOC (disambiguation). http://en.wikipedia.org/?curid=14753."
+  }
+}

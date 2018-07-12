@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19176",
+  "eid" : "388337a0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778604058,
+  "textBody" : "Martinique, like other small Caribbean islands, has no railways. As of 2000, Martinique had 2,105 km of paved highways.\n\nThere is a part of the N5 road that has been upgraded as a motorway, running from the capital Fort-de-France through Lamentin, Ducos and Rivière Salée until Les Coteaux.\n\nThere are harbours at Fort-de-France and La Trinité.\n\nIt has three airports,http://www.lib.utexas.edu/maps/onc/txu-pclmaps-oclc-8322829_k_27.jpg the main one being Martinique Aimé Césaire International Airport. See List of Airports in Martinique.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Transport in Martinique" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19176" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Martinique, like other small Caribbean islands, has no railways. As of 2000, Martinique had 2,105 km of paved highways.\n\nThere is a part of the N5 road that has been upgraded as a motorway, running from the capital Fort-de-France through Lamentin, Ducos and Rivière Salée until Les Coteaux.\n\nThere are harbours at Fort-de-France and La Trinité.\n\nIt has three airports,http://www.lib.utexas.edu/maps/onc/txu-pclmaps-oclc-8322829_k_27.jpg the main one being Martinique Aimé Césaire International Airport. See List of Airports in Martinique. Transport in Martinique. http://en.wikipedia.org/?curid=19176."
+  }
+}

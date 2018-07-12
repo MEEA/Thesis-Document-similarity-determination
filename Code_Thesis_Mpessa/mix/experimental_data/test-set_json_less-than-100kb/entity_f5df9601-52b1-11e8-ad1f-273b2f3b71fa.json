@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10498",
+  "eid" : "f5df9601-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778492256,
+  "textBody" : "Murakami may refer to:\n\n* Murakami (name), a Japanese surname, including a list of people with the name\n* Murakami, Niigata, a city in Niigata prefecture\n* Murakami Domain, a clan within Feudal Japan\n* \"Murakami\", a song by Russian rock singer Svetlana Surganova\n* \"Murakami, a song on the 2015 album Without My Enemy What Would I Do by U.S. band Made In Heights",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Murakami" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10498" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Murakami may refer to:\n\n* Murakami (name), a Japanese surname, including a list of people with the name\n* Murakami, Niigata, a city in Niigata prefecture\n* Murakami Domain, a clan within Feudal Japan\n* \"Murakami\", a song by Russian rock singer Svetlana Surganova\n* \"Murakami, a song on the 2015 album Without My Enemy What Would I Do by U.S. band Made In Heights. Murakami. http://en.wikipedia.org/?curid=10498."
+  }
+}

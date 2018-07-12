@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7102",
+  "eid" : "dff514f0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778455487,
+  "textBody" : "CAMP or cAMP may stand for:\n* CAMP:\n**Cathelicidin, or Cathelicidin antimicrobial peptide\n**Campaign Against Marijuana Planting\n**Central Atlantic magmatic province\n**CAMP (company), an Italian manufacturer of climbing equipment\n* cAMP:\n** Cyclic adenosine monophosphate (cAMP)\n** (+)-cis-2-Aminomethylcyclopropane carboxylic acid, a GABAA-ρ agonist",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "CAMP" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7102" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "CAMP or cAMP may stand for:\n* CAMP:\n**Cathelicidin, or Cathelicidin antimicrobial peptide\n**Campaign Against Marijuana Planting\n**Central Atlantic magmatic province\n**CAMP (company), an Italian manufacturer of climbing equipment\n* cAMP:\n** Cyclic adenosine monophosphate (cAMP)\n** (+)-cis-2-Aminomethylcyclopropane carboxylic acid, a GABAA-ρ agonist. CAMP. http://en.wikipedia.org/?curid=7102."
+  }
+}

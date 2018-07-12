@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10301",
+  "eid" : "f4ef69a0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778490682,
+  "textBody" : "Encapsulation may refer to:\n\nChemistry \n\n* Molecular encapsulation, in chemistry, the confinement of an individual molecule within a larger molecule\n* Micro-encapsulation, in material science, the coating of microscopic particles with another material\n\nBiology \n\n* Cell encapsulation, technology made to overcome the existing problem of graft rejection in tissue engineering applications\n\nComputing \n\n* Encapsulation (networking), the process of adding control information as it passes through the layered model\n* Encapsulation (computer programming), the combination of program code and data, and/or restriction of access to data except through dedicated code\n\nRocketry\n\n* Encapsulation, the payload fairing surrounding a payload on a rocket-powered launch vehicle.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Encapsulation" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10301" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Encapsulation may refer to:\n\nChemistry \n\n* Molecular encapsulation, in chemistry, the confinement of an individual molecule within a larger molecule\n* Micro-encapsulation, in material science, the coating of microscopic particles with another material\n\nBiology \n\n* Cell encapsulation, technology made to overcome the existing problem of graft rejection in tissue engineering applications\n\nComputing \n\n* Encapsulation (networking), the process of adding control information as it passes through the layered model\n* Encapsulation (computer programming), the combination of program code and data, and/or restriction of access to data except through dedicated code\n\nRocketry\n\n* Encapsulation, the payload fairing surrounding a payload on a rocket-powered launch vehicle. Encapsulation. http://en.wikipedia.org/?curid=10301."
+  }
+}

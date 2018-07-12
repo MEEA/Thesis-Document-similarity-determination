@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=876",
+  "eid" : "a8249960-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778361846,
+  "textBody" : "A motor neuron disease (MND) is any of several neurodegenerative disoders that selectively affect motor neurons, the cells that control voluntary muscles of the body. They include amyotrophic lateral sclerosis (ALS), hereditary spastic paraplegia (HSP), primary lateral sclerosis (PLS), progressive muscular atrophy (PMA), progressive bulbar palsy (PBP) and pseudobulbar palsy. Spinal muscular atrophies (SMA) are sometimes included in the group by some neurologists but it is different disease with clear genetic cause. \n\nTerminology\n\nIn the United States, the term is often used to denote ALS, the most common disorder in the group. In the United Kingdom, the term is also spelled motor neurone disease (MND) and is sometimes used for the entire group, but can also refer to specifically to ALS.\n\nWhile MND refers to a specific subset of similar diseases, there are numerous other diseases of motor neurons that are referred to collectively as \"motor neuron disorders\", for instance disease belonging to spinal muscular atrophies. However, they are not classified as \"motor neuron diseases\" by the tenth International Statistical Classification of Diseases and Related Health Problems (ICD-10), which is the definition followed in this article.\n\nClassification \n\nMotor neuron diseases affect either upper motor neurons (UMN) or lower motor neurons (LMN), or both:",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Motor neuron disease" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=876" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A motor neuron disease (MND) is any of several neurodegenerative disoders that selectively affect motor neurons, the cells that control voluntary muscles of the body. They include amyotrophic lateral sclerosis (ALS), hereditary spastic paraplegia (HSP), primary lateral sclerosis (PLS), progressive muscular atrophy (PMA), progressive bulbar palsy (PBP) and pseudobulbar palsy. Spinal muscular atrophies (SMA) are sometimes included in the group by some neurologists but it is different disease with clear genetic cause. \n\nTerminology\n\nIn the United States, the term is often used to denote ALS, the most common disorder in the group. In the United Kingdom, the term is also spelled motor neurone disease (MND) and is sometimes used for the entire group, but can also refer to specifically to ALS.\n\nWhile MND refers to a specific subset of similar diseases, there are numerous other diseases of motor neurons that are referred to collectively as \"motor neuron disorders\", for instance disease belonging to spinal muscular atrophies. However, they are not classified as \"motor neuron diseases\" by the tenth International Statistical Classification of Diseases and Related Health Problems (ICD-10), which is the definition followed in this article.\n\nClassification \n\nMotor neuron diseases affect either upper motor neurons (UMN) or lower motor neurons (LMN), or both:. Motor neuron disease. http://en.wikipedia.org/?curid=876."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=20356",
+  "eid" : "41b09cf0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778619455,
+  "textBody" : "The Mozambique Channel (, , ) is an arm of the Indian Ocean located between Madagascar and Mozambique. The channel is about 1600 km long and 419 km across at its narrowest point, and reaches a depth of 3292 m about 230 km off the coast of Mozambique. A warm current, the Mozambique Current,  flows in a southward direction in the channel, leading into the Agulhas Current off the east coast of South Africa.\n\nExtent\n\nThe International Hydrographic Organization (IHO) defines the limits of the Mozambique Channel as follows:\n\n:On the North. A line from the estuary of the River Rovuma () to Ras Habu, the Northern point of Ile Grande Comore, the Northern of the Comore (Comoro) Islands, to Cap d'Ambre (Amber) the Northern extremity of Madagascar ().\n\n:On the East. The West coast of Madagascar.\n\n:On the South. A line from Cap Sainte-Marie, the Southern extreme of Madagascar to Ponto do Ouro on the mainland ().\n\n:On the West. The mainland of South Africa.\n\nDespite being defined as the South African coast by the IHO, the western limit of the channel is more correctly defined as the coast of Southern Africa or, more specifically, of Mozambique.\n\nIslands in the channel\n\nComoros\n\n*Grande Comore\n*Mohéli\n*Anjouan\n\nFrance\n\n*Region of France : Mayotte (claimed by Comoros)\n*French Southern and Antarctic Lands, district of Scattered Islands in the Indian Ocean :\n**Banc du Geyser (claimed by Madagascar and Comoros)\n**Juan de Nova Island (claimed by Madagascar)\n**Europa Island (claimed by Madagascar)\n**Bassas da India (claimed by Madagascar)\n\nMozambique\n\nPrimeiras and Segundas Archipelago\n\nHistory\n\nThe Mozambique Channel was a World War II clashpoint during the Battle of Madagascar.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Mozambique Channel" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=20356" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The Mozambique Channel (, , ) is an arm of the Indian Ocean located between Madagascar and Mozambique. The channel is about 1600 km long and 419 km across at its narrowest point, and reaches a depth of 3292 m about 230 km off the coast of Mozambique. A warm current, the Mozambique Current,  flows in a southward direction in the channel, leading into the Agulhas Current off the east coast of South Africa.\n\nExtent\n\nThe International Hydrographic Organization (IHO) defines the limits of the Mozambique Channel as follows:\n\n:On the North. A line from the estuary of the River Rovuma () to Ras Habu, the Northern point of Ile Grande Comore, the Northern of the Comore (Comoro) Islands, to Cap d'Ambre (Amber) the Northern extremity of Madagascar ().\n\n:On the East. The West coast of Madagascar.\n\n:On the South. A line from Cap Sainte-Marie, the Southern extreme of Madagascar to Ponto do Ouro on the mainland ().\n\n:On the West. The mainland of South Africa.\n\nDespite being defined as the South African coast by the IHO, the western limit of the channel is more correctly defined as the coast of Southern Africa or, more specifically, of Mozambique.\n\nIslands in the channel\n\nComoros\n\n*Grande Comore\n*Mohéli\n*Anjouan\n\nFrance\n\n*Region of France : Mayotte (claimed by Comoros)\n*French Southern and Antarctic Lands, district of Scattered Islands in the Indian Ocean :\n**Banc du Geyser (claimed by Madagascar and Comoros)\n**Juan de Nova Island (claimed by Madagascar)\n**Europa Island (claimed by Madagascar)\n**Bassas da India (claimed by Madagascar)\n\nMozambique\n\nPrimeiras and Segundas Archipelago\n\nHistory\n\nThe Mozambique Channel was a World War II clashpoint during the Battle of Madagascar. Mozambique Channel. http://en.wikipedia.org/?curid=20356."
+  }
+}

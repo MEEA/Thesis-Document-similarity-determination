@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18162",
+  "eid" : "313fc800-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778591872,
+  "textBody" : "Atheism is, in a broad sense, the lack of belief in the existence of deities. In a narrower sense, atheism is simply the absence of belief that any deities exist. This is a compilation of the various lists of atheists with articles in Wikipedia. Living persons in these lists are people whose atheism is relevant to their notable activities or public life, and who have publicly identified themselves as atheists.\n\nLists by country or territory\n\n*List of atheist Americans\n*List of Dutch atheists\n*List of South African atheists\n\nLists by profession\n\n* List of atheist activists and educators\n* List of atheist authors\n* List of atheist philosophers\n* List of atheists (miscellaneous) - shorter groups: Business, Comedians, Historians, Military, Social Scientists, Sports, Visual arts\n* List of atheists in film, radio, television and theater\n* List of atheists in music\n* List of atheists in politics and law\n* List of atheists in science and technology\n\nLists by surname \n\n* List of atheists (surnames A to B)\n* List of atheists (surnames C to D)\n* List of atheists (surnames E to G)\n* List of atheists (surnames H to K)\n* List of atheists (surnames L to M)\n* List of atheists (surnames N to Q)\n* List of atheists (surnames R to S)\n* List of atheists (surnames T to Z)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Lists of atheists" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18162" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Atheism is, in a broad sense, the lack of belief in the existence of deities. In a narrower sense, atheism is simply the absence of belief that any deities exist. This is a compilation of the various lists of atheists with articles in Wikipedia. Living persons in these lists are people whose atheism is relevant to their notable activities or public life, and who have publicly identified themselves as atheists.\n\nLists by country or territory\n\n*List of atheist Americans\n*List of Dutch atheists\n*List of South African atheists\n\nLists by profession\n\n* List of atheist activists and educators\n* List of atheist authors\n* List of atheist philosophers\n* List of atheists (miscellaneous) - shorter groups: Business, Comedians, Historians, Military, Social Scientists, Sports, Visual arts\n* List of atheists in film, radio, television and theater\n* List of atheists in music\n* List of atheists in politics and law\n* List of atheists in science and technology\n\nLists by surname \n\n* List of atheists (surnames A to B)\n* List of atheists (surnames C to D)\n* List of atheists (surnames E to G)\n* List of atheists (surnames H to K)\n* List of atheists (surnames L to M)\n* List of atheists (surnames N to Q)\n* List of atheists (surnames R to S)\n* List of atheists (surnames T to Z). Lists of atheists. http://en.wikipedia.org/?curid=18162."
+  }
+}

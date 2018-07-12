@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10504",
+  "eid" : "f5e53b50-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778492293,
+  "textBody" : "Reizei can refer to:\n*Emperor Reizei, emperor of Japan\n* Reizei family, a branch of the Fujiwara family",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Reizei" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10504" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Reizei can refer to:\n*Emperor Reizei, emperor of Japan\n* Reizei family, a branch of the Fujiwara family. Reizei. http://en.wikipedia.org/?curid=10504."
+  }
+}

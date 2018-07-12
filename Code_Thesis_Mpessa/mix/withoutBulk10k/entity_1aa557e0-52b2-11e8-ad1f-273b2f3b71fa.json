@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15220",
+  "eid" : "1aa557e0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778553950,
+  "textBody" : "Often, informal, spoken language, \"everyday language\" is less precise than any more formal  or academic languages.\n\nLanguage might be said to be imprecise because it exhibits one or more of the following features:\n* ambiguity – when a word or phrase pertains to its having more than one meaning in the language to which the word belongs.\n* vagueness – when borderline cases interfere with an interpretation\n* equivocation – the misleading use of a term with more than one meaning or sense (by glossing over which meaning is intended at a particular time)\n* accent – when the use of bold or italics causes confusion over the meaning of a statement\n* amphiboly – when a sentence may be interpreted in more than one way due to ambiguous sentence structure.\n\nWhile imprecise language is not desirable in various scientific fields, it may be helpful, illustrative or discussion-stimulative in other contexts. Imprecision in a discourse may or may not be the intention of the author(s) or speaker(s). The role of imprecision may depend on audience, end goal, extended context and subject matter. Relevant players and real stakes will also bear on truth-grounds of statements.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Imprecise language" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15220" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Often, informal, spoken language, \"everyday language\" is less precise than any more formal  or academic languages.\n\nLanguage might be said to be imprecise because it exhibits one or more of the following features:\n* ambiguity – when a word or phrase pertains to its having more than one meaning in the language to which the word belongs.\n* vagueness – when borderline cases interfere with an interpretation\n* equivocation – the misleading use of a term with more than one meaning or sense (by glossing over which meaning is intended at a particular time)\n* accent – when the use of bold or italics causes confusion over the meaning of a statement\n* amphiboly – when a sentence may be interpreted in more than one way due to ambiguous sentence structure.\n\nWhile imprecise language is not desirable in various scientific fields, it may be helpful, illustrative or discussion-stimulative in other contexts. Imprecision in a discourse may or may not be the intention of the author(s) or speaker(s). The role of imprecision may depend on audience, end goal, extended context and subject matter. Relevant players and real stakes will also bear on truth-grounds of statements. Imprecise language. http://en.wikipedia.org/?curid=15220."
+  }
+}

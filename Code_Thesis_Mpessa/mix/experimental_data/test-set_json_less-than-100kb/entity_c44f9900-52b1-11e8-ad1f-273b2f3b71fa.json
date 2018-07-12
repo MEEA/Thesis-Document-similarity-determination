@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3121",
+  "eid" : "c44f9900-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778409104,
+  "textBody" : "Andersonville may refer to:\n\nPlaces\n\n;In the United States\n* Andersonville, Georgia, United States, site of American Civil War POW camp\n** Andersonville National Historic Site, Confederate POW prison camp in Georgia holding Union POWs\n*Andersonville, Chicago, a neighborhood in Chicago, Illinois\n**Andersonville Commercial Historic District, an historic district in Chicago\n*Andersonville, Indiana\n*Andersonville, Michigan\n*Andersonville, Ohio, an unincorporated community\n*Andersonville, South Carolina\n*Andersonville, Tennessee\n*Andersonville, Virginia\n*Andersonville, West Virginia\n\n;Elsewhere\n*Andersonville, New Brunswick, Canada\n\nOther uses\n\n*Andersonville (novel), Pulitzer Prize–winning 1956 novel by MacKinlay Kantor\n* Andersonville (film), 1996 film based on a POW camp prisoner's diary",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Andersonville" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3121" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Andersonville may refer to:\n\nPlaces\n\n;In the United States\n* Andersonville, Georgia, United States, site of American Civil War POW camp\n** Andersonville National Historic Site, Confederate POW prison camp in Georgia holding Union POWs\n*Andersonville, Chicago, a neighborhood in Chicago, Illinois\n**Andersonville Commercial Historic District, an historic district in Chicago\n*Andersonville, Indiana\n*Andersonville, Michigan\n*Andersonville, Ohio, an unincorporated community\n*Andersonville, South Carolina\n*Andersonville, Tennessee\n*Andersonville, Virginia\n*Andersonville, West Virginia\n\n;Elsewhere\n*Andersonville, New Brunswick, Canada\n\nOther uses\n\n*Andersonville (novel), Pulitzer Prize–winning 1956 novel by MacKinlay Kantor\n* Andersonville (film), 1996 film based on a POW camp prisoner's diary. Andersonville. http://en.wikipedia.org/?curid=3121."
+  }
+}

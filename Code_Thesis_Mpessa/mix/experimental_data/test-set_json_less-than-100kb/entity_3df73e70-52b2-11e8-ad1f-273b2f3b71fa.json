@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19814",
+  "eid" : "3df73e70-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778613207,
+  "textBody" : "A meander is a bend in a river.\n\nMeander may also refer to:\n\nIn geography:\n* Maeander River (or Meander River), historical name of the Büyük Menderes River in Turkey, the origin of the term\n* Meander, Tasmania, Australia\n* Meander River (Tasmania), Australia\n* Meander Valley Council, Tasmania, Australia\n\nIn other fields:\n* Meander (mythology), a river god in Greek mythology and patron of the Maeander River in Turkey\n* Meander (art), a decorative border constructed from a continuous line, shaped into a repeated motif\n* Meander (mathematics), a self-avoiding closed curve which intersects a line a number of times\n* Meander (surveying), a type of surveying in which boundary lines attempt to follow some non-linear natural feature, such as a river or lake edge\n* Meander (album), the first album of the band Carbon Leaf\n* , the name of two ships of the Royal Navy",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Meander (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19814" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A meander is a bend in a river.\n\nMeander may also refer to:\n\nIn geography:\n* Maeander River (or Meander River), historical name of the Büyük Menderes River in Turkey, the origin of the term\n* Meander, Tasmania, Australia\n* Meander River (Tasmania), Australia\n* Meander Valley Council, Tasmania, Australia\n\nIn other fields:\n* Meander (mythology), a river god in Greek mythology and patron of the Maeander River in Turkey\n* Meander (art), a decorative border constructed from a continuous line, shaped into a repeated motif\n* Meander (mathematics), a self-avoiding closed curve which intersects a line a number of times\n* Meander (surveying), a type of surveying in which boundary lines attempt to follow some non-linear natural feature, such as a river or lake edge\n* Meander (album), the first album of the band Carbon Leaf\n* , the name of two ships of the Royal Navy. Meander (disambiguation). http://en.wikipedia.org/?curid=19814."
+  }
+}

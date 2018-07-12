@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=20077",
+  "eid" : "3fc0b3d0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778616205,
+  "textBody" : "MLK are the initials of Martin Luther King Jr. (1929–1968).\n\nMLK or mlk may also refer to:\n*MLK, the Phoenician spelling of a theonym associated with Moloch\n*MLK, the Semitic spelling of Malik (Melech) \"king\".\n*Marxist–Leninist Struggle League for the Communist Party of Sweden (M–L), former Swedish communist organization\n\nTransportation\n\n*Malta Airport (Montana) (IATA airport code: MLK)\n*Melalan Airport (IATA airport code: MLK) in Borneo, Indonesia\n*Millennium Airlines (ICAO airline code: MLK) see Airline codes-M\n*MLK, Amtrak station code for Moses Lake, Washington, USA\n*MLK, station code for Mooroolbark railway station, Melbourne, Victoria, Australia\n*MLK, Jr. (Capital MetroRail station), in Austin, Texas, USA\n*MLK, Jr. (DART station), in Dallas, Texas, USA\n\nOther\n\n*\"MLK\" (song), from the 1984 U2 album The Unforgettable Fire\n*Ilwana language (ISO 639 code: mlk)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "MLK (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=20077" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "MLK are the initials of Martin Luther King Jr. (1929–1968).\n\nMLK or mlk may also refer to:\n*MLK, the Phoenician spelling of a theonym associated with Moloch\n*MLK, the Semitic spelling of Malik (Melech) \"king\".\n*Marxist–Leninist Struggle League for the Communist Party of Sweden (M–L), former Swedish communist organization\n\nTransportation\n\n*Malta Airport (Montana) (IATA airport code: MLK)\n*Melalan Airport (IATA airport code: MLK) in Borneo, Indonesia\n*Millennium Airlines (ICAO airline code: MLK) see Airline codes-M\n*MLK, Amtrak station code for Moses Lake, Washington, USA\n*MLK, station code for Mooroolbark railway station, Melbourne, Victoria, Australia\n*MLK, Jr. (Capital MetroRail station), in Austin, Texas, USA\n*MLK, Jr. (DART station), in Dallas, Texas, USA\n\nOther\n\n*\"MLK\" (song), from the 1984 U2 album The Unforgettable Fire\n*Ilwana language (ISO 639 code: mlk). MLK (disambiguation). http://en.wikipedia.org/?curid=20077."
+  }
+}

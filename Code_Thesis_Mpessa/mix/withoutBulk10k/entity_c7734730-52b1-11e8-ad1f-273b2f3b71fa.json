@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3533",
+  "eid" : "c7734730-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778414371,
+  "textBody" : "The Government of the Republic of Belarus (), which consists of the Council of Ministers of the Republic of Belarus (), is the executive branch of state power in Belarus, and it is appointed by the President of Belarus. The head of the Government is the Prime Minister of Belarus, who manages the main agenda of the government and direct the ministers.\n\nCouncil of Ministers\n\nBelow are the 30 members of the Council of Ministers as of January 2017, as well as the head of the presidential administration and the chairmen of the eight State Committees, who are not technically ministers but are included in the Council of Ministers. Offices which are not technically counted as ministerial posts are italicized. The prime minister, the first deputy prime minister, the four deputy prime ministers, three selected ministers, the head of the presidential administration, and the chairman of the State Control Committee  together form the Presidium of the Council of Ministers. These officials are highlighted in yellow.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Government of Belarus" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3533" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The Government of the Republic of Belarus (), which consists of the Council of Ministers of the Republic of Belarus (), is the executive branch of state power in Belarus, and it is appointed by the President of Belarus. The head of the Government is the Prime Minister of Belarus, who manages the main agenda of the government and direct the ministers.\n\nCouncil of Ministers\n\nBelow are the 30 members of the Council of Ministers as of January 2017, as well as the head of the presidential administration and the chairmen of the eight State Committees, who are not technically ministers but are included in the Council of Ministers. Offices which are not technically counted as ministerial posts are italicized. The prime minister, the first deputy prime minister, the four deputy prime ministers, three selected ministers, the head of the presidential administration, and the chairman of the State Control Committee  together form the Presidium of the Council of Ministers. These officials are highlighted in yellow. Government of Belarus. http://en.wikipedia.org/?curid=3533."
+  }
+}

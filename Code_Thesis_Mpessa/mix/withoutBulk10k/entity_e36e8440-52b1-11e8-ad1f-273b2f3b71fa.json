@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7805",
+  "eid" : "e36e8440-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778461316,
+  "textBody" : "CNO is a three-letter initialism. It can mean:\n\n* Carrier-to-noise-density ratio, abbreviated C/N0 in the context of the GPS\n* Casualty Notification Officer\n* Chief Networking Officer\n* Chief Nuclear Officer\n* Chief Nursing Officer\n* Chief of Naval Operations, typically the highest-ranking officer in the United States Navy \n* Chino Airport, IATA symbol: CNO\n* Cis-Neptunian object\n* CNO cycle, a special stellar nuclear fusion process\n* Coconut Oil\n* .com, .net, .org\n* Computer network operations\n* Conseco, under the New York Stock Exchange ticker symbol system\n\nCNO may also refer to:\n\n* The chemical formula for a fulminate ion\n* Clozapine N-Oxide, used to activate synthetic biologiocal receptors in  DREADD technology",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "CNO" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7805" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "CNO is a three-letter initialism. It can mean:\n\n* Carrier-to-noise-density ratio, abbreviated C/N0 in the context of the GPS\n* Casualty Notification Officer\n* Chief Networking Officer\n* Chief Nuclear Officer\n* Chief Nursing Officer\n* Chief of Naval Operations, typically the highest-ranking officer in the United States Navy \n* Chino Airport, IATA symbol: CNO\n* Cis-Neptunian object\n* CNO cycle, a special stellar nuclear fusion process\n* Coconut Oil\n* .com, .net, .org\n* Computer network operations\n* Conseco, under the New York Stock Exchange ticker symbol system\n\nCNO may also refer to:\n\n* The chemical formula for a fulminate ion\n* Clozapine N-Oxide, used to activate synthetic biologiocal receptors in  DREADD technology. CNO. http://en.wikipedia.org/?curid=7805."
+  }
+}

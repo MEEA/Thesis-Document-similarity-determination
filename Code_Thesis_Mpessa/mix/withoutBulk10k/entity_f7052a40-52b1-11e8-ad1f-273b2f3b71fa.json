@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10676",
+  "eid" : "f7052a40-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778494180,
+  "textBody" : "French () may refer to:\n\n* Something of, from, or related to France:\n** French language, a Romance language which originated in France, and its various dialects\n** French people, a nation and ethnic group identified with France\n\nArts and media\n\n* The French (band), a British rock band\n* French (episode), a live-action episode of The Super Mario Bros. Super Show!\n* Française (film), 2008\n* French Stewart (born 1964), American actor\n\nOther uses\n\n* French (surname), a surname (including a list of people with the name)\n* French (tunic),  a particular type of military jacket or tunic used in the Russian Empire and Soviet Union\n* French's, an American brand of mustard condiment\n* French catheter scale, a system for measuring the size of a catheter\n* French kiss, a type of kiss involving the tongue\n* French River (disambiguation), several rivers and other places\n* French toast",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "French" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10676" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "French () may refer to:\n\n* Something of, from, or related to France:\n** French language, a Romance language which originated in France, and its various dialects\n** French people, a nation and ethnic group identified with France\n\nArts and media\n\n* The French (band), a British rock band\n* French (episode), a live-action episode of The Super Mario Bros. Super Show!\n* Française (film), 2008\n* French Stewart (born 1964), American actor\n\nOther uses\n\n* French (surname), a surname (including a list of people with the name)\n* French (tunic),  a particular type of military jacket or tunic used in the Russian Empire and Soviet Union\n* French's, an American brand of mustard condiment\n* French catheter scale, a system for measuring the size of a catheter\n* French kiss, a type of kiss involving the tongue\n* French River (disambiguation), several rivers and other places\n* French toast. French. http://en.wikipedia.org/?curid=10676."
+  }
+}

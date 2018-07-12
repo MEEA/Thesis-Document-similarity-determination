@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15628",
+  "eid" : "1d910620-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778558850,
+  "textBody" : "Java is an island of Indonesia.\n\nJava may also refer to:\n\nPlaces\n\nUnited States\n\n* Java, Alabama\n* Java, New York\n* Java, South Dakota\n* Java, Virginia\n* Java, Ohio\n\nOther places\n\n* Java-eiland, a neighborhood in Amsterdam\n* Java (town), a town in Georgia/South Ossetia\n** Java District, district around this town in Georgia\n* Java, São Tomé and Príncipe\n\nScience and technology\n\n* Java Man, one of the first specimens of Homo erectus to be discovered\n* Java chicken, a breed of chicken originating in the United States\n\nComputing\n\n* Java (programming language), an object-oriented high-level programming language\n* Java (software platform), a set of computer software and specifications developed by Sun, acquired by Oracle\n* Java virtual machine, an abstract computing machine that enables a computer to run a Java program\n\nTransportation\n\n* Avian Java, a British hang glider\n* HMS Java, three ships of the British Royal Navy\n* USS Java (1815), a 44-gun frigate in the United States Navy\n* SS Java, a British and French ocean liner built in 1865\n* Java-class cruiser, a class of Dutch World War II light cruisers\n* Bentley Java, a 1994 concept car\n* Chrysler Java, a 1999 concept car\n\nMusic\n\n* Java (band), a French band\n* \"Java\" (instrumental), a song by Allen Toussaint, popularized by Al Hirt\n* \"Java\", a song by Augustus Pablo\n\nFictional characters\n\n* Java (comics), a villain appearing in the DC Comics series Metamorpho\n* Java, a fictional character in The Tribe television series\n* Java the Caveman, one of the main characters in the French-Canadian animated series Martin Mystery\n\nOther uses\n\n* Java coffee, a variety of coffee grown on the island of Java\n** Java (drink), American slang term for coffee\n* Java (dance), a Parisian Bal-musette dance\n* Java (board game), a board game set on the island of Java\n* Javanese script (ISO 15924 code: Java)\n* Java (cigarette), a brand of Russian cigarettes\n* Java Joel (born 1974), American DJ",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Java (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15628" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Java is an island of Indonesia.\n\nJava may also refer to:\n\nPlaces\n\nUnited States\n\n* Java, Alabama\n* Java, New York\n* Java, South Dakota\n* Java, Virginia\n* Java, Ohio\n\nOther places\n\n* Java-eiland, a neighborhood in Amsterdam\n* Java (town), a town in Georgia/South Ossetia\n** Java District, district around this town in Georgia\n* Java, São Tomé and Príncipe\n\nScience and technology\n\n* Java Man, one of the first specimens of Homo erectus to be discovered\n* Java chicken, a breed of chicken originating in the United States\n\nComputing\n\n* Java (programming language), an object-oriented high-level programming language\n* Java (software platform), a set of computer software and specifications developed by Sun, acquired by Oracle\n* Java virtual machine, an abstract computing machine that enables a computer to run a Java program\n\nTransportation\n\n* Avian Java, a British hang glider\n* HMS Java, three ships of the British Royal Navy\n* USS Java (1815), a 44-gun frigate in the United States Navy\n* SS Java, a British and French ocean liner built in 1865\n* Java-class cruiser, a class of Dutch World War II light cruisers\n* Bentley Java, a 1994 concept car\n* Chrysler Java, a 1999 concept car\n\nMusic\n\n* Java (band), a French band\n* \"Java\" (instrumental), a song by Allen Toussaint, popularized by Al Hirt\n* \"Java\", a song by Augustus Pablo\n\nFictional characters\n\n* Java (comics), a villain appearing in the DC Comics series Metamorpho\n* Java, a fictional character in The Tribe television series\n* Java the Caveman, one of the main characters in the French-Canadian animated series Martin Mystery\n\nOther uses\n\n* Java coffee, a variety of coffee grown on the island of Java\n** Java (drink), American slang term for coffee\n* Java (dance), a Parisian Bal-musette dance\n* Java (board game), a board game set on the island of Java\n* Javanese script (ISO 15924 code: Java)\n* Java (cigarette), a brand of Russian cigarettes\n* Java Joel (born 1974), American DJ. Java (disambiguation). http://en.wikipedia.org/?curid=15628."
+  }
+}

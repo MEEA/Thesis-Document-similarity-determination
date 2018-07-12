@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10740",
+  "eid" : "f774dc00-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778494912,
+  "textBody" : "This article is about the demographic features of the population of French Polynesia, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population.\n\nBirths and deaths\n \n\nCIA World Factbook demographic statistics \n\nThe following demographic statistics are from the CIA World Factbook, unless otherwise indicated.\n\nAge structure\n\n*0–14 years: 23.31% (male 33,894/female 32,005)\n*15–24 years: 16.36% (male 23,980/female 22,270)\n*25–54 years: 44.1% (male 63,931/female 60,749)\n*55–64 years: 8.83% (male 12,847/female 12,120)\n*65 years and over: 7.4% (male 10,142/female 10,765) (2015 est.)\n\nPopulation growth rate\n\n*0.95%\n\nBirth rate\n\n*15.22 births/1,000 population\n\nDeath rate\n\n*5.02 deaths/1,000 population\n\nNet migration rate\n\n*-0.84 migrant(s)/1,000 population\n\nSex ratio\n\n*At birth: 1.05 male(s)/female\n*0–14 years: 1.06 male(s)/female\n*15–24 years: 1.08 male(s)/female\n*25–54 years: 1.05 male(s)/female\n*55–64 years: 1.06 male(s)/female\n*65 years and over: 0.94 male(s)/female\n\nInfant mortality rate\n\n*Total: 4.73 deaths/1,000 live births\n*Male: 5.25 deaths/1,000 live births\n*Female: 4.18 deaths/1,000 live births (2015 est.)\n\nLife expectancy at birth\n\n*Total population: 76.98 years\n*Male: 74.72 years\n*Female: 79.36 years (2015 est.)\n\nTotal fertility rate\n\n*1.92 children born/woman\n\nNationality\n\n*noun: French Polynesian(s)\n*adjective: French Polynesian\n\nEthnic groups\n\n*Polynesian 78%\n*Chinese 12%\n*local French 6%\n*metropolitan French 4%\n\nReligions\n\n*Protestant 54%\n*Roman Catholic 30%\n*Other 10%\n*No religion 6%\n\nLanguages\n\n*French (official) 61.1%\n*Tahitian (official) 31.4%\n*Asian languages 1.2%\n*Other 0.3%\n*Unspecified 6%",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Demographics of French Polynesia" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10740" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "This article is about the demographic features of the population of French Polynesia, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population.\n\nBirths and deaths\n \n\nCIA World Factbook demographic statistics \n\nThe following demographic statistics are from the CIA World Factbook, unless otherwise indicated.\n\nAge structure\n\n*0–14 years: 23.31% (male 33,894/female 32,005)\n*15–24 years: 16.36% (male 23,980/female 22,270)\n*25–54 years: 44.1% (male 63,931/female 60,749)\n*55–64 years: 8.83% (male 12,847/female 12,120)\n*65 years and over: 7.4% (male 10,142/female 10,765) (2015 est.)\n\nPopulation growth rate\n\n*0.95%\n\nBirth rate\n\n*15.22 births/1,000 population\n\nDeath rate\n\n*5.02 deaths/1,000 population\n\nNet migration rate\n\n*-0.84 migrant(s)/1,000 population\n\nSex ratio\n\n*At birth: 1.05 male(s)/female\n*0–14 years: 1.06 male(s)/female\n*15–24 years: 1.08 male(s)/female\n*25–54 years: 1.05 male(s)/female\n*55–64 years: 1.06 male(s)/female\n*65 years and over: 0.94 male(s)/female\n\nInfant mortality rate\n\n*Total: 4.73 deaths/1,000 live births\n*Male: 5.25 deaths/1,000 live births\n*Female: 4.18 deaths/1,000 live births (2015 est.)\n\nLife expectancy at birth\n\n*Total population: 76.98 years\n*Male: 74.72 years\n*Female: 79.36 years (2015 est.)\n\nTotal fertility rate\n\n*1.92 children born/woman\n\nNationality\n\n*noun: French Polynesian(s)\n*adjective: French Polynesian\n\nEthnic groups\n\n*Polynesian 78%\n*Chinese 12%\n*local French 6%\n*metropolitan French 4%\n\nReligions\n\n*Protestant 54%\n*Roman Catholic 30%\n*Other 10%\n*No religion 6%\n\nLanguages\n\n*French (official) 61.1%\n*Tahitian (official) 31.4%\n*Asian languages 1.2%\n*Other 0.3%\n*Unspecified 6%. Demographics of French Polynesia. http://en.wikipedia.org/?curid=10740."
+  }
+}

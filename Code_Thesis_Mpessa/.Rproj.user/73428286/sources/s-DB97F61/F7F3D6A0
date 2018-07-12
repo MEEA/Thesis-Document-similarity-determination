@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1531388811682.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2128423664",
+    "id" : "F7F3D6A0",
+    "lastKnownWriteTime" : 1531388886,
+    "last_content_update" : 1531388886960,
+    "path" : "~/Code_Thesis_Mpessa/BayesLSH-Lite.R",
+    "project_path" : "BayesLSH-Lite.R",
+    "properties" : {
+        "cursorPosition" : "5,26",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=5772",
+  "eid" : "d7c7e190-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778441769,
+  "textBody" : "Cricket is a bat-and-ball sport contested by two teams.\n\nCricket or crickets may also refer to:\n\n* Cricket (insect), family Gryllidae, also known as \"true crickets\"\n** Tettigoniidae, known as katydids or bush-crickets\n\nEntertainment \n\n* Cricket (musical), a musical by Andrew Lloyd Webber and Tim Rice\n* The Cricket (film), a 1980 award-winning erotic drama film\n* Cricket, nickname of the character Christine Blair in The Young and the Restless\n* Cricket, character played by Hoagy Carmichael in the film To Have and Have Not\n* Cricket, character in the 1988 novel Fire on the Mountain\n* Cricket, or Rickety Cricket, a character in It's Always Sunny in Philadelphia\n* Crickets (film), a 2006 Japanese drama film\n* Cricket (series), a series of cricket video games\n\nMusic\n\n* The Crickets, a rock and roll band formed by Buddy Holly\n* \"Cricket\", a song by The Kinks on their album Preservation Act 1\n* Crickets (Joe Nichols album), 2013\n* Crickets (Dredg video album)\n* \"Crickets\", a song by Drop City Yacht Club\n* Shturcite, a Bulgarian band, translated as The Crickets, or an album by them\n\nPublications and literature\n\n*Cricket (magazine), an American literary magazine for children\n*\"Cricket\", a translation into English of the Polish poem \"Chrząszcz\" by Jan Brzechwa\n\nVehicles\n\n*Cricket (1914 automobile), an early American automobile\n*Plymouth Cricket (disambiguation), two automobiles\n*Colomban Cri-cri, a light plane\n\nTelecommunications \n\n* Cricket Wireless, a subsidiary of Leap Wireless International, a subsidiary of AT&T Inc.\n\nOther uses \n\n* Cricket (darts), a game using the standard 20-number dartboard\n* Programmable Cricket, robotic toys\n* Cricket (roofing), a ridge structure designed to divert water on a roof\n* Cricket, North Carolina\n* Cricket, a variation of the float, a breakdancing technique\n* Cricket (warning sound), an audible warning in the cockpits of commercial aircraft\n* Cricket, another term for a clicker noisemaker",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Cricket (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=5772" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Cricket is a bat-and-ball sport contested by two teams.\n\nCricket or crickets may also refer to:\n\n* Cricket (insect), family Gryllidae, also known as \"true crickets\"\n** Tettigoniidae, known as katydids or bush-crickets\n\nEntertainment \n\n* Cricket (musical), a musical by Andrew Lloyd Webber and Tim Rice\n* The Cricket (film), a 1980 award-winning erotic drama film\n* Cricket, nickname of the character Christine Blair in The Young and the Restless\n* Cricket, character played by Hoagy Carmichael in the film To Have and Have Not\n* Cricket, character in the 1988 novel Fire on the Mountain\n* Cricket, or Rickety Cricket, a character in It's Always Sunny in Philadelphia\n* Crickets (film), a 2006 Japanese drama film\n* Cricket (series), a series of cricket video games\n\nMusic\n\n* The Crickets, a rock and roll band formed by Buddy Holly\n* \"Cricket\", a song by The Kinks on their album Preservation Act 1\n* Crickets (Joe Nichols album), 2013\n* Crickets (Dredg video album)\n* \"Crickets\", a song by Drop City Yacht Club\n* Shturcite, a Bulgarian band, translated as The Crickets, or an album by them\n\nPublications and literature\n\n*Cricket (magazine), an American literary magazine for children\n*\"Cricket\", a translation into English of the Polish poem \"Chrząszcz\" by Jan Brzechwa\n\nVehicles\n\n*Cricket (1914 automobile), an early American automobile\n*Plymouth Cricket (disambiguation), two automobiles\n*Colomban Cri-cri, a light plane\n\nTelecommunications \n\n* Cricket Wireless, a subsidiary of Leap Wireless International, a subsidiary of AT&T Inc.\n\nOther uses \n\n* Cricket (darts), a game using the standard 20-number dartboard\n* Programmable Cricket, robotic toys\n* Cricket (roofing), a ridge structure designed to divert water on a roof\n* Cricket, North Carolina\n* Cricket, a variation of the float, a breakdancing technique\n* Cricket (warning sound), an audible warning in the cockpits of commercial aircraft\n* Cricket, another term for a clicker noisemaker. Cricket (disambiguation). http://en.wikipedia.org/?curid=5772."
+  }
+}

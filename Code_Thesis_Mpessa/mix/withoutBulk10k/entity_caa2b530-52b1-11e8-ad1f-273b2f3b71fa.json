@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3993",
+  "eid" : "caa2b530-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778419715,
+  "textBody" : "Billion is a name for a large number. It may refer specifically to:\n\n* 1,000,000,000 (, one thousand million), the short scale definition now normal in both British and American English\n* 1,000,000,000,000 (, one million million), the long scale definition used formerly in Britain and currently in certain other languages\n\nBillion may also refer to: \n* Billions (TV series), a Showtime series\n* Billions (film), a 1920 silent comedy\n* Billion (company), a Taiwanese modem manufacturer\n* Jack Billion (born 1939), the 2006 Democratic Party candidate for governor of South Dakota\n* Mr. Billion, a 1977 film by Jonathan Kaplan",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Billion (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3993" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Billion is a name for a large number. It may refer specifically to:\n\n* 1,000,000,000 (, one thousand million), the short scale definition now normal in both British and American English\n* 1,000,000,000,000 (, one million million), the long scale definition used formerly in Britain and currently in certain other languages\n\nBillion may also refer to: \n* Billions (TV series), a Showtime series\n* Billions (film), a 1920 silent comedy\n* Billion (company), a Taiwanese modem manufacturer\n* Jack Billion (born 1939), the 2006 Democratic Party candidate for governor of South Dakota\n* Mr. Billion, a 1977 film by Jonathan Kaplan. Billion (disambiguation). http://en.wikipedia.org/?curid=3993."
+  }
+}

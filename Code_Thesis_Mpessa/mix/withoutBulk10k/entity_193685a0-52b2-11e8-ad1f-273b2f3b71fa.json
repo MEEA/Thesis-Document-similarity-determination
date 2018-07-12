@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15018",
+  "eid" : "193685a0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778551546,
+  "textBody" : "Infusoria is a collective term for minute aquatic creatures such as ciliates, euglenoids, protozoa, unicellular algae and small invertebrates that exist in freshwater ponds. Some authors (e.g., Bütschli) used the term as a synonym for Ciliophora. In modern formal classifications, the term is considered obsolete; the microorganisms previously included in the Infusoria are mostly assigned to the kingdom Protista. Researchers have proposed that infusoria reproductive rates periodically increase and decrease over periods of time.\n\nAquarium use\n\nInfusoria are used by owners of aquariums to feed fish fry; newly hatched fry of many common aquarium species can be successfully raised on this food during early development due to its size and nutritional content. Many home aquaria are unable to naturally supply sufficient infusoria for fish-rearing, so hobbyists may create and maintain their own supply cultures[http://www.calgaryaquariumsociety.com/Articles/Infusoria_And_Paramecium_Cultures.html Calgary Aquarium Society article on Infusoria.] Retrieved July 24, 2009. or use one of the many commercial cultures available. Infusoria can be cultured by soaking any decomposing vegetative matter, such as papaya skin, in a jar of aged water. The culture will be grown in two to three days, depending on temperature and light received. The water will first turn cloudy, but it will clear up once the infusoria eat the bacteria which caused the cloudiness. At this point, the infusoria will be ready, and will usually be visible to the naked eye as small, white specks swimming in the container.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Infusoria" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15018" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Infusoria is a collective term for minute aquatic creatures such as ciliates, euglenoids, protozoa, unicellular algae and small invertebrates that exist in freshwater ponds. Some authors (e.g., Bütschli) used the term as a synonym for Ciliophora. In modern formal classifications, the term is considered obsolete; the microorganisms previously included in the Infusoria are mostly assigned to the kingdom Protista. Researchers have proposed that infusoria reproductive rates periodically increase and decrease over periods of time.\n\nAquarium use\n\nInfusoria are used by owners of aquariums to feed fish fry; newly hatched fry of many common aquarium species can be successfully raised on this food during early development due to its size and nutritional content. Many home aquaria are unable to naturally supply sufficient infusoria for fish-rearing, so hobbyists may create and maintain their own supply cultures[http://www.calgaryaquariumsociety.com/Articles/Infusoria_And_Paramecium_Cultures.html Calgary Aquarium Society article on Infusoria.] Retrieved July 24, 2009. or use one of the many commercial cultures available. Infusoria can be cultured by soaking any decomposing vegetative matter, such as papaya skin, in a jar of aged water. The culture will be grown in two to three days, depending on temperature and light received. The water will first turn cloudy, but it will clear up once the infusoria eat the bacteria which caused the cloudiness. At this point, the infusoria will be ready, and will usually be visible to the naked eye as small, white specks swimming in the container. Infusoria. http://en.wikipedia.org/?curid=15018."
+  }
+}

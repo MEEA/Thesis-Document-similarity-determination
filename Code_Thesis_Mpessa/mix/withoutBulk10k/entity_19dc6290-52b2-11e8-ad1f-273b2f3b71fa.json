@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15069",
+  "eid" : "19dc6290-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778552633,
+  "textBody" : "Graph of the identity function on the real numbers\n\nIn mathematics, an identity function, also called an identity relation or identity map or identity transformation, is a function that always returns the same value that was used as its argument. In equations, the function is given by .\n\nDefinition\n\nFormally, if  is a set, the identity function  on  is defined to be that function with domain and codomain  which satisfies\n  for all elements  in .\n\nIn other words, the function value  in  (that is, the codomain) is always the same input element  of  (now considered as the domain). The identity function on  is clearly an injective function as well as a surjective function, so it is also bijective.\n\nThe identity function  on  is often denoted by .\n\nIn set theory, where a function is defined as a particular kind of binary relation, the identity function is given by the identity relation, or diagonal of .\n\nAlgebraic property\n\nIf  is any function, then we have  (where \"∘\" denotes function composition). In particular,  is the identity element of the monoid of all functions from  to .\n\nSince the identity element of a monoid is unique, one can alternately define the identity function on  to be this identity element. Such a definition generalizes to the concept of an identity morphism in category theory, where the endomorphisms of  need not be functions.\n\nProperties\n\n*The identity function is a linear operator, when applied to vector spaces.\n*The identity function on the positive integers is a completely multiplicative function (essentially multiplication by 1), considered in number theory. \n*In an -dimensional vector space the identity function is represented by the identity matrix , regardless of the basis.\n*In a metric space the identity is trivially an isometry. An object without any symmetry has as symmetry group the trivial group only containing this isometry (symmetry type )., Hyperbolic Geometry, Springer 2005, \n*In a topological space, the identity function is always continuous.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Identity function" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15069" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Graph of the identity function on the real numbers\n\nIn mathematics, an identity function, also called an identity relation or identity map or identity transformation, is a function that always returns the same value that was used as its argument. In equations, the function is given by .\n\nDefinition\n\nFormally, if  is a set, the identity function  on  is defined to be that function with domain and codomain  which satisfies\n  for all elements  in .\n\nIn other words, the function value  in  (that is, the codomain) is always the same input element  of  (now considered as the domain). The identity function on  is clearly an injective function as well as a surjective function, so it is also bijective.\n\nThe identity function  on  is often denoted by .\n\nIn set theory, where a function is defined as a particular kind of binary relation, the identity function is given by the identity relation, or diagonal of .\n\nAlgebraic property\n\nIf  is any function, then we have  (where \"∘\" denotes function composition). In particular,  is the identity element of the monoid of all functions from  to .\n\nSince the identity element of a monoid is unique, one can alternately define the identity function on  to be this identity element. Such a definition generalizes to the concept of an identity morphism in category theory, where the endomorphisms of  need not be functions.\n\nProperties\n\n*The identity function is a linear operator, when applied to vector spaces.\n*The identity function on the positive integers is a completely multiplicative function (essentially multiplication by 1), considered in number theory. \n*In an -dimensional vector space the identity function is represented by the identity matrix , regardless of the basis.\n*In a metric space the identity is trivially an isometry. An object without any symmetry has as symmetry group the trivial group only containing this isometry (symmetry type )., Hyperbolic Geometry, Springer 2005, \n*In a topological space, the identity function is always continuous. Identity function. http://en.wikipedia.org/?curid=15069."
+  }
+}

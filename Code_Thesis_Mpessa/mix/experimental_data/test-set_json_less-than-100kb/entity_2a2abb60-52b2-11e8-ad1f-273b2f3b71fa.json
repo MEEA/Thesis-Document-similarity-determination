@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17026",
+  "eid" : "2a2abb60-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778579990,
+  "textBody" : "Kern may refer to:\n\n* Kern (surname), a surname\n* Kern (typography), the process of adjusting the spacing between characters in a proportional font\n* Kern (soldier), a light infantry unit in Medieval Irish armies\n* Kern, California, a former unincorporated community in Kern County, California\n* Kern County, California, a county in the southern Central Valley of the U.S. state of California\n* Kern, Missouri, an unincorporated community\n* Kern ag, a German-based international language service company\n* Boron, California or Kern, California, a census-designated place (CDP) in Kern County, California, United States\n* Kern, Alaska, a ghost town in Alaska",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Kern" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17026" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Kern may refer to:\n\n* Kern (surname), a surname\n* Kern (typography), the process of adjusting the spacing between characters in a proportional font\n* Kern (soldier), a light infantry unit in Medieval Irish armies\n* Kern, California, a former unincorporated community in Kern County, California\n* Kern County, California, a county in the southern Central Valley of the U.S. state of California\n* Kern, Missouri, an unincorporated community\n* Kern ag, a German-based international language service company\n* Boron, California or Kern, California, a census-designated place (CDP) in Kern County, California, United States\n* Kern, Alaska, a ghost town in Alaska. Kern. http://en.wikipedia.org/?curid=17026."
+  }
+}

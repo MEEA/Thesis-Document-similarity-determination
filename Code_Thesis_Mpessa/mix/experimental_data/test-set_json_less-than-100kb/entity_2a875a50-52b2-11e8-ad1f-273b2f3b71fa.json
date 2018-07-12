@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17094",
+  "eid" : "2a875a50-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778580597,
+  "textBody" : "Ket or KET may also refer to:\n\nPeople \n\n*Ket people, a people of Siberia\n**Ket language, the language of the Ket people\n*Ket Sivan (born 1981), Cambodian swimmer who specialized in sprint freestyle events\n\nPlaces \n\n*Ket River, a river in Siberia\n*Keť, a village in south-west Slovakia\n\nLiterature \n\n*Ket (Greyhawk), a fictional nation in the Dungeons and Dragons World of Greyhawk campaign setting\n*Ket and Wig, figures in the Gesta Danorum Danish history\n*Ket, a Djelibeybian god in Discworld\n\nMythology \n\n*Cet mac Mágach, a character in Irish myth\n*A name of the Celtic legendary figure Ceridwen\n\nOther uses \n\n*KET, or Kentucky Educational Television, a non-commercial public television network\n*Ketamine, a general dissociative anaesthetic\n*Kettering railway station (National Rail station code KET), a station serving the town of Kettering in Northamptonshire, England\n*Kengtung Airport, Burma/Myanmar (IATA airport code KET)\n*Key English Test, an international examination sanctioning a basic level of the English language\n*Key Enabling Technology, the technology that underlies the production of given goods or services\n*Ket vallomas or Two Confessions, a 1957 Hungarian crime film\n*The right part of bra–ket notation, |\\psi\\rangle\n*Ket (software), an open source algebra editor",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Ket" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17094" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Ket or KET may also refer to:\n\nPeople \n\n*Ket people, a people of Siberia\n**Ket language, the language of the Ket people\n*Ket Sivan (born 1981), Cambodian swimmer who specialized in sprint freestyle events\n\nPlaces \n\n*Ket River, a river in Siberia\n*Keť, a village in south-west Slovakia\n\nLiterature \n\n*Ket (Greyhawk), a fictional nation in the Dungeons and Dragons World of Greyhawk campaign setting\n*Ket and Wig, figures in the Gesta Danorum Danish history\n*Ket, a Djelibeybian god in Discworld\n\nMythology \n\n*Cet mac Mágach, a character in Irish myth\n*A name of the Celtic legendary figure Ceridwen\n\nOther uses \n\n*KET, or Kentucky Educational Television, a non-commercial public television network\n*Ketamine, a general dissociative anaesthetic\n*Kettering railway station (National Rail station code KET), a station serving the town of Kettering in Northamptonshire, England\n*Kengtung Airport, Burma/Myanmar (IATA airport code KET)\n*Key English Test, an international examination sanctioning a basic level of the English language\n*Key Enabling Technology, the technology that underlies the production of given goods or services\n*Ket vallomas or Two Confessions, a 1957 Hungarian crime film\n*The right part of bra–ket notation, |\\psi\\rangle\n*Ket (software), an open source algebra editor. Ket. http://en.wikipedia.org/?curid=17094."
+  }
+}

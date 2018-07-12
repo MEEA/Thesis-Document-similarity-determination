@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14611",
+  "eid" : "163bbc30-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778546547,
+  "textBody" : "Italian may refer to:\n\n* Anything of, from, or related to the country and nation of Italy\n** Italians, an ethnic group\n** Italian language, a Romance language\n*** Regional Italian, regional variants of the Italian language\n** Languages of Italy, languages and dialects spoken in Italy\n** Italian culture, cultural features of Italy\n** Italian cuisine, traditional foods\n** Folklore of Italy, the folklore and urban legends of Italy\n** Mythology of Italy, traditional religion\n\nOther uses\n\n* Italian dressing, a vinaigrette-type salad dressing\n* Italian or Italian-A, alternative names for the Ping-Pong virus, an extinct computer virus",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Italian" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14611" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Italian may refer to:\n\n* Anything of, from, or related to the country and nation of Italy\n** Italians, an ethnic group\n** Italian language, a Romance language\n*** Regional Italian, regional variants of the Italian language\n** Languages of Italy, languages and dialects spoken in Italy\n** Italian culture, cultural features of Italy\n** Italian cuisine, traditional foods\n** Folklore of Italy, the folklore and urban legends of Italy\n** Mythology of Italy, traditional religion\n\nOther uses\n\n* Italian dressing, a vinaigrette-type salad dressing\n* Italian or Italian-A, alternative names for the Ping-Pong virus, an extinct computer virus. Italian. http://en.wikipedia.org/?curid=14611."
+  }
+}

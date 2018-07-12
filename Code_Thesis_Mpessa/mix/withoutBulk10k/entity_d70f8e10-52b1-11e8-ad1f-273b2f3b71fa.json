@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=5694",
+  "eid" : "d70f8e10-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778440561,
+  "textBody" : "Cracking may refer to:\n\n* Cracking, the formation of a fracture or partial fracture in a solid material\n**Performing a sternotomy\n* Fluid catalytic cracking, a catalytic process widely used in oil refineries for cracking large hydrocarbon molecules into smaller molecules\n* Cracking (chemistry), the decomposition of complex organic molecules into smaller ones\n* Cracking joints, the practice of manipulating one's bone joints to make a sharp sound\n* Cracking codes, see cryptanalysis\n* Whip cracking\n*Safe cracking\n* Crackin, band featuring Lester Abrams\n\nIn computing:\n* Another name for Security hacking; the practice of defeating computer security\n* Password cracking, the process of discovering the plaintext of an encrypted computer password\n* Software cracking, the defeating of software copy protection",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Cracking" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=5694" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Cracking may refer to:\n\n* Cracking, the formation of a fracture or partial fracture in a solid material\n**Performing a sternotomy\n* Fluid catalytic cracking, a catalytic process widely used in oil refineries for cracking large hydrocarbon molecules into smaller molecules\n* Cracking (chemistry), the decomposition of complex organic molecules into smaller ones\n* Cracking joints, the practice of manipulating one's bone joints to make a sharp sound\n* Cracking codes, see cryptanalysis\n* Whip cracking\n*Safe cracking\n* Crackin, band featuring Lester Abrams\n\nIn computing:\n* Another name for Security hacking; the practice of defeating computer security\n* Password cracking, the process of discovering the plaintext of an encrypted computer password\n* Software cracking, the defeating of software copy protection. Cracking. http://en.wikipedia.org/?curid=5694."
+  }
+}

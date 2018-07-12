@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3769",
+  "eid" : "c8a9f270-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778416407,
+  "textBody" : "Bundesrat is a German word that means federal council and may refer to:\n* Federal Council (Austria)\n* Bundesrat of Germany\n* Federal Council (Switzerland)\n* Bundesrat (German Empire)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Bundesrat" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3769" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Bundesrat is a German word that means federal council and may refer to:\n* Federal Council (Austria)\n* Bundesrat of Germany\n* Federal Council (Switzerland)\n* Bundesrat (German Empire). Bundesrat. http://en.wikipedia.org/?curid=3769."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3441",
+  "eid" : "c69e43f0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778412975,
+  "textBody" : "The Violin Sonata No. 5 in F major, Opus 24, is a violin sonata by Ludwig van Beethoven. It is often known as the \"Spring Sonata\" (Frühlingssonate), and was published in 1801. It was dedicated to Count Moritz von Fries, a patron to whom Beethoven also dedicated two other works of the same year—the C major string quintet and the fourth violin sonata—as well as his later seventh symphony.\n\nThe work is in four movements:\n\n#Allegro\n#Adagio molto espressivo\n#Scherzo: Allegro molto\n#Rondo: Allegro ma non troppo\n\nThe Scherzo and its trio are particularly brief. The entire sonata takes approximately 22 minutes to perform. The name \"Spring Sonata\" was given to it after Beethoven's death.\n\nThe Allegro movement is featured in the stage show Fame.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Violin Sonata No. 5 (Beethoven)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3441" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The Violin Sonata No. 5 in F major, Opus 24, is a violin sonata by Ludwig van Beethoven. It is often known as the \"Spring Sonata\" (Frühlingssonate), and was published in 1801. It was dedicated to Count Moritz von Fries, a patron to whom Beethoven also dedicated two other works of the same year—the C major string quintet and the fourth violin sonata—as well as his later seventh symphony.\n\nThe work is in four movements:\n\n#Allegro\n#Adagio molto espressivo\n#Scherzo: Allegro molto\n#Rondo: Allegro ma non troppo\n\nThe Scherzo and its trio are particularly brief. The entire sonata takes approximately 22 minutes to perform. The name \"Spring Sonata\" was given to it after Beethoven's death.\n\nThe Allegro movement is featured in the stage show Fame. Violin Sonata No. 5 (Beethoven). http://en.wikipedia.org/?curid=3441."
+  }
+}

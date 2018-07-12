@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8564",
+  "eid" : "e8d71960-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778470390,
+  "textBody" : "In mathematics, a diffeomorphism is an isomorphism of smooth manifolds. It is an invertible function that maps one differentiable manifold to another such that both the function and its inverse are smooth.\n\nDefinition \n\nGiven two manifolds M and N, a differentiable map f : M → N is called a diffeomorphism if it is a bijection and its inverse f−1 : N → M is differentiable as well. If these functions are r times continuously differentiable, f is called a Cr-diffeomorphism.\n\nTwo manifolds M and N are diffeomorphic (symbol usually being ≃) if there is a diffeomorphism f from M to N. They are Cr diffeomorphic if there is an r times continuously differentiable bijective map between them whose inverse is also r times continuously differentiable.\n\nDiffeomorphisms of subsets of manifolds \n\nGiven a subset X of a manifold M and a subset Y of a manifold N, a function f : X → Y is said to be smooth if for all p in X there is a neighborhood U ⊂ M of p and a smooth function g : U → N such that the restrictions agree g_",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Diffeomorphism" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8564" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "In mathematics, a diffeomorphism is an isomorphism of smooth manifolds. It is an invertible function that maps one differentiable manifold to another such that both the function and its inverse are smooth.\n\nDefinition \n\nGiven two manifolds M and N, a differentiable map f : M → N is called a diffeomorphism if it is a bijection and its inverse f−1 : N → M is differentiable as well. If these functions are r times continuously differentiable, f is called a Cr-diffeomorphism.\n\nTwo manifolds M and N are diffeomorphic (symbol usually being ≃) if there is a diffeomorphism f from M to N. They are Cr diffeomorphic if there is an r times continuously differentiable bijective map between them whose inverse is also r times continuously differentiable.\n\nDiffeomorphisms of subsets of manifolds \n\nGiven a subset X of a manifold M and a subset Y of a manifold N, a function f : X → Y is said to be smooth if for all p in X there is a neighborhood U ⊂ M of p and a smooth function g : U → N such that the restrictions agree g_. Diffeomorphism. http://en.wikipedia.org/?curid=8564."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16524",
+  "eid" : "266cf010-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778573713,
+  "textBody" : "Jerome Callet (born April 24, 1930) is a musician, teacher and designer of brass instruments.\n\nHe resides and works in Staten Island, New York. Callet, spends the bulk of his time teaching embouchure for all brass instruments having recently retired from his long-time practice of designing his own line of brass mouthpieces, trumpets, and trombones.  Jerome Callet is the most well-known teacher of the \"Tongue Controlled Embouchure\" method for brass instruments.\n\nHe has written a number of books titled Trumpet Yoga (1971, 2nd edn 1986), Superchops (1987, supplied with a video demonstration of his method), and Trumpet Secrets (2001, co-authored with Robert 'Bahb' Civiletti). In 2007 he released a DVD titled Master Superchops, which contains a detailed explanation of his embouchure method and example lessons with some of his pupils.\n\nThe primary focus of his teaching is about the achieving the ideal trumpet sound. This includes a focused tone, perfect pitch center and endurance. A side effect of achieving these things is an excellent high register without straining. Callet believes that it is a rediscovered method of a technique which the clarino blaser were using in the 17th and 18th centuries.\n\nAlthough retired he has designed and released two trumpets and a range of mouthpieces since 2007. The trumpets are called the SIMA and New York Soloist. The mouthpieces come in a range of sizes.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Jerome Callet" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16524" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Jerome Callet (born April 24, 1930) is a musician, teacher and designer of brass instruments.\n\nHe resides and works in Staten Island, New York. Callet, spends the bulk of his time teaching embouchure for all brass instruments having recently retired from his long-time practice of designing his own line of brass mouthpieces, trumpets, and trombones.  Jerome Callet is the most well-known teacher of the \"Tongue Controlled Embouchure\" method for brass instruments.\n\nHe has written a number of books titled Trumpet Yoga (1971, 2nd edn 1986), Superchops (1987, supplied with a video demonstration of his method), and Trumpet Secrets (2001, co-authored with Robert 'Bahb' Civiletti). In 2007 he released a DVD titled Master Superchops, which contains a detailed explanation of his embouchure method and example lessons with some of his pupils.\n\nThe primary focus of his teaching is about the achieving the ideal trumpet sound. This includes a focused tone, perfect pitch center and endurance. A side effect of achieving these things is an excellent high register without straining. Callet believes that it is a rediscovered method of a technique which the clarino blaser were using in the 17th and 18th centuries.\n\nAlthough retired he has designed and released two trumpets and a range of mouthpieces since 2007. The trumpets are called the SIMA and New York Soloist. The mouthpieces come in a range of sizes. Jerome Callet. http://en.wikipedia.org/?curid=16524."
+  }
+}

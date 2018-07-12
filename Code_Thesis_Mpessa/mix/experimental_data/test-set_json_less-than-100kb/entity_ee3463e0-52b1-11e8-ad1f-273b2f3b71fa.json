@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=9322",
+  "eid" : "ee3463e0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778479390,
+  "textBody" : "English usually refers to:\n* English people\n* English language\n\nEnglish may also refer to:\n\nPeoples, culture, and language\n\n* English, an adjective for something of, from, or related to England\n** English national identity, an identity and common culture\n** English language in England, a variant of the English language\n* English studies, the study of English language and literature\n* English, an Amish term for non-Amish, regardless of ethnicity\n\nOther places\n\n* English, Indiana, a town\n* English, Kentucky, an unincorporated community\n* English, Brazoria County, Texas, an unincorporated community \n* English, Red River County, Texas, an unincorporated community \n* English, West Virginia, an unincorporated community\n\nOther uses\n\n* English (surname), a list of notable people with the surname English\n* English: An Autumn in London, a 2013 Indian Malayalam film\n* English (cue sports term)\n* English (novel), a Chinese novel by Wang Gang",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "English" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=9322" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "English usually refers to:\n* English people\n* English language\n\nEnglish may also refer to:\n\nPeoples, culture, and language\n\n* English, an adjective for something of, from, or related to England\n** English national identity, an identity and common culture\n** English language in England, a variant of the English language\n* English studies, the study of English language and literature\n* English, an Amish term for non-Amish, regardless of ethnicity\n\nOther places\n\n* English, Indiana, a town\n* English, Kentucky, an unincorporated community\n* English, Brazoria County, Texas, an unincorporated community \n* English, Red River County, Texas, an unincorporated community \n* English, West Virginia, an unincorporated community\n\nOther uses\n\n* English (surname), a list of notable people with the surname English\n* English: An Autumn in London, a 2013 Indian Malayalam film\n* English (cue sports term)\n* English (novel), a Chinese novel by Wang Gang. English. http://en.wikipedia.org/?curid=9322."
+  }
+}

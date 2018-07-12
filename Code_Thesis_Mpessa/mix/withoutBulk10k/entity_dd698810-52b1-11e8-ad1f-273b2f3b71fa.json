@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=6744",
+  "eid" : "dd698810-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778451217,
+  "textBody" : "Constantine II may refer to:\n\n* Constantine II (emperor) (317–340), Roman Emperor 337–340\n* Constantine III (usurper) (died 411), known as Constantine II of Britain in British legend\n* Constantine II of Byzantine (630–668)\n* Antipope Constantine II (died 768), antipope from 767–768\n* Constantine II of Scotland (874? – 952), King of Scotland 900–942 or 943\n* Constantine II, Prince of Armenia (died 1129)\n* Constantine II of Cagliari (c. 1100 – 1163)\n* Constantine II of Torres (died 1198), called de Martis, was the giudice of Logudoro\n* Constantine II the Woolmaker (died 1322), Catholicos of the Armenian Apostolic Church\n* Constantine II, King of Armenia (died 1344), first Latin King of Armenian Cilicia of the Lusignan dynasty\n* Constantine II of Bulgaria (early 1370s–1422), last emperor of Bulgaria 1396–1422.\n* Eskender (1471–1494), Emperor of Ethiopia sometimes known as Constantine II\n* Constantine II of Georgia (c. 1447 – 1505)\n* Constantine II of Kakheti (died 1732), King of Kakheti 1722–1732\n* Constantine II of Greece (born 1940), Olympic champion (1960) and formerly King of the Hellenes March 6, 1964 – December 8, 1974",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Constantine II" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=6744" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Constantine II may refer to:\n\n* Constantine II (emperor) (317–340), Roman Emperor 337–340\n* Constantine III (usurper) (died 411), known as Constantine II of Britain in British legend\n* Constantine II of Byzantine (630–668)\n* Antipope Constantine II (died 768), antipope from 767–768\n* Constantine II of Scotland (874? – 952), King of Scotland 900–942 or 943\n* Constantine II, Prince of Armenia (died 1129)\n* Constantine II of Cagliari (c. 1100 – 1163)\n* Constantine II of Torres (died 1198), called de Martis, was the giudice of Logudoro\n* Constantine II the Woolmaker (died 1322), Catholicos of the Armenian Apostolic Church\n* Constantine II, King of Armenia (died 1344), first Latin King of Armenian Cilicia of the Lusignan dynasty\n* Constantine II of Bulgaria (early 1370s–1422), last emperor of Bulgaria 1396–1422.\n* Eskender (1471–1494), Emperor of Ethiopia sometimes known as Constantine II\n* Constantine II of Georgia (c. 1447 – 1505)\n* Constantine II of Kakheti (died 1732), King of Kakheti 1722–1732\n* Constantine II of Greece (born 1940), Olympic champion (1960) and formerly King of the Hellenes March 6, 1964 – December 8, 1974. Constantine II. http://en.wikipedia.org/?curid=6744."
+  }
+}

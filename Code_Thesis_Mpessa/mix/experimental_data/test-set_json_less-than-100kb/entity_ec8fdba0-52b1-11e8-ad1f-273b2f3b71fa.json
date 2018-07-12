@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=9111",
+  "eid" : "ec8fdba0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778476634,
+  "textBody" : "Dong or DONG may refer to:\n\nPlaces\n\n* Dong Lake, or East Lake\n* Dong (administrative division) (동 or 洞), a neighborhood division in Korea\n* Dong, Arunachal Pradesh, the easternmost village in India\n\nPeople\n\n* Dong people (侗族), a Kam–Sui people of southern China, and recognized ethnic minority group in China\n* Dǒng (surname), Chinese surname 董\n* Dōng (surname), Chinese surname 東\n*Queen Dong (1623–1681), princess consort of Koxinga and mother of Zheng Jing.\n*Empress Dong (Ran Min's wife), wife of Ran Min, emperor of Chinese state Ran Wei\n*Empress Dowager Dong (died 189), empress dowager during Han Dynasty\n\nOther uses\n\n* Dong (film) (东), a documentary film by Jia Zhangke\n* Dong language\n* The Dong with a Luminous Nose, a poem by Edward Lear\n* A slang term for the human penis\n* Vietnamese đồng (₫), the currency unit of Vietnam\n* DONG Energy, a Danish energy company\n** Danish Cup or DONG Cup, a trophy sponsored by the oil company from 2000 to 2004\n* Dong Open Air, a heavy metal festival in Germany",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Dong" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=9111" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Dong or DONG may refer to:\n\nPlaces\n\n* Dong Lake, or East Lake\n* Dong (administrative division) (동 or 洞), a neighborhood division in Korea\n* Dong, Arunachal Pradesh, the easternmost village in India\n\nPeople\n\n* Dong people (侗族), a Kam–Sui people of southern China, and recognized ethnic minority group in China\n* Dǒng (surname), Chinese surname 董\n* Dōng (surname), Chinese surname 東\n*Queen Dong (1623–1681), princess consort of Koxinga and mother of Zheng Jing.\n*Empress Dong (Ran Min's wife), wife of Ran Min, emperor of Chinese state Ran Wei\n*Empress Dowager Dong (died 189), empress dowager during Han Dynasty\n\nOther uses\n\n* Dong (film) (东), a documentary film by Jia Zhangke\n* Dong language\n* The Dong with a Luminous Nose, a poem by Edward Lear\n* A slang term for the human penis\n* Vietnamese đồng (₫), the currency unit of Vietnam\n* DONG Energy, a Danish energy company\n** Danish Cup or DONG Cup, a trophy sponsored by the oil company from 2000 to 2004\n* Dong Open Air, a heavy metal festival in Germany. Dong. http://en.wikipedia.org/?curid=9111."
+  }
+}

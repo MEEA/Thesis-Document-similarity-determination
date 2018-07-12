@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=4343",
+  "eid" : "cd0906d0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778423741,
+  "textBody" : "Bavarian is the adjective form of the German state of Bavaria, and refers to people of ancestry from Bavaria.\n\nBavarian may also refer to:\n* Bavarii, a Germanic tribe\n* Bavarian, Iran, a village in Fars Province\n* Bavarian language, a group of closely related Upper German dialects\n* Bavarian cream, a custard sauce",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Bavarian" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=4343" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Bavarian is the adjective form of the German state of Bavaria, and refers to people of ancestry from Bavaria.\n\nBavarian may also refer to:\n* Bavarii, a Germanic tribe\n* Bavarian, Iran, a village in Fars Province\n* Bavarian language, a group of closely related Upper German dialects\n* Bavarian cream, a custard sauce. Bavarian. http://en.wikipedia.org/?curid=4343."
+  }
+}

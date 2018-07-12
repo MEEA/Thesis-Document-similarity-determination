@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15593",
+  "eid" : "1d3f1590-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778558313,
+  "textBody" : "JFK are the initials of John F. Kennedy (1917–1963), the 35th President of the United States.\n\nJFK may also refer to:\n* John F. Kennedy International Airport, New York City, New York, USA, by IATA code\n* John F. Kennedy Memorial Airport, Ashland, Wisconsin, USA, also known as JFK Memorial Airport\n* JFK (film), a 1991 film by Oliver Stone\n* JFK (Clone High), a character in Clone High\n* JFK Express, a defunct premium-fare subway service\n* JFK International School, a school and summer camp situated in the Swiss Alps (Saanen/Gstaad)\n* JFK University, a university in Pleasant Hill, California\n* JFK Reloaded, a video game by Traffic Games\n* Jakob Forsbacka-Karlsson, Swedish men's professional ice hockey player prospect  \n* Jesse F. Keeler or JFK (born 1976), Canadian musician\n* Justice for Khojaly, a campaign to raise awareness of the 1992 massacre of ethnic Azerbaijanis in Khojaly",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "JFK (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15593" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "JFK are the initials of John F. Kennedy (1917–1963), the 35th President of the United States.\n\nJFK may also refer to:\n* John F. Kennedy International Airport, New York City, New York, USA, by IATA code\n* John F. Kennedy Memorial Airport, Ashland, Wisconsin, USA, also known as JFK Memorial Airport\n* JFK (film), a 1991 film by Oliver Stone\n* JFK (Clone High), a character in Clone High\n* JFK Express, a defunct premium-fare subway service\n* JFK International School, a school and summer camp situated in the Swiss Alps (Saanen/Gstaad)\n* JFK University, a university in Pleasant Hill, California\n* JFK Reloaded, a video game by Traffic Games\n* Jakob Forsbacka-Karlsson, Swedish men's professional ice hockey player prospect  \n* Jesse F. Keeler or JFK (born 1976), Canadian musician\n* Justice for Khojaly, a campaign to raise awareness of the 1992 massacre of ethnic Azerbaijanis in Khojaly. JFK (disambiguation). http://en.wikipedia.org/?curid=15593."
+  }
+}

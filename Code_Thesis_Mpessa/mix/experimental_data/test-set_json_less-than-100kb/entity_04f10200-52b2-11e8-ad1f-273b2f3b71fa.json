@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12828",
+  "eid" : "04f10200-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778517536,
+  "textBody" : "Gatt or GATT may refer to:\n* Gatt (surname)\n* General Agreement on Tariffs and Trade\n* Handgun\n* Mike Gatting (born 1957), English cricketer\n* Generic Attribute Profile in the Bluetooth communications protocol family",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "GATT (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12828" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Gatt or GATT may refer to:\n* Gatt (surname)\n* General Agreement on Tariffs and Trade\n* Handgun\n* Mike Gatting (born 1957), English cricketer\n* Generic Attribute Profile in the Bluetooth communications protocol family. GATT (disambiguation). http://en.wikipedia.org/?curid=12828."
+  }
+}

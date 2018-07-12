@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14134",
+  "eid" : "124a36b0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778539931,
+  "textBody" : "Humanist may refer to:\n\n* A proponent or practitioner of humanism, which has several distinct senses, which are listed at Humanism (disambiguation)\n* A Renaissance Humanist or scholar in the Renaissance\n* Humanist (typeface classification), a class of sans-serif typeface styles\n* Humanist (electronic seminar), an email discussion list on humanities computing, described as “an international online seminar on humanities computing and the digital humanities”\n* The Humanist (journal), a magazine published by the American Humanist Association\n* Humanist (journal), a magazine published by the Norwegian Humanist Association\n* A scholar or academic in the Humanities\n*Humanism (philosophy of education)\n* Humanistic (album), the 2001 debut album by Abandoned Pools",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Humanist (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14134" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Humanist may refer to:\n\n* A proponent or practitioner of humanism, which has several distinct senses, which are listed at Humanism (disambiguation)\n* A Renaissance Humanist or scholar in the Renaissance\n* Humanist (typeface classification), a class of sans-serif typeface styles\n* Humanist (electronic seminar), an email discussion list on humanities computing, described as “an international online seminar on humanities computing and the digital humanities”\n* The Humanist (journal), a magazine published by the American Humanist Association\n* Humanist (journal), a magazine published by the Norwegian Humanist Association\n* A scholar or academic in the Humanities\n*Humanism (philosophy of education)\n* Humanistic (album), the 2001 debut album by Abandoned Pools. Humanist (disambiguation). http://en.wikipedia.org/?curid=14134."
+  }
+}

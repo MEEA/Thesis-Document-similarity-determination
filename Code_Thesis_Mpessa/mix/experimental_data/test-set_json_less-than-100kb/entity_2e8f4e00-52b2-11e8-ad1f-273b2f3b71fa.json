@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17835",
+  "eid" : "2e8f4e00-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778587360,
+  "textBody" : "Luxembourg is known for opening local television and radio stations in other countries. RTL Group is operated in many countries.\n\nLuxembourg is the home of the world's biggest satellite company, SES, located in Betzdorf (49° 41'36 N; 6° 19'45 E).\n\nStatistics\n\nTelephones - main lines in use:\n314,700 (1999)\n\nTelephones - mobile cellular:\n215,741 (2000)\n\nTelephone system:\nhighly developed, completely automated and efficient system, mainly buried cables\ndomestic:\nnationwide cellular telephone system; buried cable\ninternational:\n3 channels leased on TAT-6 coaxial submarine cable (Europe to North America)\n\nRadio broadcast stations:\nAM 2, FM 9, shortwave 2 (1999)\n\nRadios:\n285,000 (1997)\n\nTelevision broadcast stations:\n5 (1999)\n\nTelevisions:\n285,000 (1998 est.)\n\nInternet Service Providers (ISPs):\n8 (2000)\nNote: Work has started in 2006 on a citywide WiFi project called Hotcity.[http://www.hotcity.lu/ Bienvenue sur Hotcity]\n\nInternet users:\n100,000 (2001)\n\nCountry code (Top-level domain): .lu",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Telecommunications in Luxembourg" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17835" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Luxembourg is known for opening local television and radio stations in other countries. RTL Group is operated in many countries.\n\nLuxembourg is the home of the world's biggest satellite company, SES, located in Betzdorf (49° 41'36 N; 6° 19'45 E).\n\nStatistics\n\nTelephones - main lines in use:\n314,700 (1999)\n\nTelephones - mobile cellular:\n215,741 (2000)\n\nTelephone system:\nhighly developed, completely automated and efficient system, mainly buried cables\ndomestic:\nnationwide cellular telephone system; buried cable\ninternational:\n3 channels leased on TAT-6 coaxial submarine cable (Europe to North America)\n\nRadio broadcast stations:\nAM 2, FM 9, shortwave 2 (1999)\n\nRadios:\n285,000 (1997)\n\nTelevision broadcast stations:\n5 (1999)\n\nTelevisions:\n285,000 (1998 est.)\n\nInternet Service Providers (ISPs):\n8 (2000)\nNote: Work has started in 2006 on a citywide WiFi project called Hotcity.[http://www.hotcity.lu/ Bienvenue sur Hotcity]\n\nInternet users:\n100,000 (2001)\n\nCountry code (Top-level domain): .lu. Telecommunications in Luxembourg. http://en.wikipedia.org/?curid=17835."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3748",
+  "eid" : "c887c470-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778416183,
+  "textBody" : "Bourbon may refer to:\n\nFood and drink \n\n* Bourbon whiskey, an American whiskey made using a corn-based mash\n* Bourbon biscuit, a chocolate sandwich biscuit\n* A beer produced by Brasseries de Bourbon\n* Bourbon chicken, a dish made with bourbon whiskey\n* Bourbon coffee, a type of coffee made from a cultivar of Coffea arabica\n* Bourbon Coffee, a coffeehouse chain\n* Bourbon vanilla, a cultivar of vanilla\n\nPlaces \n\n* Bourbon, Indiana, United States\n* Bourbon, Missouri, United States\n* Bourbon, Boone County, Missouri\n* Bourbon County, Kentucky, United States\n* Bourbon County, Kansas, United States\n* Bourbon Street, a street in New Orleans, Louisiana, United States\n* Bourbon-l'Archambault, Allier département, France\n* Bourbon-Lancy, Saône-et-Loire département, France\n* Bourbonne-les-Bains, Haute-Marne département, France\n* Bourbonnais, an area derived from the former dukedom of Bourbon, France\n* Île Bourbon, former name for the Island of Réunion\n\nPolitics and history \n\n* House of Bourbon, French and Spanish royal dynasties\n* Duke of Bourbon, a title in the peerage of France\n* Bourbon Reforms, a series of measures taken by the Spanish Crown\n* Bourbon Restoration, the return to the French throne of the Bourbon Dynasty\n* Bourbon Democrat, from 1876 to 1904 a conservative member of the US Democratic Party\n\nOther uses \n\n* USS Bourbon, a frigate\n* Bourbon virus, a tick-borne virus discovered in the summer of 2014",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Bourbon" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3748" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Bourbon may refer to:\n\nFood and drink \n\n* Bourbon whiskey, an American whiskey made using a corn-based mash\n* Bourbon biscuit, a chocolate sandwich biscuit\n* A beer produced by Brasseries de Bourbon\n* Bourbon chicken, a dish made with bourbon whiskey\n* Bourbon coffee, a type of coffee made from a cultivar of Coffea arabica\n* Bourbon Coffee, a coffeehouse chain\n* Bourbon vanilla, a cultivar of vanilla\n\nPlaces \n\n* Bourbon, Indiana, United States\n* Bourbon, Missouri, United States\n* Bourbon, Boone County, Missouri\n* Bourbon County, Kentucky, United States\n* Bourbon County, Kansas, United States\n* Bourbon Street, a street in New Orleans, Louisiana, United States\n* Bourbon-l'Archambault, Allier département, France\n* Bourbon-Lancy, Saône-et-Loire département, France\n* Bourbonne-les-Bains, Haute-Marne département, France\n* Bourbonnais, an area derived from the former dukedom of Bourbon, France\n* Île Bourbon, former name for the Island of Réunion\n\nPolitics and history \n\n* House of Bourbon, French and Spanish royal dynasties\n* Duke of Bourbon, a title in the peerage of France\n* Bourbon Reforms, a series of measures taken by the Spanish Crown\n* Bourbon Restoration, the return to the French throne of the Bourbon Dynasty\n* Bourbon Democrat, from 1876 to 1904 a conservative member of the US Democratic Party\n\nOther uses \n\n* USS Bourbon, a frigate\n* Bourbon virus, a tick-borne virus discovered in the summer of 2014. Bourbon. http://en.wikipedia.org/?curid=3748."
+  }
+}

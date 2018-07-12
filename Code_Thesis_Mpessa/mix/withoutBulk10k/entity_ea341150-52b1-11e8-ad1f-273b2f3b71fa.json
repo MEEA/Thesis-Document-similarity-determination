@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8771",
+  "eid" : "ea341150-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778472677,
+  "textBody" : "Jula (or Dyula, Dioula) is a Mande language spoken in Burkina Faso, Ivory Coast and Mali. It is one of the Manding languages and is most closely related to Bambara, being mutually intelligible with Bambara as well as Malinke. It is a trade language in West Africa and is spoken by millions of people, either as a first or second language. It is written in the Arabic script and the Latin script, as well as in the indigenous N'Ko script.\n\nA movie spoken in Dyula is Fanta Régina Nacro's Night of Truth.\n\nAlphabet",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Dyula language" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8771" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Jula (or Dyula, Dioula) is a Mande language spoken in Burkina Faso, Ivory Coast and Mali. It is one of the Manding languages and is most closely related to Bambara, being mutually intelligible with Bambara as well as Malinke. It is a trade language in West Africa and is spoken by millions of people, either as a first or second language. It is written in the Arabic script and the Latin script, as well as in the indigenous N'Ko script.\n\nA movie spoken in Dyula is Fanta Régina Nacro's Night of Truth.\n\nAlphabet. Dyula language. http://en.wikipedia.org/?curid=8771."
+  }
+}

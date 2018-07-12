@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19156",
+  "eid" : "3861a5e0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778603838,
+  "textBody" : "The Republic of the Marshall Islands has established bilateral diplomatic relations with over 75 other nations.[http://www.doi.gov/oia/islands/upload/RMIDipRelations.pdf] Regional cooperation, through membership in various regional and international organizations, is a key element in its foreign policy.\n\nThe Marshall Islands became a member of the United Nations in September 17, 1991. The Marshall Islands maintains embassies in the United States, Fiji, South Korea, Japan, and the Republic of China (Taiwan). They also maintain a consulate in Honolulu, Hawaii, USA and a consulate in Springdale, Arkansas, USA.\n\nIn May 2005, Chen Shui-bian, President of the Republic of China (Taiwan), became the first foreign head of state to make an official visit to the Marshall Islands.\n\nBilateral relations",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Foreign relations of the Marshall Islands" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19156" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The Republic of the Marshall Islands has established bilateral diplomatic relations with over 75 other nations.[http://www.doi.gov/oia/islands/upload/RMIDipRelations.pdf] Regional cooperation, through membership in various regional and international organizations, is a key element in its foreign policy.\n\nThe Marshall Islands became a member of the United Nations in September 17, 1991. The Marshall Islands maintains embassies in the United States, Fiji, South Korea, Japan, and the Republic of China (Taiwan). They also maintain a consulate in Honolulu, Hawaii, USA and a consulate in Springdale, Arkansas, USA.\n\nIn May 2005, Chen Shui-bian, President of the Republic of China (Taiwan), became the first foreign head of state to make an official visit to the Marshall Islands.\n\nBilateral relations. Foreign relations of the Marshall Islands. http://en.wikipedia.org/?curid=19156."
+  }
+}

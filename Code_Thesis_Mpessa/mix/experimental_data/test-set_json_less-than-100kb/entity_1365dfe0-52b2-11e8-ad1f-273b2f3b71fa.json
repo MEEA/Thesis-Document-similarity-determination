@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14292",
+  "eid" : "1365dfe0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778541790,
+  "textBody" : "Five ships of the Royal Navy have borne the name HMS Ark Royal:\n\n* , the flagship of the English fleet during the Spanish Armada campaign of 1588\n* , merchant ship, converted to an aircraft carrier during the First World War\n* , British aircraft carrier launched in 1937 that participated in the Second World War and was sunk by a U-boat in 1941\n* , an  launched in 1950, decommissioned in 1979\n* , an , launched in 1981, decommissioned in 2011\n\nBattle honours\n\n* Armada 1588\n* Cádiz 1596\n* Dardanelles 1915\n* Norway 1940\n* Spartivento 1940\n* Mediterranean 1940–1941\n* Bismarck 1941\n* Malta Convoys 1941\n* Al Faw 2003",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "HMS Ark Royal" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14292" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Five ships of the Royal Navy have borne the name HMS Ark Royal:\n\n* , the flagship of the English fleet during the Spanish Armada campaign of 1588\n* , merchant ship, converted to an aircraft carrier during the First World War\n* , British aircraft carrier launched in 1937 that participated in the Second World War and was sunk by a U-boat in 1941\n* , an  launched in 1950, decommissioned in 1979\n* , an , launched in 1981, decommissioned in 2011\n\nBattle honours\n\n* Armada 1588\n* Cádiz 1596\n* Dardanelles 1915\n* Norway 1940\n* Spartivento 1940\n* Mediterranean 1940–1941\n* Bismarck 1941\n* Malta Convoys 1941\n* Al Faw 2003. HMS Ark Royal. http://en.wikipedia.org/?curid=14292."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3347",
+  "eid" : "c553c290-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778410809,
+  "textBody" : "BLM may refer to:\n\n* Bergbahn Lauterbrunnen-Mürren, a railway line in Switzerland\n* Biotic Ligand Model, toxicology tool\n* Black lipid membranes\n* Black Lives Matter, an activist movement\n* Bleed Like Me, a 2005 album by Garbage\n* BLM Heliport\n* BLM (law firm)\n* Bruno Le Maire, French politician who currently serves as Minister of Economy and Finance\n* Bloom syndrome protein\n* Blue Lives Matter, a pro-police movement in the United States\n* Braunschweigisches Landesmuseum, a history museum in Brunswick, Germany\n* Bureau of Land Management, U.S. federal government agency\n* Monmouth Executive Airport's IATA code\n* Saint Barthélemy's ISO 3166-1 alpha-3 country code",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "BLM" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3347" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "BLM may refer to:\n\n* Bergbahn Lauterbrunnen-Mürren, a railway line in Switzerland\n* Biotic Ligand Model, toxicology tool\n* Black lipid membranes\n* Black Lives Matter, an activist movement\n* Bleed Like Me, a 2005 album by Garbage\n* BLM Heliport\n* BLM (law firm)\n* Bruno Le Maire, French politician who currently serves as Minister of Economy and Finance\n* Bloom syndrome protein\n* Blue Lives Matter, a pro-police movement in the United States\n* Braunschweigisches Landesmuseum, a history museum in Brunswick, Germany\n* Bureau of Land Management, U.S. federal government agency\n* Monmouth Executive Airport's IATA code\n* Saint Barthélemy's ISO 3166-1 alpha-3 country code. BLM. http://en.wikipedia.org/?curid=3347."
+  }
+}

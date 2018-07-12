@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12942",
+  "eid" : "058b6d40-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778518548,
+  "textBody" : "Genetic may refer to:\n*Genetics, in biology, the science of genes, heredity, and the variation of organisms\n**Genetic, used as an adjective, refers to genes\n***Genetic disorder, any disorder caused by a genetic mutation, whether inherited or de novo\n***Genetic mutation, a change in a gene\n****Heredity, genes and their mutations being passed from parents to offspring\n**Genetic recombination, refers to the recombining of alleles resulting in a new molecule of DNA\n*Genetic (linguistics), in linguistics, a relationship between two languages with a common ancestor language\n*Genetic algorithm, in computer science, a kind of search technique modeled on evolutionary biology",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Genetic" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12942" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Genetic may refer to:\n*Genetics, in biology, the science of genes, heredity, and the variation of organisms\n**Genetic, used as an adjective, refers to genes\n***Genetic disorder, any disorder caused by a genetic mutation, whether inherited or de novo\n***Genetic mutation, a change in a gene\n****Heredity, genes and their mutations being passed from parents to offspring\n**Genetic recombination, refers to the recombining of alleles resulting in a new molecule of DNA\n*Genetic (linguistics), in linguistics, a relationship between two languages with a common ancestor language\n*Genetic algorithm, in computer science, a kind of search technique modeled on evolutionary biology. Genetic. http://en.wikipedia.org/?curid=12942."
+  }
+}

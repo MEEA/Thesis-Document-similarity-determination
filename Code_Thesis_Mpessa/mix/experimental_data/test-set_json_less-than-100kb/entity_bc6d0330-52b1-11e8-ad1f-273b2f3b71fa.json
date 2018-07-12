@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1919",
+  "eid" : "bc6d0330-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778395875,
+  "textBody" : "Antwerp is a city in Belgium and capital of the Antwerp province.\n\nAntwerp may also refer to:\n\n;In Belgium\n* Antwerp (district)\n* Antwerp (province)\n\n;In the United States\n* Antwerp, Ohio\n* Antwerp Township, Michigan\n* Antwerp (village), New York\n* Antwerp (town), New York\n\n;In Australia\n*Antwerp, Victoria\n\nOther \n\n*Port of Antwerp\n*Antwerp (Quest For Glory), a monster in the Quest for Glory computer role-playing game series\n* Antwerp (pigeon), a domestic breed of Rock Pigeon which originated in the Belgian city\n*Royal Antwerp FC, a football club in the Belgian city of Antwerp\n*Antwerp (novel), by Roberto Bolaño\n*Antwerp (poem), by Ford Madox Hueffer (later known as Ford Madox Ford)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Antwerp (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1919" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Antwerp is a city in Belgium and capital of the Antwerp province.\n\nAntwerp may also refer to:\n\n;In Belgium\n* Antwerp (district)\n* Antwerp (province)\n\n;In the United States\n* Antwerp, Ohio\n* Antwerp Township, Michigan\n* Antwerp (village), New York\n* Antwerp (town), New York\n\n;In Australia\n*Antwerp, Victoria\n\nOther \n\n*Port of Antwerp\n*Antwerp (Quest For Glory), a monster in the Quest for Glory computer role-playing game series\n* Antwerp (pigeon), a domestic breed of Rock Pigeon which originated in the Belgian city\n*Royal Antwerp FC, a football club in the Belgian city of Antwerp\n*Antwerp (novel), by Roberto Bolaño\n*Antwerp (poem), by Ford Madox Hueffer (later known as Ford Madox Ford). Antwerp (disambiguation). http://en.wikipedia.org/?curid=1919."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8101",
+  "eid" : "e5977ec0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778464940,
+  "textBody" : "Dutch mainly refers to something from or related to the Netherlands.\n\nRelating to the Netherlands or Dutch speakers\n\n* Dutch people\n* Dutch language\n\nPeople \n\n* Dutch (nickname), a list of people\n* Johnny Dutch (born 1989), American hurdler\n* Dutch Schultz (1902–1935), American mobster born Arthur Simon Flegenheimer\n* Dutch Mantel, ring name of American retired professional wrestler Wayne Maurice Keown (born 1949)\n* Dutch Savage, ring name of professional wrestler and promoter Frank Stewart (1935–2013)\n\nArts and entertainment \n\nChess\n\n* Bird's Opening, also known as the Dutch attack, a chess opening\n* Dutch Defence, another chess opening\n\nFictional characters\n\n* Dutch, an  African-American character from the Japanese manga and anime Black Lagoon\n* Alan \"Dutch\" Schaefer, protagonist of the film Predator, played by Arnold Schwarzenegger\n* Dutch Wagenbach, on the TV series The Shield\n\nOther\n\n* Dutch, West Virginia, a community in the United States\n* Dutch (film), a 1991 American comedy film starring Ed O'Neill\n* Dutch: A Memoir of Ronald Reagan, a 1999 biography with fictional elements by Edmund Morris\n\nSports and mascots \n\n* Dutch Grand Prix, a former Formula One car race\n* Dutch Open (disambiguation)\n* Dutch TT, a motorcycle race, part of the MotoGP World Championship\n* Dutch, nickname of college athletic teams of Central College, Pella, Iowa\n* Dutch, the mascot of the Union Dutchmen, the athletic teams of Union College\n\nOther uses\n\n* Dutch, the magazine, an English-language magazine about the Netherlands and the Dutch",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Dutch" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8101" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Dutch mainly refers to something from or related to the Netherlands.\n\nRelating to the Netherlands or Dutch speakers\n\n* Dutch people\n* Dutch language\n\nPeople \n\n* Dutch (nickname), a list of people\n* Johnny Dutch (born 1989), American hurdler\n* Dutch Schultz (1902–1935), American mobster born Arthur Simon Flegenheimer\n* Dutch Mantel, ring name of American retired professional wrestler Wayne Maurice Keown (born 1949)\n* Dutch Savage, ring name of professional wrestler and promoter Frank Stewart (1935–2013)\n\nArts and entertainment \n\nChess\n\n* Bird's Opening, also known as the Dutch attack, a chess opening\n* Dutch Defence, another chess opening\n\nFictional characters\n\n* Dutch, an  African-American character from the Japanese manga and anime Black Lagoon\n* Alan \"Dutch\" Schaefer, protagonist of the film Predator, played by Arnold Schwarzenegger\n* Dutch Wagenbach, on the TV series The Shield\n\nOther\n\n* Dutch, West Virginia, a community in the United States\n* Dutch (film), a 1991 American comedy film starring Ed O'Neill\n* Dutch: A Memoir of Ronald Reagan, a 1999 biography with fictional elements by Edmund Morris\n\nSports and mascots \n\n* Dutch Grand Prix, a former Formula One car race\n* Dutch Open (disambiguation)\n* Dutch TT, a motorcycle race, part of the MotoGP World Championship\n* Dutch, nickname of college athletic teams of Central College, Pella, Iowa\n* Dutch, the mascot of the Union Dutchmen, the athletic teams of Union College\n\nOther uses\n\n* Dutch, the magazine, an English-language magazine about the Netherlands and the Dutch. Dutch. http://en.wikipedia.org/?curid=8101."
+  }
+}

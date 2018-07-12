@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=910",
+  "eid" : "a87b9300-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778362416,
+  "textBody" : "Arne Kaijser (born 1950) is a professor of History of Technology at the Royal Institute of Technology in Stockholm, and the head of the university's department of History of science and technology.[http://www.eurocrit.eu/Kaijser Eurocrit: Arne Kaijser] , accessed on 2010-05-07\n\nKaijser has published two books in Swedish: Stadens ljus. Etableringen av de första svenska gasverken and I fädrens spår. Den svenska infrastrukturens historiska utveckling och framtida utmaningar, and has co-edited several anthologies. Kaijser is a member of the Royal Swedish Academy of Engineering Sciences since 2007 and also a member of the editorial board of two scientific journals: Journal of Urban Technology and Centaurus. Lately, he has been occupied with the history of Large Technical Systems.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Arne Kaijser" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=910" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Arne Kaijser (born 1950) is a professor of History of Technology at the Royal Institute of Technology in Stockholm, and the head of the university's department of History of science and technology.[http://www.eurocrit.eu/Kaijser Eurocrit: Arne Kaijser] , accessed on 2010-05-07\n\nKaijser has published two books in Swedish: Stadens ljus. Etableringen av de första svenska gasverken and I fädrens spår. Den svenska infrastrukturens historiska utveckling och framtida utmaningar, and has co-edited several anthologies. Kaijser is a member of the Royal Swedish Academy of Engineering Sciences since 2007 and also a member of the editorial board of two scientific journals: Journal of Urban Technology and Centaurus. Lately, he has been occupied with the history of Large Technical Systems. Arne Kaijser. http://en.wikipedia.org/?curid=910."
+  }
+}

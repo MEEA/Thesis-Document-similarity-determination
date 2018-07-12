@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=6361",
+  "eid" : "db4a2a80-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778447656,
+  "textBody" : "Cassiopeia may refer to:\n\nMythology\n\n* Cassiopeia (mythology) (or Cassiepeia), name of two characters in Greek mythology\n\nScience\n\n* Cassiopeia (constellation), a northern constellation representing the queen\n** Cassiopeia A, a supernova remnant in that constellation\n* Cassiopea, the genus of the \"upside-down\" jellyfish\n\nEntertainment\n\n* Cassiopeia (film), a 1996 Brazilian CGI film\n* Cassiopeia, a TV character from Battlestar Galactica\n* Cassiopea (Encantadia), the first Queen of Lireo in the Encantadia fantasy series of GMA Network\n* Cassiopeia, a tortoise featured in Michael Ende's fantasy book Momo\n* Cassiopeia, the mother of Octavian in The Astonishing Life of Octavian Nothing\n\nMusic\n\n* Cassiopeia (TVXQ), the fan club of South Korean boy band TVXQ\n* \"Cassiopeia\" (1971) for percussion solo and orchestra, by Toru Takemitsu.\n* Casiopea, (est. 1976) a Japanese jazz fusion group\n* \"Cassiopeia,\" a song by Shabütie (now known as Coheed and Cambria) from their 1999 EP The Penelope EP\n* \"Cassiopeia,\" a song by Joanna Newsom from her 2004 album The Milk-Eyed Mender\n* \"Cassiopeia,\" a song by Dragonland from their 2006 album Astronomy\n* \"Cassiopeia,\" a song by Sunny Lax from his 2006 EP P.U.M.A./Cassopeia\n* \"Cassiopeia,\" a song by Rain from his 2006 album Rain's World\n* \"Cassiopeia,\" a song by Sara Bareilles from her 2013 album The Blessed Unrest\n\nOther\n\n* Casio Cassiopeia, a series of pocket PCs\n* Cassiopeia (train), an overnight rail service in Japan\n* USS Cassiopeia (AK-75), a Crater Class cargo ship used by the United States Navy in World War II",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Cassiopeia" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=6361" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Cassiopeia may refer to:\n\nMythology\n\n* Cassiopeia (mythology) (or Cassiepeia), name of two characters in Greek mythology\n\nScience\n\n* Cassiopeia (constellation), a northern constellation representing the queen\n** Cassiopeia A, a supernova remnant in that constellation\n* Cassiopea, the genus of the \"upside-down\" jellyfish\n\nEntertainment\n\n* Cassiopeia (film), a 1996 Brazilian CGI film\n* Cassiopeia, a TV character from Battlestar Galactica\n* Cassiopea (Encantadia), the first Queen of Lireo in the Encantadia fantasy series of GMA Network\n* Cassiopeia, a tortoise featured in Michael Ende's fantasy book Momo\n* Cassiopeia, the mother of Octavian in The Astonishing Life of Octavian Nothing\n\nMusic\n\n* Cassiopeia (TVXQ), the fan club of South Korean boy band TVXQ\n* \"Cassiopeia\" (1971) for percussion solo and orchestra, by Toru Takemitsu.\n* Casiopea, (est. 1976) a Japanese jazz fusion group\n* \"Cassiopeia,\" a song by Shabütie (now known as Coheed and Cambria) from their 1999 EP The Penelope EP\n* \"Cassiopeia,\" a song by Joanna Newsom from her 2004 album The Milk-Eyed Mender\n* \"Cassiopeia,\" a song by Dragonland from their 2006 album Astronomy\n* \"Cassiopeia,\" a song by Sunny Lax from his 2006 EP P.U.M.A./Cassopeia\n* \"Cassiopeia,\" a song by Rain from his 2006 album Rain's World\n* \"Cassiopeia,\" a song by Sara Bareilles from her 2013 album The Blessed Unrest\n\nOther\n\n* Casio Cassiopeia, a series of pocket PCs\n* Cassiopeia (train), an overnight rail service in Japan\n* USS Cassiopeia (AK-75), a Crater Class cargo ship used by the United States Navy in World War II. Cassiopeia. http://en.wikipedia.org/?curid=6361."
+  }
+}

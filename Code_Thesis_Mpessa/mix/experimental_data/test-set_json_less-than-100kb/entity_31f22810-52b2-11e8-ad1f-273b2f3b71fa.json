@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18288",
+  "eid" : "31f22810-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778593041,
+  "textBody" : "Lyric may refer to:\n\n* Lyric poetry is a form of poetry that expresses a subjective, personal point of view\n* Lyric, from the Greek language, a song that is sung with a lyre\n* Lyrics, the composition in verse which is sung to a melody to constitute a song\n* Lyric describes, in the classification of the human voice in European classical music, a specific vocal weight and a range at the upper end of the given voice part\n* Lyric Opera Baltimore in Baltimore, Maryland\n* Lyric Opera of Chicago, one of the leading opera companies in the United States\n* Lyric Theatre, London, a West End theatre on Shaftesbury Avenue in the City of Westminster\n* RTÉ lyric fm, a radio station in Ireland\n* Lyric (group), a rhythm and blues girl group\n* \"Lyric\" (song), a single released in June 2003 by Zwan\n* Lyric Hearing, an extended wear hearing aid\n* The Lyric (magazine), a North American poetry magazine\n* The Lyric (album), a 2005 jazz album by Jim Tomlinson and Stacey Kent",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Lyric" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18288" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Lyric may refer to:\n\n* Lyric poetry is a form of poetry that expresses a subjective, personal point of view\n* Lyric, from the Greek language, a song that is sung with a lyre\n* Lyrics, the composition in verse which is sung to a melody to constitute a song\n* Lyric describes, in the classification of the human voice in European classical music, a specific vocal weight and a range at the upper end of the given voice part\n* Lyric Opera Baltimore in Baltimore, Maryland\n* Lyric Opera of Chicago, one of the leading opera companies in the United States\n* Lyric Theatre, London, a West End theatre on Shaftesbury Avenue in the City of Westminster\n* RTÉ lyric fm, a radio station in Ireland\n* Lyric (group), a rhythm and blues girl group\n* \"Lyric\" (song), a single released in June 2003 by Zwan\n* Lyric Hearing, an extended wear hearing aid\n* The Lyric (magazine), a North American poetry magazine\n* The Lyric (album), a 2005 jazz album by Jim Tomlinson and Stacey Kent. Lyric. http://en.wikipedia.org/?curid=18288."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3721",
+  "eid" : "c826b8b0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778415547,
+  "textBody" : "Biotics describe living or once living components of a community; for example organisms, such as plants and animals.\n\nBiotic may refer to:\n*Life, the condition of living organisms\n*Biology, the study of life\n*Biotic material, which is derived from living organisms\n*Biotic components in ecology\n*Biotic potential, an organism's reproductive capacity\n*Biotic community, all the interacting organisms living together in a specific habitat\n*Biotic energy, a vital force theorized by biochemist Benjamin Moore\n\nBiotic may also refer to:\n*Biotic Baking Brigade, an unofficial group of pie-throwing activists\nAbiotic Non living",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Biotic" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3721" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Biotics describe living or once living components of a community; for example organisms, such as plants and animals.\n\nBiotic may refer to:\n*Life, the condition of living organisms\n*Biology, the study of life\n*Biotic material, which is derived from living organisms\n*Biotic components in ecology\n*Biotic potential, an organism's reproductive capacity\n*Biotic community, all the interacting organisms living together in a specific habitat\n*Biotic energy, a vital force theorized by biochemist Benjamin Moore\n\nBiotic may also refer to:\n*Biotic Baking Brigade, an unofficial group of pie-throwing activists\nAbiotic Non living. Biotic. http://en.wikipedia.org/?curid=3721."
+  }
+}

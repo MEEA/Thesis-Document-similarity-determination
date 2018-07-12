@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11771",
+  "eid" : "fdcc3df0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778505551,
+  "textBody" : "Fucking may be:\n* Fucking, an English profanity derived from fuck\n* Fucking, Austria, a village in Upper Austria\n* Fugging, formerly known as Fucking, a village in Lower Austria",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Fucking" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11771" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Fucking may be:\n* Fucking, an English profanity derived from fuck\n* Fucking, Austria, a village in Upper Austria\n* Fugging, formerly known as Fucking, a village in Lower Austria. Fucking. http://en.wikipedia.org/?curid=11771."
+  }
+}

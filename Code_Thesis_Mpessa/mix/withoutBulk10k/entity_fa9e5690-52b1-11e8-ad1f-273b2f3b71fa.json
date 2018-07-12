@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11245",
+  "eid" : "fa9e5690-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778500217,
+  "textBody" : "\"Fixed point\" has many meanings in science, most of them mathematical.\n\n* Fixed point (mathematics)\n* Fixed-point iteration, a general method to compute the fixed point of an iterated function.\n* Fixed-point combinator\n* For \"Fixed-point join\" in databases, see Recursive join\n* Fixed-point arithmetic, a manner of doing arithmetic on computers\n* Benchmark (surveying), fixed points used by geodesists\n* For “fixed points” in physics, see Renormalization group\n* Fixed points are necessary for a watercraft to be moored to a quay.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Fixed point" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11245" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "\"Fixed point\" has many meanings in science, most of them mathematical.\n\n* Fixed point (mathematics)\n* Fixed-point iteration, a general method to compute the fixed point of an iterated function.\n* Fixed-point combinator\n* For \"Fixed-point join\" in databases, see Recursive join\n* Fixed-point arithmetic, a manner of doing arithmetic on computers\n* Benchmark (surveying), fixed points used by geodesists\n* For “fixed points” in physics, see Renormalization group\n* Fixed points are necessary for a watercraft to be moored to a quay. Fixed point. http://en.wikipedia.org/?curid=11245."
+  }
+}

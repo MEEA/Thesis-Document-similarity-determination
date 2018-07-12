@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17354",
+  "eid" : "2b7b5740-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778582196,
+  "textBody" : "Kuru may refer to:\n\nAnthropology and history\n\n* Kuru (disease), a type of transmissible spongiform encephalopathy associated with the cannibalistic funeral practices of the Fore people\n* Kuru (mythology), part of African mythology\n* Kuru Kingdom, a powerful Indo-Aryan tribe and kingdom during the Vedic period (Early Iron Age) and later a republic during the Mahajanapada period in India\n** King Kuru (Hindu mythology), the imputed ancestral king of Indo-Aryan Kuru tribe\n* Kuru (sport), a traditional Bhutanese sport\n\nGeography\n\n* Kuru River, a river in South Sudan\n* Kuru, Finland, municipality\n* Kuru, Iran\n* Kuru, Nigeria\n* Kuru, Ida-Viru County, village in Iisaku Parish, Ida-Viru County, Estonia\n* Kuru, Lääne-Viru County, village in Tapa Parish, Lääne-Viru County, Estonia\n\nTransport\n\n* , an Australian patrol boat operational between 1938 and 1943\n* S/S Kuru, a Finnish lake steamer\nPeople\n\n* Ahmet Kuru (born 1982), Turkish footballer\n* Serdar Kuru (born 1975), Turkish writer\n* Taygun Kuru (born 1990), German footballer\n* Uğur Arslan Kuru (born 1989), Turkish footballer\n* Kuruvilla Pandikattu (born 1957), Indian philosopher\nCompanies\n\n* KURU (FM), a radio station (89.1 FM) licensed to serve Silver City, New Mexico, United States",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Kuru" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17354" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Kuru may refer to:\n\nAnthropology and history\n\n* Kuru (disease), a type of transmissible spongiform encephalopathy associated with the cannibalistic funeral practices of the Fore people\n* Kuru (mythology), part of African mythology\n* Kuru Kingdom, a powerful Indo-Aryan tribe and kingdom during the Vedic period (Early Iron Age) and later a republic during the Mahajanapada period in India\n** King Kuru (Hindu mythology), the imputed ancestral king of Indo-Aryan Kuru tribe\n* Kuru (sport), a traditional Bhutanese sport\n\nGeography\n\n* Kuru River, a river in South Sudan\n* Kuru, Finland, municipality\n* Kuru, Iran\n* Kuru, Nigeria\n* Kuru, Ida-Viru County, village in Iisaku Parish, Ida-Viru County, Estonia\n* Kuru, Lääne-Viru County, village in Tapa Parish, Lääne-Viru County, Estonia\n\nTransport\n\n* , an Australian patrol boat operational between 1938 and 1943\n* S/S Kuru, a Finnish lake steamer\nPeople\n\n* Ahmet Kuru (born 1982), Turkish footballer\n* Serdar Kuru (born 1975), Turkish writer\n* Taygun Kuru (born 1990), German footballer\n* Uğur Arslan Kuru (born 1989), Turkish footballer\n* Kuruvilla Pandikattu (born 1957), Indian philosopher\nCompanies\n\n* KURU (FM), a radio station (89.1 FM) licensed to serve Silver City, New Mexico, United States. Kuru. http://en.wikipedia.org/?curid=17354."
+  }
+}

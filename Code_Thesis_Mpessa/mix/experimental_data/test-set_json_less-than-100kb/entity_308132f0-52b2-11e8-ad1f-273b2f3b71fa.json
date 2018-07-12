@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18056",
+  "eid" : "308132f0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778590623,
+  "textBody" : "The laws of infernal dynamics are an adage about the cursedness of the universe. Attributed to Science fiction author David Gerrold, the laws are as follows:\n\n#An object in motion will be moving in the wrong direction.\n#An object at rest will be in the wrong place.\n#The energy required to move an object in the correct direction, or put it in the right place, will be more than you wish to expend but not so much as to make the task impossible.\n\nThe laws are a parody on the first and second of Newton's laws of motion in the spirit of Murphy's law.  Newton's first law of motion has here been split into two parts, the first two laws.  Newton's third law of motion is left unparodied, though a separate adage states that \"for every action, there is an equal and opposite criticism.\"",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Laws of infernal dynamics" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18056" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The laws of infernal dynamics are an adage about the cursedness of the universe. Attributed to Science fiction author David Gerrold, the laws are as follows:\n\n#An object in motion will be moving in the wrong direction.\n#An object at rest will be in the wrong place.\n#The energy required to move an object in the correct direction, or put it in the right place, will be more than you wish to expend but not so much as to make the task impossible.\n\nThe laws are a parody on the first and second of Newton's laws of motion in the spirit of Murphy's law.  Newton's first law of motion has here been split into two parts, the first two laws.  Newton's third law of motion is left unparodied, though a separate adage states that \"for every action, there is an equal and opposite criticism.\". Laws of infernal dynamics. http://en.wikipedia.org/?curid=18056."
+  }
+}

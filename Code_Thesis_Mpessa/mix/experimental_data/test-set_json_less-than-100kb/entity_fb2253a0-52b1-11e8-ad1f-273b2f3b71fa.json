@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11352",
+  "eid" : "fb2253a0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778501082,
+  "textBody" : "Fenrir, Fenrisulfr or Fenris is a Norse mythological wolf. It may also refer to:\n\n*Fenrir (moon), a moon of Saturn named after Fenrisulfr\n*Fenris- designation of a battlemech in the science-fiction series BattleTech\n*Fenrir, a monster card in the Yu-Gi-Oh! Trading Card Game\n*Fenris, homeworld of the Space Wolves Space Marine chapter in the Warhammer 40,000 universe\n*Fenrir Inc, Japanese developer of Sleipnir web browser\n\nPrinted media \n\n*Fenris Ulf, or Maugrim, a character in C.S. Lewis's The Lion, the Witch, and the Wardrobe\n*Fenrir Greyback, a lycanthrope in the Harry Potter series\n*The Lord of Terror (Oh My Goddess!), from the anime series Oh My Goddess!\n*Fenris, character in the comic series Lucifer\n* Fenris Wolf (Marvel Comics), a comic character based on the Norse wolf\n*Fenris (comics), a terrorist organization led by Andrea von Strucker and Andreas von Strucker, the twin children of the Marvel Comics villain Baron von Strucker\n*The Fenris Device, a novel/weapon in the Hooded Swan\n*Fenris, the varg's God in the book The Sight\n\nVideo games \n\n*Get of Fenris, a werewolf tribe in the roleplaying game Dark Ages: Werewolf\n*Fenris, a character in the Quest for Glory series\n*The Fenris Brood, a Zerg faction in StarCraft\n*GTC Fenris-class cruiser in the FreeSpace, series\n*In Xenogears, Fenrir is the name of Citan's Omnigear\n*In Eve Online, Fenrir is the name of the Minmatar freighter\n*In Dragon Age II, Fenris is an elven warrior companion\n*In the Ace Combat series, Fenrir has been used as a squadron name on multiple occasions\n*In Final Fantasy VII: Dirge of Cerberus, Fenrir is what Cloud calls his motorcycle\n*In Etrian Odyssey Untold: The Millennium Girl, Fenrir is the name of the first stratum's final boss\n*In Danganronpa, Fenrir is the name of Mukuro's Military Corporation",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Fenrir (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11352" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Fenrir, Fenrisulfr or Fenris is a Norse mythological wolf. It may also refer to:\n\n*Fenrir (moon), a moon of Saturn named after Fenrisulfr\n*Fenris- designation of a battlemech in the science-fiction series BattleTech\n*Fenrir, a monster card in the Yu-Gi-Oh! Trading Card Game\n*Fenris, homeworld of the Space Wolves Space Marine chapter in the Warhammer 40,000 universe\n*Fenrir Inc, Japanese developer of Sleipnir web browser\n\nPrinted media \n\n*Fenris Ulf, or Maugrim, a character in C.S. Lewis's The Lion, the Witch, and the Wardrobe\n*Fenrir Greyback, a lycanthrope in the Harry Potter series\n*The Lord of Terror (Oh My Goddess!), from the anime series Oh My Goddess!\n*Fenris, character in the comic series Lucifer\n* Fenris Wolf (Marvel Comics), a comic character based on the Norse wolf\n*Fenris (comics), a terrorist organization led by Andrea von Strucker and Andreas von Strucker, the twin children of the Marvel Comics villain Baron von Strucker\n*The Fenris Device, a novel/weapon in the Hooded Swan\n*Fenris, the varg's God in the book The Sight\n\nVideo games \n\n*Get of Fenris, a werewolf tribe in the roleplaying game Dark Ages: Werewolf\n*Fenris, a character in the Quest for Glory series\n*The Fenris Brood, a Zerg faction in StarCraft\n*GTC Fenris-class cruiser in the FreeSpace, series\n*In Xenogears, Fenrir is the name of Citan's Omnigear\n*In Eve Online, Fenrir is the name of the Minmatar freighter\n*In Dragon Age II, Fenris is an elven warrior companion\n*In the Ace Combat series, Fenrir has been used as a squadron name on multiple occasions\n*In Final Fantasy VII: Dirge of Cerberus, Fenrir is what Cloud calls his motorcycle\n*In Etrian Odyssey Untold: The Millennium Girl, Fenrir is the name of the first stratum's final boss\n*In Danganronpa, Fenrir is the name of Mukuro's Military Corporation. Fenrir (disambiguation). http://en.wikipedia.org/?curid=11352."
+  }
+}

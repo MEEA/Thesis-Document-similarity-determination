@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10620",
+  "eid" : "f6aa3900-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778493584,
+  "textBody" : "This is a list of female tennis players who meet one or more of the following criteria:\n\n* In singles, she must have reached\n**Top 25 since official WTA rankings were kept.\n**Top 10 of semi-official almanac/magazines/other players lists prior to official rankings.\n**Quarterfinals or better in any Grand Slam tournament.\n**Reached the finals of any year-end event.\n**Earn any medal at the Olympics.\n*Doubles/mixed - any of the following\n**A player/team has won a Grand Slam tournament, a year-end event or Olympic doubles title.\n**A player/team has been ranked No. 1.\n**Earn any medal at the Olympics.\n\nList",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "List of female tennis players" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10620" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "This is a list of female tennis players who meet one or more of the following criteria:\n\n* In singles, she must have reached\n**Top 25 since official WTA rankings were kept.\n**Top 10 of semi-official almanac/magazines/other players lists prior to official rankings.\n**Quarterfinals or better in any Grand Slam tournament.\n**Reached the finals of any year-end event.\n**Earn any medal at the Olympics.\n*Doubles/mixed - any of the following\n**A player/team has won a Grand Slam tournament, a year-end event or Olympic doubles title.\n**A player/team has been ranked No. 1.\n**Earn any medal at the Olympics.\n\nList. List of female tennis players. http://en.wikipedia.org/?curid=10620."
+  }
+}

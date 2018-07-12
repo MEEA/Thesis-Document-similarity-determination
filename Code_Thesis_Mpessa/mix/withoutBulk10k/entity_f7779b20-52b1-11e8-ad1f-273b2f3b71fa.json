@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10762",
+  "eid" : "f7779b20-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778494930,
+  "textBody" : "French Guiana is an overseas region of France, located on the northern coast of South America between Suriname and Brazil. See also the article on the geography of Suriname.\n\nLocation\n\nNorthern South America and part of Caribbean South America, bordering the North Atlantic Ocean, between Brazil and Suriname.\n\nGeographic coordinates\n\nMap references\n\nSouth America.\n\nArea\n\nTotal: 91,000 km².\nLand: 89,150 km².\nWater: 1,850 km².\n\nLand boundaries \n\nTotal: 1,183 km.\nBorder countries: Brazil 673 km, Suriname 510 km (disputed).\nCoastline: 378 km.\n\nMaritime claims\n\nExclusive economic zone: 200 nmi\nterritorial sea: 12 nmi.\n\nClimate\n\nTropical; hot.\n\nTerrain\n\nLow-lying coastal plains rising to hills and small mountains, see Guiana Shield.\n\nElevation extremes\n\nLowest point: Atlantic Ocean 0 m.\nHighest point: Bellevue de l'Inini 851 m.\nOther mountains: Montaigne d'Argent, on the edge of Oiapoque river\nregions: 432 m.\n\nNatural resources\n\nBauxite, timber, gold (widely scattered), cinnabar, kaolin, fish, [shrimp], rice, bananas.\n\nLand use\n\nArable land: 0%.\nPermanent crops: 0%.\nPermanent pastures: 0%.\nForests and woodland: 0%.\nOther: 10% (1996 est.).\nIrrigated land: 20 km² (1993 est.).\nNatural hazards: high frequency of heavy showers and severe thunderstorms; flooding.\nEnvironment - current issues: NA.\nGeography - note: mostly an unsettled wilderness.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Geography of French Guiana" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10762" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "French Guiana is an overseas region of France, located on the northern coast of South America between Suriname and Brazil. See also the article on the geography of Suriname.\n\nLocation\n\nNorthern South America and part of Caribbean South America, bordering the North Atlantic Ocean, between Brazil and Suriname.\n\nGeographic coordinates\n\nMap references\n\nSouth America.\n\nArea\n\nTotal: 91,000 km².\nLand: 89,150 km².\nWater: 1,850 km².\n\nLand boundaries \n\nTotal: 1,183 km.\nBorder countries: Brazil 673 km, Suriname 510 km (disputed).\nCoastline: 378 km.\n\nMaritime claims\n\nExclusive economic zone: 200 nmi\nterritorial sea: 12 nmi.\n\nClimate\n\nTropical; hot.\n\nTerrain\n\nLow-lying coastal plains rising to hills and small mountains, see Guiana Shield.\n\nElevation extremes\n\nLowest point: Atlantic Ocean 0 m.\nHighest point: Bellevue de l'Inini 851 m.\nOther mountains: Montaigne d'Argent, on the edge of Oiapoque river\nregions: 432 m.\n\nNatural resources\n\nBauxite, timber, gold (widely scattered), cinnabar, kaolin, fish, [shrimp], rice, bananas.\n\nLand use\n\nArable land: 0%.\nPermanent crops: 0%.\nPermanent pastures: 0%.\nForests and woodland: 0%.\nOther: 10% (1996 est.).\nIrrigated land: 20 km² (1993 est.).\nNatural hazards: high frequency of heavy showers and severe thunderstorms; flooding.\nEnvironment - current issues: NA.\nGeography - note: mostly an unsettled wilderness. Geography of French Guiana. http://en.wikipedia.org/?curid=10762."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1552",
+  "eid" : "ba71f680-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778392552,
+  "textBody" : "Antonio Agliardi (4 September 183219 March 1915) was an Italian Roman Catholic Cardinal, archbishop, and papal diplomat.\n\nBiography\n\nAgliardi was born at  Cologno al Serio, in what is now the Province of Bergamo.\n\nHe studied theology and canon law, and after acting as parish priest in his native diocese for twelve years was sent by the pope to Canada as a bishop's chaplain. On his return he was appointed secretary to the Congregation of the Propaganda.\n\nIn 1884, he was created by Pope Leo XIII Archbishop of Caesarea in partibus and sent to India as an Apostolic Delegate to report on the establishment of the hierarchy there.\n\nIn 1887 he again visited India, to carry out the terms of the concordat arranged with Portugal. The same year he was appointed secretary of the Congregation super negotiis ecclesiae extraordinariis. In 1889 he became papal Apostolic Nuncio to Bavaria at Munich and in 1892 at Vienna. Allowing himself to be involved in the ecclesiastical disputes that divided Hungary in 1895, he was made the subject of formal complaint by the Hungarian government and in 1896 was recalled.\n\nIn the consistory of 1896 he was elevated to Cardinal-Priest of Santi Nereo e Achilleo. In 1899 he was made Cardinal Bishop of Albano.\nIn 1903, he was named vice-chancellor of the Catholic Church, and became the Chancellor of the Apostolic Chancery in the Secretariat of State in 1908.\n\nHe died in Rome and was buried in Bergamo.\n\nNotes",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Antonio Agliardi" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1552" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Antonio Agliardi (4 September 183219 March 1915) was an Italian Roman Catholic Cardinal, archbishop, and papal diplomat.\n\nBiography\n\nAgliardi was born at  Cologno al Serio, in what is now the Province of Bergamo.\n\nHe studied theology and canon law, and after acting as parish priest in his native diocese for twelve years was sent by the pope to Canada as a bishop's chaplain. On his return he was appointed secretary to the Congregation of the Propaganda.\n\nIn 1884, he was created by Pope Leo XIII Archbishop of Caesarea in partibus and sent to India as an Apostolic Delegate to report on the establishment of the hierarchy there.\n\nIn 1887 he again visited India, to carry out the terms of the concordat arranged with Portugal. The same year he was appointed secretary of the Congregation super negotiis ecclesiae extraordinariis. In 1889 he became papal Apostolic Nuncio to Bavaria at Munich and in 1892 at Vienna. Allowing himself to be involved in the ecclesiastical disputes that divided Hungary in 1895, he was made the subject of formal complaint by the Hungarian government and in 1896 was recalled.\n\nIn the consistory of 1896 he was elevated to Cardinal-Priest of Santi Nereo e Achilleo. In 1899 he was made Cardinal Bishop of Albano.\nIn 1903, he was named vice-chancellor of the Catholic Church, and became the Chancellor of the Apostolic Chancery in the Secretariat of State in 1908.\n\nHe died in Rome and was buried in Bergamo.\n\nNotes. Antonio Agliardi. http://en.wikipedia.org/?curid=1552."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1169",
+  "eid" : "aa1f7f00-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778365168,
+  "textBody" : "APL is an abbreviation, acronym, or initialism that may refer to:\n\nOrganizations\n\n*Aden Protectorate Levies, a militia force for local defense of the Aden Protectorate\n*Advanced Production and Loading, a Norwegian marine engineering company formed in 1993\n*Amateur Poker League, US amateur poker league\n*American Premier League, A Twenty20 cricket league in United States of America\n*American President Lines, a container transportation and shipping company\n*American Protective League, a World War I era pro-war organization\n*Applied Physics Laboratory, Johns Hopkins University\n*Association of Pension Lawyers, UK\n*Irish Anti-Partition League, a Northern Ireland political organisation\n*Aurora Public Library (disambiguation), several Aurora Public Libraries use the APL abbreviation\n\nScience and technology\n\n*Abductor pollicis longus muscle, in the human hand\n*Acute promyelocytic leukemia, a subtype of acute myelogenous leukemia\n*APL, US Navy hull classification for barracks craft\n*132524 APL, an asteroid\n*Nampula Airport, Mozambique, IATA code\n*Applied Physics Letters, a physics journal also abbreviated as Appl. Phys. Lett.\n\nComputers\n\n* Address Prefix List, a DNS record type\n*'apl', file extension of the Monkey's Audio metadata file\n* APL (programming language), created by Kenneth E. Iverson\n* AMD Performance Library, renamed Framewave, a computer compiler library, in the languages C and C++\n\nSoftware licences\n\n* Adaptive Public License, an Open Source license from the University of Victoria, Canada\n* AROS Public License, license of AROS Research Operating System, formerly Amiga Research Operating System\n* Arphic Public License, a free font license\n\nOther uses\n\n*apl.de.ap (born 1974), pseudonym of Allan Pineda Lindo, a member of hip hop group The Black Eyed Peas",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "APL" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1169" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "APL is an abbreviation, acronym, or initialism that may refer to:\n\nOrganizations\n\n*Aden Protectorate Levies, a militia force for local defense of the Aden Protectorate\n*Advanced Production and Loading, a Norwegian marine engineering company formed in 1993\n*Amateur Poker League, US amateur poker league\n*American Premier League, A Twenty20 cricket league in United States of America\n*American President Lines, a container transportation and shipping company\n*American Protective League, a World War I era pro-war organization\n*Applied Physics Laboratory, Johns Hopkins University\n*Association of Pension Lawyers, UK\n*Irish Anti-Partition League, a Northern Ireland political organisation\n*Aurora Public Library (disambiguation), several Aurora Public Libraries use the APL abbreviation\n\nScience and technology\n\n*Abductor pollicis longus muscle, in the human hand\n*Acute promyelocytic leukemia, a subtype of acute myelogenous leukemia\n*APL, US Navy hull classification for barracks craft\n*132524 APL, an asteroid\n*Nampula Airport, Mozambique, IATA code\n*Applied Physics Letters, a physics journal also abbreviated as Appl. Phys. Lett.\n\nComputers\n\n* Address Prefix List, a DNS record type\n*'apl', file extension of the Monkey's Audio metadata file\n* APL (programming language), created by Kenneth E. Iverson\n* AMD Performance Library, renamed Framewave, a computer compiler library, in the languages C and C++\n\nSoftware licences\n\n* Adaptive Public License, an Open Source license from the University of Victoria, Canada\n* AROS Public License, license of AROS Research Operating System, formerly Amiga Research Operating System\n* Arphic Public License, a free font license\n\nOther uses\n\n*apl.de.ap (born 1974), pseudonym of Allan Pineda Lindo, a member of hip hop group The Black Eyed Peas. APL. http://en.wikipedia.org/?curid=1169."
+  }
+}

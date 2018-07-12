@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8286",
+  "eid" : "e6e44a10-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778467121,
+  "textBody" : "A domino effect or chain reaction is the cumulative effect produced when one event sets off a chain of similar events. The term is best known as a mechanical effect, and is used as an analogy to a falling row of dominoes. It typically refers to a linked sequence of events where the time between successive events is relatively small. It can be used literally (an observed series of actual collisions) or metaphorically (causal linkages within systems such as global finance or politics). The term domino effect is used both to imply that an event is inevitable or highly likely (it's already started to happen), and conversely to imply that an event is impossible or highly unlikely (the one domino left standing).",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Domino effect" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8286" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A domino effect or chain reaction is the cumulative effect produced when one event sets off a chain of similar events. The term is best known as a mechanical effect, and is used as an analogy to a falling row of dominoes. It typically refers to a linked sequence of events where the time between successive events is relatively small. It can be used literally (an observed series of actual collisions) or metaphorically (causal linkages within systems such as global finance or politics). The term domino effect is used both to imply that an event is inevitable or highly likely (it's already started to happen), and conversely to imply that an event is impossible or highly unlikely (the one domino left standing). Domino effect. http://en.wikipedia.org/?curid=8286."
+  }
+}

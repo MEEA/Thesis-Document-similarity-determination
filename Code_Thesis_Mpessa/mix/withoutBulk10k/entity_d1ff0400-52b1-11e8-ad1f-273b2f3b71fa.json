@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=5038",
+  "eid" : "d1ff0400-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778432064,
+  "textBody" : "This is the complete list of Olympic medalists in biathlon.\n\nMedalists in military patrol, a precursor to biathlon, are listed separately.\n\nMen\n\nIndividual (20 km)\n\nSprint (10 km)\n\nPursuit (12.5 km)\n\nMass start (15 km)\n\nRelay (4×7.5 km)\n\nWomen\n\nSprint (7.5 km)\n\nPursuit (10 km)\n\nMass start (12.5 km)\n\nRelay (4×6 km)\n\nThe women's relay event has been competed over three different distances:\n* 3×7.5 km — 1992\n* 4×7.5 km — 1994–2002\n* 4×6 km — 2006–2014\n\nMixed\n\nRelay\n\nMedals per year",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "List of Olympic medalists in biathlon" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=5038" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "This is the complete list of Olympic medalists in biathlon.\n\nMedalists in military patrol, a precursor to biathlon, are listed separately.\n\nMen\n\nIndividual (20 km)\n\nSprint (10 km)\n\nPursuit (12.5 km)\n\nMass start (15 km)\n\nRelay (4×7.5 km)\n\nWomen\n\nSprint (7.5 km)\n\nPursuit (10 km)\n\nMass start (12.5 km)\n\nRelay (4×6 km)\n\nThe women's relay event has been competed over three different distances:\n* 3×7.5 km — 1992\n* 4×7.5 km — 1994–2002\n* 4×6 km — 2006–2014\n\nMixed\n\nRelay\n\nMedals per year. List of Olympic medalists in biathlon. http://en.wikipedia.org/?curid=5038."
+  }
+}

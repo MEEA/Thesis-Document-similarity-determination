@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13477",
+  "eid" : "09f33430-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778525939,
+  "textBody" : "High anxiety is a non-technical term referring to a state of extreme fear or apprehension. It may also mean:\n\n* High Anxiety, a film by Mel Brooks\n**\"High Anxiety\", a song performed by Brooks in the film\n* High Anxiety (album), a 2003 album by Therapy? & also a 1995 album by Pet Lamb\n* High Anxiety (Thom Sonny Green album)\n* \"High Anxiety\", a song on the A Match and Some Gasoline album by The Suicide Machines\n* \"High Anxiety\", a song from Sugar Ray's album Floored\n* \"High Anxiety (Part 2)\", a King of the Hill episode\n* \"High Anxiety\", an episode of Kate and Allie\n* \"High Anxiety\", The Golden Girls episode\n* \"High Anxiety\", a Dawson's Creek episode\n* \"High Anxiety\", an episode from 7th Heaven\n* \"High Anxiety\", an episode of A Different World\n* \"High Anxiety\", an episode of Full House\n* \"Episode 3: High Anxiety\", an episode from Rayman: The Animated Series\n* \"High Anxiety\", an episode from Rescue Heroes (originally named Terror In The Tower, but retitled after the September 11 attack, then got banned from Teletoon shortly after)\n* High Anxiety, a water ride at Mountain Creek Waterpark\n* \"High Anxiety\", a monster truck",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "High anxiety" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13477" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "High anxiety is a non-technical term referring to a state of extreme fear or apprehension. It may also mean:\n\n* High Anxiety, a film by Mel Brooks\n**\"High Anxiety\", a song performed by Brooks in the film\n* High Anxiety (album), a 2003 album by Therapy? & also a 1995 album by Pet Lamb\n* High Anxiety (Thom Sonny Green album)\n* \"High Anxiety\", a song on the A Match and Some Gasoline album by The Suicide Machines\n* \"High Anxiety\", a song from Sugar Ray's album Floored\n* \"High Anxiety (Part 2)\", a King of the Hill episode\n* \"High Anxiety\", an episode of Kate and Allie\n* \"High Anxiety\", The Golden Girls episode\n* \"High Anxiety\", a Dawson's Creek episode\n* \"High Anxiety\", an episode from 7th Heaven\n* \"High Anxiety\", an episode of A Different World\n* \"High Anxiety\", an episode of Full House\n* \"Episode 3: High Anxiety\", an episode from Rayman: The Animated Series\n* \"High Anxiety\", an episode from Rescue Heroes (originally named Terror In The Tower, but retitled after the September 11 attack, then got banned from Teletoon shortly after)\n* High Anxiety, a water ride at Mountain Creek Waterpark\n* \"High Anxiety\", a monster truck. High anxiety. http://en.wikipedia.org/?curid=13477."
+  }
+}

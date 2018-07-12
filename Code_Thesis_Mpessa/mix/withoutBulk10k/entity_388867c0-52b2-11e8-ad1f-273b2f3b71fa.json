@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19186",
+  "eid" : "388867c0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778604092,
+  "textBody" : "Telephones - main lines in use:\n31,500 (2002)\n\nTelephones - mobile cellular:\n300,000 (2003)\n\nTelephone system:\ngeneral assessment:\nlimited system of cable and open-wire lines, minor microwave radio relay links, and radiotelephone communications stations (improvements being made)\ndomestic:\nmostly cable and open-wire lines; a recently completed domestic satellite telecommunications system links Nouakchott with regional capitals\ninternational:\ncountry code - 222; satellite earth stations - 1 Intelsat (Atlantic Ocean) and 2 Arabsat \n\nRadio broadcast stations:\nAM 1, FM 14, shortwave 1 (2001)\n\nRadios:\n410,000 (2001)\n\nTelevision broadcast stations:\n1 (2002)\n\nTelevisions:\n98,000 (2001)\n\nInternet Service Providers (ISPs):\n25 (2003)\n\nInternet users:\n10,000 (2002)\n\nCountry code (Top level domain): .mr\n\nBroadband Internet access \n\nMauritania has three operators, the original monopoly, Mauritel (now owned by Vivendi's Maroc Telecom), Mattel (owned by Tunisie Telecom) and Chinguitel, which will start operations in December 2006.[http://www.balancingact-africa.com/news/back/balancing-act_324.html#head Balancing Act-Africa.com]\n\nThe country only has around 1000 DSL subscribers, and 3000 internet subscribers in total, out of a population of 2.5 million. Monthly DSL charges were high, around US$95.69 per month, but have now dropped to MRO 10000 (around US$40) per month.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Telecommunications in Mauritania" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19186" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Telephones - main lines in use:\n31,500 (2002)\n\nTelephones - mobile cellular:\n300,000 (2003)\n\nTelephone system:\ngeneral assessment:\nlimited system of cable and open-wire lines, minor microwave radio relay links, and radiotelephone communications stations (improvements being made)\ndomestic:\nmostly cable and open-wire lines; a recently completed domestic satellite telecommunications system links Nouakchott with regional capitals\ninternational:\ncountry code - 222; satellite earth stations - 1 Intelsat (Atlantic Ocean) and 2 Arabsat \n\nRadio broadcast stations:\nAM 1, FM 14, shortwave 1 (2001)\n\nRadios:\n410,000 (2001)\n\nTelevision broadcast stations:\n1 (2002)\n\nTelevisions:\n98,000 (2001)\n\nInternet Service Providers (ISPs):\n25 (2003)\n\nInternet users:\n10,000 (2002)\n\nCountry code (Top level domain): .mr\n\nBroadband Internet access \n\nMauritania has three operators, the original monopoly, Mauritel (now owned by Vivendi's Maroc Telecom), Mattel (owned by Tunisie Telecom) and Chinguitel, which will start operations in December 2006.[http://www.balancingact-africa.com/news/back/balancing-act_324.html#head Balancing Act-Africa.com]\n\nThe country only has around 1000 DSL subscribers, and 3000 internet subscribers in total, out of a population of 2.5 million. Monthly DSL charges were high, around US$95.69 per month, but have now dropped to MRO 10000 (around US$40) per month. Telecommunications in Mauritania. http://en.wikipedia.org/?curid=19186."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18274",
+  "eid" : "31e35b00-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778592944,
+  "textBody" : "This is a list of memorials to Lyndon B. Johnson, 36th president of the United States.\n\nBuildings\n\n* Lyndon B. Johnson Tropical Medical Center, a hospital in American Samoa\n* Lyndon B. Johnson General Hospital in Houston, Texas\n* Lyndon B. Johnson Federal Building in Washington, DC\n\nMilitary vessels\n\n*\n\nParks and topographical features\n\n* Lyndon B. Johnson National Historical Park, Johnson City, Texas\n* Lake Lyndon B. Johnson, a lake in Texas\n* Lyndon B. Johnson National Grassland, in Texas\n* Lyndon Baines Johnson Memorial Grove on the Potomac, in Washington, D.C.\n\nRoads\n\n* Lyndon B. Johnson Freeway (Interstate 635), a freeway in Dallas, Texas\n\nSchools\n\n* LBJ School of Public Affairs, a public affairs graduate school at the University of Texas in Austin\n* Lyndon B. Johnson High School in Austin, Texas\n* Lyndon B. Johnson High School in Laredo, Texas\n* Lyndon B. Johnson Middle School in Melbourne, Florida\n* Lyndon B. Johnson Elementary School in Jackson, Kentucky\n* Lyndon B. Johnson Space Center in Houston, Texas\n\nOther\n\n* Lyndon Baines Johnson Library and Museum",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "List of memorials to Lyndon B. Johnson" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18274" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "This is a list of memorials to Lyndon B. Johnson, 36th president of the United States.\n\nBuildings\n\n* Lyndon B. Johnson Tropical Medical Center, a hospital in American Samoa\n* Lyndon B. Johnson General Hospital in Houston, Texas\n* Lyndon B. Johnson Federal Building in Washington, DC\n\nMilitary vessels\n\n*\n\nParks and topographical features\n\n* Lyndon B. Johnson National Historical Park, Johnson City, Texas\n* Lake Lyndon B. Johnson, a lake in Texas\n* Lyndon B. Johnson National Grassland, in Texas\n* Lyndon Baines Johnson Memorial Grove on the Potomac, in Washington, D.C.\n\nRoads\n\n* Lyndon B. Johnson Freeway (Interstate 635), a freeway in Dallas, Texas\n\nSchools\n\n* LBJ School of Public Affairs, a public affairs graduate school at the University of Texas in Austin\n* Lyndon B. Johnson High School in Austin, Texas\n* Lyndon B. Johnson High School in Laredo, Texas\n* Lyndon B. Johnson Middle School in Melbourne, Florida\n* Lyndon B. Johnson Elementary School in Jackson, Kentucky\n* Lyndon B. Johnson Space Center in Houston, Texas\n\nOther\n\n* Lyndon Baines Johnson Library and Museum. List of memorials to Lyndon B. Johnson. http://en.wikipedia.org/?curid=18274."
+  }
+}

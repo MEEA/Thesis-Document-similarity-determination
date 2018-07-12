@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=20029",
+  "eid" : "3f6a2f60-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778615638,
+  "textBody" : "The Multics Relational Data Store, or MRDS for short, was the first commercial relational database management system. It was written in PL/1 by Honeywell for the Multics operating system and first sold in June 1976. Unlike the SQL systems that emerged in the late 1970s and early 80's, MRDS used a command language only for basic data manipulation, equivalent to the SELECT or UPDATE statements in SQL. Other operations, like creating a new database, or general file management, required the use of a separate command program.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Multics Relational Data Store" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=20029" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The Multics Relational Data Store, or MRDS for short, was the first commercial relational database management system. It was written in PL/1 by Honeywell for the Multics operating system and first sold in June 1976. Unlike the SQL systems that emerged in the late 1970s and early 80's, MRDS used a command language only for basic data manipulation, equivalent to the SELECT or UPDATE statements in SQL. Other operations, like creating a new database, or general file management, required the use of a separate command program. Multics Relational Data Store. http://en.wikipedia.org/?curid=20029."
+  }
+}

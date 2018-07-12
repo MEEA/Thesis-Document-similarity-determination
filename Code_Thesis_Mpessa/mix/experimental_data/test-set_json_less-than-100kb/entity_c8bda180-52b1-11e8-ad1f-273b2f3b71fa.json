@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3779",
+  "eid" : "c8bda180-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778416536,
+  "textBody" : "The Boeing B-52 Stratofortress is an American strategic bomber aircraft.\n\nB-52 or B52 may also refer to:\n\nTransportation and military\n\n* B52 (New York City bus), in Brooklyn, US\n* Volvo B52 engine, a group of Volvo engines\n* Nora B-52, a Serbian 152 mm self-propelled howitzer\n* Bundesstraße 52, a federal highway in Germany\n\nOther uses\n\n* The B-52's, an American new wave band\n** The B-52's (album), an album by the eponymous group\n* B-52 (hairstyle), a hairstyle also known as the beehive\n* B-52 (cocktail), a cocktail shooter\n* B-52 Memorial Park, within the Orlando International Airport, Florida, US\n* B52 (chess opening), the Encyclopaedia of Chess Openings code for a chess opening based on the Sicilian Defence\n* HLA-B52, an HLA-B serotype\n* B-52, a coded reference to Mao Zedong in Project 571",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "B52 (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3779" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The Boeing B-52 Stratofortress is an American strategic bomber aircraft.\n\nB-52 or B52 may also refer to:\n\nTransportation and military\n\n* B52 (New York City bus), in Brooklyn, US\n* Volvo B52 engine, a group of Volvo engines\n* Nora B-52, a Serbian 152 mm self-propelled howitzer\n* Bundesstraße 52, a federal highway in Germany\n\nOther uses\n\n* The B-52's, an American new wave band\n** The B-52's (album), an album by the eponymous group\n* B-52 (hairstyle), a hairstyle also known as the beehive\n* B-52 (cocktail), a cocktail shooter\n* B-52 Memorial Park, within the Orlando International Airport, Florida, US\n* B52 (chess opening), the Encyclopaedia of Chess Openings code for a chess opening based on the Sicilian Defence\n* HLA-B52, an HLA-B serotype\n* B-52, a coded reference to Mao Zedong in Project 571. B52 (disambiguation). http://en.wikipedia.org/?curid=3779."
+  }
+}

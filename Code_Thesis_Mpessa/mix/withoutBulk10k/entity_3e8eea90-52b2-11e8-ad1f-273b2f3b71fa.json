@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19890",
+  "eid" : "3e8eea90-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778614201,
+  "textBody" : "Male may refer to:\n* male, in biology, the half of a reproduction system that produces sperm cells\n* male plant\n* male pregnancy\n* man, in the social sciences, the gender role to which males in most human cultures are expected to conform\n* boy, in a young male human, usually a child or adolescent\n* gentleman, in any man of good, courteous conduct\n* in hardware and electronics, a type of connector, often but not always a \"plug\"; see gender of connectors and fasteners\n* masculine gender, in languages with grammatical gender\n\nIn geography:\n* Malé, the capital of Maldives\n** Malé Island, the island the city is on\n** Malé Atoll, the atoll the island is in\n* Malé, Italy, a municipality in the province of Trento, Italy\n* Małe, Łódź Voivodeship, a village in central Poland\n* Małe, Pomeranian Voivodeship, a village in northern Poland\n* Mâle, Orne, a village in France\n* Male, Belgium, a quarter in Bruges\n* Male, Vikramgad, a village in Maharashtra, India\n* Male (woreda), a woreda in Ethiopia\n* Males, Crete, a village in Greece\n\nPeople:\n* Male (surname)\n* the Male people of Ethiopia\n* the Male language (Ethiopia)\n* the Male language (Papua New Guinea)\n\nOther:\n* Medium-altitude long-endurance unmanned aerial vehicle\n* Male (film), a 2015 Indian film\n* Male (Foetus album), a 1992 live album by Foetus\n* Male (Natalie Imbruglia album), a 2015 studio album by Natalie Imbruglia",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Male (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19890" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Male may refer to:\n* male, in biology, the half of a reproduction system that produces sperm cells\n* male plant\n* male pregnancy\n* man, in the social sciences, the gender role to which males in most human cultures are expected to conform\n* boy, in a young male human, usually a child or adolescent\n* gentleman, in any man of good, courteous conduct\n* in hardware and electronics, a type of connector, often but not always a \"plug\"; see gender of connectors and fasteners\n* masculine gender, in languages with grammatical gender\n\nIn geography:\n* Malé, the capital of Maldives\n** Malé Island, the island the city is on\n** Malé Atoll, the atoll the island is in\n* Malé, Italy, a municipality in the province of Trento, Italy\n* Małe, Łódź Voivodeship, a village in central Poland\n* Małe, Pomeranian Voivodeship, a village in northern Poland\n* Mâle, Orne, a village in France\n* Male, Belgium, a quarter in Bruges\n* Male, Vikramgad, a village in Maharashtra, India\n* Male (woreda), a woreda in Ethiopia\n* Males, Crete, a village in Greece\n\nPeople:\n* Male (surname)\n* the Male people of Ethiopia\n* the Male language (Ethiopia)\n* the Male language (Papua New Guinea)\n\nOther:\n* Medium-altitude long-endurance unmanned aerial vehicle\n* Male (film), a 2015 Indian film\n* Male (Foetus album), a 1992 live album by Foetus\n* Male (Natalie Imbruglia album), a 2015 studio album by Natalie Imbruglia. Male (disambiguation). http://en.wikipedia.org/?curid=19890."
+  }
+}

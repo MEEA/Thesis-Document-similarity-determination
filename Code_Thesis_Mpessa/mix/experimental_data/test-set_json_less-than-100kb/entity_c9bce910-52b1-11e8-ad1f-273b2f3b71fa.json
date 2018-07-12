@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3926",
+  "eid" : "c9bce910-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778418209,
+  "textBody" : "Blowfish are species of fish in the Tetraodontidae family.\n\nBlowfish may also refer to:\n\n* Porcupinefish, belonging to the family Diodontidae\n* Blowfish (cipher), an encryption algorithm\n* Blowfish (company), an American erotic goods supplier\n* The Blowfish, a satirical newspaper at Brandeis University\n* Lexington County Blowfish, a baseball team",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Blowfish (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3926" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Blowfish are species of fish in the Tetraodontidae family.\n\nBlowfish may also refer to:\n\n* Porcupinefish, belonging to the family Diodontidae\n* Blowfish (cipher), an encryption algorithm\n* Blowfish (company), an American erotic goods supplier\n* The Blowfish, a satirical newspaper at Brandeis University\n* Lexington County Blowfish, a baseball team. Blowfish (disambiguation). http://en.wikipedia.org/?curid=3926."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3437",
+  "eid" : "c69d80a0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778412970,
+  "textBody" : "Ludwig van Beethoven's Opus 1 is a set of three piano trios (written for piano, violin, and cello), first performed in 1795 in the house of Prince Lichnowsky, to whom they are dedicated.[http://www.all-about-beethoven.com/trios.html Beethoven's Trios for string instruments, wind instruments and for mixed ones.] All About Beethoven. Retrieved 2011-12-10 The trios were published in 1795.\n\nDespite the Op. 1 designation, these trios were not Beethoven's first published compositions; this \ndistinction belongs rather to his Dressler Variations for keyboard (WoO 63). Clearly he recognized these compositions as the earliest ones he had produced that were substantial enough (and marketable enough) to fill out a first major publication to introduce his style of writing to the musical public.  \n\nOp. 1 No. 1 - Piano Trio No. 1 in E-flat major\n\n* Allegro (E flat major), \n* Adagio cantabile (A flat major), \n* Scherzo. Allegro assai (E flat major, with  trio in A flat major), \n* Finale. Presto (E flat major), \n\nThe first movement opens with a similar figure to that of the third movement of Mozart's 20th Piano Concerto..\n\nOp. 1 No. 2 - Piano Trio No. 2 in G major\n\n* Adagio,  - Allegro vivace,  (G major)\n* Largo con espressione (E major), \n* Scherzo. Allegro (G major, with a trio in B minor), \n* Finale. Presto (G major), \n\nOp. 1 No. 3 - Piano Trio No. 3 in C minor\n\n* Allegro con brio (C minor), \n* Andante cantabile con Variazioni (E flat major), \n* Minuetto. Quasi allegro (C minor, with a trio in C major), \n* Finale. Prestissimo (C minor, concluding in C major), \n\nUnlike the other piano trios in this opus, the third trio does not have a scherzo as its third movement but a minuet instead.\n\nThis third piano trio was later reworked by Beethoven into the C minor string quintet, Op. 104.[http://www.hyperion-records.co.uk/tw.asp?w=W12408 String Quintet in C minor, Op 104.] Hyperion Records. Retrieved 2011-12-10",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Piano Trios, Op. 1 (Beethoven)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3437" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Ludwig van Beethoven's Opus 1 is a set of three piano trios (written for piano, violin, and cello), first performed in 1795 in the house of Prince Lichnowsky, to whom they are dedicated.[http://www.all-about-beethoven.com/trios.html Beethoven's Trios for string instruments, wind instruments and for mixed ones.] All About Beethoven. Retrieved 2011-12-10 The trios were published in 1795.\n\nDespite the Op. 1 designation, these trios were not Beethoven's first published compositions; this \ndistinction belongs rather to his Dressler Variations for keyboard (WoO 63). Clearly he recognized these compositions as the earliest ones he had produced that were substantial enough (and marketable enough) to fill out a first major publication to introduce his style of writing to the musical public.  \n\nOp. 1 No. 1 - Piano Trio No. 1 in E-flat major\n\n* Allegro (E flat major), \n* Adagio cantabile (A flat major), \n* Scherzo. Allegro assai (E flat major, with  trio in A flat major), \n* Finale. Presto (E flat major), \n\nThe first movement opens with a similar figure to that of the third movement of Mozart's 20th Piano Concerto..\n\nOp. 1 No. 2 - Piano Trio No. 2 in G major\n\n* Adagio,  - Allegro vivace,  (G major)\n* Largo con espressione (E major), \n* Scherzo. Allegro (G major, with a trio in B minor), \n* Finale. Presto (G major), \n\nOp. 1 No. 3 - Piano Trio No. 3 in C minor\n\n* Allegro con brio (C minor), \n* Andante cantabile con Variazioni (E flat major), \n* Minuetto. Quasi allegro (C minor, with a trio in C major), \n* Finale. Prestissimo (C minor, concluding in C major), \n\nUnlike the other piano trios in this opus, the third trio does not have a scherzo as its third movement but a minuet instead.\n\nThis third piano trio was later reworked by Beethoven into the C minor string quintet, Op. 104.[http://www.hyperion-records.co.uk/tw.asp?w=W12408 String Quintet in C minor, Op 104.] Hyperion Records. Retrieved 2011-12-10. Piano Trios, Op. 1 (Beethoven). http://en.wikipedia.org/?curid=3437."
+  }
+}

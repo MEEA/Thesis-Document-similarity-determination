@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=4914",
+  "eid" : "d13e7320-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778430802,
+  "textBody" : "BRP can mean:\n* Basic Role-Playing game system\n* Blue Ridge Parkway\n* Bombardier Recreational Products, Canadian company\n* Brief reactive psychosis\n* British Racing Partnership, former British motor racing team\n* Bathroom privileges\n* Bronx River Parkway in New York\n* Brotherhood of Russian Truth (Bratstvo Russkoy Pravdy), former Russian emigrant organization\n* Barko/Bapor ng Republika ng Pilipinas (ship/steamship of the Republic of the Philippines), Philippine Navy ship name prefix\n* \"B.R.P.\", song by Victor Jara on album El derecho de vivir en paz\n* Brioche-purl stitch, in brioche knitting\n* Birpara, a town in West Bengal, India",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "BRP" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=4914" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "BRP can mean:\n* Basic Role-Playing game system\n* Blue Ridge Parkway\n* Bombardier Recreational Products, Canadian company\n* Brief reactive psychosis\n* British Racing Partnership, former British motor racing team\n* Bathroom privileges\n* Bronx River Parkway in New York\n* Brotherhood of Russian Truth (Bratstvo Russkoy Pravdy), former Russian emigrant organization\n* Barko/Bapor ng Republika ng Pilipinas (ship/steamship of the Republic of the Philippines), Philippine Navy ship name prefix\n* \"B.R.P.\", song by Victor Jara on album El derecho de vivir en paz\n* Brioche-purl stitch, in brioche knitting\n* Birpara, a town in West Bengal, India. BRP. http://en.wikipedia.org/?curid=4914."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14882",
+  "eid" : "18437310-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778549953,
+  "textBody" : "An incubus is a male demon that has sexual intercourse with sleeping women.\n\nIncubus may also refer to:\n\nFilm \n\n* Incubus (1966 film), a film in Esperanto starring William Shatner\n* Incubus (2006 film), a horror film starring Tara Reid\n* The Incubus (1981 film), a horror film starring John Cassavetes\n* François Sagat's Incubus, a 2011/2012 gay pornographic film, and directorial debut for François Sagat\n\nMusic \n\n* Incubus (band), an American alternative rock band from California\n* Opprobrium (band), American death metal band from Louisiana originally known as Incubus\n* \"Incubus\", a song by British neo-progressive rock band Marillion from 1984's Fugazi (album)\n\nOther \n\n* The Incubus, a nickname given to radio executive John Hayes by Howard Stern when the two were together at WNBC",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Incubus (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14882" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "An incubus is a male demon that has sexual intercourse with sleeping women.\n\nIncubus may also refer to:\n\nFilm \n\n* Incubus (1966 film), a film in Esperanto starring William Shatner\n* Incubus (2006 film), a horror film starring Tara Reid\n* The Incubus (1981 film), a horror film starring John Cassavetes\n* François Sagat's Incubus, a 2011/2012 gay pornographic film, and directorial debut for François Sagat\n\nMusic \n\n* Incubus (band), an American alternative rock band from California\n* Opprobrium (band), American death metal band from Louisiana originally known as Incubus\n* \"Incubus\", a song by British neo-progressive rock band Marillion from 1984's Fugazi (album)\n\nOther \n\n* The Incubus, a nickname given to radio executive John Hayes by Howard Stern when the two were together at WNBC. Incubus (disambiguation). http://en.wikipedia.org/?curid=14882."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10000",
+  "eid" : "f339a350-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778487813,
+  "textBody" : "Eiffel may refer to:\n\nEngineering\n\n* Gustave Eiffel (1832–1923), engineer and designer of the Eiffel Tower and the Statue of Liberty\n** Eiffel Tower, in Paris, France, designed by Gustave Eiffel\n** Eiffel (company), successor of Gustave Eiffel's engineering company\n* Eiffel Bridge, Ungheni, Moldova, designed by Gustave Eiffel\n* Eiffel Bridge, Zrenjanin, Serbia, built by Gustave Eiffel's company\n\nMusic\n\n* Eiffel 65, an Italian electronic music group, originally called Eiffel\n* Eiffel (band), a French rock group\n\nComputing\n\n* Eiffel (programming language), developed by Bertrand Meyer\n\nPeople \n\n* \"Alec Eiffel\", a song by the alternative rock band Pixies\n* Erika Eiffel, American woman who \"married\" the Eiffel Tower",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Eiffel" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10000" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Eiffel may refer to:\n\nEngineering\n\n* Gustave Eiffel (1832–1923), engineer and designer of the Eiffel Tower and the Statue of Liberty\n** Eiffel Tower, in Paris, France, designed by Gustave Eiffel\n** Eiffel (company), successor of Gustave Eiffel's engineering company\n* Eiffel Bridge, Ungheni, Moldova, designed by Gustave Eiffel\n* Eiffel Bridge, Zrenjanin, Serbia, built by Gustave Eiffel's company\n\nMusic\n\n* Eiffel 65, an Italian electronic music group, originally called Eiffel\n* Eiffel (band), a French rock group\n\nComputing\n\n* Eiffel (programming language), developed by Bertrand Meyer\n\nPeople \n\n* \"Alec Eiffel\", a song by the alternative rock band Pixies\n* Erika Eiffel, American woman who \"married\" the Eiffel Tower. Eiffel. http://en.wikipedia.org/?curid=10000."
+  }
+}

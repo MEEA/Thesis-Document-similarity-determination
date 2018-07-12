@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17382",
+  "eid" : "2b95e420-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778582370,
+  "textBody" : "Kobellite (Pb22Cu4(Bi,Sb)30S69) is a gray, fibrous, metallic mineral. It is also a sulfide mineral consisting of antimony, bismuth, and lead. It is a member of the izoklakeite - berryite series with silver and iron substituting in the copper site and a vaying ratio of bismuth, antimony, and lead. It crystallizes with monoclinic pyramidal crystals. The mineral can be found in ores and deposits of Hvena, Sweden; Ouray, Colorado; and Wake County, North Carolina, US. The mineral was named after Wolfgang Franz von Kobell (1803–1882), a German mineralogist.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Kobellite" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17382" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Kobellite (Pb22Cu4(Bi,Sb)30S69) is a gray, fibrous, metallic mineral. It is also a sulfide mineral consisting of antimony, bismuth, and lead. It is a member of the izoklakeite - berryite series with silver and iron substituting in the copper site and a vaying ratio of bismuth, antimony, and lead. It crystallizes with monoclinic pyramidal crystals. The mineral can be found in ores and deposits of Hvena, Sweden; Ouray, Colorado; and Wake County, North Carolina, US. The mineral was named after Wolfgang Franz von Kobell (1803–1882), a German mineralogist. Kobellite. http://en.wikipedia.org/?curid=17382."
+  }
+}

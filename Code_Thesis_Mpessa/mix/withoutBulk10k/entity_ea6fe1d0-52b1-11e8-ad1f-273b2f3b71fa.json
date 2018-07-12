@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8788",
+  "eid" : "ea6fe1d0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778473069,
+  "textBody" : "Daisy cutter may mean:\n\n* Daisy cutter (fuse), a type of fuse used to convert conventional bombs into defoliant and anti-personnel weapons\n* A type of bomb (see Daisy cutter (fuse)), including the BLU-82\n* A seldom used term for a sharply struck ground ball in baseball, used mostly in Vintage base ball\n* In cricket, a ball that bounces multiple times before reaching the batsman\n* The second studio album by the Rockville, Maryland band The Low Life\n* The sixth song on 311's ninth studio album Uplifter\n* A west coast pale ale brewed by Half Acre Beer Company, Chicago, Illinois.\n*Daisy Cutter- A UK based burlesque performer and costumier.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Daisy cutter" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8788" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Daisy cutter may mean:\n\n* Daisy cutter (fuse), a type of fuse used to convert conventional bombs into defoliant and anti-personnel weapons\n* A type of bomb (see Daisy cutter (fuse)), including the BLU-82\n* A seldom used term for a sharply struck ground ball in baseball, used mostly in Vintage base ball\n* In cricket, a ball that bounces multiple times before reaching the batsman\n* The second studio album by the Rockville, Maryland band The Low Life\n* The sixth song on 311's ninth studio album Uplifter\n* A west coast pale ale brewed by Half Acre Beer Company, Chicago, Illinois.\n*Daisy Cutter- A UK based burlesque performer and costumier. Daisy cutter. http://en.wikipedia.org/?curid=8788."
+  }
+}

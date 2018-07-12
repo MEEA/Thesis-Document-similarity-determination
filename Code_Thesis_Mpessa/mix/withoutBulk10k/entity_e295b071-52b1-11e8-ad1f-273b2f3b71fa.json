@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7616",
+  "eid" : "e295b071-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778459895,
+  "textBody" : "Canopus may refer to:\n\n* Canopus (or Alpha Carinae), the brightest star in the southern constellation of Carina\n* Canopus, Egypt, an ancient Egyptian city in the Nile Delta\n* Canopus (mythology), in Homeric myth, the pilot of King Menelaus's ship\n* Canopus (rocket), an Argentine sounding rocket\n* Canopus Corporation, a manufacturer of video editing cards and video editing software\n* HMS Canopus, two ships of the Royal Navy\n* USS Canopus, a ship of the United States Navy\n* Canopus (nuclear test) was the name given to the first test of the French hydrogen bomb, in 1968, with a yield of 2.8 megatons\n* Canopus Lake, a lake in Clarence Fahnestock State Park in New York State, USA\n* Canopus in Argos, a series of space fiction by Doris Lessing\n* Canopus G-ADHL, a Short Empire flying boat\n* Canopic jar, ancient Egyptian vessel for storing organs removed by mummification procedure",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Canopus (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7616" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Canopus may refer to:\n\n* Canopus (or Alpha Carinae), the brightest star in the southern constellation of Carina\n* Canopus, Egypt, an ancient Egyptian city in the Nile Delta\n* Canopus (mythology), in Homeric myth, the pilot of King Menelaus's ship\n* Canopus (rocket), an Argentine sounding rocket\n* Canopus Corporation, a manufacturer of video editing cards and video editing software\n* HMS Canopus, two ships of the Royal Navy\n* USS Canopus, a ship of the United States Navy\n* Canopus (nuclear test) was the name given to the first test of the French hydrogen bomb, in 1968, with a yield of 2.8 megatons\n* Canopus Lake, a lake in Clarence Fahnestock State Park in New York State, USA\n* Canopus in Argos, a series of space fiction by Doris Lessing\n* Canopus G-ADHL, a Short Empire flying boat\n* Canopic jar, ancient Egyptian vessel for storing organs removed by mummification procedure. Canopus (disambiguation). http://en.wikipedia.org/?curid=7616."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17694",
+  "eid" : "2d668570-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778585415,
+  "textBody" : "No true Scotsman is a kind of informal fallacy in which one attempts to protect a universal generalization from counterexamples by changing the definition in an ad hoc fashion to exclude the counterexample.[http://www.iep.utm.edu/fallacy/#NoTrueScotsman No True Scotsman], Internet Encyclopedia of Philosophy Rather than denying the counterexample or rejecting the original claim, this fallacy modifies the subject of the assertion to exclude the specific case or others like it by rhetoric, without reference to any specific objective rule (\"no  Scotsman would do such a thing\"; i.e., those who perform that action are not part of our group and thus criticism of that action is not criticism of the group).\n\nExamples\n\nPhilosophy professor Bradley Dowden explains the fallacy as an \"ad hoc rescue\" of a refuted generalization attempt. The following is a simplified rendition of the fallacy:\n\nPerson A: \"No Scotsman puts sugar on his porridge.\"\nPerson B: \"But my uncle Angus is a Scotsman and he puts sugar on his porridge.\"\nPerson A: \"Ah yes, but no true Scotsman puts sugar on his porridge.\"\n\nThe essayist Spengler compared distinguishing between \"mature\" democracies, which never start wars, and \"emerging democracies\", which may start them, with the \"No true Scotsman\" fallacy. Spengler alleges that \"political scientists\" have attempted to save the \"US academic dogma\" that democracies never start wars from counterexamples by declaring any democracy which does indeed start a war to be flawed, thus maintaining that no  democracy starts a war.\n\nOrigin\n\nThe introduction of the term is attributed to British philosopher Antony Flew, because the term originally appeared in Flew's 1971 book An Introduction to Western Philosophy. In his 1975 book Thinking About Thinking, he wrote:",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "No true Scotsman" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17694" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "No true Scotsman is a kind of informal fallacy in which one attempts to protect a universal generalization from counterexamples by changing the definition in an ad hoc fashion to exclude the counterexample.[http://www.iep.utm.edu/fallacy/#NoTrueScotsman No True Scotsman], Internet Encyclopedia of Philosophy Rather than denying the counterexample or rejecting the original claim, this fallacy modifies the subject of the assertion to exclude the specific case or others like it by rhetoric, without reference to any specific objective rule (\"no  Scotsman would do such a thing\"; i.e., those who perform that action are not part of our group and thus criticism of that action is not criticism of the group).\n\nExamples\n\nPhilosophy professor Bradley Dowden explains the fallacy as an \"ad hoc rescue\" of a refuted generalization attempt. The following is a simplified rendition of the fallacy:\n\nPerson A: \"No Scotsman puts sugar on his porridge.\"\nPerson B: \"But my uncle Angus is a Scotsman and he puts sugar on his porridge.\"\nPerson A: \"Ah yes, but no true Scotsman puts sugar on his porridge.\"\n\nThe essayist Spengler compared distinguishing between \"mature\" democracies, which never start wars, and \"emerging democracies\", which may start them, with the \"No true Scotsman\" fallacy. Spengler alleges that \"political scientists\" have attempted to save the \"US academic dogma\" that democracies never start wars from counterexamples by declaring any democracy which does indeed start a war to be flawed, thus maintaining that no  democracy starts a war.\n\nOrigin\n\nThe introduction of the term is attributed to British philosopher Antony Flew, because the term originally appeared in Flew's 1971 book An Introduction to Western Philosophy. In his 1975 book Thinking About Thinking, he wrote:. No true Scotsman. http://en.wikipedia.org/?curid=17694."
+  }
+}

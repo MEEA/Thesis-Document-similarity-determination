@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11411",
+  "eid" : "fb99cd90-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778501865,
+  "textBody" : "Fermentation is a metabolic process whereby electrons released from nutrients are ultimately transferred to molecules obtained from the breakdown of those same nutrients.\n\nFermentation may also refer to:\n\n* Ethanol fermentation, the production of ethanol for use in food, alcoholic beverage, fuel and industry\n** Fermentation in food processing, the process of converting sugar to carbon dioxide and alcohol with yeast\n** Fermentation in winemaking, the process of fermentation used in wine-making\n* Lactic acid fermentation, the biological process by which sugars such as glucose, fructose, and sucrose, are converted into cellular energy and the metabolic byproduct lactate\n* Industrial fermentation, the breakdown and re-assembly of biochemicals for industry, often in aerobic growth conditions\n* Fermentative hydrogen production, the fermentative conversion of organic substrate to biohydrogen manifested by a diverse group of bacteria\n* Fermentation, the term used in the tea industry in tea processing for the aerobic treatment of tea leaves to break down certain unwanted chemicals and modify others to develop the flavor of the tea",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Fermentation (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11411" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Fermentation is a metabolic process whereby electrons released from nutrients are ultimately transferred to molecules obtained from the breakdown of those same nutrients.\n\nFermentation may also refer to:\n\n* Ethanol fermentation, the production of ethanol for use in food, alcoholic beverage, fuel and industry\n** Fermentation in food processing, the process of converting sugar to carbon dioxide and alcohol with yeast\n** Fermentation in winemaking, the process of fermentation used in wine-making\n* Lactic acid fermentation, the biological process by which sugars such as glucose, fructose, and sucrose, are converted into cellular energy and the metabolic byproduct lactate\n* Industrial fermentation, the breakdown and re-assembly of biochemicals for industry, often in aerobic growth conditions\n* Fermentative hydrogen production, the fermentative conversion of organic substrate to biohydrogen manifested by a diverse group of bacteria\n* Fermentation, the term used in the tea industry in tea processing for the aerobic treatment of tea leaves to break down certain unwanted chemicals and modify others to develop the flavor of the tea. Fermentation (disambiguation). http://en.wikipedia.org/?curid=11411."
+  }
+}

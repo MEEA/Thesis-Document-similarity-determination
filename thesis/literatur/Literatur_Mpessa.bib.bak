@@ -102,7 +102,7 @@
 @Proceedings{JWC07,
   title     = {Multi-Probe LSH: Efficient Indexing for High-Dimensional Similarity Search},
   year      = {2007},
-  author    = {William Josephson Zhe Wang Moses Charikar Kai Li},
+  author    = {William Josephson, Zhe Wang, Moses Charikar, Kai Li},
   file      = {:C\:\\Users\\Lisa\\Google Drive\\Masterthesis\\Multi-Probe LSH-Efficient Indexing for High Dimensional Similarity Search.pdf:PDF},
   owner     = {Lisa},
   timestamp = {2018-06-09},
@@ -110,7 +110,7 @@
 }
 
 @Misc{DIB18,
-  author    = {Mitarbeiter Dibuco},
+  author    = {Mitarbeiter dibuco},
   title     = {Connected Insight},
   year      = {2018},
   comment   = {Dibuco interne Webseite für das Produkt BigData4Biz},
@@ -174,7 +174,7 @@
   title     = {Advanced Topics in information Retrieval},
   publisher = {Springer-Verlag},
   year      = {2011},
-  author    = {Massimo Melucci, Ricardo Baeza-Yates},
+  author    = {Massimo Melucci, Ricardo Baeza-Yates,},
 }
 
 @Book{MET11,
@@ -200,7 +200,7 @@
 }
 
 @Book{PEB06,
-  title     = {Semantic Web - Wege zur vernetzten Wissensgesellschaft},
+  title     = {Semantic Web - Wege zur vernetzten Wissensgesellschaft, Springer-Verlag,},
   publisher = {Springer-Verlag},
   year      = {2006},
   author    = {Tassilo Pellegrini, Andreas Blumauer},
@@ -213,7 +213,7 @@
   timestamp = {2018-06-09},
 }
 
-@Electronic{SKH06,
+@Electronic{KHR06,
   author   = {Sang-Bum Kim, Kyoung-Soo Han, Hae-Chang Rim, and Sung Hyon Myaeng},
   month    = nov,
   year     = {2006},
@@ -243,21 +243,39 @@
   url       = {http://infolab.stanford.edu/~ullman/mmds/book.pdf},
 }
 
-@Article{Yatsko2014,
-  author        = {Yatsko, V. A.},
-  title         = {Computational linguistics or linguistic informatics?},
-  journal       = {Automatic Documentation and Mathematical Linguistics},
-  year          = {2014},
-  volume        = {48},
-  number        = {3},
-  pages         = {149--157},
-  month         = {May},
-  issn          = {1934-8371},
+@Article{YAT14,
+  author   = {Yatsko, V. A.},
+  title    = {Computational linguistics or linguistic informatics?},
+  journal  = {Automatic Documentation and Mathematical Linguistics},
+  year     = {2014},
+  volume   = {48},
+  number   = {3},
+  pages    = {149--157},
+  month    = {May},
+  issn     = {1934-8371},
+  abstract = {The concept of ``linguistic informatics'' is introduced in order to refer to a scientific domain that studies the distribution patterns of text information, as well as problems, principles, methods, and algorithms applied for the development of linguistic software and hardware. The key terms and concepts in the related field are investigated; a classification of linguistic software is introduced.},
+  day      = {01},
+  doi      = {10.3103/S0005105514030042},
+  url      = {https://doi.org/10.3103/S0005105514030042},
+}
+
+@InProceedings{BON00,
+  author        = {Bondi, Andr{\'e} B.},
+  title         = {Characteristics of Scalability and Their Impact on Performance},
+  booktitle     = {Proceedings of the 2Nd International Workshop on Software and Performance},
+  year          = {2000},
+  series        = {WOSP '00},
+  pages         = {195--203},
+  address       = {New York, NY, USA},
+  publisher     = {ACM},
   __markedentry = {[Lisa:6]},
-  abstract      = {The concept of ``linguistic informatics'' is introduced in order to refer to a scientific domain that studies the distribution patterns of text information, as well as problems, principles, methods, and algorithms applied for the development of linguistic software and hardware. The key terms and concepts in the related field are investigated; a classification of linguistic software is introduced.},
-  day           = {01},
-  doi           = {10.3103/S0005105514030042},
-  url           = {https://doi.org/10.3103/S0005105514030042},
+  acmid         = {350432},
+  doi           = {10.1145/350391.350432},
+  isbn          = {1-58113-195-X},
+  keywords      = {load scalability, performance, structural and space scalability},
+  location      = {Ottawa, Ontario, Canada},
+  numpages      = {9},
+  url           = {http://doi.acm.org/10.1145/350391.350432},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

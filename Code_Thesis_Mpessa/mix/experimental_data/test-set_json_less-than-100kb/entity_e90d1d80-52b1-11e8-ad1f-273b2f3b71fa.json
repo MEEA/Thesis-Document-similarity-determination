@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8591",
+  "eid" : "e90d1d80-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778470744,
+  "textBody" : "Diaspora studies is an academic field established in the late 20th century to study dispersed ethnic populations, which are often termed diaspora peoples. The usage of the term diaspora carries the connotation of forced resettlement, due to expulsion, coercion, slavery, racism, or war, especially nationalist conflicts. \n\nAcademic institutes\n\n* The International Institute for Diasporic and Transcultural Studies (IIDTS) — a transnational institute incorporating Jean Moulin University (Lyons, France), the University of Cyprus, Sun Yat-sen University (Guangzhou, China) and Liverpool Hope University (UK) — is a dedicated research network operating in a transdisciplinary logic and focused on cultural representation (and auto-representation) of diasporic communities throughout the world. The institute sponsors the trilingual publication Transtext(e)s-Transcultures: A Journal of Global Cultural Studies.[http://www.transtexts.net Transtext(e)s-Transcultures website]\n\n* Nehru University's School of International Studies, [http://Jawaharlal%20Nehru%20University,%20New%20Delhi www.jnu.ac.in] has a strong research programme, DIMP (Diaspora and International Programme) and its faculty run a network [http://ODI www.odi.in] (Organisation for Diaspora Initiatives), an international network of higher academic researchers focused on studying Diaspora from International Perspective and examining diaspora as a resource in international relations. ODI publishes a research journal [http://Diaspora%20Studies www.tandfonline/rdst] with Routledge, London.\n\n* Golong Gilig Institute of Javanese Diaspora Studies, Indonesia.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Diaspora studies" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8591" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Diaspora studies is an academic field established in the late 20th century to study dispersed ethnic populations, which are often termed diaspora peoples. The usage of the term diaspora carries the connotation of forced resettlement, due to expulsion, coercion, slavery, racism, or war, especially nationalist conflicts. \n\nAcademic institutes\n\n* The International Institute for Diasporic and Transcultural Studies (IIDTS) — a transnational institute incorporating Jean Moulin University (Lyons, France), the University of Cyprus, Sun Yat-sen University (Guangzhou, China) and Liverpool Hope University (UK) — is a dedicated research network operating in a transdisciplinary logic and focused on cultural representation (and auto-representation) of diasporic communities throughout the world. The institute sponsors the trilingual publication Transtext(e)s-Transcultures: A Journal of Global Cultural Studies.[http://www.transtexts.net Transtext(e)s-Transcultures website]\n\n* Nehru University's School of International Studies, [http://Jawaharlal%20Nehru%20University,%20New%20Delhi www.jnu.ac.in] has a strong research programme, DIMP (Diaspora and International Programme) and its faculty run a network [http://ODI www.odi.in] (Organisation for Diaspora Initiatives), an international network of higher academic researchers focused on studying Diaspora from International Perspective and examining diaspora as a resource in international relations. ODI publishes a research journal [http://Diaspora%20Studies www.tandfonline/rdst] with Routledge, London.\n\n* Golong Gilig Institute of Javanese Diaspora Studies, Indonesia. Diaspora studies. http://en.wikipedia.org/?curid=8591."
+  }
+}

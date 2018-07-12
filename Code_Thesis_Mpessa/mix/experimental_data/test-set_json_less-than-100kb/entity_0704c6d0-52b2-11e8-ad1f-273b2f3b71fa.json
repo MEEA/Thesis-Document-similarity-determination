@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13192",
+  "eid" : "0704c6d0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778521021,
+  "textBody" : "Hacking may refer to:\nPlaces\n\n* Hacking, an area within Hietzing, a municipal district of Vienna, Austria\nComputing and technology\n\n* Computer hacking, including:\n** Hacker culture,  activity within the computer programmer subculture\n** Security hacker, someone who breaches defenses in a computer system \n** Cybercrime\n* Phone hacking, gaining unauthorized access to phones\n* ROM hacking, the process of modifying a video game's program image\nSports\n\n* Hacking (falconry), the practice of raising falcons in captivity then later releasing into the wild\n* Hacking (rugby), tripping an opposing player\n* Pleasure riding, horseback riding for purely recreational purposes\n* Shin-kicking, an English martial art also called hacking\nOther uses\n\n* Joke thievery\n* Roof and tunnel hacking, unauthorized exploration of roof and utility tunnel spaces\n\nPeople with the surname\n\n* Ian Hacking, Canadian philosopher of science",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Hacking" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13192" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Hacking may refer to:\nPlaces\n\n* Hacking, an area within Hietzing, a municipal district of Vienna, Austria\nComputing and technology\n\n* Computer hacking, including:\n** Hacker culture,  activity within the computer programmer subculture\n** Security hacker, someone who breaches defenses in a computer system \n** Cybercrime\n* Phone hacking, gaining unauthorized access to phones\n* ROM hacking, the process of modifying a video game's program image\nSports\n\n* Hacking (falconry), the practice of raising falcons in captivity then later releasing into the wild\n* Hacking (rugby), tripping an opposing player\n* Pleasure riding, horseback riding for purely recreational purposes\n* Shin-kicking, an English martial art also called hacking\nOther uses\n\n* Joke thievery\n* Roof and tunnel hacking, unauthorized exploration of roof and utility tunnel spaces\n\nPeople with the surname\n\n* Ian Hacking, Canadian philosopher of science. Hacking. http://en.wikipedia.org/?curid=13192."
+  }
+}

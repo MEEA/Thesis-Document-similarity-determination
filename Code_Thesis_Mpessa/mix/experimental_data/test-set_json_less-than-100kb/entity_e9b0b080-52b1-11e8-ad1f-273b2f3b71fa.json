@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8676",
+  "eid" : "e9b0b080-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778471816,
+  "textBody" : "Dhyāna may refer to:\n\n;Meditative practice in Indian religions\n* Dhyāna in Buddhism (Pāli: jhāna)\n* Dhyāna in Hinduism\n\n;In music\n*Dhyana, a work by British composer John Tavener (1944-2013)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Dhyāna" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8676" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Dhyāna may refer to:\n\n;Meditative practice in Indian religions\n* Dhyāna in Buddhism (Pāli: jhāna)\n* Dhyāna in Hinduism\n\n;In music\n*Dhyana, a work by British composer John Tavener (1944-2013). Dhyāna. http://en.wikipedia.org/?curid=8676."
+  }
+}

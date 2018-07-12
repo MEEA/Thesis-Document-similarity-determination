@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10304",
+  "eid" : "f4f1b390-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778490697,
+  "textBody" : "An esbat is a coven meeting at a time other than one of the Sabbats within Wicca and other Wiccan-influenced forms of contemporary Paganism. Janet and Stewart Farrar describe esbats as an opportunity for a \"love feast, healing work, psychic training and all.\"Farrar, 1984, p. 178.\n\nEtymology\n\nThe term esbat is derived from Old French s'esbattre (Modern French ébat), meaning to frolic and amuse oneself, diversion. It was a borrowing by 20th century anthropologist Margaret Murray's use of French witch trial sources on supposed Witches' Sabbaths in her attempts to \"reconstruct\" a Witch Cult in Western Europe.\n\nObservance\n\nAn esbat is commonly understood to be a ritual observance on the night of a full moon. However, the late high priestess Doreen Valiente distinguished between \"full moon Esbat[s]\" and other esbatic occasions.\n\nThe term esbat in this sense was described by Margaret Murray.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Esbat" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10304" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "An esbat is a coven meeting at a time other than one of the Sabbats within Wicca and other Wiccan-influenced forms of contemporary Paganism. Janet and Stewart Farrar describe esbats as an opportunity for a \"love feast, healing work, psychic training and all.\"Farrar, 1984, p. 178.\n\nEtymology\n\nThe term esbat is derived from Old French s'esbattre (Modern French ébat), meaning to frolic and amuse oneself, diversion. It was a borrowing by 20th century anthropologist Margaret Murray's use of French witch trial sources on supposed Witches' Sabbaths in her attempts to \"reconstruct\" a Witch Cult in Western Europe.\n\nObservance\n\nAn esbat is commonly understood to be a ritual observance on the night of a full moon. However, the late high priestess Doreen Valiente distinguished between \"full moon Esbat[s]\" and other esbatic occasions.\n\nThe term esbat in this sense was described by Margaret Murray. Esbat. http://en.wikipedia.org/?curid=10304."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19529",
+  "eid" : "3b900270-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778609175,
+  "textBody" : "Minister may refer to:\n\n* Minister (Christianity), a Christian minister\n* Minister (diplomacy), the rank of diplomat directly below ambassador\n* Minister (government), a politician the member of government who heads a ministry (government department)\n* Ministerialis, a member of a noble class in the Holy Roman Empire\n*Shadow minister, a member of a Shadow Cabinet of the opposition",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Minister" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19529" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Minister may refer to:\n\n* Minister (Christianity), a Christian minister\n* Minister (diplomacy), the rank of diplomat directly below ambassador\n* Minister (government), a politician the member of government who heads a ministry (government department)\n* Ministerialis, a member of a noble class in the Holy Roman Empire\n*Shadow minister, a member of a Shadow Cabinet of the opposition. Minister. http://en.wikipedia.org/?curid=19529."
+  }
+}

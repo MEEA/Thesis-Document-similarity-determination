@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11564",
+  "eid" : "fc7c8c70-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778503351,
+  "textBody" : "Fossil Record is a biannual peer-reviewed scientific journal covering palaeontology. It was established in 1998 as the Mitteilungen aus dem Museum für Naturkunde in Berlin, Geowissenschaftliche Reihe and originally published on behalf of the Museum für Naturkunde by Wiley-VCH; since 2014 it has been published by Copernicus Publications. The editors-in-chief are Martin Aberhan, Dieter Korn, and Florian Witzmann (Museum für Naturkunde).\n\nAbstracting and indexing \n\nThe journal is abstracted and indexed in the Science Citation Index Expanded, BIOSIS Previews, The Zoological Record, and Scopus. According to the Journal Citation Reports, the journal has a 2013 impact factor of 0.913.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Fossil Record" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11564" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Fossil Record is a biannual peer-reviewed scientific journal covering palaeontology. It was established in 1998 as the Mitteilungen aus dem Museum für Naturkunde in Berlin, Geowissenschaftliche Reihe and originally published on behalf of the Museum für Naturkunde by Wiley-VCH; since 2014 it has been published by Copernicus Publications. The editors-in-chief are Martin Aberhan, Dieter Korn, and Florian Witzmann (Museum für Naturkunde).\n\nAbstracting and indexing \n\nThe journal is abstracted and indexed in the Science Citation Index Expanded, BIOSIS Previews, The Zoological Record, and Scopus. According to the Journal Citation Reports, the journal has a 2013 impact factor of 0.913. Fossil Record. http://en.wikipedia.org/?curid=11564."
+  }
+}

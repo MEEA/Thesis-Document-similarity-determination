@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=20024",
+  "eid" : "3f6881b0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778615627,
+  "textBody" : "Mach may refer to:\n\nAircraft\n\n* Fly Castelluccio Mach, an Italian paramotor design\n\nComputers\n\n* ATI Mach, a 2D GPU chip by ATI\n* Mach-II, an object-oriented MVC framework for CFML and PHP\n* Mach (kernel), an operating systems kernel technology\n* GNU Mach, the microkernel upon which GNU Hurd is based\n* mach, a computer program for building RPM packages in a chroot environment\n\nCompanies\n\n* Mach 37, an American seed accelerator founded in 2013\n\nEntertainment\n\n* M.A.C.H., a 2007 flight combat video game for the PlayStation Portable\n* Mach (Transformers), a fictional character\n* \"Mach\" (Rainbow song), released by the South Korean girl group Rainbow in 2010\n\nPeople\n\n* Mach (surname)\n* \"Mach\", nickname of Hayato Sakurai (born 1975), a mixed martial artist\n* a transliteration of Mai\n* Ernst Mach (1838–1916), Austrian physicist and philosopher\n\nPlaces\n\n* Machh or Mach, a town in Pakistan\n* Machynlleth, sometimes referred to colloquially as Mach, a market town in Wales \n* Mach (crater), a lunar crater\n* 3949 Mach, an asteroid\n\nScience and technology\n\n* Mach number, a measure of speed based on the speed of sound\n* Muscarinic acetylcholine receptor, abbreviated mACh\n\nOther uses\n\n* Shock diamond, also known as Mach disk, diamond pattern seen in rocket exhaust\n* Mach bands, an optical illusion\n* Mach's principle\n* Mach angle\n* Mach wave\n* Mach reflection\n* Mach effect (disambiguation)\n* Gillette Mach3, a manual razor with three blades\n* Mach 3, a 1987 video game developed and published by Loriciels\n* Mach3, a computer-aided manufacturing program by ArtSoft USA\n* Mach Loop, a series of valleys in Wales\n* Mache (unit), an obsolete unit of volumic radioactivity\n* Mack (disambiguation)\n* Mac (disambiguation)\n* Mak (disambiguation)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Mach" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=20024" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Mach may refer to:\n\nAircraft\n\n* Fly Castelluccio Mach, an Italian paramotor design\n\nComputers\n\n* ATI Mach, a 2D GPU chip by ATI\n* Mach-II, an object-oriented MVC framework for CFML and PHP\n* Mach (kernel), an operating systems kernel technology\n* GNU Mach, the microkernel upon which GNU Hurd is based\n* mach, a computer program for building RPM packages in a chroot environment\n\nCompanies\n\n* Mach 37, an American seed accelerator founded in 2013\n\nEntertainment\n\n* M.A.C.H., a 2007 flight combat video game for the PlayStation Portable\n* Mach (Transformers), a fictional character\n* \"Mach\" (Rainbow song), released by the South Korean girl group Rainbow in 2010\n\nPeople\n\n* Mach (surname)\n* \"Mach\", nickname of Hayato Sakurai (born 1975), a mixed martial artist\n* a transliteration of Mai\n* Ernst Mach (1838–1916), Austrian physicist and philosopher\n\nPlaces\n\n* Machh or Mach, a town in Pakistan\n* Machynlleth, sometimes referred to colloquially as Mach, a market town in Wales \n* Mach (crater), a lunar crater\n* 3949 Mach, an asteroid\n\nScience and technology\n\n* Mach number, a measure of speed based on the speed of sound\n* Muscarinic acetylcholine receptor, abbreviated mACh\n\nOther uses\n\n* Shock diamond, also known as Mach disk, diamond pattern seen in rocket exhaust\n* Mach bands, an optical illusion\n* Mach's principle\n* Mach angle\n* Mach wave\n* Mach reflection\n* Mach effect (disambiguation)\n* Gillette Mach3, a manual razor with three blades\n* Mach 3, a 1987 video game developed and published by Loriciels\n* Mach3, a computer-aided manufacturing program by ArtSoft USA\n* Mach Loop, a series of valleys in Wales\n* Mache (unit), an obsolete unit of volumic radioactivity\n* Mack (disambiguation)\n* Mac (disambiguation)\n* Mak (disambiguation). Mach. http://en.wikipedia.org/?curid=20024."
+  }
+}

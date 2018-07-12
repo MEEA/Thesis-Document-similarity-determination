@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3189",
+  "eid" : "c49ccea0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778409610,
+  "textBody" : "In mathematics, the ascending chain condition (ACC) and descending chain condition (DCC) are finiteness properties satisfied by some algebraic structures, most importantly ideals in certain commutative rings.Hazewinkel, Gubareni & Kirichenko (2004), p.6, Prop. 1.1.4.Fraleigh & Katz (1967), p. 366, Lemma 7.1Jacobson (2009), p. 142 and 147 These conditions played an important role in the development of the structure theory of commutative rings in the works of David Hilbert, Emmy Noether, and Emil Artin.\nThe conditions themselves can be stated in an abstract form, so that they make sense for any partially ordered set. This point of view is useful in abstract algebraic dimension theory due to Gabriel and Rentschler.\n\nDefinition \n\nA partially ordered set (poset) P is said to satisfy the ascending chain condition (ACC) if every strictly ascending sequence of elements eventually terminates.  Equivalently, given any sequence\na_1 \\,\\leq\\, a_2 \\,\\leq\\, a_3 \\,\\leq\\, \\cdots,\nthere exists a positive integer n such that\na_n a_{n+1} \n a_{n+2} = \\cdots.\nSimilarly, P is said to satisfy the descending chain condition (DCC) if every strictly descending sequence of elements eventually terminates, that is, there is no infinite descending chain. Equivalently every descending sequence\n\\cdots \\,\\leq\\, a_3 \\,\\leq\\, a_2 \\,\\leq\\, a_1\nof elements of P, eventually stabilizes.\n\nComments \n\n* The descending chain condition on P is equivalent to P being well-founded: every nonempty subset of P has a minimal element (also called the minimal condition).\n* Similarly, the ascending chain condition is equivalent to P being converse well-founded: every nonempty subset of P has a maximal element (the maximal condition).\n* Trivially every finite poset satisfies both ACC and DCC.\n* A totally ordered set that satisfies the descending chain condition is a well-ordered set(assuming the axiom of dependent choice).",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Ascending chain condition" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3189" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "In mathematics, the ascending chain condition (ACC) and descending chain condition (DCC) are finiteness properties satisfied by some algebraic structures, most importantly ideals in certain commutative rings.Hazewinkel, Gubareni & Kirichenko (2004), p.6, Prop. 1.1.4.Fraleigh & Katz (1967), p. 366, Lemma 7.1Jacobson (2009), p. 142 and 147 These conditions played an important role in the development of the structure theory of commutative rings in the works of David Hilbert, Emmy Noether, and Emil Artin.\nThe conditions themselves can be stated in an abstract form, so that they make sense for any partially ordered set. This point of view is useful in abstract algebraic dimension theory due to Gabriel and Rentschler.\n\nDefinition \n\nA partially ordered set (poset) P is said to satisfy the ascending chain condition (ACC) if every strictly ascending sequence of elements eventually terminates.  Equivalently, given any sequence\na_1 \\,\\leq\\, a_2 \\,\\leq\\, a_3 \\,\\leq\\, \\cdots,\nthere exists a positive integer n such that\na_n a_{n+1} \n a_{n+2} = \\cdots.\nSimilarly, P is said to satisfy the descending chain condition (DCC) if every strictly descending sequence of elements eventually terminates, that is, there is no infinite descending chain. Equivalently every descending sequence\n\\cdots \\,\\leq\\, a_3 \\,\\leq\\, a_2 \\,\\leq\\, a_1\nof elements of P, eventually stabilizes.\n\nComments \n\n* The descending chain condition on P is equivalent to P being well-founded: every nonempty subset of P has a minimal element (also called the minimal condition).\n* Similarly, the ascending chain condition is equivalent to P being converse well-founded: every nonempty subset of P has a maximal element (the maximal condition).\n* Trivially every finite poset satisfies both ACC and DCC.\n* A totally ordered set that satisfies the descending chain condition is a well-ordered set(assuming the axiom of dependent choice). Ascending chain condition. http://en.wikipedia.org/?curid=3189."
+  }
+}

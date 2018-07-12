@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13839",
+  "eid" : "0e4417c0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778533180,
+  "textBody" : "Heavy metal may refer to:\n\n*Heavy metals, a loose category of relatively dense metals and metalloids\n**Toxic heavy metal, any heavy metal chemical element of environmental concern\n*Heavy metal music\n**Heavy metal genres\n*Heavy Metal (magazine), an American fantasy magazine\n\nMusic \n\n*Heavy Metal Music (album), a 2013 album by Newsted\n*\"Heavy Metal\" (Clap Your Hands Say Yeah song) (2005)\n*\"Heavy Metal\", a 1981 song by Sammy Hagar from the album Standing Hampton, also on the soundtrack of Heavy Metal\n*\"Heavy Metal: The Black and Silver\", a 1981 song by Blue Öyster Cult from Fire of Unknown Origin\n*\"Heavy Metal\", a 1985 song by Helloween from Walls of Jericho\n*\"Heavy Metal\", a 1988 song by Judas Priest from Ram It Down\n*\"Heavy Metal (Takin' a Ride)\", a 1981 song by Don Felder from the soundtrack of Heavy Metal\n\nVideo games \n\n*Heavy Metal: F.A.K.K.², a 2000 computer game by Gathering of Developers\n*Heavy Metal: Geomatrix, a 2001 arcade game for Sega NAOMI and Dreamcast by Capcom\n*HeavyMetal, a series of commercial software titles designed to complement Classic BattleTech\n\nPeople\n\n*Heavy Metal (wrestler) (born 1970), Mexican professional wrestler\n*Mark Hildreth (wrestler) or \"Heavy Metal\" Van Hammer, American professional wrestler\n\nFictional characters\n\n*Heavy Metal (G.I. Joe), a character in the G.I. Joe universe\n*Heavy Metal (Marvel Comics), a group of villains of the Marvel Universe\n\nFilm and television\n\n*Heavy Metal (film), a 1981 animated film based on the magazine\n*Heavy Metal 2000 a.k.a. Heavy Metal: F.A.K.K.² or \"Heavy Metal 2\", a 2000 animated film, sequel to the 1981 film Heavy Metal\n*\"Heavy Metal\" (Sliders), a 1999 episode of Sliders\n*\"Heavy Metal\" (Terminator: The Sarah Connor Chronicles), a 2008 episode of Terminator: The Sarah Connor Chronicles\n\nOther uses\n\n*Heavy Metal: a Tank Company's Battle to Baghdad, a 2005 book about Operation Iraqi Freedom\n*Heavy Metal (cricket), an incident in a 1979 cricket match involving Dennis Lillee",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Heavy metal" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13839" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Heavy metal may refer to:\n\n*Heavy metals, a loose category of relatively dense metals and metalloids\n**Toxic heavy metal, any heavy metal chemical element of environmental concern\n*Heavy metal music\n**Heavy metal genres\n*Heavy Metal (magazine), an American fantasy magazine\n\nMusic \n\n*Heavy Metal Music (album), a 2013 album by Newsted\n*\"Heavy Metal\" (Clap Your Hands Say Yeah song) (2005)\n*\"Heavy Metal\", a 1981 song by Sammy Hagar from the album Standing Hampton, also on the soundtrack of Heavy Metal\n*\"Heavy Metal: The Black and Silver\", a 1981 song by Blue Öyster Cult from Fire of Unknown Origin\n*\"Heavy Metal\", a 1985 song by Helloween from Walls of Jericho\n*\"Heavy Metal\", a 1988 song by Judas Priest from Ram It Down\n*\"Heavy Metal (Takin' a Ride)\", a 1981 song by Don Felder from the soundtrack of Heavy Metal\n\nVideo games \n\n*Heavy Metal: F.A.K.K.², a 2000 computer game by Gathering of Developers\n*Heavy Metal: Geomatrix, a 2001 arcade game for Sega NAOMI and Dreamcast by Capcom\n*HeavyMetal, a series of commercial software titles designed to complement Classic BattleTech\n\nPeople\n\n*Heavy Metal (wrestler) (born 1970), Mexican professional wrestler\n*Mark Hildreth (wrestler) or \"Heavy Metal\" Van Hammer, American professional wrestler\n\nFictional characters\n\n*Heavy Metal (G.I. Joe), a character in the G.I. Joe universe\n*Heavy Metal (Marvel Comics), a group of villains of the Marvel Universe\n\nFilm and television\n\n*Heavy Metal (film), a 1981 animated film based on the magazine\n*Heavy Metal 2000 a.k.a. Heavy Metal: F.A.K.K.² or \"Heavy Metal 2\", a 2000 animated film, sequel to the 1981 film Heavy Metal\n*\"Heavy Metal\" (Sliders), a 1999 episode of Sliders\n*\"Heavy Metal\" (Terminator: The Sarah Connor Chronicles), a 2008 episode of Terminator: The Sarah Connor Chronicles\n\nOther uses\n\n*Heavy Metal: a Tank Company's Battle to Baghdad, a 2005 book about Operation Iraqi Freedom\n*Heavy Metal (cricket), an incident in a 1979 cricket match involving Dennis Lillee. Heavy metal. http://en.wikipedia.org/?curid=13839."
+  }
+}

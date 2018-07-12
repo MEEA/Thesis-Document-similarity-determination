@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8141",
+  "eid" : "e5db1770-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778465383,
+  "textBody" : "The Dipsacales are an order of flowering plants, included within the asterid group of dicotyledons. In the APG III system of 2009, the order includes only two families, Adoxaceae and a broadly defined Caprifoliaceae. Some well-known members of the Dipsacales order are honeysuckle, elder, viburnum, and valerian.\n\nUnder the Cronquist system, the order included Adoxaceae, Caprifoliaceae sensu stricto, Dipsacaceae, and Valerianaceae.  Under the 2003 APG II system, the circumscription of the order was much the same but the system allowed either a broadly circumscribed Caprifoliaceae including the families Diervillaceae, Dipsacaceae, Linnaeaceae, Morinaceae, and Valerianaceae, or these families being kept separate. The APG III system only uses the broadly circumscribed Caprifoliceae.\n\nThe Dipsacales appear to be most closely related to the Paracryphiales.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Dipsacales" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8141" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The Dipsacales are an order of flowering plants, included within the asterid group of dicotyledons. In the APG III system of 2009, the order includes only two families, Adoxaceae and a broadly defined Caprifoliaceae. Some well-known members of the Dipsacales order are honeysuckle, elder, viburnum, and valerian.\n\nUnder the Cronquist system, the order included Adoxaceae, Caprifoliaceae sensu stricto, Dipsacaceae, and Valerianaceae.  Under the 2003 APG II system, the circumscription of the order was much the same but the system allowed either a broadly circumscribed Caprifoliaceae including the families Diervillaceae, Dipsacaceae, Linnaeaceae, Morinaceae, and Valerianaceae, or these families being kept separate. The APG III system only uses the broadly circumscribed Caprifoliceae.\n\nThe Dipsacales appear to be most closely related to the Paracryphiales. Dipsacales. http://en.wikipedia.org/?curid=8141."
+  }
+}

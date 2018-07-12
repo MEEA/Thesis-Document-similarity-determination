@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7500",
+  "eid" : "e1ee9b00-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778458800,
+  "textBody" : "Celebes may refer to:\n\n*Sulawesi, an island in Indonesia, formerly known as the Celebes Islands\n*Celebes Sea\n*The Elephant Celebes, a 1921 Surrealist work by Max Ernst",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Celebes (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7500" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Celebes may refer to:\n\n*Sulawesi, an island in Indonesia, formerly known as the Celebes Islands\n*Celebes Sea\n*The Elephant Celebes, a 1921 Surrealist work by Max Ernst. Celebes (disambiguation). http://en.wikipedia.org/?curid=7500."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=9041",
+  "eid" : "ec2273d0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778475917,
+  "textBody" : "Digit may refer to:\n\n* Digit (anatomy), one of several most distal parts of a limb—fingers, thumbs, and toes on hands and feet\n\nMathematics and science\n\n* Numerical digit, as used in mathematics or computer science\n* Dit or digit, synonym of Ban (unit), a unit of information entropy\n* Digit (unit), an ancient measurement unit\n* Digit, Dian Fossey's favourite gorilla, who was killed by poachers in  Rwanda. Fossey subsequently created the Digit Fund to raise money for anti-poaching patrols\n\nArts and media\n\n* Digit (magazine), an Indian information technology magazine\n* digits dancing, a type of gestural, interpretive, rave and urban street dance\n* Digit (Cyberchase), a Cyberchase character\n* Digit, an obscure robotic Muppet character\n\nOther uses\n\n* Phone number, \"digits\" in slang",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Digit" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=9041" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Digit may refer to:\n\n* Digit (anatomy), one of several most distal parts of a limb—fingers, thumbs, and toes on hands and feet\n\nMathematics and science\n\n* Numerical digit, as used in mathematics or computer science\n* Dit or digit, synonym of Ban (unit), a unit of information entropy\n* Digit (unit), an ancient measurement unit\n* Digit, Dian Fossey's favourite gorilla, who was killed by poachers in  Rwanda. Fossey subsequently created the Digit Fund to raise money for anti-poaching patrols\n\nArts and media\n\n* Digit (magazine), an Indian information technology magazine\n* digits dancing, a type of gestural, interpretive, rave and urban street dance\n* Digit (Cyberchase), a Cyberchase character\n* Digit, an obscure robotic Muppet character\n\nOther uses\n\n* Phone number, \"digits\" in slang. Digit. http://en.wikipedia.org/?curid=9041."
+  }
+}

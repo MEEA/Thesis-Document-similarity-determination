@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11601",
+  "eid" : "fc9b5f10-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778503553,
+  "textBody" : "Farsi is the indigenous name for Persian. It primarily refers to the Persian language.\n\nFarsi may also refer to:\n*Persian people\n*Farsi, Afghanistan\n*Farsi District in Herat province, Afghanistan\n*Farsi Island, an Iranian island off the coast of Fars, Iran\n*Farsi, Iran\n*Television channel Farsi1\n\nPeople with the name\n\n* Salman al-Farisi, 7th-century companion of the Islamic prophet, Muhammad\n* Jalaleddin Farsi, Iranian politician\n* Kamal al-Din al-Farisi, 13th–14th century mathematician\n* Sepideh Farsi, Iranian film director",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Farsi (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11601" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Farsi is the indigenous name for Persian. It primarily refers to the Persian language.\n\nFarsi may also refer to:\n*Persian people\n*Farsi, Afghanistan\n*Farsi District in Herat province, Afghanistan\n*Farsi Island, an Iranian island off the coast of Fars, Iran\n*Farsi, Iran\n*Television channel Farsi1\n\nPeople with the name\n\n* Salman al-Farisi, 7th-century companion of the Islamic prophet, Muhammad\n* Jalaleddin Farsi, Iranian politician\n* Kamal al-Din al-Farisi, 13th–14th century mathematician\n* Sepideh Farsi, Iranian film director. Farsi (disambiguation). http://en.wikipedia.org/?curid=11601."
+  }
+}

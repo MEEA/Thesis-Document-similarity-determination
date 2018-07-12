@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11011",
+  "eid" : "f927e330-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778497763,
+  "textBody" : "FBI is the Federal Bureau of Investigation of the United States.\n\nFBI may also refer to:\n\nArts and entertainment\n\n*FBI, an English soul band starring Rick Astley\n*F.B.I. (album), a 1996 song and album by The Dayton Family\n*\"F.B.I.\" (instrumental), a 1961 single by The Shadows\n*FBi Radio, a community radio station based in Sydney, Australia\n*Fully Booked Interactive, a 2000 British children's TV show – a reformat of the series Fully Booked\n*The F.B.I. (TV series), a 1965–1974 television series based in part on actual FBI cases\n*F.B.I. (TV series), an upcoming television series produced by Dick Wolf, scheduled to debut in the 2018-2019 season\n\nOrganisations\n\n*Federation of British Industries, merged into Confederation of British Industry in 1965\n*Flying Buffalo, a game publisher based in the Arizona, US\n*Furniture Brands International, a former Clayton, Missouri, US-based furniture company\n*The Full Blooded Italians, a professional wrestling stable\n\nScience\n\n*FBI mnemonics, for describing directions in magnetic fields\n*FBI transform (Fourier-Bros-Iaglonitzer transform), a concept in mathematics",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "FBI (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11011" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "FBI is the Federal Bureau of Investigation of the United States.\n\nFBI may also refer to:\n\nArts and entertainment\n\n*FBI, an English soul band starring Rick Astley\n*F.B.I. (album), a 1996 song and album by The Dayton Family\n*\"F.B.I.\" (instrumental), a 1961 single by The Shadows\n*FBi Radio, a community radio station based in Sydney, Australia\n*Fully Booked Interactive, a 2000 British children's TV show – a reformat of the series Fully Booked\n*The F.B.I. (TV series), a 1965–1974 television series based in part on actual FBI cases\n*F.B.I. (TV series), an upcoming television series produced by Dick Wolf, scheduled to debut in the 2018-2019 season\n\nOrganisations\n\n*Federation of British Industries, merged into Confederation of British Industry in 1965\n*Flying Buffalo, a game publisher based in the Arizona, US\n*Furniture Brands International, a former Clayton, Missouri, US-based furniture company\n*The Full Blooded Italians, a professional wrestling stable\n\nScience\n\n*FBI mnemonics, for describing directions in magnetic fields\n*FBI transform (Fourier-Bros-Iaglonitzer transform), a concept in mathematics. FBI (disambiguation). http://en.wikipedia.org/?curid=11011."
+  }
+}

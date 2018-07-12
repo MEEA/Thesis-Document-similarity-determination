@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8000",
+  "eid" : "e4a68f10-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778463361,
+  "textBody" : "Default may refer to:\n*Default effect (psychology), the option that a chooser receives if s/he does nothing\n*Default (law), the failure to do something required by law\n**Default rule in legal theory, is a rule of law that can be overridden by a contract, trust, will, or other legally effective agreement\n**Default judgment, is a binding judgment in favor of either party based on some failure to take action by the other party\n**Default (finance), failure to satisfy the terms of a loan obligation or failure to pay back a loan\n\nScience\n\n*Default (computer science), a preset setting or value that will be used if no choice is done\n**Default password, allows the device to be accessed during its initial setup, or after resetting to factory defaults\n*defaults (software), a command line utility for plist (preference) files\n*Default logic, a non-monotonic logic proposed by Raymond Reiter\n\nEntertainment\n\nMusic\n\n*Default (band), a Canadian post-grunge and alternative rock band\n*\"Default\" (Atoms for Peace song), 2012\n*\"Default\" (Django Django song), 2012",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Default" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8000" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Default may refer to:\n*Default effect (psychology), the option that a chooser receives if s/he does nothing\n*Default (law), the failure to do something required by law\n**Default rule in legal theory, is a rule of law that can be overridden by a contract, trust, will, or other legally effective agreement\n**Default judgment, is a binding judgment in favor of either party based on some failure to take action by the other party\n**Default (finance), failure to satisfy the terms of a loan obligation or failure to pay back a loan\n\nScience\n\n*Default (computer science), a preset setting or value that will be used if no choice is done\n**Default password, allows the device to be accessed during its initial setup, or after resetting to factory defaults\n*defaults (software), a command line utility for plist (preference) files\n*Default logic, a non-monotonic logic proposed by Raymond Reiter\n\nEntertainment\n\nMusic\n\n*Default (band), a Canadian post-grunge and alternative rock band\n*\"Default\" (Atoms for Peace song), 2012\n*\"Default\" (Django Django song), 2012. Default. http://en.wikipedia.org/?curid=8000."
+  }
+}

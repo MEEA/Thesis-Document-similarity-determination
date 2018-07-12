@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17996",
+  "eid" : "2fee8fe0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778589662,
+  "textBody" : "This page lists direct English translations of common Latin phrases, such as veni, vidi, vici and et cetera. Some of the phrases are themselves translations of Greek phrases, as Greek rhetoric and literature were highly regarded in Ancient Rome when Latin rhetoric and literature were still maturing.\n\nThe Latin letter i may be used either as a vowel or a consonant. When used as a consonant, it often is replaced by the letter j, which originally, was simply an orthographic \"long i\" that was used in initial positions and when it occurred between two other vowels. This convention from Medieval Latin is preserved most commonly in Latin legal terminology—hence phrases such as de iure often are spelled de jure.\n\nTo view all phrases on a single, lengthy document, see:\n* List of Latin phrases (full)\n\nThe list also is divided alphabetically into twenty pages:\n\n* List of Latin phrases (A)\n* List of Latin phrases (B)\n* List of Latin phrases (C)\n* List of Latin phrases (D)\n* List of Latin phrases (E)\n* List of Latin phrases (F)\n* List of Latin phrases (G)\n* List of Latin phrases (H)\n* List of Latin phrases (I)\n* List of Latin phrases (L)\n* List of Latin phrases (M)\n* List of Latin phrases (N)\n* List of Latin phrases (O)\n* List of Latin phrases (P)\n* List of Latin phrases (Q)\n* List of Latin phrases (R)\n* List of Latin phrases (S)\n* List of Latin phrases (T)\n* List of Latin phrases (U)\n* List of Latin phrases (V)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "List of Latin phrases" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17996" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "This page lists direct English translations of common Latin phrases, such as veni, vidi, vici and et cetera. Some of the phrases are themselves translations of Greek phrases, as Greek rhetoric and literature were highly regarded in Ancient Rome when Latin rhetoric and literature were still maturing.\n\nThe Latin letter i may be used either as a vowel or a consonant. When used as a consonant, it often is replaced by the letter j, which originally, was simply an orthographic \"long i\" that was used in initial positions and when it occurred between two other vowels. This convention from Medieval Latin is preserved most commonly in Latin legal terminology—hence phrases such as de iure often are spelled de jure.\n\nTo view all phrases on a single, lengthy document, see:\n* List of Latin phrases (full)\n\nThe list also is divided alphabetically into twenty pages:\n\n* List of Latin phrases (A)\n* List of Latin phrases (B)\n* List of Latin phrases (C)\n* List of Latin phrases (D)\n* List of Latin phrases (E)\n* List of Latin phrases (F)\n* List of Latin phrases (G)\n* List of Latin phrases (H)\n* List of Latin phrases (I)\n* List of Latin phrases (L)\n* List of Latin phrases (M)\n* List of Latin phrases (N)\n* List of Latin phrases (O)\n* List of Latin phrases (P)\n* List of Latin phrases (Q)\n* List of Latin phrases (R)\n* List of Latin phrases (S)\n* List of Latin phrases (T)\n* List of Latin phrases (U)\n* List of Latin phrases (V). List of Latin phrases. http://en.wikipedia.org/?curid=17996."
+  }
+}

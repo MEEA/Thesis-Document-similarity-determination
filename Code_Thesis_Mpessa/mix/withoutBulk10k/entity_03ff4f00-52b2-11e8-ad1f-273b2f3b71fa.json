@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12669",
+  "eid" : "03ff4f00-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778515952,
+  "textBody" : "GM or Gm may refer to:\n\nCompanies \n\n* General Motors, US automobile manufacturing company which was founded in 2009\n* Motors Liquidation Company, the US automobile manufacturing company known as General Motors Corporation from 1916 to 2009\n* General Mills, US food manufacturing company\n* Gunn & Moore, UK sports equipment company\n\nSports and gaming\n\n* RGM-79 GM, a mobile suit series in the video game Mobile Suit Gundam\n* Gamemaster or game master, a person officiating in a multiplayer role-playing game\n* Grandmaster (chess)\n* Grandmaster (martial arts)\n* G.M. The Independent Fantasy Roleplaying Magazine\n\nPlaces \n\n* The Gambia, by ISO 3166 code\n* Germany, by FIPS 10-4 country code\n\nScience and measurement\n\n* Geiger–Müller tube or G-M tube, a type of radiation detector\n* Genetic modification or Genetically Modified, manipulation of an organism's genome\n* Gigametre or gigameter (Gm), one billion metres\n* Silty gravel, in the Unified Soil Classification System\n* Standard gravitational parameter \\mu=GM \\ \n* Metacentric height, related to ship stability\n* Transconductance, an electronic component parameter\n\nOther uses \n\n* Gm (digraph)\n* GM chassis or Gusenichnaya Machina, a Russian tracked vehicle chassis\n* General manager\n* General MIDI, a standardized specification for music synthesizers\n* Genital mutilation\n* George Medal, a UK, primarily civil, decoration for acts of great bravery\n* Gold master, a version of software to be distributed to customers, i.e. ready for release to manufacturing\n* Good morning (disambiguation)\n* Gunner's mate, a US Navy rating\n* G minor, chords and scale",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "GM" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12669" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "GM or Gm may refer to:\n\nCompanies \n\n* General Motors, US automobile manufacturing company which was founded in 2009\n* Motors Liquidation Company, the US automobile manufacturing company known as General Motors Corporation from 1916 to 2009\n* General Mills, US food manufacturing company\n* Gunn & Moore, UK sports equipment company\n\nSports and gaming\n\n* RGM-79 GM, a mobile suit series in the video game Mobile Suit Gundam\n* Gamemaster or game master, a person officiating in a multiplayer role-playing game\n* Grandmaster (chess)\n* Grandmaster (martial arts)\n* G.M. The Independent Fantasy Roleplaying Magazine\n\nPlaces \n\n* The Gambia, by ISO 3166 code\n* Germany, by FIPS 10-4 country code\n\nScience and measurement\n\n* Geiger–Müller tube or G-M tube, a type of radiation detector\n* Genetic modification or Genetically Modified, manipulation of an organism's genome\n* Gigametre or gigameter (Gm), one billion metres\n* Silty gravel, in the Unified Soil Classification System\n* Standard gravitational parameter \\mu=GM \\ \n* Metacentric height, related to ship stability\n* Transconductance, an electronic component parameter\n\nOther uses \n\n* Gm (digraph)\n* GM chassis or Gusenichnaya Machina, a Russian tracked vehicle chassis\n* General manager\n* General MIDI, a standardized specification for music synthesizers\n* Genital mutilation\n* George Medal, a UK, primarily civil, decoration for acts of great bravery\n* Gold master, a version of software to be distributed to customers, i.e. ready for release to manufacturing\n* Good morning (disambiguation)\n* Gunner's mate, a US Navy rating\n* G minor, chords and scale. GM. http://en.wikipedia.org/?curid=12669."
+  }
+}

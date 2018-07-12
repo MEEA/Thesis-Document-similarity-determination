@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1894",
+  "eid" : "bc524f40-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778395700,
+  "textBody" : "The Africa Alphabet (also International African Alphabet or IAI alphabet) was developed in 1928 under the lead of Diedrich Westermann. He developed it with a group of Africanists at the International Institute of African Languages and Cultures (later the IAI) in London. Its aim was to enable people to write all the African languages for practical and scientific purposes without the need of diacritics. It is based on the International Phonetic Alphabet with a few differences, such as j and y, which instead have the same (consonant) sound values as in English.\n\nThis alphabet has influenced development of orthographies of many African languages (serving \"as the basis for the transcription\" of about 60, by one countSow, Alfa I., and Mohamed H. Abdulaziz, \"Language and Social Change,\" Ch. 18 in Ali A. Mazrui (ed.) Africa Since 1935 (UNESCO General History of Africa, Vol. 8). University of California Press, 1993. P. 527.), but not all, and discussions of harmonization of systems of transcription that led to, among other things, adoption of the African reference alphabet.\n\nThe African Alphabet was used, with the International Phonetic Alphabet, as a basis for the World Orthography.\n\nCharacters",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Africa Alphabet" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1894" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The Africa Alphabet (also International African Alphabet or IAI alphabet) was developed in 1928 under the lead of Diedrich Westermann. He developed it with a group of Africanists at the International Institute of African Languages and Cultures (later the IAI) in London. Its aim was to enable people to write all the African languages for practical and scientific purposes without the need of diacritics. It is based on the International Phonetic Alphabet with a few differences, such as j and y, which instead have the same (consonant) sound values as in English.\n\nThis alphabet has influenced development of orthographies of many African languages (serving \"as the basis for the transcription\" of about 60, by one countSow, Alfa I., and Mohamed H. Abdulaziz, \"Language and Social Change,\" Ch. 18 in Ali A. Mazrui (ed.) Africa Since 1935 (UNESCO General History of Africa, Vol. 8). University of California Press, 1993. P. 527.), but not all, and discussions of harmonization of systems of transcription that led to, among other things, adoption of the African reference alphabet.\n\nThe African Alphabet was used, with the International Phonetic Alphabet, as a basis for the World Orthography.\n\nCharacters. Africa Alphabet. http://en.wikipedia.org/?curid=1894."
+  }
+}

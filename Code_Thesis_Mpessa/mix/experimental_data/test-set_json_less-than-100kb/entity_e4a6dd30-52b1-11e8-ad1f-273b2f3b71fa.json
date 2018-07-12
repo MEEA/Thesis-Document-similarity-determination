@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8002",
+  "eid" : "e4a6dd30-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778463363,
+  "textBody" : "Deposition  may refer to:\n* Deposition (law), taking testimony outside of court\n* Deposition (politics), the removal of a person of authority from political power\n* Deposition (university), a widespread initiation ritual for new students practiced from the Middle Ages until the 18th century\n\nScience\n\n* Deposition (chemistry), molecules settling out of a solution\n* Deposition (geology), material such as sediment being added to a landform\n* Deposition (phase transition), the process by which a gas is transformed into a solid\n* Deposition (aerosol physics), a process where aerosol particles set down onto surfaces\n\nArt\n\n* The Deposition (Michelangelo), a marble sculpture\n* The Deposition (Raphael), an oil painting\n* Deposition (Rogier van der Weyden) or The Descent from the Cross, an oil painting, c.1435\n* The Deposition from the Cross (Pontormo), an oil painting of 1528\n* Deposition of Christ (Bronzino), an oil painting of 1545\n\nOther uses\n\n* Defrocking or deposition, the opposite of ordination in many Christian churches\n* \"The Deposition\" (The Office), an episode of The Office (US TV series)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Deposition" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8002" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Deposition  may refer to:\n* Deposition (law), taking testimony outside of court\n* Deposition (politics), the removal of a person of authority from political power\n* Deposition (university), a widespread initiation ritual for new students practiced from the Middle Ages until the 18th century\n\nScience\n\n* Deposition (chemistry), molecules settling out of a solution\n* Deposition (geology), material such as sediment being added to a landform\n* Deposition (phase transition), the process by which a gas is transformed into a solid\n* Deposition (aerosol physics), a process where aerosol particles set down onto surfaces\n\nArt\n\n* The Deposition (Michelangelo), a marble sculpture\n* The Deposition (Raphael), an oil painting\n* Deposition (Rogier van der Weyden) or The Descent from the Cross, an oil painting, c.1435\n* The Deposition from the Cross (Pontormo), an oil painting of 1528\n* Deposition of Christ (Bronzino), an oil painting of 1545\n\nOther uses\n\n* Defrocking or deposition, the opposite of ordination in many Christian churches\n* \"The Deposition\" (The Office), an episode of The Office (US TV series). Deposition. http://en.wikipedia.org/?curid=8002."
+  }
+}

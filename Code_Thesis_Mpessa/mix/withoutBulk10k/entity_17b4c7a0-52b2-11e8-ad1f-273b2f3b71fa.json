@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14765",
+  "eid" : "17b4c7a0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778549018,
+  "textBody" : "This article is about the demographic features of the population of the Isle of Man, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population. The UN estimate of population as at mid- is .\n\nVital statistics\n\nDemographic statistics from the CIA World Factbook\n\nThe following demographic statistics are from the CIA World Factbook, unless otherwise indicated.\n\nAge structure\n\n0-14 years: 18% (male 6,520; female 6,277)\n15-64 years: 65% (male 23,904; female 23,674)\n65 years and over: 17% (male 5,078; female 7,664) (2000 est.)\n\nPopulation density \n\n131 people/km2 (339 people/sq mi) (2005 est.)\n\nSex ratio\n\nat birth: 1.05 male(s)/female\nunder 15 years: 1.04 male(s)/female\n15-64 years: 1.01 male(s)/female\n65 years and over: 0.66 male(s)/female\ntotal population: 0.94 male(s)/female (2000 est.)\n\nInfant mortality rate\n\n5.93 deaths/1,000 live births (2005 est.)\n\nLife expectancy at birth\n\ntotal population: 78.34 years\nmale: 74.98 years\nfemale: 81.87 years (2000 est.)\nTotal fertility rate: 1.65 children born/woman (2000 est.)\n\nNationality\n\nnoun: Manxman (men), Manxwoman (women)\nadjective: Manx\n\nNational origin groups\n\nManx (Norse-Celtic descent) – 15% \nBritish - 60% (50% English, 5% Scottish, 5% Welsh) \nIrish – 10% \nSouth African – 7%\nAustralian – 5% \nAmerican – 3%\n\nReligions and others\n\nAnglican, Roman Catholic, Methodist, Baptist, Presbyterian, Religious Society of Friends, Jehovah's Witnesses, Pentecostalism, Atheism, Agnosticism.\n\nThe Church of England is the established church.[http://www.lawsons.ca/isleoman/iom_003.html] \n\nLanguages\n\nManx, English",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Demographics of the Isle of Man" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14765" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "This article is about the demographic features of the population of the Isle of Man, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population. The UN estimate of population as at mid- is .\n\nVital statistics\n\nDemographic statistics from the CIA World Factbook\n\nThe following demographic statistics are from the CIA World Factbook, unless otherwise indicated.\n\nAge structure\n\n0-14 years: 18% (male 6,520; female 6,277)\n15-64 years: 65% (male 23,904; female 23,674)\n65 years and over: 17% (male 5,078; female 7,664) (2000 est.)\n\nPopulation density \n\n131 people/km2 (339 people/sq mi) (2005 est.)\n\nSex ratio\n\nat birth: 1.05 male(s)/female\nunder 15 years: 1.04 male(s)/female\n15-64 years: 1.01 male(s)/female\n65 years and over: 0.66 male(s)/female\ntotal population: 0.94 male(s)/female (2000 est.)\n\nInfant mortality rate\n\n5.93 deaths/1,000 live births (2005 est.)\n\nLife expectancy at birth\n\ntotal population: 78.34 years\nmale: 74.98 years\nfemale: 81.87 years (2000 est.)\nTotal fertility rate: 1.65 children born/woman (2000 est.)\n\nNationality\n\nnoun: Manxman (men), Manxwoman (women)\nadjective: Manx\n\nNational origin groups\n\nManx (Norse-Celtic descent) – 15% \nBritish - 60% (50% English, 5% Scottish, 5% Welsh) \nIrish – 10% \nSouth African – 7%\nAustralian – 5% \nAmerican – 3%\n\nReligions and others\n\nAnglican, Roman Catholic, Methodist, Baptist, Presbyterian, Religious Society of Friends, Jehovah's Witnesses, Pentecostalism, Atheism, Agnosticism.\n\nThe Church of England is the established church.[http://www.lawsons.ca/isleoman/iom_003.html] \n\nLanguages\n\nManx, English. Demographics of the Isle of Man. http://en.wikipedia.org/?curid=14765."
+  }
+}

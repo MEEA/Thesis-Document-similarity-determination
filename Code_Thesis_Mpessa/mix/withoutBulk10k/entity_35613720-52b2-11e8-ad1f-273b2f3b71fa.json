@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18864",
+  "eid" : "35613720-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778598802,
+  "textBody" : "Mullet may refer to:\n\nHairstyle \n\n* Mullet (haircut), a hairstyle that is short in the front, top, and sides, but long in the back\n\nFish \n\n* Mullet (fish), or \"grey mullets\", of the family Mugilidae, of which the most widely known species is the striped mullet, Mugil cephalus\n* Goatfish, or \"red mullets\", of the family Mullidae; in particular, red mullets of the genus Mullus\n* Malagasy Mountain Mullet, Acentrogobius therezieni, a species of fish in the Gobiidae family endemic to Madagascar\n* Pearl Mullet, Chalcalburnus tarichi, a species of ray-finned fish in the Cyprinidae family native to Turkey, where it is the only fish known to inhabit Lake Van\n* Shorthead Redhorse, Moxostoma macrolepidotum, a freshwater fish of North America\n\nPlaces \n\n* Mullet, Albania, a village in Tirana District, Albania\n* Mullet Peninsula, or \"The Mullet\", in the barony of Erris, County Mayo, Ireland\n* Mullet Creek, a stream in the Falkland Islands\n* Mullet Bay Beach, a beach on Sint Maarten\n* Mullet River, a river in Wisconsin\n* Mullett Lake, Cheboygan County, Michigan\n\nOther \n\n* Mullet, a type of star in heraldry\n* Mullet (film), a 2001 Australian film\n* The Mullets (TV series), a UPN sitcom\n* Mullets (comic strip), a short-lived comic strip by Rick Stromoski and Steve McGarry\n* A person born in Arundel due to the presence of the Mullet fish in the local river\n* Norman Mullet, the chief superintendent in the British television show A Touch of Frost (TV series)\n* Mullet Festival, annual event held in Niceville, Florida\n* Land Mullet, Egernia major, one of the largest members of the skink family (Scincidae) native to Australia\n* Alfred B. Mullett (1834–1890), American architect",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Mullet" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18864" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Mullet may refer to:\n\nHairstyle \n\n* Mullet (haircut), a hairstyle that is short in the front, top, and sides, but long in the back\n\nFish \n\n* Mullet (fish), or \"grey mullets\", of the family Mugilidae, of which the most widely known species is the striped mullet, Mugil cephalus\n* Goatfish, or \"red mullets\", of the family Mullidae; in particular, red mullets of the genus Mullus\n* Malagasy Mountain Mullet, Acentrogobius therezieni, a species of fish in the Gobiidae family endemic to Madagascar\n* Pearl Mullet, Chalcalburnus tarichi, a species of ray-finned fish in the Cyprinidae family native to Turkey, where it is the only fish known to inhabit Lake Van\n* Shorthead Redhorse, Moxostoma macrolepidotum, a freshwater fish of North America\n\nPlaces \n\n* Mullet, Albania, a village in Tirana District, Albania\n* Mullet Peninsula, or \"The Mullet\", in the barony of Erris, County Mayo, Ireland\n* Mullet Creek, a stream in the Falkland Islands\n* Mullet Bay Beach, a beach on Sint Maarten\n* Mullet River, a river in Wisconsin\n* Mullett Lake, Cheboygan County, Michigan\n\nOther \n\n* Mullet, a type of star in heraldry\n* Mullet (film), a 2001 Australian film\n* The Mullets (TV series), a UPN sitcom\n* Mullets (comic strip), a short-lived comic strip by Rick Stromoski and Steve McGarry\n* A person born in Arundel due to the presence of the Mullet fish in the local river\n* Norman Mullet, the chief superintendent in the British television show A Touch of Frost (TV series)\n* Mullet Festival, annual event held in Niceville, Florida\n* Land Mullet, Egernia major, one of the largest members of the skink family (Scincidae) native to Australia\n* Alfred B. Mullett (1834–1890), American architect. Mullet. http://en.wikipedia.org/?curid=18864."
+  }
+}

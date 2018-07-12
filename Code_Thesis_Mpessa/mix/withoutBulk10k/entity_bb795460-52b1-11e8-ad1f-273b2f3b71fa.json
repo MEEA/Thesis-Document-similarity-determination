@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1743",
+  "eid" : "bb795460-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778394278,
+  "textBody" : "Anastasius II or Anastasios II could refer to:\n*Anastasios II (emperor)\n*Pope Anastasius II",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Anastasius II" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1743" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Anastasius II or Anastasios II could refer to:\n*Anastasios II (emperor)\n*Pope Anastasius II. Anastasius II. http://en.wikipedia.org/?curid=1743."
+  }
+}

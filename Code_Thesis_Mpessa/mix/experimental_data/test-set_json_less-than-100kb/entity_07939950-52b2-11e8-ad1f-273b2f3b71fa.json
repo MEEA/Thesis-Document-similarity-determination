@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13269",
+  "eid" : "07939950-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778521957,
+  "textBody" : "Hilter is a municipality in the district Osnabrück, Lower Saxony, Germany. It is located in the hills of the Teutoburg Forest.\n\nAs of 2002 it has a population of 10,178, and covers an area of 52.61 km². Highest elevation is the Hohnangel with 262 m above sea level.\n\nHistory\n\nThe municipality was united on July 14, 1972, by merging the municipalities Borgloh, Hankenberge and Hilter. Already in 1977 the municipalities Allendorf, Borgloh-Wellendorf, Ebbendorf, Eppendorf and Uphöfen were joined  into the Einheitsgemeinde Borgloh.\n\nIndustry\n\nHilter was well known for mining Hilter Gold ochre as well as its big margarine factory which owned one of the largest whaling fleets in the early 20th century.[http://www.hilter.de/de/Tourismus_und_Freizeit/geschichte History of Hilter (German)]\n\nFile:Hilter, kerk foto2 2007-07-15 14.03.JPG|Hilter, church: Sankt Johannes de Täufer\nFile:Hilter, stadhuis 2008-07-15 14.11.JPG|Hilter, town hall",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Hilter" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13269" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Hilter is a municipality in the district Osnabrück, Lower Saxony, Germany. It is located in the hills of the Teutoburg Forest.\n\nAs of 2002 it has a population of 10,178, and covers an area of 52.61 km². Highest elevation is the Hohnangel with 262 m above sea level.\n\nHistory\n\nThe municipality was united on July 14, 1972, by merging the municipalities Borgloh, Hankenberge and Hilter. Already in 1977 the municipalities Allendorf, Borgloh-Wellendorf, Ebbendorf, Eppendorf and Uphöfen were joined  into the Einheitsgemeinde Borgloh.\n\nIndustry\n\nHilter was well known for mining Hilter Gold ochre as well as its big margarine factory which owned one of the largest whaling fleets in the early 20th century.[http://www.hilter.de/de/Tourismus_und_Freizeit/geschichte History of Hilter (German)]\n\nFile:Hilter, kerk foto2 2007-07-15 14.03.JPG|Hilter, church: Sankt Johannes de Täufer\nFile:Hilter, stadhuis 2008-07-15 14.11.JPG|Hilter, town hall. Hilter. http://en.wikipedia.org/?curid=13269."
+  }
+}

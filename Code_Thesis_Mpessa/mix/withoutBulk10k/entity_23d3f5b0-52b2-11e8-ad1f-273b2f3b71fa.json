@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16122",
+  "eid" : "23d3f5b0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778569355,
+  "textBody" : "Jeremiah (c. 655–586 BCE), one of the major prophets of the Hebrew Bible\n\nJeremiah or Jeremias may also refer to:\n\nPeople\n\n* Jeremiah (given name)\n* Jeremiah (surname)\n*Jeremías (born 1973), British-Venezuelan singer\n\nTitled works \n\n* Book of Jeremiah, in Judeo-Christian scripture\n* Symphony No. 1 (Bernstein), composed in 1942 by Leonard Bernstein\n* Jeremiah (play) (1919), by Stefan Zweig\n* Jeremiah (comics), Belgian series since 1979\n* Jeremiah (TV series) (2002–2004), in U.S, loosely based on the comic series",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Jeremiah (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16122" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Jeremiah (c. 655–586 BCE), one of the major prophets of the Hebrew Bible\n\nJeremiah or Jeremias may also refer to:\n\nPeople\n\n* Jeremiah (given name)\n* Jeremiah (surname)\n*Jeremías (born 1973), British-Venezuelan singer\n\nTitled works \n\n* Book of Jeremiah, in Judeo-Christian scripture\n* Symphony No. 1 (Bernstein), composed in 1942 by Leonard Bernstein\n* Jeremiah (play) (1919), by Stefan Zweig\n* Jeremiah (comics), Belgian series since 1979\n* Jeremiah (TV series) (2002–2004), in U.S, loosely based on the comic series. Jeremiah (disambiguation). http://en.wikipedia.org/?curid=16122."
+  }
+}

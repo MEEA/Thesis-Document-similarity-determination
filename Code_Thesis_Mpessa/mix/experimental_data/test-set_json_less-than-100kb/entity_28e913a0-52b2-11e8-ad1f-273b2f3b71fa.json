@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16829",
+  "eid" : "28e913a0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778577882,
+  "textBody" : "Kornilov () and Kornilova (feminine; ) is a common Russian surname derived from the baptismal name Kornil (). Notable people with this surname include:\n\n*Aleksandr Kornilov (disambiguation)\n*Boris Kornilov (1907–1938), Soviet poet\n*Denis Kornilov (born 1986), Russian ski jumper\n*Ivan Kornilov (1899–1953), Soviet general\n*Lavr Kornilov (1870–1918), Russian general and one of the leaders of the White Movement\n*Lev Kornilov (born 1984), Russian professional footballer\n*Roman Kornilov (born 1981), Kyrgyzstani football player\n*Sergey Kornilov (born 1978), Russian Olympic speedskater \n*Vladimir Kornilov (1806–1854), Russian admiral, killed during the Battle of Malakoff\n*Yevgeni Kornilov (born 1985), Russian football player",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Kornilov" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16829" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Kornilov () and Kornilova (feminine; ) is a common Russian surname derived from the baptismal name Kornil (). Notable people with this surname include:\n\n*Aleksandr Kornilov (disambiguation)\n*Boris Kornilov (1907–1938), Soviet poet\n*Denis Kornilov (born 1986), Russian ski jumper\n*Ivan Kornilov (1899–1953), Soviet general\n*Lavr Kornilov (1870–1918), Russian general and one of the leaders of the White Movement\n*Lev Kornilov (born 1984), Russian professional footballer\n*Roman Kornilov (born 1981), Kyrgyzstani football player\n*Sergey Kornilov (born 1978), Russian Olympic speedskater \n*Vladimir Kornilov (1806–1854), Russian admiral, killed during the Battle of Malakoff\n*Yevgeni Kornilov (born 1985), Russian football player. Kornilov. http://en.wikipedia.org/?curid=16829."
+  }
+}

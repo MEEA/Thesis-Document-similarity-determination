@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=4424",
+  "eid" : "cdecb010-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778425233,
+  "textBody" : "Bob Diamond may refer to:\n\nPeople\n\n*Bob Diamond (banker), an American banker\n*Bobby Diamond, California lawyer who was a child star and young-adult actor of the 1950s and 1960s\n*Bobby Dimond, Australian rugby league footballer of the 1940s and 1950s\n\nFictional characters\n\n*Bob Diamond (comics), a Marvel Comics character\n*Bob Diamond, an advocate in the movie Defending Your Life",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Bob Diamond" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=4424" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Bob Diamond may refer to:\n\nPeople\n\n*Bob Diamond (banker), an American banker\n*Bobby Diamond, California lawyer who was a child star and young-adult actor of the 1950s and 1960s\n*Bobby Dimond, Australian rugby league footballer of the 1940s and 1950s\n\nFictional characters\n\n*Bob Diamond (comics), a Marvel Comics character\n*Bob Diamond, an advocate in the movie Defending Your Life. Bob Diamond. http://en.wikipedia.org/?curid=4424."
+  }
+}

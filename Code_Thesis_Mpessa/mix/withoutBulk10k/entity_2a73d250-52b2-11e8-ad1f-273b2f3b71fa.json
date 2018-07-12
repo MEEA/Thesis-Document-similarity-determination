@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17072",
+  "eid" : "2a73d250-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778580469,
+  "textBody" : "Kalsilite (KAlSiO4) is a vitreous white to grey feldspathoidal mineral that is found in some potassium-rich lavas, such as from Chamengo Crater in Uganda. It has a relative hardness of 5.5.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Kalsilite" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17072" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Kalsilite (KAlSiO4) is a vitreous white to grey feldspathoidal mineral that is found in some potassium-rich lavas, such as from Chamengo Crater in Uganda. It has a relative hardness of 5.5. Kalsilite. http://en.wikipedia.org/?curid=17072."
+  }
+}

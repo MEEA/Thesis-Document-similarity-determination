@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7490",
+  "eid" : "e1e57340-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778458740,
+  "textBody" : "Civil Rights Act may refer to several acts of the United States Congress, including:\n\n* Civil Rights Act of 1866, extending the rights of emancipated slaves by stating that any person born in the United States regardless of race is a US citizen\n* Civil Rights Act of 1871, prohibiting ethnic violence against African Americans\n* Civil Rights Act of 1875, prohibiting discrimination in \"public accommodations\"; found unconstitutional in 1883 as Congress could not regulate conduct of individuals\n* Civil Rights Act of 1957, establishing the Civil Rights Commission\n* Civil Rights Act of 1960, establishing federal inspection of local voter registration polls\n* Civil Rights Act of 1964, prohibiting discrimination based on race, color, religion, sex, and national origin by federal and state governments as well as some public places\n* Civil Rights Act of 1968, prohibiting discrimination in sale, rental, and financing of housing based on race, creed, and national origin\n* Civil Rights Act of 1991, providing the right to trial by jury on discrimination claims and introducing the possibility of emotional distress damages, while limiting the amount that a jury could award",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Civil Rights Act" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7490" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Civil Rights Act may refer to several acts of the United States Congress, including:\n\n* Civil Rights Act of 1866, extending the rights of emancipated slaves by stating that any person born in the United States regardless of race is a US citizen\n* Civil Rights Act of 1871, prohibiting ethnic violence against African Americans\n* Civil Rights Act of 1875, prohibiting discrimination in \"public accommodations\"; found unconstitutional in 1883 as Congress could not regulate conduct of individuals\n* Civil Rights Act of 1957, establishing the Civil Rights Commission\n* Civil Rights Act of 1960, establishing federal inspection of local voter registration polls\n* Civil Rights Act of 1964, prohibiting discrimination based on race, color, religion, sex, and national origin by federal and state governments as well as some public places\n* Civil Rights Act of 1968, prohibiting discrimination in sale, rental, and financing of housing based on race, creed, and national origin\n* Civil Rights Act of 1991, providing the right to trial by jury on discrimination claims and introducing the possibility of emotional distress damages, while limiting the amount that a jury could award. Civil Rights Act. http://en.wikipedia.org/?curid=7490."
+  }
+}

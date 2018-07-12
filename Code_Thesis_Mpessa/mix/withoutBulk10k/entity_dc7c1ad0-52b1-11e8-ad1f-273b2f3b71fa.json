@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=6616",
+  "eid" : "dc7c1ad0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778449661,
+  "textBody" : "Conservatory may refer to:\n* Conservatory (greenhouse), a substantial building or room where plants are cultivated, including medicinal ones and including attached residential solariums\n* Music school, or a school devoted to other arts such as dance\n* Sunroom, a smaller glass enclosure or garden shed attached to a house, also called a conservatory",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Conservatory" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=6616" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Conservatory may refer to:\n* Conservatory (greenhouse), a substantial building or room where plants are cultivated, including medicinal ones and including attached residential solariums\n* Music school, or a school devoted to other arts such as dance\n* Sunroom, a smaller glass enclosure or garden shed attached to a house, also called a conservatory. Conservatory. http://en.wikipedia.org/?curid=6616."
+  }
+}

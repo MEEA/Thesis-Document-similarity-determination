@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7595",
+  "eid" : "e2802ca0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778459754,
+  "textBody" : "Chronometer or chronoscope may refer to:\n* Chronometer of Loulie, a precursor to the metronome\n* Clock\n* COSC certified chronometer, a Swiss watch certified by the COSC\n** Chronometer watch\n** Certified chronometer\n* Observatory chronometer, a device certified by an observatory to be extremely accurate\n* Marine chronometer, a timekeeper used for marine navigation\n* Railroad chronometer, a specialized timepiece once used for safe operation of trains\n* Chronoscope or time viewer, a fictional, oracle-like device occasionally employed in science fiction\n* Longines Chronoscope, an American television program (1951–1955)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Chronometer" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7595" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Chronometer or chronoscope may refer to:\n* Chronometer of Loulie, a precursor to the metronome\n* Clock\n* COSC certified chronometer, a Swiss watch certified by the COSC\n** Chronometer watch\n** Certified chronometer\n* Observatory chronometer, a device certified by an observatory to be extremely accurate\n* Marine chronometer, a timekeeper used for marine navigation\n* Railroad chronometer, a specialized timepiece once used for safe operation of trains\n* Chronoscope or time viewer, a fictional, oracle-like device occasionally employed in science fiction\n* Longines Chronoscope, an American television program (1951–1955). Chronometer. http://en.wikipedia.org/?curid=7595."
+  }
+}

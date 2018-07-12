@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1960",
+  "eid" : "bcd53ae0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778396558,
+  "textBody" : "Andrea Alciato (8 May 149212 January 1550), commonly known as Alciati (Andreas Alciatus), was an Italian jurist and writer.D. Bianchi, 1913. \"L'opera letteraria e storica di Andrea Alciato\", Archivio storico lombardo, 4th series20:47-57.  He is regarded as the founder of the French school of legal humanists.\n\nBiography\n\nAlciati was born in Alzate Brianza, near Milan, and settled in France in the early 16th century. He displayed great literary skill in his exposition of the laws, and was one of the first to interpret the civil law by the history, languages and literature of antiquity, and to substitute original research for the servile interpretations of the glossators. He published many legal works, and some annotations on Tacitus and accumulated a sylloge of Roman inscriptions from Milan and its territories, as part of his preparation for his history of Milan, written in 1504-05.Roberto Weiss, 1969. The Renaissance Discovery of Antiquity, pp 152f.\n\nAlciati is most famous for his Emblemata, published in dozens of editions from 1531 onward. This collection of short Latin verse texts and accompanying woodcuts created an entire European genre, the emblem book, which attained enormous popularity in continental Europe and Great Britain.\n\nAlciati died at Pavia in 1550.\n\nWorks\n\n* Annotationes in tres libros Codicis (1515)\n* Emblematum libellus (1531)\n* Opera omnia (Basel 1546-49)\n* Rerum Patriae, seu Historiae Mediolanensis, Libri IV (Milan, 1625) a history of Milan, written in 1504-05.\n* De formula Romani Imperii (1559, editio princeps)\n\nQuotation",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Andrea Alciato" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1960" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Andrea Alciato (8 May 149212 January 1550), commonly known as Alciati (Andreas Alciatus), was an Italian jurist and writer.D. Bianchi, 1913. \"L'opera letteraria e storica di Andrea Alciato\", Archivio storico lombardo, 4th series20:47-57.  He is regarded as the founder of the French school of legal humanists.\n\nBiography\n\nAlciati was born in Alzate Brianza, near Milan, and settled in France in the early 16th century. He displayed great literary skill in his exposition of the laws, and was one of the first to interpret the civil law by the history, languages and literature of antiquity, and to substitute original research for the servile interpretations of the glossators. He published many legal works, and some annotations on Tacitus and accumulated a sylloge of Roman inscriptions from Milan and its territories, as part of his preparation for his history of Milan, written in 1504-05.Roberto Weiss, 1969. The Renaissance Discovery of Antiquity, pp 152f.\n\nAlciati is most famous for his Emblemata, published in dozens of editions from 1531 onward. This collection of short Latin verse texts and accompanying woodcuts created an entire European genre, the emblem book, which attained enormous popularity in continental Europe and Great Britain.\n\nAlciati died at Pavia in 1550.\n\nWorks\n\n* Annotationes in tres libros Codicis (1515)\n* Emblematum libellus (1531)\n* Opera omnia (Basel 1546-49)\n* Rerum Patriae, seu Historiae Mediolanensis, Libri IV (Milan, 1625) a history of Milan, written in 1504-05.\n* De formula Romani Imperii (1559, editio princeps)\n\nQuotation. Andrea Alciato. http://en.wikipedia.org/?curid=1960."
+  }
+}

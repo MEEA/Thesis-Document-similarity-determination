@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15108",
+  "eid" : "1a085490-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778552921,
+  "textBody" : "ICMP  may refer to:\n\nScience and technology\n\n* International Collection of Microorganisms from Plants, held by Landcare Research\n* International Congress on Mathematical Physics\n* Internet Control Message Protocol, used in computer networking\n* Ischemic cardiomyopathy\n\nOther uses\n\n* The Institute of Contemporary Music Performance, in London, UK\n* International Commission on Missing Persons",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "ICMP" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15108" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "ICMP  may refer to:\n\nScience and technology\n\n* International Collection of Microorganisms from Plants, held by Landcare Research\n* International Congress on Mathematical Physics\n* Internet Control Message Protocol, used in computer networking\n* Ischemic cardiomyopathy\n\nOther uses\n\n* The Institute of Contemporary Music Performance, in London, UK\n* International Commission on Missing Persons. ICMP. http://en.wikipedia.org/?curid=15108."
+  }
+}

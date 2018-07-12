@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16495",
+  "eid" : "264fcb20-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778573522,
+  "textBody" : "Jan Borukowski of Bielin (1524–1584) was the Bishop\nof Przemyśl, and was the royal secretary of Poland from 1553. In\n1569, he signed the act of annexation of Podlaskie, Volhynia and Kiev to the kingdom during Sejm in Lublin.[https://books.google.com/books?ie\nUTF-8&vidISBN0521559170&id\nNpMxTvBuWHYC&vqLublin&dq\nUnion+of+Lublin&lpgPA63&pg\nPA64&sigy527sUhbGjuW06QxDCIWbZtoZOg][https://books.google.com/books?ieUTF-8&vid\nISBN0195121791&idKRjcXHliMpcC&pg\nPA137&lpgPA137&dq\nUnion+of+Lublin&sig=uqrEC1Ob3PQ0rGtMpffsV7XA9lo]",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Jan Borukowski" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16495" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Jan Borukowski of Bielin (1524–1584) was the Bishop\nof Przemyśl, and was the royal secretary of Poland from 1553. In\n1569, he signed the act of annexation of Podlaskie, Volhynia and Kiev to the kingdom during Sejm in Lublin.[https://books.google.com/books?ie\nUTF-8&vidISBN0521559170&id\nNpMxTvBuWHYC&vqLublin&dq\nUnion+of+Lublin&lpgPA63&pg\nPA64&sigy527sUhbGjuW06QxDCIWbZtoZOg][https://books.google.com/books?ieUTF-8&vid\nISBN0195121791&idKRjcXHliMpcC&pg\nPA137&lpgPA137&dq\nUnion+of+Lublin&sig=uqrEC1Ob3PQ0rGtMpffsV7XA9lo]. Jan Borukowski. http://en.wikipedia.org/?curid=16495."
+  }
+}

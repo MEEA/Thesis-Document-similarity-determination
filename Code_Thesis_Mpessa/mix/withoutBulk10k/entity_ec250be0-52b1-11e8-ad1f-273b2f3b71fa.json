@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=9053",
+  "eid" : "ec250be0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778475934,
+  "textBody" : "Diaeresis (dieresis, diëresis) may refer to:\n\n* Diaeresis (prosody), pronunciation of vowels in a diphthong separately, or the division made in a line of poetry when the end of a foot coincides with the end of a word\n* Diaeresis (linguistics), or hiatus, the separation of adjacent vowels into adjacent syllables, not separated by a consonant or pause and not merged into a diphthong\n* Diaeresis (diacritic), a diacritic consisting of two side-by-side dots that marks disyllabicity\n* Diairesis, a term in Platonic and Stoic philosophy, the division of a genus into its parts",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Diaeresis" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=9053" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Diaeresis (dieresis, diëresis) may refer to:\n\n* Diaeresis (prosody), pronunciation of vowels in a diphthong separately, or the division made in a line of poetry when the end of a foot coincides with the end of a word\n* Diaeresis (linguistics), or hiatus, the separation of adjacent vowels into adjacent syllables, not separated by a consonant or pause and not merged into a diphthong\n* Diaeresis (diacritic), a diacritic consisting of two side-by-side dots that marks disyllabicity\n* Diairesis, a term in Platonic and Stoic philosophy, the division of a genus into its parts. Diaeresis. http://en.wikipedia.org/?curid=9053."
+  }
+}

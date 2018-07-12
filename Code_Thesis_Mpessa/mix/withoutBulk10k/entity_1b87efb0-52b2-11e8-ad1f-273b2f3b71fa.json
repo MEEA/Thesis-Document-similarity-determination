@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15373",
+  "eid" : "1b87efb0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778555435,
+  "textBody" : "Iron Duke may refer to:\n\nPeople:\n* Fernando Álvarez de Toledo, 3rd Duke of Alba (1507–1582), a Spanish noble, general, and diplomat\n* Arthur Wellesley, 1st Duke of Wellington (1769–1852), a British soldier and statesman\n* Luís Alves de Lima e Silva, Duke of Caxias (1803–1880), a Brazilian army officer and politician\n* William Mark Duke (1879–1971), an Archbishop of Vancouver\n* John F. Thompson  (1920–1965), a U.S. politician\n* Irvin Khoza (born 1948), a South African football administrator\n\nArtistic works:\n* The Iron Duke (film), 1934 film starring George Arliss about the First Duke of Wellington\n* The Iron Duke (novel), a pulp fiction, pre-WWII adventure story written by L. Ron Hubbard\n\nShip names:\n* , a British Royal Navy shipname\n* HMS Iron Duke (1870), a battleship sold for scrap in 1906\n* HMS Iron Duke (1912), the fleet flagship at the Battle of Jutland\n* HMS Iron Duke (F234), a Type 23 frigate launched in 1991\n\nLocomotive names:\n* GWR Iron Duke Class, a class of locomotive built by the Great Western Railway in England\n* Iron Duke, a GWR 3031 Class locomotive built in 1892\n\nMiscellaneous:\n* Duke Blue Devils football, especially during their 1938 undefeated season\n* Iron Duke engine, a 2.5 L I4 piston engine made by General Motors\n* Iron Duke, South Australia, an iron ore mining settlement near Whyalla\n* The Iron Dukes, the name the 2nd Battalion 37th Armored Regiment",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Iron Duke" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15373" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Iron Duke may refer to:\n\nPeople:\n* Fernando Álvarez de Toledo, 3rd Duke of Alba (1507–1582), a Spanish noble, general, and diplomat\n* Arthur Wellesley, 1st Duke of Wellington (1769–1852), a British soldier and statesman\n* Luís Alves de Lima e Silva, Duke of Caxias (1803–1880), a Brazilian army officer and politician\n* William Mark Duke (1879–1971), an Archbishop of Vancouver\n* John F. Thompson  (1920–1965), a U.S. politician\n* Irvin Khoza (born 1948), a South African football administrator\n\nArtistic works:\n* The Iron Duke (film), 1934 film starring George Arliss about the First Duke of Wellington\n* The Iron Duke (novel), a pulp fiction, pre-WWII adventure story written by L. Ron Hubbard\n\nShip names:\n* , a British Royal Navy shipname\n* HMS Iron Duke (1870), a battleship sold for scrap in 1906\n* HMS Iron Duke (1912), the fleet flagship at the Battle of Jutland\n* HMS Iron Duke (F234), a Type 23 frigate launched in 1991\n\nLocomotive names:\n* GWR Iron Duke Class, a class of locomotive built by the Great Western Railway in England\n* Iron Duke, a GWR 3031 Class locomotive built in 1892\n\nMiscellaneous:\n* Duke Blue Devils football, especially during their 1938 undefeated season\n* Iron Duke engine, a 2.5 L I4 piston engine made by General Motors\n* Iron Duke, South Australia, an iron ore mining settlement near Whyalla\n* The Iron Dukes, the name the 2nd Battalion 37th Armored Regiment. Iron Duke. http://en.wikipedia.org/?curid=15373."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=6856",
+  "eid" : "de46a1a0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778452666,
+  "textBody" : "Chomsky (, , , , \"from (Vyoska) Khomsk (nearby Brest, now Belarus)\"(be)) is a surname of Belarusian origin. Notable people with the surname include:\n\n* Aviva Chomsky (born 1957), American historian\n* Carol (Schatz) Chomsky (1930–2008), American linguist and wife of Noam Chomsky\n* Judith Chomsky (born 1942), American human rights lawyer and co-founder of the Juvenile Law Center\n* Marvin J. Chomsky (born 1929), American television and film director\n* Avram Noam Chomsky (born 1928), American linguist, philosopher, cognitive scientist, political activist, author, lecturer, professor emeritus at MIT, known for early work in transformational grammar and A.I.\n* William Chomsky (1896–1977), American scholar of Hebrew\n* \n\nElsie, William, Avram Noam, Carol, Marvin, and Aviva are all closely related.  William and Elsie were husband and wife.  Avram Noam, generally referred by his given name Noam, is their son.  Carol and Noam were married until Carol's death in 2008; Aviva is their daughter.  Marvin is Noam's cousin.  Also, Judith is Noam's sister in-law.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Chomsky (surname)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=6856" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Chomsky (, , , , \"from (Vyoska) Khomsk (nearby Brest, now Belarus)\"(be)) is a surname of Belarusian origin. Notable people with the surname include:\n\n* Aviva Chomsky (born 1957), American historian\n* Carol (Schatz) Chomsky (1930–2008), American linguist and wife of Noam Chomsky\n* Judith Chomsky (born 1942), American human rights lawyer and co-founder of the Juvenile Law Center\n* Marvin J. Chomsky (born 1929), American television and film director\n* Avram Noam Chomsky (born 1928), American linguist, philosopher, cognitive scientist, political activist, author, lecturer, professor emeritus at MIT, known for early work in transformational grammar and A.I.\n* William Chomsky (1896–1977), American scholar of Hebrew\n* \n\nElsie, William, Avram Noam, Carol, Marvin, and Aviva are all closely related.  William and Elsie were husband and wife.  Avram Noam, generally referred by his given name Noam, is their son.  Carol and Noam were married until Carol's death in 2008; Aviva is their daughter.  Marvin is Noam's cousin.  Also, Judith is Noam's sister in-law. Chomsky (surname). http://en.wikipedia.org/?curid=6856."
+  }
+}

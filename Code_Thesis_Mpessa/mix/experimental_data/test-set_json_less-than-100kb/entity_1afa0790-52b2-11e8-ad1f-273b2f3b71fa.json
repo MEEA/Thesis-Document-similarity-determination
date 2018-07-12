@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15276",
+  "eid" : "1afa0790-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778554505,
+  "textBody" : "ISO 3864 specifies international standards for safety symbols. These labels are graphical, to overcome language barriers.[https://www.iso.org/standard/51021.html ISO 3864-1:2011 from the ISO Catalog] The standard is split into four parts:\n* ISO 3864-1:2011 Part 1: Design principles for safety signs and safety\n* ISO 3864-2:2016 Part 2: Design principles for product safety labels\n* ISO 3864-3:2012 Part 3: Design principles for graphical symbols for use in safety signs\n* ISO 3864-4:2011 Part 4: Colorimetric and photometric properties of safety sign materials\n\nThe corresponding American standard is ANSI Z535, which is incompatible with the ISO standard. ANSI standard ANSI Z535.6-2006 defines an optional accompanying text in one or more languages.\n\nISO 3864 is extended by ISO 7010, which provides a set of symbols based on the principles and properties specified in ISO 3864.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "ISO 3864" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15276" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "ISO 3864 specifies international standards for safety symbols. These labels are graphical, to overcome language barriers.[https://www.iso.org/standard/51021.html ISO 3864-1:2011 from the ISO Catalog] The standard is split into four parts:\n* ISO 3864-1:2011 Part 1: Design principles for safety signs and safety\n* ISO 3864-2:2016 Part 2: Design principles for product safety labels\n* ISO 3864-3:2012 Part 3: Design principles for graphical symbols for use in safety signs\n* ISO 3864-4:2011 Part 4: Colorimetric and photometric properties of safety sign materials\n\nThe corresponding American standard is ANSI Z535, which is incompatible with the ISO standard. ANSI standard ANSI Z535.6-2006 defines an optional accompanying text in one or more languages.\n\nISO 3864 is extended by ISO 7010, which provides a set of symbols based on the principles and properties specified in ISO 3864. ISO 3864. http://en.wikipedia.org/?curid=15276."
+  }
+}

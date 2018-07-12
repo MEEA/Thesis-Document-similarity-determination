@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14326",
+  "eid" : "13be1200-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778542368,
+  "textBody" : "Five ships of the Royal Navy have borne the name HMS Hercules, or HMS Hercule, after the Greek and Roman hero Hercules. Another was launched, but never served in the Navy:\n*  was a 74-gun third rate launched in 1759 and sold in 1784.\n* HMS Hercule was a 74-gun third rate captured by  in 1798 and broken up in 1810.\n*  was a 74-gun third rate launched in 1815. She was used for harbour service from 1853 and was sold in 1865.\n*  was an ironclad battleship launched in 1868. She was used for harbour service from 1881, as a barracks from 1905, was renamed HMS Calcutta in 1909, HMS Fisgard II in 1915, and was sold in 1932.\n*  was a  battleship launched in 1910 and sold for breaking up in 1921.\n*  was a  light fleet aircraft carrier launched in 1945, but not completed until purchased by India in 1957. Commissioned in 1961 as , she was paid off in 1997 and opened as a museum ship in 2001.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "HMS Hercules" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14326" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Five ships of the Royal Navy have borne the name HMS Hercules, or HMS Hercule, after the Greek and Roman hero Hercules. Another was launched, but never served in the Navy:\n*  was a 74-gun third rate launched in 1759 and sold in 1784.\n* HMS Hercule was a 74-gun third rate captured by  in 1798 and broken up in 1810.\n*  was a 74-gun third rate launched in 1815. She was used for harbour service from 1853 and was sold in 1865.\n*  was an ironclad battleship launched in 1868. She was used for harbour service from 1881, as a barracks from 1905, was renamed HMS Calcutta in 1909, HMS Fisgard II in 1915, and was sold in 1932.\n*  was a  battleship launched in 1910 and sold for breaking up in 1921.\n*  was a  light fleet aircraft carrier launched in 1945, but not completed until purchased by India in 1957. Commissioned in 1961 as , she was paid off in 1997 and opened as a museum ship in 2001. HMS Hercules. http://en.wikipedia.org/?curid=14326."
+  }
+}

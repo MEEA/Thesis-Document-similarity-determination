@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19739",
+  "eid" : "3d921400-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778612544,
+  "textBody" : ":See Agricola for several other people of the same name.\n\nMartin Agricola (6 January 1486 – 10 June 1556) was a German composer of Renaissance music and a music theorist.His German name was Sohr or Sore \n\nBiography\n\nAgricola was born in Schwiebus in Lebusz.\n\nFrom 1524 until his death he lived at Magdeburg, where he occupied the post of teacher or cantor in the Protestant school. The senator and music-printer Georg Rhau, of Wittenberg, was a close friend of Agricola, whose theoretical works, providing valuable material concerning the change from the old to the new system of notation, he published.\n\nAmong Agricola's other theoretical works is Musica instrumentalis deudsch (1528 and 1545), a study of musical instruments, and one of the most important works in early organology; and one of the earliest books on the Rudiments of music.\n\nAgricola was also the first to harmonize in four parts Martin Luther's chorale, Ein feste Burg.\n\nNotes",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Martin Agricola" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19739" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : ":See Agricola for several other people of the same name.\n\nMartin Agricola (6 January 1486 – 10 June 1556) was a German composer of Renaissance music and a music theorist.His German name was Sohr or Sore \n\nBiography\n\nAgricola was born in Schwiebus in Lebusz.\n\nFrom 1524 until his death he lived at Magdeburg, where he occupied the post of teacher or cantor in the Protestant school. The senator and music-printer Georg Rhau, of Wittenberg, was a close friend of Agricola, whose theoretical works, providing valuable material concerning the change from the old to the new system of notation, he published.\n\nAmong Agricola's other theoretical works is Musica instrumentalis deudsch (1528 and 1545), a study of musical instruments, and one of the most important works in early organology; and one of the earliest books on the Rudiments of music.\n\nAgricola was also the first to harmonize in four parts Martin Luther's chorale, Ein feste Burg.\n\nNotes. Martin Agricola. http://en.wikipedia.org/?curid=19739."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=4394",
+  "eid" : "cd7f9660-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778424518,
+  "textBody" : "Bitter may refer to:\n\n* Bitter (emotion), negative emotion or attitude, similar to being jaded, cynical or otherwise negatively affected by experience\n* Bitter (taste), one of the five basic tastes\n\nFood and drink\n\n* Bitter (beer), a British term for pale ale\n* Bitters, an herbal preparation now used mostly in cocktails\n\nMusic\n\n* Bitter (Meshell Ndegeocello album), 1999\n* Bitter (Jupiter Apple album), 2007\n* \"Bitter\", a 1997 single by Lit from Tripping the Light Fantastic\n* \"Bitter\", a single by New Zealand band Shihad\n\nOther\n\n* Bitter (surname) (including a list of persons with the name)\n* Bitter Cars, a German car company",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Bitter" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=4394" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Bitter may refer to:\n\n* Bitter (emotion), negative emotion or attitude, similar to being jaded, cynical or otherwise negatively affected by experience\n* Bitter (taste), one of the five basic tastes\n\nFood and drink\n\n* Bitter (beer), a British term for pale ale\n* Bitters, an herbal preparation now used mostly in cocktails\n\nMusic\n\n* Bitter (Meshell Ndegeocello album), 1999\n* Bitter (Jupiter Apple album), 2007\n* \"Bitter\", a 1997 single by Lit from Tripping the Light Fantastic\n* \"Bitter\", a single by New Zealand band Shihad\n\nOther\n\n* Bitter (surname) (including a list of persons with the name)\n* Bitter Cars, a German car company. Bitter. http://en.wikipedia.org/?curid=4394."
+  }
+}

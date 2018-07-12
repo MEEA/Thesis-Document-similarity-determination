@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3435",
+  "eid" : "c6985080-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778412936,
+  "textBody" : "The String Quartet No. 16 in F major, op. 135, by Ludwig van Beethoven  was written in October 1826 and was the last major work he completed. Only the final movement of the Quartet op. 130,  written as a replacement for the Große Fuge, was composed later. The op. 135 quartet was premiered by the Schuppanzigh Quartet in March 1828, one year after Beethoven's death. \n\nThe work is on a smaller scale than the other late quartets. Under the introductory slow chords in the last movement Beethoven wrote in the manuscript \"Muß es sein?\" (Must it be?) to which he responds, with the faster main theme of the movement, \"Es muß sein!\" (It must be!). The whole movement is headed \"Der schwer gefaßte Entschluß\" (\"The Difficult Decision\").\n\nIt is in four movements:\n\nNotes",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "String Quartet No. 16 (Beethoven)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3435" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The String Quartet No. 16 in F major, op. 135, by Ludwig van Beethoven  was written in October 1826 and was the last major work he completed. Only the final movement of the Quartet op. 130,  written as a replacement for the Große Fuge, was composed later. The op. 135 quartet was premiered by the Schuppanzigh Quartet in March 1828, one year after Beethoven's death. \n\nThe work is on a smaller scale than the other late quartets. Under the introductory slow chords in the last movement Beethoven wrote in the manuscript \"Muß es sein?\" (Must it be?) to which he responds, with the faster main theme of the movement, \"Es muß sein!\" (It must be!). The whole movement is headed \"Der schwer gefaßte Entschluß\" (\"The Difficult Decision\").\n\nIt is in four movements:\n\nNotes. String Quartet No. 16 (Beethoven). http://en.wikipedia.org/?curid=3435."
+  }
+}

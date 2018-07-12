@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3421",
+  "eid" : "c6901320-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778412882,
+  "textBody" : "Basis may refer to:\n\n*Bangladesh Association of Software and Information Services (BASIS)\n*BASIS International, a programming language development company\n*in Renaissance music, the bassline was sometimes called the basis\n*BASIS Schools, a group of high-expectations schools primarily in Arizona, USA but also with locations in Washington, D.C. and Texas\n*Basis Technology Corp., a text analytics company\n\nIn economics:\n*Adjusted basis, the net cost of an asset after adjusting for various tax-related items\n*Basis of futures, the value differential between a future and the spot price\n*Basis (options), the value differential between a call option and a put option\n*Basis point, 0.01%, often used in the context of interest rates\n*Basis trading, a trading strategy consisting of the purchase of a security and the sale of a similar security\n*Cost basis, in income tax law, the original cost of property adjusted for factors such as depreciation\n*Tax basis, cost of an asset\n\nIn :\n*Basis function\n*Basis (linear algebra)\n**Dual basis\n**Orthonormal basis\n**Schauder basis\n*Basis (universal algebra)\n*Generating set of an ideal (ring theory):\n**Gröbner basis\n**Hilbert's basis theorem\n*Generating set of a group\n*Base (topology) of a topology: a generating set of the open sets of the topology\n*Change of basis\n*Greedoid\n*Normal basis\n*Polynomial basis\n*Radial basis function\n*Standard basis\n*Transcendence basis of a field extension\n\nIn chemistry and physics:\n*Basis (crystal structure), the positions of the atoms inside the unit cell\n*Basis set (chemistry)\n*Dry basis, an expression of a calculation in which the presence of water is ignored\n\nPeople:\n*Dimitris Basis, Greek singer\n*Liron Basis, Israeli footballer",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Basis" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3421" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Basis may refer to:\n\n*Bangladesh Association of Software and Information Services (BASIS)\n*BASIS International, a programming language development company\n*in Renaissance music, the bassline was sometimes called the basis\n*BASIS Schools, a group of high-expectations schools primarily in Arizona, USA but also with locations in Washington, D.C. and Texas\n*Basis Technology Corp., a text analytics company\n\nIn economics:\n*Adjusted basis, the net cost of an asset after adjusting for various tax-related items\n*Basis of futures, the value differential between a future and the spot price\n*Basis (options), the value differential between a call option and a put option\n*Basis point, 0.01%, often used in the context of interest rates\n*Basis trading, a trading strategy consisting of the purchase of a security and the sale of a similar security\n*Cost basis, in income tax law, the original cost of property adjusted for factors such as depreciation\n*Tax basis, cost of an asset\n\nIn :\n*Basis function\n*Basis (linear algebra)\n**Dual basis\n**Orthonormal basis\n**Schauder basis\n*Basis (universal algebra)\n*Generating set of an ideal (ring theory):\n**Gröbner basis\n**Hilbert's basis theorem\n*Generating set of a group\n*Base (topology) of a topology: a generating set of the open sets of the topology\n*Change of basis\n*Greedoid\n*Normal basis\n*Polynomial basis\n*Radial basis function\n*Standard basis\n*Transcendence basis of a field extension\n\nIn chemistry and physics:\n*Basis (crystal structure), the positions of the atoms inside the unit cell\n*Basis set (chemistry)\n*Dry basis, an expression of a calculation in which the presence of water is ignored\n\nPeople:\n*Dimitris Basis, Greek singer\n*Liron Basis, Israeli footballer. Basis. http://en.wikipedia.org/?curid=3421."
+  }
+}

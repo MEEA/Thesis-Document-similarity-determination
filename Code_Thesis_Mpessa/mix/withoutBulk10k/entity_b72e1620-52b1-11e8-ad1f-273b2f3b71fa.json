@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1197",
+  "eid" : "b72e1620-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778387074,
+  "textBody" : "Asa may refer to:\n\nPeople and fictional characters \n\n* Asa (name), a masculine given name, including a list of persons and fictional characters with the name\n* Åsa, a feminine given name, including a list of people\n* Asa people, an ethnic group of Tanzania\n* Aṣa, stage name of Nigerian French singer-songwriter Bùkólá Elemide (born 1982)\n* Asa (rapper), Finnish rapper Matti Salo (born 1980)\n\nPlaces \n\n* Asa, Iran, in South Khorasan Province\n* Asa, Kwara, a Local Government Area in Kwara State, Nigeria\n* Asa River (disambiguation), various rivers\n\nOther \n\n* Asa language, of the Asa people\n* Asa, god of the Kamba people ethnic group in Kenya\n* Åsa IF, a Swedish football club located in Åsa\n* Asa (album), 2013 Falkenbach album\n* Asa (raga), Indian format of musical rules\n* Ása, genitive of Æsir, the predominant group among the Norse gods\n* Asa Station, Japanese railway station in San'yō-Onoda, Yamaguchi\n* Asa, or naboot, a staff used in Egyptian stick fencing\n* Aša or Asha, the Avestan language term for a concept of cardinal importance to Zoroastrian theology and doctrine\n* \"Asa\", a song by Catfish and the Bottlemen",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Asa" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1197" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Asa may refer to:\n\nPeople and fictional characters \n\n* Asa (name), a masculine given name, including a list of persons and fictional characters with the name\n* Åsa, a feminine given name, including a list of people\n* Asa people, an ethnic group of Tanzania\n* Aṣa, stage name of Nigerian French singer-songwriter Bùkólá Elemide (born 1982)\n* Asa (rapper), Finnish rapper Matti Salo (born 1980)\n\nPlaces \n\n* Asa, Iran, in South Khorasan Province\n* Asa, Kwara, a Local Government Area in Kwara State, Nigeria\n* Asa River (disambiguation), various rivers\n\nOther \n\n* Asa language, of the Asa people\n* Asa, god of the Kamba people ethnic group in Kenya\n* Åsa IF, a Swedish football club located in Åsa\n* Asa (album), 2013 Falkenbach album\n* Asa (raga), Indian format of musical rules\n* Ása, genitive of Æsir, the predominant group among the Norse gods\n* Asa Station, Japanese railway station in San'yō-Onoda, Yamaguchi\n* Asa, or naboot, a staff used in Egyptian stick fencing\n* Aša or Asha, the Avestan language term for a concept of cardinal importance to Zoroastrian theology and doctrine\n* \"Asa\", a song by Catfish and the Bottlemen. Asa. http://en.wikipedia.org/?curid=1197."
+  }
+}

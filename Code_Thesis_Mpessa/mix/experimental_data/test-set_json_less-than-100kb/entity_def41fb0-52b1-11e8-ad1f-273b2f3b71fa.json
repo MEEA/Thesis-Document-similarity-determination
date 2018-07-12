@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=6959",
+  "eid" : "def41fb0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778453803,
+  "textBody" : "Chord may refer to:\n\n* Chord (music), an aggregate of musical pitches sounded simultaneously\n** Guitar chord a chord played on a guitar, which has a particular tuning \n* Chord (geometry), a line segment joining two points on a curve\n* Chord (astronomy), a line crossing a foreground astronomical object during an occultation which gives an indication of the object's size and/or shape\n* Chord (graph theory), an edge joining two nonadjacent nodes in a cycle\n* Chord in truss construction – an outside member of a truss, as opposed to the inner \"webbed members\"\n* Chord (aeronautics), the distance between the front and back of a wing, measured in the direction of the normal airflow. The term chord was selected due to the curved nature of the wing's surface\n* Chord (peer-to-peer), a peer-to-peer protocol and algorithm for distributed hash tables (DHT)\n* Chord (concurrency), a concurrency construct in some object-oriented programming languages\n* Andrew Chord, a comic book character who is the former mentor of the New Warriors\n* Chord Overstreet, American actor and musician\n\nChord may also refer to:\n* Mouse chording or a chorded keyboard, where multiple buttons are held down simultaneously to produce a specific action\n\nThe Chords may refer to:\n* The Chords, 1970s British mod revival band\n* The Chords (American band), 1950s American doo-wop group\n\nChords may refer to:\n* Chords (musician), a Swedish hiphop/reggae artist",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Chord" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=6959" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Chord may refer to:\n\n* Chord (music), an aggregate of musical pitches sounded simultaneously\n** Guitar chord a chord played on a guitar, which has a particular tuning \n* Chord (geometry), a line segment joining two points on a curve\n* Chord (astronomy), a line crossing a foreground astronomical object during an occultation which gives an indication of the object's size and/or shape\n* Chord (graph theory), an edge joining two nonadjacent nodes in a cycle\n* Chord in truss construction – an outside member of a truss, as opposed to the inner \"webbed members\"\n* Chord (aeronautics), the distance between the front and back of a wing, measured in the direction of the normal airflow. The term chord was selected due to the curved nature of the wing's surface\n* Chord (peer-to-peer), a peer-to-peer protocol and algorithm for distributed hash tables (DHT)\n* Chord (concurrency), a concurrency construct in some object-oriented programming languages\n* Andrew Chord, a comic book character who is the former mentor of the New Warriors\n* Chord Overstreet, American actor and musician\n\nChord may also refer to:\n* Mouse chording or a chorded keyboard, where multiple buttons are held down simultaneously to produce a specific action\n\nThe Chords may refer to:\n* The Chords, 1970s British mod revival band\n* The Chords (American band), 1950s American doo-wop group\n\nChords may refer to:\n* Chords (musician), a Swedish hiphop/reggae artist. Chord. http://en.wikipedia.org/?curid=6959."
+  }
+}

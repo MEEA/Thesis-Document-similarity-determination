@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10470",
+  "eid" : "f5c4bb00-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778492080,
+  "textBody" : "Eastmoreland is an early-twentieth century, tree-filled neighborhood in inner southeast Portland, Oregon, United States. The neighborhood is bounded on the north by SE Woodstock Boulevard. The western boundary is a combination of SE 28th Avenue, SE Bybee Boulevard, and SE 27th Avenue. SE Crystal Springs Boulevard serves as the neighborhood's southern boundary, and gradually curves north to Eastmoreland's eastern boundary, SE 39th Avenue, recently renamed SE César E. Chávez Boulevard. The Reed College campus is located on the opposite side of SE Woodstock, bordering northern Eastmoreland.\n\nEastmoreland is filled with trees and lush landscaping. Public parks in Eastmoreland include Crystal Springs Rhododendron Garden (1923), Eastmoreland Golf Course (1916), and Berkeley Park (1941). There is also a median on Reed College Place which is owned by Portland Department of Transportation and maintained by Portland Parks & Recreation.\n\nEastmoreland was named for a local real estate developer, Judge J.C. Moreland.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Eastmoreland, Portland, Oregon" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10470" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Eastmoreland is an early-twentieth century, tree-filled neighborhood in inner southeast Portland, Oregon, United States. The neighborhood is bounded on the north by SE Woodstock Boulevard. The western boundary is a combination of SE 28th Avenue, SE Bybee Boulevard, and SE 27th Avenue. SE Crystal Springs Boulevard serves as the neighborhood's southern boundary, and gradually curves north to Eastmoreland's eastern boundary, SE 39th Avenue, recently renamed SE César E. Chávez Boulevard. The Reed College campus is located on the opposite side of SE Woodstock, bordering northern Eastmoreland.\n\nEastmoreland is filled with trees and lush landscaping. Public parks in Eastmoreland include Crystal Springs Rhododendron Garden (1923), Eastmoreland Golf Course (1916), and Berkeley Park (1941). There is also a median on Reed College Place which is owned by Portland Department of Transportation and maintained by Portland Parks & Recreation.\n\nEastmoreland was named for a local real estate developer, Judge J.C. Moreland. Eastmoreland, Portland, Oregon. http://en.wikipedia.org/?curid=10470."
+  }
+}

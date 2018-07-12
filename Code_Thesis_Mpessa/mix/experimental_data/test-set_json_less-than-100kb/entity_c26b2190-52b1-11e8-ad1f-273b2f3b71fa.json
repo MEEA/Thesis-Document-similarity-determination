@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2800",
+  "eid" : "c26b2190-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778405929,
+  "textBody" : "Isaac Asimov (1920–1992) was a science fiction writer.\n\nAsimov may also refer to:\n\n;Places\n*Asimov (crater), an impact crater on Mars, named after Isaac Asimov\n*5020 Asimov, an asteroid named after Isaac Asimov\n\n;Other\n*Asimov (surname)\n*Asimov's Science Fiction, an American science fiction magazine named after Isaac Asimov\n*Asimov's SF Adventure Magazine, a short-lived American science fiction magazine named after Isaac Asimov\n*Isaac Asimov Awards, three separate awards established in honor of Isaac Asimov",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Asimov (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2800" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Isaac Asimov (1920–1992) was a science fiction writer.\n\nAsimov may also refer to:\n\n;Places\n*Asimov (crater), an impact crater on Mars, named after Isaac Asimov\n*5020 Asimov, an asteroid named after Isaac Asimov\n\n;Other\n*Asimov (surname)\n*Asimov's Science Fiction, an American science fiction magazine named after Isaac Asimov\n*Asimov's SF Adventure Magazine, a short-lived American science fiction magazine named after Isaac Asimov\n*Isaac Asimov Awards, three separate awards established in honor of Isaac Asimov. Asimov (disambiguation). http://en.wikipedia.org/?curid=2800."
+  }
+}

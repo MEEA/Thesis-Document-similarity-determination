@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19868",
+  "eid" : "3e67da90-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778613945,
+  "textBody" : "Measure may refer to:\n\nLegal \n\n* Measure of the Church of England is a law passed by the General Synod and the UK Parliament equivalent of an Act\n* Measure of the National Assembly for Wales, a law specific to Wales passed by the Welsh Assembly between 2007 and 2011\n* Measure of the Northern Ireland Assembly (1973)\n\nMathematics and science \n\n* Measure (mathematics), a way to assign non-negative real numbers to subsets\n** Metric (mathematics), a formal rule to assess a relationship of entities\n* Measuring coalgebra, a coalgebra constructed from two algebras\n* Measure (physics), a way to integrate over all possible histories of a system in quantum field theory\n\nUnits \n\n* Measurement, the process of establishing the magnitude of some attribute of an object relative to some unit of measurement\n* Bar (music) or measure, a unit of time in Western music representing a regular grouping of beats\n* Coal measure is a seam of coal\n* Measure (termination), a way to describe termination of processes, algorithms, or functions\n* Measure (bartending) or jigger, a bartending tool used to measure liquor\n\nOther \n\n* Measure (data warehouse), a property on which calculations can be made using precomputed aggregates\n* Measure (typography), in typography refers to the width of a block or column of text from the left margin to the right margin\n* Countermeasure, a system designed to prevent weapons from acquiring and/or destroying a target\n* Measure (album), a 2000 album from Matt Pond PA",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Measure" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19868" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Measure may refer to:\n\nLegal \n\n* Measure of the Church of England is a law passed by the General Synod and the UK Parliament equivalent of an Act\n* Measure of the National Assembly for Wales, a law specific to Wales passed by the Welsh Assembly between 2007 and 2011\n* Measure of the Northern Ireland Assembly (1973)\n\nMathematics and science \n\n* Measure (mathematics), a way to assign non-negative real numbers to subsets\n** Metric (mathematics), a formal rule to assess a relationship of entities\n* Measuring coalgebra, a coalgebra constructed from two algebras\n* Measure (physics), a way to integrate over all possible histories of a system in quantum field theory\n\nUnits \n\n* Measurement, the process of establishing the magnitude of some attribute of an object relative to some unit of measurement\n* Bar (music) or measure, a unit of time in Western music representing a regular grouping of beats\n* Coal measure is a seam of coal\n* Measure (termination), a way to describe termination of processes, algorithms, or functions\n* Measure (bartending) or jigger, a bartending tool used to measure liquor\n\nOther \n\n* Measure (data warehouse), a property on which calculations can be made using precomputed aggregates\n* Measure (typography), in typography refers to the width of a block or column of text from the left margin to the right margin\n* Countermeasure, a system designed to prevent weapons from acquiring and/or destroying a target\n* Measure (album), a 2000 album from Matt Pond PA. Measure. http://en.wikipedia.org/?curid=19868."
+  }
+}

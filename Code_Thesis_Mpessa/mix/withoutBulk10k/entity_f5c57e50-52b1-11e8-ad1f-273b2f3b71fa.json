@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10472",
+  "eid" : "f5c57e50-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778492085,
+  "textBody" : "Elyssa Davalos (born May 30, 1959) is a former American television and movie actress. Her father is actor Richard Davalos. She is the mother of actress Alexa Davalos, from her marriage to photographer Jeff Dunas.\nShe is of Spanish and Finnish descent on her father's side. Her family name would be spelt originally \"Dávalos\" in Spanish, with an accent on the first \"a\".\n\nTelevision\n\n* How the West Was Won (1976–1979)\n* The Hardy Boys/Nancy Drew Mysteries (1978) episode \"The Mystery of King Tut's Tomb\"\n* MacGyver (1987–1988) as Nicole Anne \"Nikki\" Carpenter. She also played  Lisa Kohler/Kosov  in the double episode \"Lost Love\"\n* The Paper Chase (1978) as Nancy Burch in the episode \"Nancy\"\n* Hawaii Five-O episode \"Though The Heavens Fall\", as Diana Webster (1979)\n* Knight Rider episode \"Blind Spot\", guest role as blind Julie Robinson (1983)\n* Airwolf episode \"Desperate Monday\", as Barbara Scalelli (1986)\n* Scarecrow and Mrs. King (1985–1986)\n* Beauty and the Beast  (1988) as Lisa Campbell in the episode \"Arabesque\"\n* Riptide  (1984) as Jody, the dolphin trainer in the episode \"Something Fishy\"\n\nMovies\n\n* Good versus Evil (1977)\n* Wild and Wooly (1978)\n* The Apple Dumpling Gang Rides Again (1979)\n* Herbie Goes Bananas  (1980)\n* Riviera (1987)\n* A House in the Hills (1993)\n* Jericho Fever (1993)\n* Urban Chaos Theory (2000)\n* Nancy Drew as Palms Resort Manager (2007)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Elyssa Davalos" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10472" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Elyssa Davalos (born May 30, 1959) is a former American television and movie actress. Her father is actor Richard Davalos. She is the mother of actress Alexa Davalos, from her marriage to photographer Jeff Dunas.\nShe is of Spanish and Finnish descent on her father's side. Her family name would be spelt originally \"Dávalos\" in Spanish, with an accent on the first \"a\".\n\nTelevision\n\n* How the West Was Won (1976–1979)\n* The Hardy Boys/Nancy Drew Mysteries (1978) episode \"The Mystery of King Tut's Tomb\"\n* MacGyver (1987–1988) as Nicole Anne \"Nikki\" Carpenter. She also played  Lisa Kohler/Kosov  in the double episode \"Lost Love\"\n* The Paper Chase (1978) as Nancy Burch in the episode \"Nancy\"\n* Hawaii Five-O episode \"Though The Heavens Fall\", as Diana Webster (1979)\n* Knight Rider episode \"Blind Spot\", guest role as blind Julie Robinson (1983)\n* Airwolf episode \"Desperate Monday\", as Barbara Scalelli (1986)\n* Scarecrow and Mrs. King (1985–1986)\n* Beauty and the Beast  (1988) as Lisa Campbell in the episode \"Arabesque\"\n* Riptide  (1984) as Jody, the dolphin trainer in the episode \"Something Fishy\"\n\nMovies\n\n* Good versus Evil (1977)\n* Wild and Wooly (1978)\n* The Apple Dumpling Gang Rides Again (1979)\n* Herbie Goes Bananas  (1980)\n* Riviera (1987)\n* A House in the Hills (1993)\n* Jericho Fever (1993)\n* Urban Chaos Theory (2000)\n* Nancy Drew as Palms Resort Manager (2007). Elyssa Davalos. http://en.wikipedia.org/?curid=10472."
+  }
+}

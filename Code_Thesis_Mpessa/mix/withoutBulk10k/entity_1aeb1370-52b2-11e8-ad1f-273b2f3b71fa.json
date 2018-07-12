@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15264",
+  "eid" : "1aeb1370-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778554407,
+  "textBody" : "Iapetus may refer to:\n*Iapetus (mythology), a Titan in Greek mythology\n*Iapetus (moon), one of the planet Saturn's moons, named for the mythological Titan\n*Iapetus Ocean, an ancient ocean between the paleocontinents Laurentia and Baltica\n*Iapetus suture, line of closure of the Iapetus Ocean",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Iapetus" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15264" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Iapetus may refer to:\n*Iapetus (mythology), a Titan in Greek mythology\n*Iapetus (moon), one of the planet Saturn's moons, named for the mythological Titan\n*Iapetus Ocean, an ancient ocean between the paleocontinents Laurentia and Baltica\n*Iapetus suture, line of closure of the Iapetus Ocean. Iapetus. http://en.wikipedia.org/?curid=15264."
+  }
+}

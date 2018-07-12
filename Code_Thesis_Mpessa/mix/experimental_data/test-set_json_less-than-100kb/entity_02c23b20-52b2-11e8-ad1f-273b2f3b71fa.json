@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12468",
+  "eid" : "02c23b20-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778513874,
+  "textBody" : "The Great Lakes Colleges Association (GLCA) is a consortium of 13 liberal arts colleges located in the states around the Great Lakes. The 13 schools are located in Michigan, Ohio, Pennsylvania and Indiana.  It was chartered in the state of Michigan and incorporated as a 501(c)(3) non-profit organization in 1962, the consortium extended its first offer of membership in 46 years to Allegheny College in 2008.\n\nThe GLCA offices are located in Ann Arbor, Michigan.\n\nMember institutions are:\n*Albion College\n*Antioch College\n*Allegheny College\n*Denison University\n*DePauw University\n*Earlham College\n*Hope College\n*Kalamazoo College\n*Kenyon College\n*Oberlin College\n*Ohio Wesleyan University\n*Wabash College\n*College of Wooster",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Great Lakes Colleges Association" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12468" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The Great Lakes Colleges Association (GLCA) is a consortium of 13 liberal arts colleges located in the states around the Great Lakes. The 13 schools are located in Michigan, Ohio, Pennsylvania and Indiana.  It was chartered in the state of Michigan and incorporated as a 501(c)(3) non-profit organization in 1962, the consortium extended its first offer of membership in 46 years to Allegheny College in 2008.\n\nThe GLCA offices are located in Ann Arbor, Michigan.\n\nMember institutions are:\n*Albion College\n*Antioch College\n*Allegheny College\n*Denison University\n*DePauw University\n*Earlham College\n*Hope College\n*Kalamazoo College\n*Kenyon College\n*Oberlin College\n*Ohio Wesleyan University\n*Wabash College\n*College of Wooster. Great Lakes Colleges Association. http://en.wikipedia.org/?curid=12468."
+  }
+}

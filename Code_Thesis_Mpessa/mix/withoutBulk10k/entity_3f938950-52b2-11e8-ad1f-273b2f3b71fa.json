@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=20061",
+  "eid" : "3f938950-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778615909,
+  "textBody" : "MPEG-3 is the designation for a group of audio and video coding standards agreed upon by the Moving Picture Experts Group (MPEG) designed to handle HDTV signals at 1080p in the range of 20 to 40 megabits per second. MPEG-3 was launched as an effort to address the need of an HDTV standard while work on MPEG-2 was underway, but it was soon discovered that MPEG-2, at high data rates, would accommodate HDTV. Thus, in 1992 HDTV was included as a separate profile in the MPEG-2 standard and MPEG-3 was rolled into MPEG-2.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "MPEG-3" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=20061" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "MPEG-3 is the designation for a group of audio and video coding standards agreed upon by the Moving Picture Experts Group (MPEG) designed to handle HDTV signals at 1080p in the range of 20 to 40 megabits per second. MPEG-3 was launched as an effort to address the need of an HDTV standard while work on MPEG-2 was underway, but it was soon discovered that MPEG-2, at high data rates, would accommodate HDTV. Thus, in 1992 HDTV was included as a separate profile in the MPEG-2 standard and MPEG-3 was rolled into MPEG-2. MPEG-3. http://en.wikipedia.org/?curid=20061."
+  }
+}

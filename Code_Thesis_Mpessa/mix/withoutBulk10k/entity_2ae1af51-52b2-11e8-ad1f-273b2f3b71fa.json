@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17230",
+  "eid" : "2ae1af51-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778581189,
+  "textBody" : "KSH or ksh may refer to:\n\n*Kenyan shilling, the currency of Kenya\n*Korn shell, a Unix shell developed by David Korn in the early 1980s\n*Kölsch language (ISO 639-3 language code), a Ripuarian dialect spoken in Germany\n*, the  Hungarian Central Statistical Office\n*Shahid Ashrafi Esfahani Airport (IATA airport code), in Kermanshah, Iran\n*Kerrville State Hospital, a mental hospital in Kerrville, Texas",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "KSH" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17230" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "KSH or ksh may refer to:\n\n*Kenyan shilling, the currency of Kenya\n*Korn shell, a Unix shell developed by David Korn in the early 1980s\n*Kölsch language (ISO 639-3 language code), a Ripuarian dialect spoken in Germany\n*, the  Hungarian Central Statistical Office\n*Shahid Ashrafi Esfahani Airport (IATA airport code), in Kermanshah, Iran\n*Kerrville State Hospital, a mental hospital in Kerrville, Texas. KSH. http://en.wikipedia.org/?curid=17230."
+  }
+}

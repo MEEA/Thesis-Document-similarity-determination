@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19933",
+  "eid" : "3ed8c4d0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778614685,
+  "textBody" : "Matthew Perry (born 1969) is Canadian-American television and film actor.\n\nMatthew Perry or Matt Perry may also refer to:\n\n* Matthew C. Perry (1794–1858), American naval officer who forcibly opened Japan to trade with the West\n** Matthew Perry Monument (Newport, RI)\n** USNS Matthew Perry (T-AKE-9)\n* Matthew J. Perry (1921–2011), South Carolina's first African American U.S. District Court judge\n* Matt Perry (rugby union) (born 1977), English rugby union footballer",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Matthew Perry (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19933" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Matthew Perry (born 1969) is Canadian-American television and film actor.\n\nMatthew Perry or Matt Perry may also refer to:\n\n* Matthew C. Perry (1794–1858), American naval officer who forcibly opened Japan to trade with the West\n** Matthew Perry Monument (Newport, RI)\n** USNS Matthew Perry (T-AKE-9)\n* Matthew J. Perry (1921–2011), South Carolina's first African American U.S. District Court judge\n* Matt Perry (rugby union) (born 1977), English rugby union footballer. Matthew Perry (disambiguation). http://en.wikipedia.org/?curid=19933."
+  }
+}

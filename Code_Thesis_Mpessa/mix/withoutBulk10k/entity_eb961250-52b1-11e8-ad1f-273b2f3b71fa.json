@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8966",
+  "eid" : "eb961250-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778474997,
+  "textBody" : "Digital Access Signalling System 1 (DASS1) is a proprietary protocol defined by British Telecom to provide ISDN services in the United Kingdom. It is now obsolete, having been replaced by DASS2. This too will become obsolete over the coming years as Q.931, a European standard, becomes widely adopted in the EU.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Digital Access Signalling System 1" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8966" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Digital Access Signalling System 1 (DASS1) is a proprietary protocol defined by British Telecom to provide ISDN services in the United Kingdom. It is now obsolete, having been replaced by DASS2. This too will become obsolete over the coming years as Q.931, a European standard, becomes widely adopted in the EU. Digital Access Signalling System 1. http://en.wikipedia.org/?curid=8966."
+  }
+}

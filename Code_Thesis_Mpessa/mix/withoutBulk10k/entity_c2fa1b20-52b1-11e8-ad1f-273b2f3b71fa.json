@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2894",
+  "eid" : "c2fa1b20-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778406866,
+  "textBody" : "AZ (or similar) may refer to:\n\nCompanies and organizations\n\n* Alitalia, IATA code for the national airline of Italy\n* AstraZeneca, a UK-based pharmaceutical company\n* AZ Alkmaar (from Alkmaar Zaanstreek), a Dutch men's football club\n* AZ Alkmaar (women), a defunct women's football club that was affiliated with the above club  \n* Ministry of General Affairs, or Ministerie van Algemene Zaken, the Dutch ministry of General Affairs\n* AZ (label), a French record label \n\nLanguage\n\n* A (Cyrillic), the first letter of the Early Cyrillic alphabet\n* Azerbaijani language, designated by the ISO 639-1 international-standard language-code \"az\"\n\nMusic\n\n* AZ (rapper), a rapper from Brooklyn, New York\n* Authority Zero, an Arizona punk rock band\n* AZ (label), a French record label \n\nPlaces\n\n* Arizona, a state in the United States whose postal abbreviation is \"AZ\"\n* .az, the CC top level domain for the nation of Azerbaijan\n* Azerbaijan, a Eurasian country, designated by the 2-letter ISO 3166-1 country code\n\nOther uses\n\n* Abendzeitung, a newspaper based in Munich, Germany\n* AlphaZero, a computer program\n* Assignment Zero, a crowdsourced journalism project\n* Az (people), a turcophone people of non-Turkic origin\n* AZ engine, a Toyota engine family\n* Azimuth, the horizontal component of a compass direction",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "AZ" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2894" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "AZ (or similar) may refer to:\n\nCompanies and organizations\n\n* Alitalia, IATA code for the national airline of Italy\n* AstraZeneca, a UK-based pharmaceutical company\n* AZ Alkmaar (from Alkmaar Zaanstreek), a Dutch men's football club\n* AZ Alkmaar (women), a defunct women's football club that was affiliated with the above club  \n* Ministry of General Affairs, or Ministerie van Algemene Zaken, the Dutch ministry of General Affairs\n* AZ (label), a French record label \n\nLanguage\n\n* A (Cyrillic), the first letter of the Early Cyrillic alphabet\n* Azerbaijani language, designated by the ISO 639-1 international-standard language-code \"az\"\n\nMusic\n\n* AZ (rapper), a rapper from Brooklyn, New York\n* Authority Zero, an Arizona punk rock band\n* AZ (label), a French record label \n\nPlaces\n\n* Arizona, a state in the United States whose postal abbreviation is \"AZ\"\n* .az, the CC top level domain for the nation of Azerbaijan\n* Azerbaijan, a Eurasian country, designated by the 2-letter ISO 3166-1 country code\n\nOther uses\n\n* Abendzeitung, a newspaper based in Munich, Germany\n* AlphaZero, a computer program\n* Assignment Zero, a crowdsourced journalism project\n* Az (people), a turcophone people of non-Turkic origin\n* AZ engine, a Toyota engine family\n* Azimuth, the horizontal component of a compass direction. AZ. http://en.wikipedia.org/?curid=2894."
+  }
+}

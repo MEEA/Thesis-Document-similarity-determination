@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14780",
+  "eid" : "17c03951-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778549093,
+  "textBody" : "ISP refer to:\n\nScience and technology\n\nComputing\n\n* Image signal processor\n* ISP Formal Verification Tool, a verification tool for MPI (Message Passing Interface) programs\n* In-system programming, of programmable logic devices in-circuit\n* Interface segregation principle, a principle of Object Oriented Design\n* Information Systems Professional, an information technology title and post-nominal\n* Internet service provider, an organization that provides services for accessing, using, or participating in the Internet.\n\nOther\n\n* Imperial smelting process, in zinc smelting\n* Specific impulse (Isp), a measure of rocket and jet efficiency\n* Interstellar polarization\n\nOrganizations\n\n* Institute of Sales Promotion, UK\n* Integrated Service Provider, a type of logistics services firm\n* ISP Sports, US marketing and broadcast company\n* Independent Socialist Party (disambiguation), in several countries\n\nEducation\n\n* Instituto Superior Politécnico, a university in São Tomé and Príncipe\n* Integrated science program, an honors program at Northwestern University\n* International School of Pakistan,  Kuwait\n* International School of Panama\n* International School of Paris, France\n* International School of Prague, Czech Republic\n* Information Society Project, at Yale Law School\n* Istraživačka Stanica Petnica (Petnica Science Center)\n\nPolice\n\n* Idaho State Police\n* Illinois State Police\n* Indiana State Police\n* Iowa State Patrol\n\nPlaces\n\n* Islip railway station (Network Rail station code), England\n* Long Island MacArthur Airport (IATA Airport code), New York, US\n* Iowa State Penitentiary, Fort Madison, Iowa, US",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "ISP (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14780" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "ISP refer to:\n\nScience and technology\n\nComputing\n\n* Image signal processor\n* ISP Formal Verification Tool, a verification tool for MPI (Message Passing Interface) programs\n* In-system programming, of programmable logic devices in-circuit\n* Interface segregation principle, a principle of Object Oriented Design\n* Information Systems Professional, an information technology title and post-nominal\n* Internet service provider, an organization that provides services for accessing, using, or participating in the Internet.\n\nOther\n\n* Imperial smelting process, in zinc smelting\n* Specific impulse (Isp), a measure of rocket and jet efficiency\n* Interstellar polarization\n\nOrganizations\n\n* Institute of Sales Promotion, UK\n* Integrated Service Provider, a type of logistics services firm\n* ISP Sports, US marketing and broadcast company\n* Independent Socialist Party (disambiguation), in several countries\n\nEducation\n\n* Instituto Superior Politécnico, a university in São Tomé and Príncipe\n* Integrated science program, an honors program at Northwestern University\n* International School of Pakistan,  Kuwait\n* International School of Panama\n* International School of Paris, France\n* International School of Prague, Czech Republic\n* Information Society Project, at Yale Law School\n* Istraživačka Stanica Petnica (Petnica Science Center)\n\nPolice\n\n* Idaho State Police\n* Illinois State Police\n* Indiana State Police\n* Iowa State Patrol\n\nPlaces\n\n* Islip railway station (Network Rail station code), England\n* Long Island MacArthur Airport (IATA Airport code), New York, US\n* Iowa State Penitentiary, Fort Madison, Iowa, US. ISP (disambiguation). http://en.wikipedia.org/?curid=14780."
+  }
+}

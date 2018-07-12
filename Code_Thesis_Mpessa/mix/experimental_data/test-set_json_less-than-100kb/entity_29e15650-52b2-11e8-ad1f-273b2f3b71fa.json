@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16973",
+  "eid" : "29e15650-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778579509,
+  "textBody" : "Kam or KAM refer to:\n\nPeople\n\n*Kam people, a Kadai people in China\n*Kam (name), a list of people with either the given name or surname\n*Kameron Kam Chancellor (born 1988), American National Football League player\n*Elaine Jin, also known as Elaine Kam, Taiwanese actress\n*Kam (rapper), born Craig A. Miller in 1970\n\nIn business\n\n*Kam Air, an airline headquartered in Kabul, Afghanistan\n*KAM Manufacturing, a handbag manufacturer in Ohio, United States\n*Key account management, the idea of looking after large and important accounts that are critical to a business\n\nPlaces\n\n*Kám, Hungary, a village\n*Kam, Mazandaran, Iran, a village\n*Kam, West Azerbaijan, Iran, a village\n*Kam Group, Northwest Territories, Canada, a volcanic group\n\nOther uses\n\n*Kam language, spoken in China\n*Kam or Nyingwom language, spoken in Nigeria\n*The forerunner to KHAD, the secret police of the Democratic Republic of Afghanistan\n*Kimbell Art Museum\n*Kolmogorov–Arnold–Moser theorem\n*Knowledge Assessment Methodology, an interactive benchmarking tool to help countries make the transition to a knowledge-based economy",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Kam (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16973" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Kam or KAM refer to:\n\nPeople\n\n*Kam people, a Kadai people in China\n*Kam (name), a list of people with either the given name or surname\n*Kameron Kam Chancellor (born 1988), American National Football League player\n*Elaine Jin, also known as Elaine Kam, Taiwanese actress\n*Kam (rapper), born Craig A. Miller in 1970\n\nIn business\n\n*Kam Air, an airline headquartered in Kabul, Afghanistan\n*KAM Manufacturing, a handbag manufacturer in Ohio, United States\n*Key account management, the idea of looking after large and important accounts that are critical to a business\n\nPlaces\n\n*Kám, Hungary, a village\n*Kam, Mazandaran, Iran, a village\n*Kam, West Azerbaijan, Iran, a village\n*Kam Group, Northwest Territories, Canada, a volcanic group\n\nOther uses\n\n*Kam language, spoken in China\n*Kam or Nyingwom language, spoken in Nigeria\n*The forerunner to KHAD, the secret police of the Democratic Republic of Afghanistan\n*Kimbell Art Museum\n*Kolmogorov–Arnold–Moser theorem\n*Knowledge Assessment Methodology, an interactive benchmarking tool to help countries make the transition to a knowledge-based economy. Kam (disambiguation). http://en.wikipedia.org/?curid=16973."
+  }
+}

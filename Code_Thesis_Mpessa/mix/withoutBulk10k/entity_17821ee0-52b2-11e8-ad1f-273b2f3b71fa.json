@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14736",
+  "eid" : "17821ee0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778548686,
+  "textBody" : "IEEE 802 is a family of IEEE standards dealing with local area networks and metropolitan area networks.\n\nMore specifically, the IEEE 802 standards are restricted to networks carrying variable-size packets. By  contrast, in cell relay networks data is transmitted in short, uniformly sized units called cells. Isochronous networks, where data is transmitted as a steady stream of octets, or groups of  octets, at regular time intervals, are also out of the scope of this standard. The number 802 was simply the next free number IEEE could assign, though “802” is sometimes associated with the date the first meeting was held — February 1980.\n\nThe services and protocols specified in IEEE 802 map to the lower two layers (Data Link and Physical) of the seven-layer OSI networking reference model. In fact, IEEE 802 splits the OSI Data Link Layer into two sub-layers named logical link control (LLC) and media access control (MAC), so the layers can be listed like this:  \n*Data link layer\n**LLC sublayer\n**MAC sublayer\n*Physical layer\n\nThe IEEE 802 family of standards is maintained by the IEEE 802 LAN/MAN Standards Committee (LMSC). The most widely used standards are for the Ethernet family, Token Ring, Wireless LAN, Bridging and Virtual Bridged LANs. An individual working group provides the focus for each area.\n\nWorking groups",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "IEEE 802" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14736" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "IEEE 802 is a family of IEEE standards dealing with local area networks and metropolitan area networks.\n\nMore specifically, the IEEE 802 standards are restricted to networks carrying variable-size packets. By  contrast, in cell relay networks data is transmitted in short, uniformly sized units called cells. Isochronous networks, where data is transmitted as a steady stream of octets, or groups of  octets, at regular time intervals, are also out of the scope of this standard. The number 802 was simply the next free number IEEE could assign, though “802” is sometimes associated with the date the first meeting was held — February 1980.\n\nThe services and protocols specified in IEEE 802 map to the lower two layers (Data Link and Physical) of the seven-layer OSI networking reference model. In fact, IEEE 802 splits the OSI Data Link Layer into two sub-layers named logical link control (LLC) and media access control (MAC), so the layers can be listed like this:  \n*Data link layer\n**LLC sublayer\n**MAC sublayer\n*Physical layer\n\nThe IEEE 802 family of standards is maintained by the IEEE 802 LAN/MAN Standards Committee (LMSC). The most widely used standards are for the Ethernet family, Token Ring, Wireless LAN, Bridging and Virtual Bridged LANs. An individual working group provides the focus for each area.\n\nWorking groups. IEEE 802. http://en.wikipedia.org/?curid=14736."
+  }
+}

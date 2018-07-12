@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10129",
+  "eid" : "f3f5ee70-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778489047,
+  "textBody" : "Enceladus is a moon of Saturn.\n\nEnceladus may also refer to:\n*Enceladus (mythology), a mythological giant \n*USS Enceladus (AK-80), an American cargo ship",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Enceladus (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10129" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Enceladus is a moon of Saturn.\n\nEnceladus may also refer to:\n*Enceladus (mythology), a mythological giant \n*USS Enceladus (AK-80), an American cargo ship. Enceladus (disambiguation). http://en.wikipedia.org/?curid=10129."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17731",
+  "eid" : "2d8e7fd0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778585677,
+  "textBody" : "LiveScript is a functional language that compiles to JavaScript. It was created by Jeremy Ashkenas—the creator of CoffeeScript—along with Satoshi Muramaki, George Zahariev, and many others. Notably, LiveScript was briefly the name of JavaScript in 1990s.\n\nSyntax \n\nLiveScript is an indirect descendant of and partly compatible with CoffeeScript.http://livescript.net/ The following is a fully Coffeescript-compatible hello-world example of LiveScript syntax.\n\nhello = ->\n  console.log 'hello, world!'\n\nWhile calling a function can be done with empty parens, hello(), LiveScript treats the exclamation mark as a single-character shorthand for function calls with zero arguments: hello!\n\nLiveScript introduces a number of other incompatible idioms:\n\nName mangling \n\nAt compile time, the LiveScript parser implicitly converts kebab case (dashed variables and function names) to camelcase.\n\nhello-world = ->\n  console.log 'Hello, World!'\n\nWith this definition, both the following calls are valid. However, calling using the same dashed syntax is recommended.\n\nhello-world!\nhelloWorld!\n\nThis does not preclude developers from using camelcase explicitly or using snakecase. Dashed naming is however, common in idiomatic LiveScripthttp://www.preludels.com/\n\nPipes \n\nLike a number of other functional programming languages such as F# and Elixir, LiveScript supports the pipe operator, |> which passes the result of the expression on the left of the operator as an argument to the expression on the right of it. Note that in F# the argument passed is the last argument, while in Elixir it is the first.\n\n\"hello!\" |> capitalize |> console.log\n# > Hello!\n\nOperators as functions \n\nWhen parenthesized, operators such as not or + can be included in pipelines or called as if they were functions.\n\n111 |> (+) 222\n# > 333\n\n(+) 1 2\n# > 3",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "LiveScript" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17731" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "LiveScript is a functional language that compiles to JavaScript. It was created by Jeremy Ashkenas—the creator of CoffeeScript—along with Satoshi Muramaki, George Zahariev, and many others. Notably, LiveScript was briefly the name of JavaScript in 1990s.\n\nSyntax \n\nLiveScript is an indirect descendant of and partly compatible with CoffeeScript.http://livescript.net/ The following is a fully Coffeescript-compatible hello-world example of LiveScript syntax.\n\nhello = ->\n  console.log 'hello, world!'\n\nWhile calling a function can be done with empty parens, hello(), LiveScript treats the exclamation mark as a single-character shorthand for function calls with zero arguments: hello!\n\nLiveScript introduces a number of other incompatible idioms:\n\nName mangling \n\nAt compile time, the LiveScript parser implicitly converts kebab case (dashed variables and function names) to camelcase.\n\nhello-world = ->\n  console.log 'Hello, World!'\n\nWith this definition, both the following calls are valid. However, calling using the same dashed syntax is recommended.\n\nhello-world!\nhelloWorld!\n\nThis does not preclude developers from using camelcase explicitly or using snakecase. Dashed naming is however, common in idiomatic LiveScripthttp://www.preludels.com/\n\nPipes \n\nLike a number of other functional programming languages such as F# and Elixir, LiveScript supports the pipe operator, |> which passes the result of the expression on the left of the operator as an argument to the expression on the right of it. Note that in F# the argument passed is the last argument, while in Elixir it is the first.\n\n\"hello!\" |> capitalize |> console.log\n# > Hello!\n\nOperators as functions \n\nWhen parenthesized, operators such as not or + can be included in pipelines or called as if they were functions.\n\n111 |> (+) 222\n# > 333\n\n(+) 1 2\n# > 3. LiveScript. http://en.wikipedia.org/?curid=17731."
+  }
+}

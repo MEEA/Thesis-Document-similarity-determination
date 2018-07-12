@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=590",
+  "eid" : "87297410-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778306513,
+  "textBody" : "Austin is the capital of Texas in the United States.\n\nAustin may also refer to:\n\nGeographical locations\n\nAustralia\n\n* Austin, Western Australia\n\nCanada\n\n* Austin, Manitoba\n* Austin, Ontario\n* Austin, Quebec\n* Austin Island, Nunavut\n\nFrance\n\n* Saint-Austin, hamlet at la Neuville-Chant-d'Oisel, Normandy\n\nUnited States of America\n\n* Austin, Arkansas\n* Austin, Colorado\n* Austin, Illinois:\n** Austin Township, Macon County, Illinois\n** Austin, Chicago, Cook County, Illinois\n* Austin, Indiana\n* Austin, Kentucky\n* Austin, Minnesota\n* Austin, Missouri\n* Austin, Nevada\n* Austin, Ohio\n* Austin, Oregon\n* Austin County, Texas (note that the city of Austin, Texas is located in Travis County)\n\nPeople\n\n* Austin (name)\n\nSchools\n\n* Austin College, Sherman, Texas\n* University of Texas at Austin, flagship institution of the University of Texas System\n* Austin Peay State University, Clarksville, Tennessee\n\nReligion\n\n* Augustine of Hippo or Augustine of Canterbury\n* An adjective for the Augustinians\n\nBusiness\n\n* Austin Automobile Company, short-lived American automobile company\n* Austin (brand), a brand owned by the Kellogg Company\n* Austin Motor Company, British car manufacturer\n* American Austin Car Company, short-lived American automobile maker\n\nEntertainment\n\n* \"Austin\" (song), a single by Blake Shelton\n* Austin, a kangaroo Beanie Baby produced by Ty, Inc.\n* Austin the kangaroo from the children's television series The Backyardigans\n\nOther uses\n\n* USS Austin, three ships\n* Austin station (disambiguation), various public transportation stations\n* Austin (building), a building designed by artist Ellsworth Kelly under construction in Austin, Texas\n* Austin Allegro, a small family car that was manufactured by the Austin-Morris division of British Leyland from 1973 until 1982",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Austin (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=590" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Austin is the capital of Texas in the United States.\n\nAustin may also refer to:\n\nGeographical locations\n\nAustralia\n\n* Austin, Western Australia\n\nCanada\n\n* Austin, Manitoba\n* Austin, Ontario\n* Austin, Quebec\n* Austin Island, Nunavut\n\nFrance\n\n* Saint-Austin, hamlet at la Neuville-Chant-d'Oisel, Normandy\n\nUnited States of America\n\n* Austin, Arkansas\n* Austin, Colorado\n* Austin, Illinois:\n** Austin Township, Macon County, Illinois\n** Austin, Chicago, Cook County, Illinois\n* Austin, Indiana\n* Austin, Kentucky\n* Austin, Minnesota\n* Austin, Missouri\n* Austin, Nevada\n* Austin, Ohio\n* Austin, Oregon\n* Austin County, Texas (note that the city of Austin, Texas is located in Travis County)\n\nPeople\n\n* Austin (name)\n\nSchools\n\n* Austin College, Sherman, Texas\n* University of Texas at Austin, flagship institution of the University of Texas System\n* Austin Peay State University, Clarksville, Tennessee\n\nReligion\n\n* Augustine of Hippo or Augustine of Canterbury\n* An adjective for the Augustinians\n\nBusiness\n\n* Austin Automobile Company, short-lived American automobile company\n* Austin (brand), a brand owned by the Kellogg Company\n* Austin Motor Company, British car manufacturer\n* American Austin Car Company, short-lived American automobile maker\n\nEntertainment\n\n* \"Austin\" (song), a single by Blake Shelton\n* Austin, a kangaroo Beanie Baby produced by Ty, Inc.\n* Austin the kangaroo from the children's television series The Backyardigans\n\nOther uses\n\n* USS Austin, three ships\n* Austin station (disambiguation), various public transportation stations\n* Austin (building), a building designed by artist Ellsworth Kelly under construction in Austin, Texas\n* Austin Allegro, a small family car that was manufactured by the Austin-Morris division of British Leyland from 1973 until 1982. Austin (disambiguation). http://en.wikipedia.org/?curid=590."
+  }
+}

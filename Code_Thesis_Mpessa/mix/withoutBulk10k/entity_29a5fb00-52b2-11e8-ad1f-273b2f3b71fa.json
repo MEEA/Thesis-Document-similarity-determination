@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16904",
+  "eid" : "29a5fb00-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778579120,
+  "textBody" : "KMT is Kuomintang, a political party in Taiwan (Republic of China).\n\nKMT or kmt may also refer to:\n* \"KMT\" (song), a 2017 song by Drake\n* Kmt (magazine), a magazine on ancient Egypt\n* kilometre-tonne or kmt, a unit of payload-distance\n* King in Council (Sweden) or K.M:t, a term of constitutional importance that was used in Sweden before 1975 when the 1974 Instrument of Government came into force\n* km.t, a name for ancient Egypt using the hieroglyph Km",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "KMT (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16904" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "KMT is Kuomintang, a political party in Taiwan (Republic of China).\n\nKMT or kmt may also refer to:\n* \"KMT\" (song), a 2017 song by Drake\n* Kmt (magazine), a magazine on ancient Egypt\n* kilometre-tonne or kmt, a unit of payload-distance\n* King in Council (Sweden) or K.M:t, a term of constitutional importance that was used in Sweden before 1975 when the 1974 Instrument of Government came into force\n* km.t, a name for ancient Egypt using the hieroglyph Km. KMT (disambiguation). http://en.wikipedia.org/?curid=16904."
+  }
+}

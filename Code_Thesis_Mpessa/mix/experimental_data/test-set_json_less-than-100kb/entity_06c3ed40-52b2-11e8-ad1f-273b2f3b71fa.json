@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13116",
+  "eid" : "06c3ed40-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778520596,
+  "textBody" : "Gavoi is a comune in central Sardinia (Italy), part of the province of Nuoro, in the natural region of Barbagia. It overlooks the Lake of Gusana.\n\nHistory\n\nThe territory of Gavoi is inhabited since the prenuragic period. During the middleage is cited various times in the list of villages and towns that paid the taxes to the Roman curia.\n\nGavoi was hit by the plague in the 18th century.[http://www.comunas.it/j/v/420?s5&v\n9&c2019&na\n1&n10&c1\n2072&t=1 Storia di Gavoi]\n\nMain sights\n\nThe Roman church of San Gavino is Gavoi's foremost sacred spot, through there are eight other ancient churches in the village. The village's center contains rock houses with balconies, and a village fountain is known as \"Antana 'e Cartzonna\".\n\nNear the lake are the archaeological areas of Orrui and San Michele di Fonni. A Roman bridge is submerged beneath the lake.\n\nEconomy\n\nMountain tourism is among the sources of income. Agriculture production include potatoes and cheese (the town is famous for its pecorino).\n\nTraditions and culture\n\nThe \"tumbarinu\" is a traditional drum made of lamb skin, and more rarely, dog or donkey skin. The tumbarinu is often accompanied with the pipiolu, the traditional sheppard's fife. The \"ballu tundu\", is a traditional dance in the round, as in the Balkan area. Poetry is esteemed, including extemporaneous  rhyme competitions on given topics.\n\nThe nearby Sanctuary of Madonna d'Itria hosts a palio, in this case a peculiar horse competition very similar to that of Siena.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Gavoi" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13116" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Gavoi is a comune in central Sardinia (Italy), part of the province of Nuoro, in the natural region of Barbagia. It overlooks the Lake of Gusana.\n\nHistory\n\nThe territory of Gavoi is inhabited since the prenuragic period. During the middleage is cited various times in the list of villages and towns that paid the taxes to the Roman curia.\n\nGavoi was hit by the plague in the 18th century.[http://www.comunas.it/j/v/420?s5&v\n9&c2019&na\n1&n10&c1\n2072&t=1 Storia di Gavoi]\n\nMain sights\n\nThe Roman church of San Gavino is Gavoi's foremost sacred spot, through there are eight other ancient churches in the village. The village's center contains rock houses with balconies, and a village fountain is known as \"Antana 'e Cartzonna\".\n\nNear the lake are the archaeological areas of Orrui and San Michele di Fonni. A Roman bridge is submerged beneath the lake.\n\nEconomy\n\nMountain tourism is among the sources of income. Agriculture production include potatoes and cheese (the town is famous for its pecorino).\n\nTraditions and culture\n\nThe \"tumbarinu\" is a traditional drum made of lamb skin, and more rarely, dog or donkey skin. The tumbarinu is often accompanied with the pipiolu, the traditional sheppard's fife. The \"ballu tundu\", is a traditional dance in the round, as in the Balkan area. Poetry is esteemed, including extemporaneous  rhyme competitions on given topics.\n\nThe nearby Sanctuary of Madonna d'Itria hosts a palio, in this case a peculiar horse competition very similar to that of Siena. Gavoi. http://en.wikipedia.org/?curid=13116."
+  }
+}

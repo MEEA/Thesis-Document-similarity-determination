@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12359",
+  "eid" : "01f2b620-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778512514,
+  "textBody" : "A gopher, also known as a \"pocket gopher\" (family Geomyidae), is a burrowing rodent native to North America and Central America.\n\nGopher may also refer to:\n\nNature\n\n* Some species of ground squirrels (tribe Marmotini) of North America, particularly those formerly classified as Spermophilus, are informally referred to as \"gophers\"\n* Gopher snake – common name of several species of genus Pituophis endemic to west or southwest of North America\n* Gopher tortoise (genus Gopherus), distributed in North America\n* Gopher wood, of unclear meaning, mentioned in the Bible as the building material for Noah's ark\n* Gopher Plant or Paper Spurge (Euphorbia lathyris)\n\nEntertainment\n\n* Gophers!, a British children's television programme\n* \"Gopher\", real name Burl Smith, a character on TV show The Love Boat\n* Gopher (Winnie-the-Pooh), a character in Walt Disney's Winnie The Pooh franchise\n\nTechnology\n\n* The SA-13 \"Gopher\", or 9K35 Strela-10, a Soviet surface-to-air missile system\n* Gopher (protocol), an early distributed hypertext protocol\n* Go gopher, a mascot of Go programming language\n\nOther\n\n* Minnesota, the \"Gopher State\"\n* Minnesota Golden Gophers, University of Minnesota sports teams\n* Gopher (train), a passenger train operated by the Great Northern Railway, USA\n* Gopher (video game), an Atari 2600 game\n* Gofer, also spelled \"gopher\", an errand-runner\n* Gopher Gang, early 20th-century New York street gang",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Gopher (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12359" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A gopher, also known as a \"pocket gopher\" (family Geomyidae), is a burrowing rodent native to North America and Central America.\n\nGopher may also refer to:\n\nNature\n\n* Some species of ground squirrels (tribe Marmotini) of North America, particularly those formerly classified as Spermophilus, are informally referred to as \"gophers\"\n* Gopher snake – common name of several species of genus Pituophis endemic to west or southwest of North America\n* Gopher tortoise (genus Gopherus), distributed in North America\n* Gopher wood, of unclear meaning, mentioned in the Bible as the building material for Noah's ark\n* Gopher Plant or Paper Spurge (Euphorbia lathyris)\n\nEntertainment\n\n* Gophers!, a British children's television programme\n* \"Gopher\", real name Burl Smith, a character on TV show The Love Boat\n* Gopher (Winnie-the-Pooh), a character in Walt Disney's Winnie The Pooh franchise\n\nTechnology\n\n* The SA-13 \"Gopher\", or 9K35 Strela-10, a Soviet surface-to-air missile system\n* Gopher (protocol), an early distributed hypertext protocol\n* Go gopher, a mascot of Go programming language\n\nOther\n\n* Minnesota, the \"Gopher State\"\n* Minnesota Golden Gophers, University of Minnesota sports teams\n* Gopher (train), a passenger train operated by the Great Northern Railway, USA\n* Gopher (video game), an Atari 2600 game\n* Gofer, also spelled \"gopher\", an errand-runner\n* Gopher Gang, early 20th-century New York street gang. Gopher (disambiguation). http://en.wikipedia.org/?curid=12359."
+  }
+}

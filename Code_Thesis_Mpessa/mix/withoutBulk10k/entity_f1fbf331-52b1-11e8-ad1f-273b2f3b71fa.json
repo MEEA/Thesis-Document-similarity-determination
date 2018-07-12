@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=9766",
+  "eid" : "f1fbf331-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778485731,
+  "textBody" : "Eridanus can refer to:\n\nRivers\n\n*Eridanos (mythology) (or Eridanus), a river in Greek mythology, somewhere in Central Europe, which was territory that Ancient Greeks knew only vaguely\n*The Po River, according to Roman word usage\n*Eridanos (Athens), a former river near Athens, now subterraneous\n*Eridanos (geology), a former large river that flowed between forty million and seven hundred thousand years ago from Lapland to the North Sea through where the Baltic Sea is now\n\nAstronomy\n\n*Eridanus (constellation), a southern constellation\n*Eridanus Cluster of galaxies in the constellation Eridanus\n*Eridanus II, a low-surface brightness dwarf galaxy in the constellation Eridanus\n*List of stars in Eridanus\n*Delta Eridani, a star\n*Eta Eridani, a star\n*Gamma Eridani, a star\n*Eridanus Supervoid\n\nMiscellaneous\n\n*Éridan (rocket), a French rocket\n*Éridan class minehunter\n*Eridanosaurus, a rhinocerotid originally described as a crocodilian\n*USS Eridanus (AK-92), a ship",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Eridanus" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=9766" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Eridanus can refer to:\n\nRivers\n\n*Eridanos (mythology) (or Eridanus), a river in Greek mythology, somewhere in Central Europe, which was territory that Ancient Greeks knew only vaguely\n*The Po River, according to Roman word usage\n*Eridanos (Athens), a former river near Athens, now subterraneous\n*Eridanos (geology), a former large river that flowed between forty million and seven hundred thousand years ago from Lapland to the North Sea through where the Baltic Sea is now\n\nAstronomy\n\n*Eridanus (constellation), a southern constellation\n*Eridanus Cluster of galaxies in the constellation Eridanus\n*Eridanus II, a low-surface brightness dwarf galaxy in the constellation Eridanus\n*List of stars in Eridanus\n*Delta Eridani, a star\n*Eta Eridani, a star\n*Gamma Eridani, a star\n*Eridanus Supervoid\n\nMiscellaneous\n\n*Éridan (rocket), a French rocket\n*Éridan class minehunter\n*Eridanosaurus, a rhinocerotid originally described as a crocodilian\n*USS Eridanus (AK-92), a ship. Eridanus. http://en.wikipedia.org/?curid=9766."
+  }
+}

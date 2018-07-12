@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8263",
+  "eid" : "e6cf6280-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778466984,
+  "textBody" : "In chemistry, biochemistry, and pharmacology, a dissociation constant (K_d) is a specific type of equilibrium constant that measures the propensity of a larger object to separate (dissociate) reversibly into smaller components, as when a complex falls apart into its component molecules, or when a salt splits up into its component ions.  The dissociation constant is the inverse of the association constant. In the special case of salts, the dissociation constant can also be called an ionization constant.\n\nFor a general reaction:\n\n {A}_\\mathit{x}{B}_\\mathit{y}  \\mathit{x}{A} + \\mathit{y}{B}\n\nin which a complex \\ce{A}_x \\ce{B}_y breaks down into x A subunits and y B subunits, the dissociation constant is defined\n\n K_d = \\frac{[\\ce A]^x [\\ce B]^y}{[\\ce A_x \\ce B_y]}\n\nwhere [A], [B], and [AxBy] are the concentrations of A, B, and the complex AxBy, respectively.\n\nOne reason for the popularity of the dissociation constant in biochemistry and pharmacology is that in the frequently encountered case where xy\n1, Kd has a simple physical interpretation: when [\\ce A] K_d, [\\ce B] \n [\\ce {AB}] or equivalently \\tfrac {[\\ce{AB}]}",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Dissociation constant" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8263" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "In chemistry, biochemistry, and pharmacology, a dissociation constant (K_d) is a specific type of equilibrium constant that measures the propensity of a larger object to separate (dissociate) reversibly into smaller components, as when a complex falls apart into its component molecules, or when a salt splits up into its component ions.  The dissociation constant is the inverse of the association constant. In the special case of salts, the dissociation constant can also be called an ionization constant.\n\nFor a general reaction:\n\n {A}_\\mathit{x}{B}_\\mathit{y}  \\mathit{x}{A} + \\mathit{y}{B}\n\nin which a complex \\ce{A}_x \\ce{B}_y breaks down into x A subunits and y B subunits, the dissociation constant is defined\n\n K_d = \\frac{[\\ce A]^x [\\ce B]^y}{[\\ce A_x \\ce B_y]}\n\nwhere [A], [B], and [AxBy] are the concentrations of A, B, and the complex AxBy, respectively.\n\nOne reason for the popularity of the dissociation constant in biochemistry and pharmacology is that in the frequently encountered case where xy\n1, Kd has a simple physical interpretation: when [\\ce A] K_d, [\\ce B] \n [\\ce {AB}] or equivalently \\tfrac {[\\ce{AB}]}. Dissociation constant. http://en.wikipedia.org/?curid=8263."
+  }
+}

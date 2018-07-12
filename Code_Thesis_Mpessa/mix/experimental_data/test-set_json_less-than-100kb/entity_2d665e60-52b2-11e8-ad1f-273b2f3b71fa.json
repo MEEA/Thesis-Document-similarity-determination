@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17693",
+  "eid" : "2d665e60-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778585414,
+  "textBody" : "Post hoc (sometimes written as post-hoc) (a shortened style of post hoc ergo propter hoc) is a fallacy in which one event is alleged to be the reason for a later event just because it occurred earlier. It is also referred to as the fallacy of the false cause or the argument from succession alone.\n\nIt may refer to:\n*Formulated after the fact (e.g., a post hoc rationalization, a post hoc justification, a post hoc explanation, post hoc reasoning)\n**Post hoc analysis (or post hoc test), a form of statistical analysis\n**Post hoc theorizing, generating hypotheses based on data already observed\n*Post hoc ergo propter hoc (after this, therefore because of this), a logical fallacy of causation",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Post hoc" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17693" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Post hoc (sometimes written as post-hoc) (a shortened style of post hoc ergo propter hoc) is a fallacy in which one event is alleged to be the reason for a later event just because it occurred earlier. It is also referred to as the fallacy of the false cause or the argument from succession alone.\n\nIt may refer to:\n*Formulated after the fact (e.g., a post hoc rationalization, a post hoc justification, a post hoc explanation, post hoc reasoning)\n**Post hoc analysis (or post hoc test), a form of statistical analysis\n**Post hoc theorizing, generating hypotheses based on data already observed\n*Post hoc ergo propter hoc (after this, therefore because of this), a logical fallacy of causation. Post hoc. http://en.wikipedia.org/?curid=17693."
+  }
+}

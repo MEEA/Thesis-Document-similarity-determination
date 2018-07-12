@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=6005",
+  "eid" : "d968c050-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778444501,
+  "textBody" : "In large part thanks to international aid programs, Moroni has international telecommunications service. Telephone service, however, is largely limited to the islands' few towns.\n\nCommunications in the Comoros\n\nTelephones - main lines in use:\n5,000 (1995)\n\nTelephones - mobile cellular:\n0 (1995)\n\nTelephone system:\nsparse system of microwave radio relay and HF radiotelephone communication stations\ndomestic:\nHF radiotelephone communications and microwave radio relay\nCMDA mobile network (Huri, operated by Comores Telecom)\ninternational:\nHF radiotelephone communications to Madagascar and Réunion\n\nRadio broadcast stations:\nAM 1, FM 2, shortwave 1 (1998)\n\nRadios:\n90,000 (1997)\n\nTelevision broadcast stations:\n0 (1998)\n\nTelevisions:\n1,000 (1997)\n\nInternet Service Providers (ISPs): 1 (1999)\n\nCountry code (Top-level domain): KM\n\nSpecial projects\n\nIn October 2011 the State of Qatar launched a special program for the construction of a wireless network to interconnect the three islands of the archipelago, by means of low cost, repeatable technology. The project has been developed by Qatar University and Politecnico di Torino, under the supervision of prof. Mazen Hasna and prof. Daniele Trinchero, with a major participation of local actors (Comorian Government, NRTIC, University of the Comoros). The project has been referred as an example of technology transfer and Sustainable Inclusion in developing countries",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Telecommunications in the Comoros" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=6005" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "In large part thanks to international aid programs, Moroni has international telecommunications service. Telephone service, however, is largely limited to the islands' few towns.\n\nCommunications in the Comoros\n\nTelephones - main lines in use:\n5,000 (1995)\n\nTelephones - mobile cellular:\n0 (1995)\n\nTelephone system:\nsparse system of microwave radio relay and HF radiotelephone communication stations\ndomestic:\nHF radiotelephone communications and microwave radio relay\nCMDA mobile network (Huri, operated by Comores Telecom)\ninternational:\nHF radiotelephone communications to Madagascar and Réunion\n\nRadio broadcast stations:\nAM 1, FM 2, shortwave 1 (1998)\n\nRadios:\n90,000 (1997)\n\nTelevision broadcast stations:\n0 (1998)\n\nTelevisions:\n1,000 (1997)\n\nInternet Service Providers (ISPs): 1 (1999)\n\nCountry code (Top-level domain): KM\n\nSpecial projects\n\nIn October 2011 the State of Qatar launched a special program for the construction of a wireless network to interconnect the three islands of the archipelago, by means of low cost, repeatable technology. The project has been developed by Qatar University and Politecnico di Torino, under the supervision of prof. Mazen Hasna and prof. Daniele Trinchero, with a major participation of local actors (Comorian Government, NRTIC, University of the Comoros). The project has been referred as an example of technology transfer and Sustainable Inclusion in developing countries. Telecommunications in the Comoros. http://en.wikipedia.org/?curid=6005."
+  }
+}

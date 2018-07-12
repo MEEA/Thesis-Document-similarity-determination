@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8706",
+  "eid" : "e9ebbdb0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778472203,
+  "textBody" : "DCM may refer to:\n\nScience and technology\n\n* Data-constrained modelling, a R&D methodology or related software\n* DCM Ethernet, a slang term which uses the Roman numerals D, C, and M to denote 10/100/1000 Mbps Ethernet hardware (deci/centi/milli)\n* Dichloromethane, a common solvent in organic chemistry\n* Deep chlorophyll maximum, subsurface maximum in the concentration of chlorophyll\n* Desired Configuration Management, a component of Microsoft's System Center Configuration Manager\n* Digital Clock Manager, programmed clock signal transformation used in field-programmable gate arrays (FPGAs)\n* .dcm, a filename extension for Digital Imaging and Communications in Medicine or Data constrained modelling \n* Dynamic causal modelling, a method for the interpretation of functional neuroimaging data\n* Docking Cargo Module, a planned Russian module of the International Space Station\n* 4-(Dicyanomethylene)-2-methyl-6-(4-dimethylaminostyryl)-4H-pyran (DCM), a laser dye\n* Direction cosine matrix\n\nOther\n\n* Castres–Mazamet Airport (IATA: DCM), an airport in southern France\n* Demand chain management\n* Debt Capital Markets\n* Delhi Cloth Mills\n* Deputy Chief of Mission\n* Digital Cinema Media\n* Dilated cardiomyopathy\n* Distinguished Conduct Medal, British and Commonwealth medal for extreme bravery\n* NTT DoCoMo's stock symbol on the New York Stock Exchange\n* Doll Capital Management, a Venture Capital firm in Menlo Park, CA, which funded SandForce, BitTorrent and others\n* Dunbee-Combex-Marx Ltd, a former British toy manufacturer which purchased Lines Bros and Schuco Modell\n* Director of Civilian Marksmanship, responsible for the U.S. Civilian Marksmanship Program",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "DCM" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8706" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "DCM may refer to:\n\nScience and technology\n\n* Data-constrained modelling, a R&D methodology or related software\n* DCM Ethernet, a slang term which uses the Roman numerals D, C, and M to denote 10/100/1000 Mbps Ethernet hardware (deci/centi/milli)\n* Dichloromethane, a common solvent in organic chemistry\n* Deep chlorophyll maximum, subsurface maximum in the concentration of chlorophyll\n* Desired Configuration Management, a component of Microsoft's System Center Configuration Manager\n* Digital Clock Manager, programmed clock signal transformation used in field-programmable gate arrays (FPGAs)\n* .dcm, a filename extension for Digital Imaging and Communications in Medicine or Data constrained modelling \n* Dynamic causal modelling, a method for the interpretation of functional neuroimaging data\n* Docking Cargo Module, a planned Russian module of the International Space Station\n* 4-(Dicyanomethylene)-2-methyl-6-(4-dimethylaminostyryl)-4H-pyran (DCM), a laser dye\n* Direction cosine matrix\n\nOther\n\n* Castres–Mazamet Airport (IATA: DCM), an airport in southern France\n* Demand chain management\n* Debt Capital Markets\n* Delhi Cloth Mills\n* Deputy Chief of Mission\n* Digital Cinema Media\n* Dilated cardiomyopathy\n* Distinguished Conduct Medal, British and Commonwealth medal for extreme bravery\n* NTT DoCoMo's stock symbol on the New York Stock Exchange\n* Doll Capital Management, a Venture Capital firm in Menlo Park, CA, which funded SandForce, BitTorrent and others\n* Dunbee-Combex-Marx Ltd, a former British toy manufacturer which purchased Lines Bros and Schuco Modell\n* Director of Civilian Marksmanship, responsible for the U.S. Civilian Marksmanship Program. DCM. http://en.wikipedia.org/?curid=8706."
+  }
+}

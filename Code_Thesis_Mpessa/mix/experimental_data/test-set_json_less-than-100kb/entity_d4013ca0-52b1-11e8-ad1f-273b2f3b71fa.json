@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=5324",
+  "eid" : "d4013ca0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778435434,
+  "textBody" : "Catalan may refer to:\n\n* From, or related to Catalonia\n** Catalan language, a Romance language\n** Catalans, an ethnic group formed by the people from, or with origins in, Catalonia\n** Països Catalans, territories where Catalan is spoken\n** Catalan cuisine, a Mediterranean style of cuisine from Catalonia\n** Catalans Dragons, a rugby league team often known simply as Catalan\n\nPeople\n\n* Catalan, Lord of Monaco (1415–1457), Lord of Monaco from 1454 until 1457\n* Eugène Charles Catalan (1814–1894), French and Belgian mathematician\n* Miguel A. Catalán (1894–1957), Spanish spectroscopist\n* Moses Chayyim Catalan (died 1661), Italian rabbi\n\nMathematics\n\nMathematical concepts named after mathematician Eugène Catalan:\n* Catalan numbers, a sequence of natural numbers that occur in various counting problems\n* Catalan solids, a family of polyhedra\n* Catalan's constant, a number that occurs in estimates in combinatorics\n\nPlaces\n\n* Catalán (crater), a lunar crater named for Miguel Ángel Catalán\n* Çatalan, Karaisalı, a village in Adana Province, Turkey\n\nWine\n\n* Catalan (grape), another name for the wine grape Mourvèdre\n* Catalan wine, an alternative name used in France for wine made from the Carignan grape\n** Carignan, a wine grape that is also known as Catalan\n\nOther uses\n\n* Catalan Opening, in chess\n* The Catalans, a 1953 novel by Patrick O'Brian",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Catalan" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=5324" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Catalan may refer to:\n\n* From, or related to Catalonia\n** Catalan language, a Romance language\n** Catalans, an ethnic group formed by the people from, or with origins in, Catalonia\n** Països Catalans, territories where Catalan is spoken\n** Catalan cuisine, a Mediterranean style of cuisine from Catalonia\n** Catalans Dragons, a rugby league team often known simply as Catalan\n\nPeople\n\n* Catalan, Lord of Monaco (1415–1457), Lord of Monaco from 1454 until 1457\n* Eugène Charles Catalan (1814–1894), French and Belgian mathematician\n* Miguel A. Catalán (1894–1957), Spanish spectroscopist\n* Moses Chayyim Catalan (died 1661), Italian rabbi\n\nMathematics\n\nMathematical concepts named after mathematician Eugène Catalan:\n* Catalan numbers, a sequence of natural numbers that occur in various counting problems\n* Catalan solids, a family of polyhedra\n* Catalan's constant, a number that occurs in estimates in combinatorics\n\nPlaces\n\n* Catalán (crater), a lunar crater named for Miguel Ángel Catalán\n* Çatalan, Karaisalı, a village in Adana Province, Turkey\n\nWine\n\n* Catalan (grape), another name for the wine grape Mourvèdre\n* Catalan wine, an alternative name used in France for wine made from the Carignan grape\n** Carignan, a wine grape that is also known as Catalan\n\nOther uses\n\n* Catalan Opening, in chess\n* The Catalans, a 1953 novel by Patrick O'Brian. Catalan. http://en.wikipedia.org/?curid=5324."
+  }
+}

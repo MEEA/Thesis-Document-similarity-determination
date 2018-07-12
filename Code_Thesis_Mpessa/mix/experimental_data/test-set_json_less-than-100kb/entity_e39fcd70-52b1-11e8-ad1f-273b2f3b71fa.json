@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7838",
+  "eid" : "e39fcd70-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778461639,
+  "textBody" : "A compound turbine is a steam turbine in which there are two casings, a high-pressure casing and a low-pressure casing, operating in concert to extract work from a single source of steam. The steam is partially expanded in the high-pressure casing, then exhausted to the low-pressure casing. \n\nTandem compound or cross compound\n\nThe rotor arrangement can be either tandem-compound  in which the two axles are joined end to end, or cross-compound in which the two turbines have separate axles. In the cross-compound case two separate generators are usually supplied, although a gearbox can reduce this to one.\n\nAdvantages\n\nThe principal advantages of compound turbines are the reduction in size of any one casing, the confinement of the highest pressure to the smaller casing (which may be made of stronger and more expensive materials) and the possibility of divided flow in the low-pressure casing for the purpose of equalizing end thrusts.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Compound turbine" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7838" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A compound turbine is a steam turbine in which there are two casings, a high-pressure casing and a low-pressure casing, operating in concert to extract work from a single source of steam. The steam is partially expanded in the high-pressure casing, then exhausted to the low-pressure casing. \n\nTandem compound or cross compound\n\nThe rotor arrangement can be either tandem-compound  in which the two axles are joined end to end, or cross-compound in which the two turbines have separate axles. In the cross-compound case two separate generators are usually supplied, although a gearbox can reduce this to one.\n\nAdvantages\n\nThe principal advantages of compound turbines are the reduction in size of any one casing, the confinement of the highest pressure to the smaller casing (which may be made of stronger and more expensive materials) and the possibility of divided flow in the low-pressure casing for the purpose of equalizing end thrusts. Compound turbine. http://en.wikipedia.org/?curid=7838."
+  }
+}

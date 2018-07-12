@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1764",
+  "eid" : "bb8dedd0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778394413,
+  "textBody" : "Andronicus of Rhodes (, Andrónikos ho Rhódios; ;  BC) was a Greek philosopher from Rhodes who was also the scholarch (head) of the Peripatetic school. He is most famous for publishing a new edition of the works of Aristotle that forms the basis of the texts that survive today.\n\nLife\n\nLittle is known about Andronicus' life. He is reported to have been the eleventh scholarch of the Peripatetic school.Ammonius, In de Int. 5.24 He taught in Rome, about 58 BC, and was the teacher of Boethus of Sidon, with whom Strabo studied.Strabo, xiv.; Ammonius, in Aristot. Categ..\n\nWorks of Aristotle\n\nAndronicus is of special interest in the history of philosophy, from the statement of Plutarch,Plutarch, Sulla c. 26 that he published a new edition of the works of Aristotle and Theophrastus, which formerly belonged to the library of Apellicon, and were brought to Rome by Sulla with the rest of Apellicon's library in 84. Tyrannion commenced this task, but apparently did not do much towards it.Comp. Porphyry, Vit. Plotin. c. 24; Boethius, ad Aristot. de Interpret. The arrangement which Andronicus made of Aristotle's writings seems to be the one which forms the basis of our present editions and we are probably indebted to him for the preservation of a large number of Aristotle's works.\n\nWritings\n\nAndronicus wrote a work upon Aristotle, the fifth book of which contained a complete list of the philosopher's writings, and he also wrote commentaries upon the Physics, Ethics, and Categories.  None of these works is extant.  Two treatises are sometimes erroneously attributed to him, one On Emotions, the other a commentary on Aristotle's Ethics (really by Constantine Palaeocapa in the 16th century, or by John Callistus of Thessalonica).\n\nNotes",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Andronicus of Rhodes" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1764" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Andronicus of Rhodes (, Andrónikos ho Rhódios; ;  BC) was a Greek philosopher from Rhodes who was also the scholarch (head) of the Peripatetic school. He is most famous for publishing a new edition of the works of Aristotle that forms the basis of the texts that survive today.\n\nLife\n\nLittle is known about Andronicus' life. He is reported to have been the eleventh scholarch of the Peripatetic school.Ammonius, In de Int. 5.24 He taught in Rome, about 58 BC, and was the teacher of Boethus of Sidon, with whom Strabo studied.Strabo, xiv.; Ammonius, in Aristot. Categ..\n\nWorks of Aristotle\n\nAndronicus is of special interest in the history of philosophy, from the statement of Plutarch,Plutarch, Sulla c. 26 that he published a new edition of the works of Aristotle and Theophrastus, which formerly belonged to the library of Apellicon, and were brought to Rome by Sulla with the rest of Apellicon's library in 84. Tyrannion commenced this task, but apparently did not do much towards it.Comp. Porphyry, Vit. Plotin. c. 24; Boethius, ad Aristot. de Interpret. The arrangement which Andronicus made of Aristotle's writings seems to be the one which forms the basis of our present editions and we are probably indebted to him for the preservation of a large number of Aristotle's works.\n\nWritings\n\nAndronicus wrote a work upon Aristotle, the fifth book of which contained a complete list of the philosopher's writings, and he also wrote commentaries upon the Physics, Ethics, and Categories.  None of these works is extant.  Two treatises are sometimes erroneously attributed to him, one On Emotions, the other a commentary on Aristotle's Ethics (really by Constantine Palaeocapa in the 16th century, or by John Callistus of Thessalonica).\n\nNotes. Andronicus of Rhodes. http://en.wikipedia.org/?curid=1764."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=9872",
+  "eid" : "f27b0e40-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778486564,
+  "textBody" : "Electric bus is a bus powered by electric energy. \"Electric bus\" can also refer to:\n\n* Bus (computing), used for connecting components of a computer or communication between computers\n* Busbars, thick conductors used in electrical substations\n** In power engineering, a \"bus\" is any graph node of the single-line diagram at which voltage, current, power flow, or other quantities are to be evaluated. This may or may not correspond to the physical busbars in substation.\n** A ground bus or earth bus is a conductor used as a zero voltage reference in a system, often connected to ground or earth.\n* In pro audio, \"bus\" refers to a place in the audio signal chain where one can hear a mix of different audio signals—usually at the output of a mixing console.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Electric bus (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=9872" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Electric bus is a bus powered by electric energy. \"Electric bus\" can also refer to:\n\n* Bus (computing), used for connecting components of a computer or communication between computers\n* Busbars, thick conductors used in electrical substations\n** In power engineering, a \"bus\" is any graph node of the single-line diagram at which voltage, current, power flow, or other quantities are to be evaluated. This may or may not correspond to the physical busbars in substation.\n** A ground bus or earth bus is a conductor used as a zero voltage reference in a system, often connected to ground or earth.\n* In pro audio, \"bus\" refers to a place in the audio signal chain where one can hear a mix of different audio signals—usually at the output of a mixing console. Electric bus (disambiguation). http://en.wikipedia.org/?curid=9872."
+  }
+}

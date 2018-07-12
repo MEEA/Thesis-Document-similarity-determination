@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=4498",
+  "eid" : "ce6ba410-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778426065,
+  "textBody" : "Benchmark may refer to:\n \n\nMeasurements and other evaluations \n\n* Reference points for geographic measurements: \n**Benchmark (surveying), a point of known elevation marked for the purpose of surveying\n**Benchmarking (geolocating), an activity involving finding benchmarks\n* Commodity-market reference-price practices:\n** Benchmark price\n** Benchmark (crude oil), oil-specific practices\n* Benchmark (investment performance evaluation)\n*Benchmarking, evaluating performance within organizations\n* Benchmarking (journal), a bimonthly peer-reviewed academic journal relating to the field of quality management\n*Benchmark (computing), the result of running a computer program to assess performance\n* Benchmark, a best-performing, or \"gold standard\", test\n\nProper names \n\n* Organizations: \n** Benchmarking (journal)\n** Benchmark Electronics, an electronics manufacturer\n** Benchmark (venture capital firm), a venture capital firm\n** Benchmark Recordings, a music label with CDs by the Fabulous Thunderbirds and Mike Bloomfield.\n* Other brands:\n** Benchmark, McAfee's Benchmark bourbon\n** Benchmark (game show), on UK Channel 4",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Benchmark" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=4498" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Benchmark may refer to:\n \n\nMeasurements and other evaluations \n\n* Reference points for geographic measurements: \n**Benchmark (surveying), a point of known elevation marked for the purpose of surveying\n**Benchmarking (geolocating), an activity involving finding benchmarks\n* Commodity-market reference-price practices:\n** Benchmark price\n** Benchmark (crude oil), oil-specific practices\n* Benchmark (investment performance evaluation)\n*Benchmarking, evaluating performance within organizations\n* Benchmarking (journal), a bimonthly peer-reviewed academic journal relating to the field of quality management\n*Benchmark (computing), the result of running a computer program to assess performance\n* Benchmark, a best-performing, or \"gold standard\", test\n\nProper names \n\n* Organizations: \n** Benchmarking (journal)\n** Benchmark Electronics, an electronics manufacturer\n** Benchmark (venture capital firm), a venture capital firm\n** Benchmark Recordings, a music label with CDs by the Fabulous Thunderbirds and Mike Bloomfield.\n* Other brands:\n** Benchmark, McAfee's Benchmark bourbon\n** Benchmark (game show), on UK Channel 4. Benchmark. http://en.wikipedia.org/?curid=4498."
+  }
+}

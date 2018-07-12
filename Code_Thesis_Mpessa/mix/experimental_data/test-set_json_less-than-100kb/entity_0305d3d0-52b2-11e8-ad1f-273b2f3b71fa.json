@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12500",
+  "eid" : "0305d3d0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778514317,
+  "textBody" : "Goodness was an American rock band from Seattle, Washington, led by Carrie Akre, formerly of Hammerbox and now primarily a solo artist. Goodness featured Akre (vocals), Danny Newcomb (lead guitar), Garth Reeves (guitar), Fiia McGann (bass), and Chris Friel (drums).  Akre, Friel, and Newcomb later joined Mike McCready of Pearl Jam and Rick Friel to form the rock band The Rockfords.\n\nGoodness recorded a version of \"Electricity, Electricity\" with Mike McCready using the pseudonym \"Petster\" on electric guitar for the Schoolhouse Rock! Rocks tribute disc on Lava/Atlantic. They released their self-titled debut album in 1995 on Y Records, followed in 1998 by Anthem on Immortal/Epic and later These Days on Good Ink. Two live albums were released via Kufala Recordings in 2004. Goodness toured extensively all over the world, supporting such acts as Pearl Jam, Cheap Trick, and Oasis. They co-headlined a tour with Candlebox.\n\nGoodness reunited for shows at the Tractor Tavern in Ballard on November 22, 2008 and May 23, 2009. They last played at Neumo's on January 11, 2014.\n\nDiscography\n\n*Goodness - 1995\n*Anthem - 1998\n*These Days - 1999\n*Live Seattle 8/7/2004 - 2005\n*Live Tacoma, WA 6/19/04 - 2005\n*Live Seattle 12/03/04 - 2005",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Goodness (band)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12500" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Goodness was an American rock band from Seattle, Washington, led by Carrie Akre, formerly of Hammerbox and now primarily a solo artist. Goodness featured Akre (vocals), Danny Newcomb (lead guitar), Garth Reeves (guitar), Fiia McGann (bass), and Chris Friel (drums).  Akre, Friel, and Newcomb later joined Mike McCready of Pearl Jam and Rick Friel to form the rock band The Rockfords.\n\nGoodness recorded a version of \"Electricity, Electricity\" with Mike McCready using the pseudonym \"Petster\" on electric guitar for the Schoolhouse Rock! Rocks tribute disc on Lava/Atlantic. They released their self-titled debut album in 1995 on Y Records, followed in 1998 by Anthem on Immortal/Epic and later These Days on Good Ink. Two live albums were released via Kufala Recordings in 2004. Goodness toured extensively all over the world, supporting such acts as Pearl Jam, Cheap Trick, and Oasis. They co-headlined a tour with Candlebox.\n\nGoodness reunited for shows at the Tractor Tavern in Ballard on November 22, 2008 and May 23, 2009. They last played at Neumo's on January 11, 2014.\n\nDiscography\n\n*Goodness - 1995\n*Anthem - 1998\n*These Days - 1999\n*Live Seattle 8/7/2004 - 2005\n*Live Tacoma, WA 6/19/04 - 2005\n*Live Seattle 12/03/04 - 2005. Goodness (band). http://en.wikipedia.org/?curid=12500."
+  }
+}

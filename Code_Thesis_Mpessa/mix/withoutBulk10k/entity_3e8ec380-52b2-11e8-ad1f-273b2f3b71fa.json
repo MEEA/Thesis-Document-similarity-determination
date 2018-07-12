@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19888",
+  "eid" : "3e8ec380-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778614200,
+  "textBody" : "Matthew may refer to:\n\n* Matthew (given name)\n* Matthew (surname)\n* Matthew (ship), the ship sailed by John Cabot in 1497 from Bristol to North America\n* Matthew (album), a 2000 album by rapper Kool Keith\n* Matthew (elm cultivar), a cultivar of the Chinese Elm Ulmus parvifolia\n* Hurricane Matthew, a former hurricane in the Atlantic Ocean.\n\nChristianity \n\n* Matthew the Apostle, one of the apostles of Jesus\n* Gospel of Matthew, a book of the Bible",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Matthew" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19888" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Matthew may refer to:\n\n* Matthew (given name)\n* Matthew (surname)\n* Matthew (ship), the ship sailed by John Cabot in 1497 from Bristol to North America\n* Matthew (album), a 2000 album by rapper Kool Keith\n* Matthew (elm cultivar), a cultivar of the Chinese Elm Ulmus parvifolia\n* Hurricane Matthew, a former hurricane in the Atlantic Ocean.\n\nChristianity \n\n* Matthew the Apostle, one of the apostles of Jesus\n* Gospel of Matthew, a book of the Bible. Matthew. http://en.wikipedia.org/?curid=19888."
+  }
+}

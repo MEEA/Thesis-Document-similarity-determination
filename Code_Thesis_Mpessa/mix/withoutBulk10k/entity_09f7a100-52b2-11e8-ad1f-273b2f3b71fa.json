@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13479",
+  "eid" : "09f7a100-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778525968,
+  "textBody" : "HCI may refer to:\n\nComputing\n\n* Happy Computers, an American computer hardware manufacturer\n* Home Computer Initiative, a United Kingdom government programme to increase computers usage\n* Host controller interface (disambiguation), various computer interfaces\n* Human–computer interaction, the study of how people interact with computers\n** Human-computer interaction (security), the study of how people interact with computers concerning information security\n* Hyper-converged infrastructure, an IT infrastructure framework for integrating storage, networking and virtualization computing in a data center.\n\nEducation\n\n* Harbord Collegiate Institute, a school in Toronto, Canada\n* Humberside Collegiate Institute, a school in Toronto, Canada\n* Hwa Chong Institution, a school in Singapore\n\nScience\n\n* Highly charged ion\n* Hot carriers injection, in solid-state electronic devices\n* Hydrocarbon indicator, in reflection seismology\n\nOrganizations\n\n* Handgun Control, Inc., the former name of the Brady Campaign to Prevent Gun Violence\n* Harrisburg City Islanders, a soccer club from the United States\n* HCI Books (Health Communications Inc), an American publishing house, see What the Bleep Do We Know!?\n* Human Concern International, a Canadian relief and development organization\n* Huntsman Cancer Institute, an American cancer research facility and hospital\n\nOther uses \n\n* Heavy-Chemical Industry Drive, a former economic development plan of South Korea",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "HCI" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13479" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "HCI may refer to:\n\nComputing\n\n* Happy Computers, an American computer hardware manufacturer\n* Home Computer Initiative, a United Kingdom government programme to increase computers usage\n* Host controller interface (disambiguation), various computer interfaces\n* Human–computer interaction, the study of how people interact with computers\n** Human-computer interaction (security), the study of how people interact with computers concerning information security\n* Hyper-converged infrastructure, an IT infrastructure framework for integrating storage, networking and virtualization computing in a data center.\n\nEducation\n\n* Harbord Collegiate Institute, a school in Toronto, Canada\n* Humberside Collegiate Institute, a school in Toronto, Canada\n* Hwa Chong Institution, a school in Singapore\n\nScience\n\n* Highly charged ion\n* Hot carriers injection, in solid-state electronic devices\n* Hydrocarbon indicator, in reflection seismology\n\nOrganizations\n\n* Handgun Control, Inc., the former name of the Brady Campaign to Prevent Gun Violence\n* Harrisburg City Islanders, a soccer club from the United States\n* HCI Books (Health Communications Inc), an American publishing house, see What the Bleep Do We Know!?\n* Human Concern International, a Canadian relief and development organization\n* Huntsman Cancer Institute, an American cancer research facility and hospital\n\nOther uses \n\n* Heavy-Chemical Industry Drive, a former economic development plan of South Korea. HCI. http://en.wikipedia.org/?curid=13479."
+  }
+}

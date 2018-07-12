@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10497",
+  "eid" : "f5df9600-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778492256,
+  "textBody" : "Suzaku, Su-zaku, or Su-Zaku may refer to:\n* Vermilion Bird (Zhū Què), whose Japanese name is Suzaku, the bird guardian of the South and one of the Four Symbols of Chinese constellations\n* Suzaku (film), a 1997 Japanese film by Naomi Kawase\n* Emperor Suzaku (922–952), emperor of Japan\n* Emperor Go-Suzaku (1009–1045), emperor of Japan\n* SUZAK Inc., also known as Suzaku, a video game developer\n* Suzaku Avenue, one of the ancient main streets in Kyoto and Nara, Japan\n* Suzaku (satellite), the name given in 2005 to an ASTRO-EII spacecraft, a joint venture of NASA and the Japanese Space Agency JAXA\n\nFiction\n\n* Suzaku, Japanese name for the Vermilion Bird.\n* Suzaku (YuYu Hakusho), a character in YuYu Hakusho media\n* Suzaku Kururugi, a character in the anime series Code Geass: Lelouch of the Rebellion\n* Suzaku, an enemy in the PlayStation game SaGa Frontier\n* Suzaku, a character in Descendants of Darkness (Yami no Matsuei) who is one of Tsuzuki's shikigami, or guardian beasts\n* Suzaku, a character in the game Flying Dragon\n* Suzaku Seikun, a god-character in Fushigi Yûgi\n* Suzaku, the bitbeast companion of Kai Hiwatari in the Beyblade franchise\n* Suzaku, an antagonist of the game Tenchu 2: Birth of the Stealth Assassins\n* Suzaku, the 23rd rank in the video game Tekken Tag Tournament 2\n* Ryu Suzaku, the protagonist of the anime series F-Zero: Legend of the Falcon (F-Zero GP Legend), known in English as Rick Wheeler\n* Suzaku City, A fictional city in the PlayStation game Digimon World 3",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Suzaku" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10497" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Suzaku, Su-zaku, or Su-Zaku may refer to:\n* Vermilion Bird (Zhū Què), whose Japanese name is Suzaku, the bird guardian of the South and one of the Four Symbols of Chinese constellations\n* Suzaku (film), a 1997 Japanese film by Naomi Kawase\n* Emperor Suzaku (922–952), emperor of Japan\n* Emperor Go-Suzaku (1009–1045), emperor of Japan\n* SUZAK Inc., also known as Suzaku, a video game developer\n* Suzaku Avenue, one of the ancient main streets in Kyoto and Nara, Japan\n* Suzaku (satellite), the name given in 2005 to an ASTRO-EII spacecraft, a joint venture of NASA and the Japanese Space Agency JAXA\n\nFiction\n\n* Suzaku, Japanese name for the Vermilion Bird.\n* Suzaku (YuYu Hakusho), a character in YuYu Hakusho media\n* Suzaku Kururugi, a character in the anime series Code Geass: Lelouch of the Rebellion\n* Suzaku, an enemy in the PlayStation game SaGa Frontier\n* Suzaku, a character in Descendants of Darkness (Yami no Matsuei) who is one of Tsuzuki's shikigami, or guardian beasts\n* Suzaku, a character in the game Flying Dragon\n* Suzaku Seikun, a god-character in Fushigi Yûgi\n* Suzaku, the bitbeast companion of Kai Hiwatari in the Beyblade franchise\n* Suzaku, an antagonist of the game Tenchu 2: Birth of the Stealth Assassins\n* Suzaku, the 23rd rank in the video game Tekken Tag Tournament 2\n* Ryu Suzaku, the protagonist of the anime series F-Zero: Legend of the Falcon (F-Zero GP Legend), known in English as Rick Wheeler\n* Suzaku City, A fictional city in the PlayStation game Digimon World 3. Suzaku. http://en.wikipedia.org/?curid=10497."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17245",
+  "eid" : "2ae24b90-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778581193,
+  "textBody" : "Karl Gustav Henry Folmer Ahlefeldt (13 March 1910 – 25 March 1985) was a Danish film actor. He appeared in the Carl Theodor Dreyer masterpiece Gertrud (1965).\n\nFilmography\n\n* Familien Olsen – 1940\n* Sommerglæder – 1940\n* Tante Cramers testamente – 1941\n* Søren Søndervold – 1942\n* Hans onsdagsveninde – 1943\n* Elly Petersen – 1944\n* Teatertosset – 1944\n* Hans store aften – 1946\n* Op med lille Martha – 1946\n* Når katten er ude – 1947\n* Tre år efter – 1948\n* I gabestokken – 1950\n* Nålen – 1951\n* Frihed forpligter – 1951\n* Alt dette og Island med – 1951\n* Tag til marked i Fjordby – 1957\n* Det lille hotel – 1958\n* Mariannes bryllup – 1958\n* Gøngehøvdingen – 1961\n* Gertrud – 1964\n* Hurra for de blå husarer – 1970\n* Bejleren – en jysk røverhistorie – 1975\n* Familien Gyldenkål – 1975",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Karl Gustav Ahlefeldt" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17245" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Karl Gustav Henry Folmer Ahlefeldt (13 March 1910 – 25 March 1985) was a Danish film actor. He appeared in the Carl Theodor Dreyer masterpiece Gertrud (1965).\n\nFilmography\n\n* Familien Olsen – 1940\n* Sommerglæder – 1940\n* Tante Cramers testamente – 1941\n* Søren Søndervold – 1942\n* Hans onsdagsveninde – 1943\n* Elly Petersen – 1944\n* Teatertosset – 1944\n* Hans store aften – 1946\n* Op med lille Martha – 1946\n* Når katten er ude – 1947\n* Tre år efter – 1948\n* I gabestokken – 1950\n* Nålen – 1951\n* Frihed forpligter – 1951\n* Alt dette og Island med – 1951\n* Tag til marked i Fjordby – 1957\n* Det lille hotel – 1958\n* Mariannes bryllup – 1958\n* Gøngehøvdingen – 1961\n* Gertrud – 1964\n* Hurra for de blå husarer – 1970\n* Bejleren – en jysk røverhistorie – 1975\n* Familien Gyldenkål – 1975. Karl Gustav Ahlefeldt. http://en.wikipedia.org/?curid=17245."
+  }
+}

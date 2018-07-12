@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19123",
+  "eid" : "3825d561-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778603446,
+  "textBody" : "Telephones - Fixedline's in use:\n21,000 (1999)\n\nTelephones - Mobile Cellular:\n344,000 (2007)\n\nTelephone system:\ndomestic:\ninteratoll communication through microwave links; all inhabited islands are connected with telephone and fax service\ninternational:\nsatellite earth station - 3 Intelsat (Indian Ocean)\n\nRadio broadcast stations:\nAM 1, FM 5, shortwave 1 (2008)\n\nRadios:\n35,000 (1999)\n\nTelevision broadcast stations:\n9 (2009)\n\nTelevisions:\n10,000 (1999)\n\nInternet Service Providers (ISPs):\n3 (2003)\n\nInternet users:\n20,000 (2008)\n\nCountry code (Top level domain): MV\n\nMV Domain registrar: http://www.dhivehinet.net.mv\n\n Some Useful links",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Telecommunications in the Maldives" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19123" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Telephones - Fixedline's in use:\n21,000 (1999)\n\nTelephones - Mobile Cellular:\n344,000 (2007)\n\nTelephone system:\ndomestic:\ninteratoll communication through microwave links; all inhabited islands are connected with telephone and fax service\ninternational:\nsatellite earth station - 3 Intelsat (Indian Ocean)\n\nRadio broadcast stations:\nAM 1, FM 5, shortwave 1 (2008)\n\nRadios:\n35,000 (1999)\n\nTelevision broadcast stations:\n9 (2009)\n\nTelevisions:\n10,000 (1999)\n\nInternet Service Providers (ISPs):\n3 (2003)\n\nInternet users:\n20,000 (2008)\n\nCountry code (Top level domain): MV\n\nMV Domain registrar: http://www.dhivehinet.net.mv\n\n Some Useful links. Telecommunications in the Maldives. http://en.wikipedia.org/?curid=19123."
+  }
+}

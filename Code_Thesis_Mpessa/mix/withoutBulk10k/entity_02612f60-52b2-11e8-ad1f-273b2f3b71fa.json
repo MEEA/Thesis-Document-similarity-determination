@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12434",
+  "eid" : "02612f60-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778513238,
+  "textBody" : "Grains are coarse particles such as sand particles, salt particles or seeds:\n*Food grains, the small, hard, fruits or seeds of arable crops or the crops bearing these fruits or seeds. Includes the:\n**cereal grains (caryopsis of grass plants)\n***Whole grains, the cereal grains that contain bran and germ as well as the endosperm\n**pseudocereals: starchy grains produced by broadleaf plants; used like true cereals\n**pulses or grain legumes\n**oilseeds\n*Film grain, the gritty texture sometimes apparent on images produced using photographic film or paper (grainy)\n*\"Fine-grained\", designating a more finely differentiated form of a technical or abstract system, in contrast to \"coarse-grained\", a less differentiated one\n*Grain (unit), a unit of mass equal to 64.79891 milligrams,  of an avoirdupois pound\n*Grain size (or particle size), for particles of rock in geology\n*Crystallite or \"grain\" in metallurgy, a single crystal inside solid-state matter\n*Grain, a solid propellant charge, roughly a hollow cylinder, sometimes textured, and possibly very large\n*Granular synthesis, a method for digital musical instruments operating on the \"microsound\" time scale\n*Grain (surfboard company), a company that manufactures hollow wooden surfboards\n*Wood grain, the alignment and texture of the fibres in wood\n\nOr, more generally:\n*Grain (cipher), a stream cipher designed for restricted hardware environments and submitted to eSTREAM in 2004 by Martin Hell et al.\n*Grain (textile), the orientation of a woven textile used in a garment.\n*Isle of Grain in Kent, England, on which lies the village of Grain\n*GRAIN, an international non-governmental organization for sustainable agriculture\n\nGrain may also refer to:\n*Grain (magazine), a Canadian literary magazine\n*Grain (film), 2015 film\n*Border clans in Scotland\n*Grains per gallon, a unit of water hardness\n*Grain Power Station,  a power station in England",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Grain (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12434" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Grains are coarse particles such as sand particles, salt particles or seeds:\n*Food grains, the small, hard, fruits or seeds of arable crops or the crops bearing these fruits or seeds. Includes the:\n**cereal grains (caryopsis of grass plants)\n***Whole grains, the cereal grains that contain bran and germ as well as the endosperm\n**pseudocereals: starchy grains produced by broadleaf plants; used like true cereals\n**pulses or grain legumes\n**oilseeds\n*Film grain, the gritty texture sometimes apparent on images produced using photographic film or paper (grainy)\n*\"Fine-grained\", designating a more finely differentiated form of a technical or abstract system, in contrast to \"coarse-grained\", a less differentiated one\n*Grain (unit), a unit of mass equal to 64.79891 milligrams,  of an avoirdupois pound\n*Grain size (or particle size), for particles of rock in geology\n*Crystallite or \"grain\" in metallurgy, a single crystal inside solid-state matter\n*Grain, a solid propellant charge, roughly a hollow cylinder, sometimes textured, and possibly very large\n*Granular synthesis, a method for digital musical instruments operating on the \"microsound\" time scale\n*Grain (surfboard company), a company that manufactures hollow wooden surfboards\n*Wood grain, the alignment and texture of the fibres in wood\n\nOr, more generally:\n*Grain (cipher), a stream cipher designed for restricted hardware environments and submitted to eSTREAM in 2004 by Martin Hell et al.\n*Grain (textile), the orientation of a woven textile used in a garment.\n*Isle of Grain in Kent, England, on which lies the village of Grain\n*GRAIN, an international non-governmental organization for sustainable agriculture\n\nGrain may also refer to:\n*Grain (magazine), a Canadian literary magazine\n*Grain (film), 2015 film\n*Border clans in Scotland\n*Grains per gallon, a unit of water hardness\n*Grain Power Station,  a power station in England. Grain (disambiguation). http://en.wikipedia.org/?curid=12434."
+  }
+}

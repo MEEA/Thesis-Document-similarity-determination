@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19929",
+  "eid" : "3ed25c30-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778614643,
+  "textBody" : "Mensa or Mensae (genitive form) may refer to:\n\n*Mensa (name)\n*Mensa (constellation), a constellation in the southern sky\n*Mensa (ecclesiastical)\n*Mensa (geology), an extraterrestrial area of raised land\n*Mensa International, an organization for people with a high intelligence quotient (IQ)\n*Mensa Christi Church in northern Israel\n*Ayi Mensa, a village in Ghana",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Mensa" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19929" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Mensa or Mensae (genitive form) may refer to:\n\n*Mensa (name)\n*Mensa (constellation), a constellation in the southern sky\n*Mensa (ecclesiastical)\n*Mensa (geology), an extraterrestrial area of raised land\n*Mensa International, an organization for people with a high intelligence quotient (IQ)\n*Mensa Christi Church in northern Israel\n*Ayi Mensa, a village in Ghana. Mensa. http://en.wikipedia.org/?curid=19929."
+  }
+}

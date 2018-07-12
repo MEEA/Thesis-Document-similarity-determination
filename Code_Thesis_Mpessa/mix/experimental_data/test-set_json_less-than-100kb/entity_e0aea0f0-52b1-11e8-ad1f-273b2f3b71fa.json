@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7253",
+  "eid" : "e0aea0f0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778456703,
+  "textBody" : "Cartesian means of or relating to the French philosopher René Descartes—from his Latinized name Cartesius. It may refer to:\n\nMathematics\n\n*Cartesian closed category, a closed category in category theory\n*Cartesian coordinate system, modern rectangular coordinate system\n*Cartesian diagram, a construction in category theory\n*Cartesian geometry, now more commonly called analytic geometry\n*Cartesian morphism, formalisation of pull-back operation in category theory\n*Cartesian oval, a curve\n*Cartesian product, a direct product of two sets\n*Cartesian product of graphs, a binary operation on graphs\n*Cartesian tree, a binary tree in computer science\n\nPhilosophy\n\n*Cartesian anxiety, a hope that studying the world will give us unchangeable knowledge of ourselves and the world\n*Cartesian circle, a potential mistake in reasoning\n*Cartesian dualism, the philosophy of the distinction between mind and body\n**Cartesianism, the philosophy of René Descartes\n**Cartesianists, followers of Cartesianism\n*Cartesian Meditations, a work by Edmund Husserl\n*Cartesian linguistics, a work by Noam Chomsky\n*Cartesian theatre, a derisive view of Cartesian dualism coined by Daniel Dennett\n\nScience\n\n*Cartesian diver, a science experiment demonstrating buoyancy and the ideal gas law\n*Cartesian physics, attempts to explain gravity without a need for action at distance",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Cartesian" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7253" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Cartesian means of or relating to the French philosopher René Descartes—from his Latinized name Cartesius. It may refer to:\n\nMathematics\n\n*Cartesian closed category, a closed category in category theory\n*Cartesian coordinate system, modern rectangular coordinate system\n*Cartesian diagram, a construction in category theory\n*Cartesian geometry, now more commonly called analytic geometry\n*Cartesian morphism, formalisation of pull-back operation in category theory\n*Cartesian oval, a curve\n*Cartesian product, a direct product of two sets\n*Cartesian product of graphs, a binary operation on graphs\n*Cartesian tree, a binary tree in computer science\n\nPhilosophy\n\n*Cartesian anxiety, a hope that studying the world will give us unchangeable knowledge of ourselves and the world\n*Cartesian circle, a potential mistake in reasoning\n*Cartesian dualism, the philosophy of the distinction between mind and body\n**Cartesianism, the philosophy of René Descartes\n**Cartesianists, followers of Cartesianism\n*Cartesian Meditations, a work by Edmund Husserl\n*Cartesian linguistics, a work by Noam Chomsky\n*Cartesian theatre, a derisive view of Cartesian dualism coined by Daniel Dennett\n\nScience\n\n*Cartesian diver, a science experiment demonstrating buoyancy and the ideal gas law\n*Cartesian physics, attempts to explain gravity without a need for action at distance. Cartesian. http://en.wikipedia.org/?curid=7253."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12193",
+  "eid" : "00e564d0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778510749,
+  "textBody" : "Transport infrastructure in Guinea-Bissau is basic, with most roads outside the capital being unpaved.\n\nRailways \n\nThere are no railways in Guinea-Bissau.\nIn 1998 an agreement was signed between Portugal and Guinea-Bissau for construction of railway to Guinea.http://www.alertnet.org/thefacts/countryprofiles/216152.htm?vdetailshttp://www.cenimar.com/factbook/trend.jsp?tickerBase\nW_RAI_&countryCode=EK\n\nRoads \n\n* Total: 4,400 km\n* Paved: 453 km\n* Unpaved: 3,947 km (1996 est.)\nThe Trans–West African Coastal Highway crosses Guinea-Bissau, connecting it to Banjul (the Gambia), Conakry (Guinea), and eventually to 11 other nations of the Economic Community of West African States (ECOWAS).\n\nWaterways \n\nSeveral rivers are accessible to coastal shipping\n\nSeaports and harbours \n\n*Port of Bissau\n*Buba\n*Cacheu\n*Farim\n\nMerchant Marine \n\nIn 1999 no merchant vessels were operating.\n\nAirports \n\nThe main airport serving the country, and the only one with scheduled commercial service, is Osvaldo Vieira International Airport in Bissau.\n\n* 30 (1999 est.)\n\nPaved runways:\n\n* 3 (Osvaldo Vieira International Airport, Cufar Airport, and Bubaque Airport)\n\n Over 3, 047 m:\n\n* 1\n\n1,524 to 2,437 m:\n\n* 1\n\n914 to 1,523 m:\n\n* 1\n\nUnpaved runways:\n\n* 27\n\n1,524 to 2,437 m:\n\n*1\n\n914 to 1,523 m:\n\n* 4\n\nunder 914 m:\n\n* 22 (1999 est.)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Transport in Guinea-Bissau" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12193" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Transport infrastructure in Guinea-Bissau is basic, with most roads outside the capital being unpaved.\n\nRailways \n\nThere are no railways in Guinea-Bissau.\nIn 1998 an agreement was signed between Portugal and Guinea-Bissau for construction of railway to Guinea.http://www.alertnet.org/thefacts/countryprofiles/216152.htm?vdetailshttp://www.cenimar.com/factbook/trend.jsp?tickerBase\nW_RAI_&countryCode=EK\n\nRoads \n\n* Total: 4,400 km\n* Paved: 453 km\n* Unpaved: 3,947 km (1996 est.)\nThe Trans–West African Coastal Highway crosses Guinea-Bissau, connecting it to Banjul (the Gambia), Conakry (Guinea), and eventually to 11 other nations of the Economic Community of West African States (ECOWAS).\n\nWaterways \n\nSeveral rivers are accessible to coastal shipping\n\nSeaports and harbours \n\n*Port of Bissau\n*Buba\n*Cacheu\n*Farim\n\nMerchant Marine \n\nIn 1999 no merchant vessels were operating.\n\nAirports \n\nThe main airport serving the country, and the only one with scheduled commercial service, is Osvaldo Vieira International Airport in Bissau.\n\n* 30 (1999 est.)\n\nPaved runways:\n\n* 3 (Osvaldo Vieira International Airport, Cufar Airport, and Bubaque Airport)\n\n Over 3, 047 m:\n\n* 1\n\n1,524 to 2,437 m:\n\n* 1\n\n914 to 1,523 m:\n\n* 1\n\nUnpaved runways:\n\n* 27\n\n1,524 to 2,437 m:\n\n*1\n\n914 to 1,523 m:\n\n* 4\n\nunder 914 m:\n\n* 22 (1999 est.). Transport in Guinea-Bissau. http://en.wikipedia.org/?curid=12193."
+  }
+}

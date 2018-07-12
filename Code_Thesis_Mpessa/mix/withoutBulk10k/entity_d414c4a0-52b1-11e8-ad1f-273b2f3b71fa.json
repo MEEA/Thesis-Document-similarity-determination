@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=5342",
+  "eid" : "d414c4a0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778435562,
+  "textBody" : "Commentary or commentaries may refer to:\n\nPublications\n\n* Commentary (magazine), a U.S. public affairs journal, founded in 1945 and formerly published by the American Jewish Committee\n* Caesar's Commentaries (disambiguation), a number of works by or attributed to Julius Caesar\n* Commentaries on the Laws of England, a 1769 treatise on the common law of England by Sir William Blackstone\n* Commentaries on Living, a series of books by Jiddu Krishnamurti originally published in 1956, 1958 and 1960\n* Commentary on Job, a sixth-century treatise by Saint Gregory\n* Commentary of Zuo, one of the earliest Chinese works of narrative history, covering the period from 722 to 468 BCE\n* Commentaries, a work attributed to Taautus\n\nOther uses\n\n* Commentary (philology), a line-by-line or even word-by-word explication of a text\n* Audio commentary track for DVDs, an additional audio track that plays in real time with video and comments on the video\n* Sports commentary or play-by-play,  a running description of a game or event in real time, usually during a live broadcast\n** Color commentary, supplementing play-by-play commentary, often filling in any time when play is not in progress\n* Atthakatha, commentaries on the Pāli Canon in Theravāda Buddhism\n* Criticism, the practice of judging the merits and faults of something or someone\n* Commentary! The Musical, the musical commentary accompanying Dr. Horrible's Sing-Along Blog\n* Commentary or narration, the words in a documentary film\n* Exegesis or Bible commentary, a critical explanation or interpretation of a text, especially a religious text\n* Literary criticism, the study, evaluation, and interpretation of literature\n** Close reading in literary criticism, the careful, sustained interpretation of a brief passage of text\n* Political criticism or political commentary, criticism that is specific of or relevant to politics",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Commentary" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=5342" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Commentary or commentaries may refer to:\n\nPublications\n\n* Commentary (magazine), a U.S. public affairs journal, founded in 1945 and formerly published by the American Jewish Committee\n* Caesar's Commentaries (disambiguation), a number of works by or attributed to Julius Caesar\n* Commentaries on the Laws of England, a 1769 treatise on the common law of England by Sir William Blackstone\n* Commentaries on Living, a series of books by Jiddu Krishnamurti originally published in 1956, 1958 and 1960\n* Commentary on Job, a sixth-century treatise by Saint Gregory\n* Commentary of Zuo, one of the earliest Chinese works of narrative history, covering the period from 722 to 468 BCE\n* Commentaries, a work attributed to Taautus\n\nOther uses\n\n* Commentary (philology), a line-by-line or even word-by-word explication of a text\n* Audio commentary track for DVDs, an additional audio track that plays in real time with video and comments on the video\n* Sports commentary or play-by-play,  a running description of a game or event in real time, usually during a live broadcast\n** Color commentary, supplementing play-by-play commentary, often filling in any time when play is not in progress\n* Atthakatha, commentaries on the Pāli Canon in Theravāda Buddhism\n* Criticism, the practice of judging the merits and faults of something or someone\n* Commentary! The Musical, the musical commentary accompanying Dr. Horrible's Sing-Along Blog\n* Commentary or narration, the words in a documentary film\n* Exegesis or Bible commentary, a critical explanation or interpretation of a text, especially a religious text\n* Literary criticism, the study, evaluation, and interpretation of literature\n** Close reading in literary criticism, the careful, sustained interpretation of a brief passage of text\n* Political criticism or political commentary, criticism that is specific of or relevant to politics. Commentary. http://en.wikipedia.org/?curid=5342."
+  }
+}

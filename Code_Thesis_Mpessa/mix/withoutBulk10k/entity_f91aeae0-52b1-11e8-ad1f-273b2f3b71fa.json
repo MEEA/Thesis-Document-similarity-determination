@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11003",
+  "eid" : "f91aeae0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778497678,
+  "textBody" : "Five-spice powder is a spice mixture of five or more spices used predominantly in Chinese and Taiwanese cuisine and also used less commonly in other Asian and Arabic cookery. Five-spice powder encompasses the five basic flavors: sweet, sour, bitter, salty and umami.https://www.thespruce.com/how-to-make-five-spice-powder-4065302\n\nFive-spice powder is used for cocktails as well.\n\nRecipe\n\nWhile there are many variants, a common mix is:[http://www.theepicentre.com/Spices/chinesefivespice.html Chinese Five Spice] at The Epicentre\n*Star anise (bā jiǎo 八角) \n*Cloves (dīng xiāng 丁香)\n*Chinese cinnamon (ròu guì 肉桂)\n*Sichuan pepper (huā jiāo 花椒)\n*Fennel seeds (xiǎo huí xiāng 小茴香)\nOther recipes may contain anise seed, ginger root, nutmeg, turmeric, Amomum villosum pods (砂仁), Amomum cardamomum pods (白豆蔻), licorice, Mandarin orange peel or galangal. In Southern China, Cinnamomum loureiroi and Mandarin orange peel are commonly used as substitutes for Cinnamomum cassia and cloves respectively, producing a slightly different flavour profile for southern five-spice powders.\n\nUse\n\nFive spice may be used with fatty meats such as pork, duck or goose. It is used as a spice rub for chicken, duck, pork and seafood, in red cooking recipes, or added to the breading for fried foods. Five spice is used in recipes for Cantonese roasted duck, as well as beef stew. It is used as a marinade for Vietnamese broiled chicken. The five-spice powder mixture has followed the Chinese diaspora and has been incorporated into other national cuisines throughout Asia.\n\nAlthough this mixture is used in restaurant cooking, few Chinese households use it in day-to-day cooking.  In Hawaii, some restaurants place a shaker of the spice on each patron's table. A seasoned salt can be easily made by dry-roasting common salt with five-spice powder under low heat in a dry pan until the spice and salt are well mixed.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Five-spice powder" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11003" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Five-spice powder is a spice mixture of five or more spices used predominantly in Chinese and Taiwanese cuisine and also used less commonly in other Asian and Arabic cookery. Five-spice powder encompasses the five basic flavors: sweet, sour, bitter, salty and umami.https://www.thespruce.com/how-to-make-five-spice-powder-4065302\n\nFive-spice powder is used for cocktails as well.\n\nRecipe\n\nWhile there are many variants, a common mix is:[http://www.theepicentre.com/Spices/chinesefivespice.html Chinese Five Spice] at The Epicentre\n*Star anise (bā jiǎo 八角) \n*Cloves (dīng xiāng 丁香)\n*Chinese cinnamon (ròu guì 肉桂)\n*Sichuan pepper (huā jiāo 花椒)\n*Fennel seeds (xiǎo huí xiāng 小茴香)\nOther recipes may contain anise seed, ginger root, nutmeg, turmeric, Amomum villosum pods (砂仁), Amomum cardamomum pods (白豆蔻), licorice, Mandarin orange peel or galangal. In Southern China, Cinnamomum loureiroi and Mandarin orange peel are commonly used as substitutes for Cinnamomum cassia and cloves respectively, producing a slightly different flavour profile for southern five-spice powders.\n\nUse\n\nFive spice may be used with fatty meats such as pork, duck or goose. It is used as a spice rub for chicken, duck, pork and seafood, in red cooking recipes, or added to the breading for fried foods. Five spice is used in recipes for Cantonese roasted duck, as well as beef stew. It is used as a marinade for Vietnamese broiled chicken. The five-spice powder mixture has followed the Chinese diaspora and has been incorporated into other national cuisines throughout Asia.\n\nAlthough this mixture is used in restaurant cooking, few Chinese households use it in day-to-day cooking.  In Hawaii, some restaurants place a shaker of the spice on each patron's table. A seasoned salt can be easily made by dry-roasting common salt with five-spice powder under low heat in a dry pan until the spice and salt are well mixed. Five-spice powder. http://en.wikipedia.org/?curid=11003."
+  }
+}

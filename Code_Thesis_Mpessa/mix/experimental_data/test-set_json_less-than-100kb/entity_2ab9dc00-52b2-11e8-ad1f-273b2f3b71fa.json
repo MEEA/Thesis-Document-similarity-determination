@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17147",
+  "eid" : "2ab9dc00-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778580928,
+  "textBody" : "A killer micro is a microprocessor-based machine that infringes on mini, mainframe, or supercomputer performance turf. It originally referred to the replacement of vector supercomputers built with bipolar technology by Massively Parallel Processors (MPP) assembled from a larger number of lower performing microprocessors.  These systems faced initial skepticism, based on the assumption that applications do not have significant parallelism, because of Amdahl's law, but the success of early systems such as nCUBE and the fast progress in microprocessor performance following Moore's law led to a fast replacement.\n\nTaken from the title of Eugene Brooks' (of Lawrence Livermore Lab) talk  \"Attack of the Killer Micros\" at Supercomputing 1990. This title was probably chosen after the Attack of the Killer Tomatoes cult film.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Killer micro" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17147" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A killer micro is a microprocessor-based machine that infringes on mini, mainframe, or supercomputer performance turf. It originally referred to the replacement of vector supercomputers built with bipolar technology by Massively Parallel Processors (MPP) assembled from a larger number of lower performing microprocessors.  These systems faced initial skepticism, based on the assumption that applications do not have significant parallelism, because of Amdahl's law, but the success of early systems such as nCUBE and the fast progress in microprocessor performance following Moore's law led to a fast replacement.\n\nTaken from the title of Eugene Brooks' (of Lawrence Livermore Lab) talk  \"Attack of the Killer Micros\" at Supercomputing 1990. This title was probably chosen after the Attack of the Killer Tomatoes cult film. Killer micro. http://en.wikipedia.org/?curid=17147."
+  }
+}

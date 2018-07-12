@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=4479",
+  "eid" : "ce4927f0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778425839,
+  "textBody" : "BCE or B.C.E. may stand for:\n* Before Common Era, an alternative to BC\n* Bachelor of Civil Engineering, an academic degree\n* European Central Bank in some Romance languages (e.g., Banque Centrale Européenne, Banco Central Europeo)\n* Banco Central del Ecuador\n* The office complex in downtown Toronto, Canada formerly known as BCE Place, now Brookfield Place\n* Basic Chess Endings, a chess book on chess endgames by Reuben Fine\n* Beauce region of the Province of France\n* BCE Inc. (formerly Bell Canada Enterprises), the largest telecom corporation in Canada\n* Behind Crimson Eyes, a hard rock band from Melbourne, Australia\n* Bhagalpur College of Engineering\n* Boundary Commission for England\n* British Columbia Hydro and Power Authority (BC Electric) \n* Broadcasting Center Europe, a RTL Group subsidiary\n* Budapesti Corvinus Egyetem, the Hungarian name for Corvinus University of Budapest\n* Business Commitment to the Environment Award, UK environmental award established in 1975\n* Bose–Einstein condensate, a state of matter of a dilute gas of bosons cooled to temperatures very close to absolute zero",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "BCE (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=4479" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "BCE or B.C.E. may stand for:\n* Before Common Era, an alternative to BC\n* Bachelor of Civil Engineering, an academic degree\n* European Central Bank in some Romance languages (e.g., Banque Centrale Européenne, Banco Central Europeo)\n* Banco Central del Ecuador\n* The office complex in downtown Toronto, Canada formerly known as BCE Place, now Brookfield Place\n* Basic Chess Endings, a chess book on chess endgames by Reuben Fine\n* Beauce region of the Province of France\n* BCE Inc. (formerly Bell Canada Enterprises), the largest telecom corporation in Canada\n* Behind Crimson Eyes, a hard rock band from Melbourne, Australia\n* Bhagalpur College of Engineering\n* Boundary Commission for England\n* British Columbia Hydro and Power Authority (BC Electric) \n* Broadcasting Center Europe, a RTL Group subsidiary\n* Budapesti Corvinus Egyetem, the Hungarian name for Corvinus University of Budapest\n* Business Commitment to the Environment Award, UK environmental award established in 1975\n* Bose–Einstein condensate, a state of matter of a dilute gas of bosons cooled to temperatures very close to absolute zero. BCE (disambiguation). http://en.wikipedia.org/?curid=4479."
+  }
+}

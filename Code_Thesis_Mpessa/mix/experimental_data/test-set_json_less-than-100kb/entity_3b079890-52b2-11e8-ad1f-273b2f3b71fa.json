@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19458",
+  "eid" : "3b079890-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778608281,
+  "textBody" : "The Mediterranean is a major body of water south of Europe, west of Asia and north of Africa.\n\nMediterranean may also refer to:\n\nGeography\n\n* Mediterranean sea (oceanography), an oceanographic term to designate a mostly enclosed sea that has limited exchange of deep water with outer oceans\n* Mediterranean Basin, the European, Asian, and African land areas surrounding the Mediterranean Sea\n* Mediterranean climate, a type of climate that resembles the weather in the Mediterranean basin\n* Mediterranean forests, woodlands, and scrub, an ecoregion found in various parts of the world, named for the Mediterranean basin\n\nPolitics and military\n\n* Mediterranean States, the two countries of Cyprus and Malta\n* Mediterranean Union, a political partnership of European, African and Middle Eastern countries\n* Mediterranean Dialogue, a forum of cooperation between NATO and seven countries of the Mediterranean\n* Mediterranean Theater of Operations, a major theatre of World War II\n* Mediterranean pass, a document which identified a ship as being protected under a treaty with states of the Barbary Coast\n* Méditerranée, the name of a historical department of the First French Empire in present-day Italy\n\nOther uses\n\n* \"The Mediterranean\" (La Méditerranée), a historical work by Fernand Braudel\n* Ansa Mediterranean, an Italian news agency\n* Mediterranean League, a football league played in Spain during the Spanish Civil War\n* Mediterranean diet, a modern nutritional recommendation inspired by traditional dietary patterns of Greece, Southern Italy, Spain and Portugal\n** Mediterranean cuisine, the food from the cultures adjacent to the Mediterranean Sea\n* Mediterranean race, a historical racial classification\n* Familial Mediterranean fever, a hereditary inflammatory disorder\n* Mediterranean University, a university located in Podgorica, Montenegro",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Mediterranean (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19458" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The Mediterranean is a major body of water south of Europe, west of Asia and north of Africa.\n\nMediterranean may also refer to:\n\nGeography\n\n* Mediterranean sea (oceanography), an oceanographic term to designate a mostly enclosed sea that has limited exchange of deep water with outer oceans\n* Mediterranean Basin, the European, Asian, and African land areas surrounding the Mediterranean Sea\n* Mediterranean climate, a type of climate that resembles the weather in the Mediterranean basin\n* Mediterranean forests, woodlands, and scrub, an ecoregion found in various parts of the world, named for the Mediterranean basin\n\nPolitics and military\n\n* Mediterranean States, the two countries of Cyprus and Malta\n* Mediterranean Union, a political partnership of European, African and Middle Eastern countries\n* Mediterranean Dialogue, a forum of cooperation between NATO and seven countries of the Mediterranean\n* Mediterranean Theater of Operations, a major theatre of World War II\n* Mediterranean pass, a document which identified a ship as being protected under a treaty with states of the Barbary Coast\n* Méditerranée, the name of a historical department of the First French Empire in present-day Italy\n\nOther uses\n\n* \"The Mediterranean\" (La Méditerranée), a historical work by Fernand Braudel\n* Ansa Mediterranean, an Italian news agency\n* Mediterranean League, a football league played in Spain during the Spanish Civil War\n* Mediterranean diet, a modern nutritional recommendation inspired by traditional dietary patterns of Greece, Southern Italy, Spain and Portugal\n** Mediterranean cuisine, the food from the cultures adjacent to the Mediterranean Sea\n* Mediterranean race, a historical racial classification\n* Familial Mediterranean fever, a hereditary inflammatory disorder\n* Mediterranean University, a university located in Podgorica, Montenegro. Mediterranean (disambiguation). http://en.wikipedia.org/?curid=19458."
+  }
+}

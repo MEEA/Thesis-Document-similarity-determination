@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17226",
+  "eid" : "2ae18840-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778581188,
+  "textBody" : "Kremvax was originally a fictitious Usenet site at the Kremlin, named like the then large number of Usenet VAXen with names of the form foovax. Kremvax was announced on April 1, 1984 in a posting ostensibly originated there by Soviet leader Konstantin Chernenko. The posting was actually forged by Piet Beertema of CWI (in Amsterdam) as an April Fool's joke. Other fictitious sites mentioned in the hoax were moskvax and kgbvax.  The actual origin of the email was mcvax, one of the first European sites on the internet.\n\nSix years later Usenet was joined by demos.su, the first genuine site based in Moscow. Some readers needed convincing that the postings from it were not just another prank. Vadim Antonov, the senior programmer at Demos and the major poster from there until mid-1991, was quite aware of all this, and referred to it frequently in his own postings. Antonov later arranged to have the domain's gateway site named kremvax.demos.su, turning fiction into truth and, according to one account, \"demonstrating that the hackish sense of humor transcends cultural barriers\".Raymond, E. S.: \"The Jargon File\", [http://catb.org/~esr/jargon/html/K/kremvax.html Kremvax entry], 2006",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Kremvax" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17226" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Kremvax was originally a fictitious Usenet site at the Kremlin, named like the then large number of Usenet VAXen with names of the form foovax. Kremvax was announced on April 1, 1984 in a posting ostensibly originated there by Soviet leader Konstantin Chernenko. The posting was actually forged by Piet Beertema of CWI (in Amsterdam) as an April Fool's joke. Other fictitious sites mentioned in the hoax were moskvax and kgbvax.  The actual origin of the email was mcvax, one of the first European sites on the internet.\n\nSix years later Usenet was joined by demos.su, the first genuine site based in Moscow. Some readers needed convincing that the postings from it were not just another prank. Vadim Antonov, the senior programmer at Demos and the major poster from there until mid-1991, was quite aware of all this, and referred to it frequently in his own postings. Antonov later arranged to have the domain's gateway site named kremvax.demos.su, turning fiction into truth and, according to one account, \"demonstrating that the hackish sense of humor transcends cultural barriers\".Raymond, E. S.: \"The Jargon File\", [http://catb.org/~esr/jargon/html/K/kremvax.html Kremvax entry], 2006. Kremvax. http://en.wikipedia.org/?curid=17226."
+  }
+}

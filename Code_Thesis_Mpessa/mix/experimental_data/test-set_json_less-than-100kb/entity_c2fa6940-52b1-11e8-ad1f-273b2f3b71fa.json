@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2899",
+  "eid" : "c2fa6940-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778406868,
+  "textBody" : "ArgoUML is an UML diagramming application written in Java and released under the open-source Eclipse Public License.  By virtue of being a Java application, it is available on any platform supported by Java SE.\n\nHistory\n\nArgoUML was originally developed at UC Irvine by Jason E. Robbins, leading to his Ph.D. It is now an open source project hosted by Tigris.org. The ArgoUML project now includes more than 19,000 registered users and over 150 developers.\n\nIn 2003, ArgoUML won the Software Development Magazine's annual Readers' Choice Award in the “Design and Analysis Tools” category.\n\nArgoUML development has suffered from lack of manpower. For example, Undo has been a perpetually requested feature since 2003 but has not been implemented yet.Issue 1834 (May 5th, 2003): Implement undo. http://argouml.tigris.org/issues/show_bug.cgi?id=1834\n\nFeatures\n\nAccording to the official feature list, ArgoUML is capable of the following: \n*All 9 UML 1.4 diagrams are supported.\n*Closely follows the UML standard.\n*Platform independent – Java 1.5+.\n*Click and Go! with Java Web Start (no setup required, starts from your web browser).\n*Standard UML 1.4 Metamodel.\n*XMI support.\n*Export diagrams as GIF, PNG, PS, EPS, PGML and SVG.\n*Available in ten languages: EN, EN-GB, DE, ES, IT, RU, FR, NB, PT, ZH.\n*Advanced diagram editing and zoom.\n*Built-in design critics provide unobtrusive review of design and suggestions for improvements.\n*Extensible modules interface.\n*OCL support.\n*Forward engineering (code generation supports C++ and C#, Java, PHP 4, PHP 5, Ruby and, with less mature modules, Ada, Delphi and SQL).\n*Reverse engineering / JAR/class file import.\n\nWeaknesses\n\n*ArgoUML does not yet completely implement the UML standard.\n* Partial undo feature (working for graphics edits  Undo working for graphics edits (this is mostly a GEF addition). Undo working for graphics edits (this is mostly a GEF addition).)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "ArgoUML" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2899" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "ArgoUML is an UML diagramming application written in Java and released under the open-source Eclipse Public License.  By virtue of being a Java application, it is available on any platform supported by Java SE.\n\nHistory\n\nArgoUML was originally developed at UC Irvine by Jason E. Robbins, leading to his Ph.D. It is now an open source project hosted by Tigris.org. The ArgoUML project now includes more than 19,000 registered users and over 150 developers.\n\nIn 2003, ArgoUML won the Software Development Magazine's annual Readers' Choice Award in the “Design and Analysis Tools” category.\n\nArgoUML development has suffered from lack of manpower. For example, Undo has been a perpetually requested feature since 2003 but has not been implemented yet.Issue 1834 (May 5th, 2003): Implement undo. http://argouml.tigris.org/issues/show_bug.cgi?id=1834\n\nFeatures\n\nAccording to the official feature list, ArgoUML is capable of the following: \n*All 9 UML 1.4 diagrams are supported.\n*Closely follows the UML standard.\n*Platform independent – Java 1.5+.\n*Click and Go! with Java Web Start (no setup required, starts from your web browser).\n*Standard UML 1.4 Metamodel.\n*XMI support.\n*Export diagrams as GIF, PNG, PS, EPS, PGML and SVG.\n*Available in ten languages: EN, EN-GB, DE, ES, IT, RU, FR, NB, PT, ZH.\n*Advanced diagram editing and zoom.\n*Built-in design critics provide unobtrusive review of design and suggestions for improvements.\n*Extensible modules interface.\n*OCL support.\n*Forward engineering (code generation supports C++ and C#, Java, PHP 4, PHP 5, Ruby and, with less mature modules, Ada, Delphi and SQL).\n*Reverse engineering / JAR/class file import.\n\nWeaknesses\n\n*ArgoUML does not yet completely implement the UML standard.\n* Partial undo feature (working for graphics edits  Undo working for graphics edits (this is mostly a GEF addition). Undo working for graphics edits (this is mostly a GEF addition).). ArgoUML. http://en.wikipedia.org/?curid=2899."
+  }
+}

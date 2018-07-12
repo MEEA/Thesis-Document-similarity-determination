@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10413",
+  "eid" : "f5a60f70-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778491879,
+  "textBody" : "The Enchiridion or Manual of Epictetus (, Enkheirídion Epiktḗtou) (enchiridion is Greek for \"that which is held in the hand\") is a short manual of Stoic ethical advice compiled by Arrian, a 2nd-century disciple of the Greek philosopher Epictetus.\n\nContent\n\nAlthough the content is similar to the Discourses of Epictetus, it is not a summary of the Discourses but rather a compilation of practical precepts. Eschewing metaphysics, Arrian focused his attention on Epictetus's work applying philosophy in daily life. The primary theme is that one should accept what happens:\n\nHowever, \"some things are up to us and some are not up to us\" and we must act accordingly, taking responsibility for planning and enacting what we can with virtue without becoming upset or disheartened by obstacles and reverses beyond our control.\n\nFor many centuries, the Enchiridion maintained its authority both with Christians and Pagans. Two Christian writers—Nilus and an anonymous contemporary—wrote paraphrases of it in the early 5th century and Simplicius of Cilicia wrote a commentary upon it in the 6th. The work was first published in Latin translation by Poliziano in Rome in 1493; Philippus Beroaldus published another edition in Bologna in 1496. The original Greek was first published in Venice with the Simplicius's commentary in 1528 and an English translation appeared as early as 1567. The book was a common school text in Scotland during the Scottish Enlightenment. Adam Smith had a 1670 edition in his library, acquired as a schoolboy.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Enchiridion of Epictetus" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10413" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The Enchiridion or Manual of Epictetus (, Enkheirídion Epiktḗtou) (enchiridion is Greek for \"that which is held in the hand\") is a short manual of Stoic ethical advice compiled by Arrian, a 2nd-century disciple of the Greek philosopher Epictetus.\n\nContent\n\nAlthough the content is similar to the Discourses of Epictetus, it is not a summary of the Discourses but rather a compilation of practical precepts. Eschewing metaphysics, Arrian focused his attention on Epictetus's work applying philosophy in daily life. The primary theme is that one should accept what happens:\n\nHowever, \"some things are up to us and some are not up to us\" and we must act accordingly, taking responsibility for planning and enacting what we can with virtue without becoming upset or disheartened by obstacles and reverses beyond our control.\n\nFor many centuries, the Enchiridion maintained its authority both with Christians and Pagans. Two Christian writers—Nilus and an anonymous contemporary—wrote paraphrases of it in the early 5th century and Simplicius of Cilicia wrote a commentary upon it in the 6th. The work was first published in Latin translation by Poliziano in Rome in 1493; Philippus Beroaldus published another edition in Bologna in 1496. The original Greek was first published in Venice with the Simplicius's commentary in 1528 and an English translation appeared as early as 1567. The book was a common school text in Scotland during the Scottish Enlightenment. Adam Smith had a 1670 edition in his library, acquired as a schoolboy. Enchiridion of Epictetus. http://en.wikipedia.org/?curid=10413."
+  }
+}

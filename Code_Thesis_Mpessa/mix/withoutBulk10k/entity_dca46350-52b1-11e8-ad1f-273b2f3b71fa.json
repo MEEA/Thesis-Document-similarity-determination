@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=6650",
+  "eid" : "dca46350-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778449925,
+  "textBody" : "This is a list of lists of composers grouped by various criteria.\n\nName\n\n*List of composers by name\n\nWomen\n\n*List of female composers by name\n*List of female composers by birth date\n*List of Australian women composers\n\nGenre\n\n*List of Carnatic composers\n*List of film score composers\n*List of classical music composers by era\n*List of major opera composers\n*List of composers of musicals\n*List of musicals by composer: A to L, M to Z\n*List of ragtime composers\n*List of symphony composers\n*List of acousmatic-music composers\n\nEra\n\n*List of classical music composers by era\n*List of medieval composers\n*List of Renaissance composers\n*List of Baroque composers\n*List of Classical-era composers\n*List of Romantic-era composers\n*List of 20th-century classical composers\n*List of 21st-century classical composers\n\nNationality or ethnicity\n\n* Chronological lists of classical composers by nationality\n* List of composers by nationality\n\nInstrument\n\n*List of composers for the classical guitar\n*List of organ composers\n*List of piano composers\n*List of composers and their preferred lyricists\n*List of string quartet composers\n\nClassification\n\n* Chronological lists of classical composers\n* List of Anglican church composers – See also Religious music\n* List of composers of African descent\n* List of composers of Caribbean descent\n* List of composers who studied law \n* List of composers who died before age 50\n* List of modernist composers",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Lists of composers" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=6650" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "This is a list of lists of composers grouped by various criteria.\n\nName\n\n*List of composers by name\n\nWomen\n\n*List of female composers by name\n*List of female composers by birth date\n*List of Australian women composers\n\nGenre\n\n*List of Carnatic composers\n*List of film score composers\n*List of classical music composers by era\n*List of major opera composers\n*List of composers of musicals\n*List of musicals by composer: A to L, M to Z\n*List of ragtime composers\n*List of symphony composers\n*List of acousmatic-music composers\n\nEra\n\n*List of classical music composers by era\n*List of medieval composers\n*List of Renaissance composers\n*List of Baroque composers\n*List of Classical-era composers\n*List of Romantic-era composers\n*List of 20th-century classical composers\n*List of 21st-century classical composers\n\nNationality or ethnicity\n\n* Chronological lists of classical composers by nationality\n* List of composers by nationality\n\nInstrument\n\n*List of composers for the classical guitar\n*List of organ composers\n*List of piano composers\n*List of composers and their preferred lyricists\n*List of string quartet composers\n\nClassification\n\n* Chronological lists of classical composers\n* List of Anglican church composers – See also Religious music\n* List of composers of African descent\n* List of composers of Caribbean descent\n* List of composers who studied law \n* List of composers who died before age 50\n* List of modernist composers. Lists of composers. http://en.wikipedia.org/?curid=6650."
+  }
+}

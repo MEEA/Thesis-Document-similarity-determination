@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15134",
+  "eid" : "1a313950-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778553189,
+  "textBody" : "A lightbulb joke is a joke that asks how many people of a certain group are needed to change, replace, or screw in a light bulb. Generally, the punch line answer highlights a stereotype of the target group. There are numerous versions of the lightbulb joke satirizing a wide range of cultures, beliefs and occupations.\n\nEarly versions of the joke, popular in the late 1960s and the 1970s, were used to insult the intelligence of people, especially Poles (\"Polish jokes\").Dundes, 261.Kerman, 454–5. For instance:\n\nAlthough lightbulb jokes tend to be derogatory in tone (e.g., \"How many drummers...\" / \"Four: one to hold the light bulb and three to drink until the room spins\"), the people targeted by them may take pride in the stereotypes expressed and are often themselves the jokes' originators,Kerman, 456–7 as in \"How many Germans does it take to change a lightbulb? One.\" where the joke itself becomes a statement of ethnic pride. Lightbulb jokes applied to subgroups can be used to ease tensions between them.\n\nVariations \n\nSome versions of the joke are puns on the words \"change\"Dundes in Boskin, 255–6. or \"screw\":Dundes in Boskin, 253–5.\n\nLightbulb jokes may be responses to current events, particularly those related to energy and political power.Dundes in Boskin, 255.\nFor example, the lightbulb may not need to be changed at all due to ongoing power outages.\nThe Village Voice held a $200 lightbulb joke contest around the time of the Iran hostage crisis, with the winning joke being:Dundes, 264.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Lightbulb joke" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15134" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A lightbulb joke is a joke that asks how many people of a certain group are needed to change, replace, or screw in a light bulb. Generally, the punch line answer highlights a stereotype of the target group. There are numerous versions of the lightbulb joke satirizing a wide range of cultures, beliefs and occupations.\n\nEarly versions of the joke, popular in the late 1960s and the 1970s, were used to insult the intelligence of people, especially Poles (\"Polish jokes\").Dundes, 261.Kerman, 454–5. For instance:\n\nAlthough lightbulb jokes tend to be derogatory in tone (e.g., \"How many drummers...\" / \"Four: one to hold the light bulb and three to drink until the room spins\"), the people targeted by them may take pride in the stereotypes expressed and are often themselves the jokes' originators,Kerman, 456–7 as in \"How many Germans does it take to change a lightbulb? One.\" where the joke itself becomes a statement of ethnic pride. Lightbulb jokes applied to subgroups can be used to ease tensions between them.\n\nVariations \n\nSome versions of the joke are puns on the words \"change\"Dundes in Boskin, 255–6. or \"screw\":Dundes in Boskin, 253–5.\n\nLightbulb jokes may be responses to current events, particularly those related to energy and political power.Dundes in Boskin, 255.\nFor example, the lightbulb may not need to be changed at all due to ongoing power outages.\nThe Village Voice held a $200 lightbulb joke contest around the time of the Iran hostage crisis, with the winning joke being:Dundes, 264. Lightbulb joke. http://en.wikipedia.org/?curid=15134."
+  }
+}

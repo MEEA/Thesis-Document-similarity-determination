@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=4162",
+  "eid" : "cb8d1531-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778421251,
+  "textBody" : "Beeb or BEEB may refer to:\n\n*BBC, the British Broadcasting Corporation, sometimes called the Beeb or Auntie Beeb\n*BEEB, a BBC children's magazine published in 1985\n*The BBC Micro home computer, from 1982, built for the BBC by Acorn Computers Ltd.\n*Beeb Birtles, a singer-songwriter and a founding member of Little River Band",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Beeb" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=4162" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Beeb or BEEB may refer to:\n\n*BBC, the British Broadcasting Corporation, sometimes called the Beeb or Auntie Beeb\n*BEEB, a BBC children's magazine published in 1985\n*The BBC Micro home computer, from 1982, built for the BBC by Acorn Computers Ltd.\n*Beeb Birtles, a singer-songwriter and a founding member of Little River Band. Beeb. http://en.wikipedia.org/?curid=4162."
+  }
+}

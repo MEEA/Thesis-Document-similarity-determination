@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17149",
+  "eid" : "2abac660-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778580934,
+  "textBody" : "A kill file (also killfile, bozo bin or twit list) is a per-user file used by some Usenet reading programs to discard articles matching some unwanted patterns of subject, author, or other header lines.  It was first implemented in Larry Wall's rn.\n\nThus to add a person or subject to one's kill file is to arrange for that person or topic to be ignored by one's newsreader in the future. By extension, the term may be used for a decision to ignore the person or subject in other media. Sometimes more than one kill file will be used.  Some newsreader programs also allow the user to specify a time period to keep an author in the kill file.\n\nNewer newsreader software like Gnus often provides a more advanced form of filter known as a score file, which can use multiple rules to determine which articles are shown. Web-based forums usually have a similar feature called an ignore list, which hides any posts by a specific user.\n\nHistory\n\nJerry Pournelle wrote in 1986 of his wish for improvements to a BIX offline reader: \"What I really need, though, is a program that will ... sort through the messages, assigning some to a priority file and others to the bit bucket depending on subject matter and origin\".",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Kill file" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17149" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A kill file (also killfile, bozo bin or twit list) is a per-user file used by some Usenet reading programs to discard articles matching some unwanted patterns of subject, author, or other header lines.  It was first implemented in Larry Wall's rn.\n\nThus to add a person or subject to one's kill file is to arrange for that person or topic to be ignored by one's newsreader in the future. By extension, the term may be used for a decision to ignore the person or subject in other media. Sometimes more than one kill file will be used.  Some newsreader programs also allow the user to specify a time period to keep an author in the kill file.\n\nNewer newsreader software like Gnus often provides a more advanced form of filter known as a score file, which can use multiple rules to determine which articles are shown. Web-based forums usually have a similar feature called an ignore list, which hides any posts by a specific user.\n\nHistory\n\nJerry Pournelle wrote in 1986 of his wish for improvements to a BIX offline reader: \"What I really need, though, is a program that will ... sort through the messages, assigning some to a priority file and others to the bit bucket depending on subject matter and origin\". Kill file. http://en.wikipedia.org/?curid=17149."
+  }
+}

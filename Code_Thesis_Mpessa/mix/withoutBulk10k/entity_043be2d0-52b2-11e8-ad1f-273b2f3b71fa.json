@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12692",
+  "eid" : "043be2d0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778516349,
+  "textBody" : "Gimp or GIMP may refer to:\n\nArts and entertainment\n\n* Gimp (album), by Psylons\n* The GIMP Project, a New York dance company\n* \"The Gimp\", a leather man in the film Pulp Fiction\n\nComputing\n\n* GIMP (GNU Image Manipulation Program), a free and open-source raster graphics and image editor\n* Gimp-Print, a collection of printer drivers\n\nOther uses\n\n* Gimp (gaming), weak game character\n* Gimp (thread), an ornamental trim used in sewing and embroidery\n* Gimp thread, or scoubidou, a plastic thread used in crafts such as lanyards\n* Gimp (sadomasochism), a sexual submissive dressed generally in a bondage suit",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Gimp" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12692" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Gimp or GIMP may refer to:\n\nArts and entertainment\n\n* Gimp (album), by Psylons\n* The GIMP Project, a New York dance company\n* \"The Gimp\", a leather man in the film Pulp Fiction\n\nComputing\n\n* GIMP (GNU Image Manipulation Program), a free and open-source raster graphics and image editor\n* Gimp-Print, a collection of printer drivers\n\nOther uses\n\n* Gimp (gaming), weak game character\n* Gimp (thread), an ornamental trim used in sewing and embroidery\n* Gimp thread, or scoubidou, a plastic thread used in crafts such as lanyards\n* Gimp (sadomasochism), a sexual submissive dressed generally in a bondage suit. Gimp. http://en.wikipedia.org/?curid=12692."
+  }
+}

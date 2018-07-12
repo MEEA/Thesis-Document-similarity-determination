@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=316",
+  "eid" : "81b37170-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778297351,
+  "textBody" : "The Academy Award for Best Production Design recognizes achievement for art direction in film. The category's original name was Best Art Direction, but was changed to its current name in 2012 for the 85th Academy Awards. This change resulted from the Art Director's branch of the Academy of Motion Picture Arts and Sciences (AMPAS) being renamed the Designer's branch. Since 1947, the award is shared with the set decorator(s). It is awarded to the best interior design in a film.\n\nThe films below are listed with their production year (for example, the 2000 Academy Award for Best Art Direction is given to a film from 1999). In the lists below, the winner of the award for each year is shown first, followed by the other nominees.\n\nSuperlatives\n\nWinners and nominees\n\n1920s\n\n1930s\n\n1940s\n\n1950s\n\n1960s\n\n1970s\n\n1980s\n\n1990s\n\n2000s\n\n2010s\n\nNotes",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Academy Award for Best Production Design" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=316" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The Academy Award for Best Production Design recognizes achievement for art direction in film. The category's original name was Best Art Direction, but was changed to its current name in 2012 for the 85th Academy Awards. This change resulted from the Art Director's branch of the Academy of Motion Picture Arts and Sciences (AMPAS) being renamed the Designer's branch. Since 1947, the award is shared with the set decorator(s). It is awarded to the best interior design in a film.\n\nThe films below are listed with their production year (for example, the 2000 Academy Award for Best Art Direction is given to a film from 1999). In the lists below, the winner of the award for each year is shown first, followed by the other nominees.\n\nSuperlatives\n\nWinners and nominees\n\n1920s\n\n1930s\n\n1940s\n\n1950s\n\n1960s\n\n1970s\n\n1980s\n\n1990s\n\n2000s\n\n2010s\n\nNotes. Academy Award for Best Production Design. http://en.wikipedia.org/?curid=316."
+  }
+}

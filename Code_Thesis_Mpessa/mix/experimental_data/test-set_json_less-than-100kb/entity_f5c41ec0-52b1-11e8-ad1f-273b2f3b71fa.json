@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10467",
+  "eid" : "f5c41ec0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778492076,
+  "textBody" : "was the 27th emperor of Japan,Imperial Household Agency (Kunaichō): [http://www.kunaicho.go.jp/ryobo/guide/027/index.html  安閑天皇 (27)] according to the traditional order of succession.Varley, Paul. (1980). Jinnō Shōtōki, p. 120;  Titsingh, Isaac. (1834). \n\nNo firm dates can be assigned to this emperor's life or reign, but he is conventionally considered to have reigned from 531 to 536.Ponsonby-Fane, Richard. (1959). The Imperial House of Japan, p. 44.\n\nLegendary narrative\n\nAccording to the Kojiki Ankan was the elder son of Emperor Keitai, who is considered to have ruled the country during the early-6th century, though there is a paucity of information about him.Kelly, Charles F. [http://www.t-net.ne.jp/~keally/kofun.html  \"Kofun Culture,\"] [http://www.t-net.ne.jp/~keally/index.htm  Japanese Archaeology.] April 27, 2009.  When Ankan was 66 years old, Keitai abdicated in favor of him.\n\nAnkan's contemporary title would not have been tennō, as most historians believe this title was not introduced until the reigns of Emperor Tenmu and Empress Jitō. Rather, it was presumably Sumeramikoto or Amenoshita Shiroshimesu Ōkimi (治天下大王), meaning \"the great king who rules all under heaven.\"  Alternatively, Ankan might have been referred to as (ヤマト大王/大君) or the \"Great King of Yamato.\"\n\nThe most noteworthy event recorded during his reign was the construction of state granaries in large numbers throughout Japan, indicating the broad reach of imperial power at the time.Mason, Joseph. (2002). \n\nAnkan's grave is traditionally associated with the Takayatsukiyama kofun in Habikino, Osaka.\n\nConsorts\n\nEmpress: Kasuga no Yamada no Himemiko (春日山田皇女), daughter of Emperor Ninken\n\nSatehime (紗手媛), daughter of Kose no Ohito no Ōomi (許勢男人大臣)\n\nKakarihime (香香有媛), younger sister of Satehime\n\nYakahime (宅媛), daughter of Mononobe no Itabi no Ōomuraji (物部木蓮子大連)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Emperor Ankan" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10467" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "was the 27th emperor of Japan,Imperial Household Agency (Kunaichō): [http://www.kunaicho.go.jp/ryobo/guide/027/index.html  安閑天皇 (27)] according to the traditional order of succession.Varley, Paul. (1980). Jinnō Shōtōki, p. 120;  Titsingh, Isaac. (1834). \n\nNo firm dates can be assigned to this emperor's life or reign, but he is conventionally considered to have reigned from 531 to 536.Ponsonby-Fane, Richard. (1959). The Imperial House of Japan, p. 44.\n\nLegendary narrative\n\nAccording to the Kojiki Ankan was the elder son of Emperor Keitai, who is considered to have ruled the country during the early-6th century, though there is a paucity of information about him.Kelly, Charles F. [http://www.t-net.ne.jp/~keally/kofun.html  \"Kofun Culture,\"] [http://www.t-net.ne.jp/~keally/index.htm  Japanese Archaeology.] April 27, 2009.  When Ankan was 66 years old, Keitai abdicated in favor of him.\n\nAnkan's contemporary title would not have been tennō, as most historians believe this title was not introduced until the reigns of Emperor Tenmu and Empress Jitō. Rather, it was presumably Sumeramikoto or Amenoshita Shiroshimesu Ōkimi (治天下大王), meaning \"the great king who rules all under heaven.\"  Alternatively, Ankan might have been referred to as (ヤマト大王/大君) or the \"Great King of Yamato.\"\n\nThe most noteworthy event recorded during his reign was the construction of state granaries in large numbers throughout Japan, indicating the broad reach of imperial power at the time.Mason, Joseph. (2002). \n\nAnkan's grave is traditionally associated with the Takayatsukiyama kofun in Habikino, Osaka.\n\nConsorts\n\nEmpress: Kasuga no Yamada no Himemiko (春日山田皇女), daughter of Emperor Ninken\n\nSatehime (紗手媛), daughter of Kose no Ohito no Ōomi (許勢男人大臣)\n\nKakarihime (香香有媛), younger sister of Satehime\n\nYakahime (宅媛), daughter of Mononobe no Itabi no Ōomuraji (物部木蓮子大連). Emperor Ankan. http://en.wikipedia.org/?curid=10467."
+  }
+}

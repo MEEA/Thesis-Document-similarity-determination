@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16505",
+  "eid" : "26565ad0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778573565,
+  "textBody" : "Jebus may refer to:\n\n* The pre-Israelite, specifically Canaanite, name for the city known as Jerusalem following its conquest by the Israelites under King David\n* Jebusites, the Canaanite tribe and ethnic group who founded and inhabited the city then known as Jebus\n* A fictional name for Jesus originally used by Homer Simpson in the Simpsons episode \"Missionary: Impossible\"",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Jebus" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16505" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Jebus may refer to:\n\n* The pre-Israelite, specifically Canaanite, name for the city known as Jerusalem following its conquest by the Israelites under King David\n* Jebusites, the Canaanite tribe and ethnic group who founded and inhabited the city then known as Jebus\n* A fictional name for Jesus originally used by Homer Simpson in the Simpsons episode \"Missionary: Impossible\". Jebus. http://en.wikipedia.org/?curid=16505."
+  }
+}

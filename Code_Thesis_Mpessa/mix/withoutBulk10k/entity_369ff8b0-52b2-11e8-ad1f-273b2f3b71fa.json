@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18973",
+  "eid" : "369ff8b0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778600891,
+  "textBody" : "Moot may refer to:\n\n* Mootness, in American law: a point in a case is said to be moot when it has been made irrelevant, and therefore, does not need to be considered further. Whereas, in British law, mootness means that it remains debatable.\n* Moot court, an activity in many law schools where participants take part in simulated court proceedings\n* moot, the pseudonym for Christopher Poole (born c. 1988), founder of the anonymous imageboard 4chan.org",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Moot" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18973" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Moot may refer to:\n\n* Mootness, in American law: a point in a case is said to be moot when it has been made irrelevant, and therefore, does not need to be considered further. Whereas, in British law, mootness means that it remains debatable.\n* Moot court, an activity in many law schools where participants take part in simulated court proceedings\n* moot, the pseudonym for Christopher Poole (born c. 1988), founder of the anonymous imageboard 4chan.org. Moot. http://en.wikipedia.org/?curid=18973."
+  }
+}

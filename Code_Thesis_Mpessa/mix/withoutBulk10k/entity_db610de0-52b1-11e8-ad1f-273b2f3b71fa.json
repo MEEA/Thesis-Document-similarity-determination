@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=6422",
+  "eid" : "db610de0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778447806,
+  "textBody" : "Communion may refer to:\n\nReligion\n\n* Holy Communion or Eucharist or the Lord's Supper, the Christian rite involving the eating of bread and drinking of wine, reenacting the Last Supper\n** Communion rite, that part of the Eucharistic rite in which the consecrated bread and wine are distributed to participants in the Catholic mass\n** Communion (chant), the Gregorian chant that accompanies this rite\n* Communion (religion), the relationship between Christians as individuals or churches\n** Full communion\n* Communion of Saints, a doctrine of Christianity mentioned in the Apostles' Creed\n* Devekut (Hebrew: דביקות, \"cleaving\"), the Jewish concept of communion with God\n\nEntertainment\n\n* Communion (book), a book by Whitley Strieber about his purported abductions by aliens\n** Communion (1989 film), a film based on the book\n* Alice, Sweet Alice or Communion, a 1976 horror film starring Brooke Shields\n\nMusic\n\n* Communion Music, an artist-led music community\n* Communion (Roy Campbell album) (1995)\n* Communion (Septic Flesh album) (2008)\n* Communion (The Soundtrack of Our Lives album) (2008)\n* Communion (Years & Years album) (2015)\n* Communion (John Patitucci album) (2001)\n* \"Communion\", a song by Debbie Harry from Debravation\n* \"Communion\", a song by Third Day from Wherever You Are",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Communion" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=6422" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Communion may refer to:\n\nReligion\n\n* Holy Communion or Eucharist or the Lord's Supper, the Christian rite involving the eating of bread and drinking of wine, reenacting the Last Supper\n** Communion rite, that part of the Eucharistic rite in which the consecrated bread and wine are distributed to participants in the Catholic mass\n** Communion (chant), the Gregorian chant that accompanies this rite\n* Communion (religion), the relationship between Christians as individuals or churches\n** Full communion\n* Communion of Saints, a doctrine of Christianity mentioned in the Apostles' Creed\n* Devekut (Hebrew: דביקות, \"cleaving\"), the Jewish concept of communion with God\n\nEntertainment\n\n* Communion (book), a book by Whitley Strieber about his purported abductions by aliens\n** Communion (1989 film), a film based on the book\n* Alice, Sweet Alice or Communion, a 1976 horror film starring Brooke Shields\n\nMusic\n\n* Communion Music, an artist-led music community\n* Communion (Roy Campbell album) (1995)\n* Communion (Septic Flesh album) (2008)\n* Communion (The Soundtrack of Our Lives album) (2008)\n* Communion (Years & Years album) (2015)\n* Communion (John Patitucci album) (2001)\n* \"Communion\", a song by Debbie Harry from Debravation\n* \"Communion\", a song by Third Day from Wherever You Are. Communion. http://en.wikipedia.org/?curid=6422."
+  }
+}

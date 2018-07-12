@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=4574",
+  "eid" : "cf0dfe90-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778427129,
+  "textBody" : "Bangor may refer to:\n\nPlaces\n\nCanada\n\n* Bangor, Nova Scotia\n* Bangor, Saskatchewan\n\nUnited Kingdom\n\n;Wales\n* Bangor, Gwynedd\n** Bangor (Gwynedd) railway station\n** Bangor University\n** Bangor Mountain\n** Bishop of Bangor\n* Bangor-on-Dee ( or '), Wrexham\n\n;Northern Ireland\n* Bangor, County Down\n**Bangor railway station (Northern Ireland)\n** Bangor (Northern Ireland Parliament constituency), Bangor's former constituency in the Parliament of Northern Ireland\n** Bangor (Parliament of Ireland constituency), Bangor's former constituency in the Parliament of Ireland\n\n;Cornwall\n* Bangors, Cornwall, England\n\nUnited States of America\n\n* Bangor, Alabama\n* Bangor, California\n* Bangor, Iowa\n* Bangor, Maine\n** Bangor Air National Guard Base\n** Bangor International Airport\n** Bangor City Forest\n** Bangor Mall\n* Bangor, Michigan\n** Bangor (Amtrak station)\n* Bangor Township, Van Buren County, Michigan\n* Bangor Township, Bay County, Michigan\n* Bangor, New York\n* Bangor, Pennsylvania\n* Bangor Base, Washington\n* Bangor, Wisconsin, village\n* Bangor (town), Wisconsin\n* Bangor Township (disambiguation)\n\nOther\n\n* Bangor, Morbihan, Brittany, France\n* Bangor, New South Wales, Australia\n* Bangor Erris, County Mayo, Republic of Ireland\n\nOther uses\n\n* City of Bangor (ship), a Great Lakes shipwreck\n* City of Bangor, a United States airline with the ICAO code XBG, see Airline codes-C\n* Bangor City F.C., a football club in Bangor, Gwynedd\n** Radio Bangor\n* Bangor F.C., a football club in Bangor, County Down",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Bangor" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=4574" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Bangor may refer to:\n\nPlaces\n\nCanada\n\n* Bangor, Nova Scotia\n* Bangor, Saskatchewan\n\nUnited Kingdom\n\n;Wales\n* Bangor, Gwynedd\n** Bangor (Gwynedd) railway station\n** Bangor University\n** Bangor Mountain\n** Bishop of Bangor\n* Bangor-on-Dee ( or '), Wrexham\n\n;Northern Ireland\n* Bangor, County Down\n**Bangor railway station (Northern Ireland)\n** Bangor (Northern Ireland Parliament constituency), Bangor's former constituency in the Parliament of Northern Ireland\n** Bangor (Parliament of Ireland constituency), Bangor's former constituency in the Parliament of Ireland\n\n;Cornwall\n* Bangors, Cornwall, England\n\nUnited States of America\n\n* Bangor, Alabama\n* Bangor, California\n* Bangor, Iowa\n* Bangor, Maine\n** Bangor Air National Guard Base\n** Bangor International Airport\n** Bangor City Forest\n** Bangor Mall\n* Bangor, Michigan\n** Bangor (Amtrak station)\n* Bangor Township, Van Buren County, Michigan\n* Bangor Township, Bay County, Michigan\n* Bangor, New York\n* Bangor, Pennsylvania\n* Bangor Base, Washington\n* Bangor, Wisconsin, village\n* Bangor (town), Wisconsin\n* Bangor Township (disambiguation)\n\nOther\n\n* Bangor, Morbihan, Brittany, France\n* Bangor, New South Wales, Australia\n* Bangor Erris, County Mayo, Republic of Ireland\n\nOther uses\n\n* City of Bangor (ship), a Great Lakes shipwreck\n* City of Bangor, a United States airline with the ICAO code XBG, see Airline codes-C\n* Bangor City F.C., a football club in Bangor, Gwynedd\n** Radio Bangor\n* Bangor F.C., a football club in Bangor, County Down. Bangor. http://en.wikipedia.org/?curid=4574."
+  }
+}

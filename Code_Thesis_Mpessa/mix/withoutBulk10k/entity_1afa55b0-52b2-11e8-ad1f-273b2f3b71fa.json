@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15281",
+  "eid" : "1afa55b0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778554507,
+  "textBody" : "Isaac Abendana (ca. 1640 – 1699) was the younger brother of Jacob Abendana, and became hakam of the Spanish Portuguese Synagogue in London after his brother died. \n\nAbendana moved to England before his brother, in 1662, and taught Hebrew at Cambridge University. He completed an unpublished Latin translation of the Mishnah for the university in 1671. \n\nWhile he was at Cambridge, Abendana sold Hebrew books to the Bodleian Library of Oxford, and in 1689 he took a teaching position in Magdalen College. In Oxford, he wrote a series of Jewish almanacs for Christians, which he later collected and compiled as the Discourses on the Ecclesiastical and Civil Polity of the Jews (1706). Like his brother, he maintained an extensive correspondence with leading Christian scholars of his time, most notably with the philosopher Ralph Cudworth, master of Christ's College, Cambridge. \n\nNotes",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Isaac Abendana" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15281" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Isaac Abendana (ca. 1640 – 1699) was the younger brother of Jacob Abendana, and became hakam of the Spanish Portuguese Synagogue in London after his brother died. \n\nAbendana moved to England before his brother, in 1662, and taught Hebrew at Cambridge University. He completed an unpublished Latin translation of the Mishnah for the university in 1671. \n\nWhile he was at Cambridge, Abendana sold Hebrew books to the Bodleian Library of Oxford, and in 1689 he took a teaching position in Magdalen College. In Oxford, he wrote a series of Jewish almanacs for Christians, which he later collected and compiled as the Discourses on the Ecclesiastical and Civil Polity of the Jews (1706). Like his brother, he maintained an extensive correspondence with leading Christian scholars of his time, most notably with the philosopher Ralph Cudworth, master of Christ's College, Cambridge. \n\nNotes. Isaac Abendana. http://en.wikipedia.org/?curid=15281."
+  }
+}

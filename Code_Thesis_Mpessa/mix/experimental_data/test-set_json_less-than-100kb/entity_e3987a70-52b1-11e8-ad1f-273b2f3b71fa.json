@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7825",
+  "eid" : "e3987a70-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778461591,
+  "textBody" : "Celestial globes show the apparent positions of the stars in the sky. They omit the Sun, Moon, and planets because the positions of these bodies vary relative to those of the stars, but the ecliptic, along which the Sun moves, is indicated.\n\nThere is an issue regarding the “handedness” of celestial globes. If the globe is constructed so that the stars are in the positions they actually occupy on the imaginary celestial sphere, then the star field will appear back-to-front on the surface of the globe (all the constellations will appear as their mirror images). This is because the view from Earth, positioned at the centre of the celestial sphere, is of the inside of the celestial sphere, whereas the celestial globe is viewed from the outside. For this reason, celestial globes are often produced in mirror image, so that at least the constellations appear the “right way round”. Some modern celestial globes address this problem by making the surface of the globe transparent. The stars can then be placed in their proper positions and viewed through the globe, so that the view is of the inside of the celestial sphere. However, the proper position from which to view the sphere would be from its centre, but the viewer of a transparent globe must be outside it, far from its centre. Viewing the inside of the sphere from the outside, through its transparent surface, produces serious distortions. Opaque celestial globes that are made with the constellations correctly placed, so they appear as mirror images when directly viewed from outside the globe, are often viewed in a mirror, so the constellations have their familiar appearances. Written material on the globe, e.g. constellation names, is printed in reverse, so it can easily be read in the mirror.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Celestial globe" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7825" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Celestial globes show the apparent positions of the stars in the sky. They omit the Sun, Moon, and planets because the positions of these bodies vary relative to those of the stars, but the ecliptic, along which the Sun moves, is indicated.\n\nThere is an issue regarding the “handedness” of celestial globes. If the globe is constructed so that the stars are in the positions they actually occupy on the imaginary celestial sphere, then the star field will appear back-to-front on the surface of the globe (all the constellations will appear as their mirror images). This is because the view from Earth, positioned at the centre of the celestial sphere, is of the inside of the celestial sphere, whereas the celestial globe is viewed from the outside. For this reason, celestial globes are often produced in mirror image, so that at least the constellations appear the “right way round”. Some modern celestial globes address this problem by making the surface of the globe transparent. The stars can then be placed in their proper positions and viewed through the globe, so that the view is of the inside of the celestial sphere. However, the proper position from which to view the sphere would be from its centre, but the viewer of a transparent globe must be outside it, far from its centre. Viewing the inside of the sphere from the outside, through its transparent surface, produces serious distortions. Opaque celestial globes that are made with the constellations correctly placed, so they appear as mirror images when directly viewed from outside the globe, are often viewed in a mirror, so the constellations have their familiar appearances. Written material on the globe, e.g. constellation names, is printed in reverse, so it can easily be read in the mirror. Celestial globe. http://en.wikipedia.org/?curid=7825."
+  }
+}

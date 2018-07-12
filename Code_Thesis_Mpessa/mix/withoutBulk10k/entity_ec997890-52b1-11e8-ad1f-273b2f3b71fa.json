@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=9129",
+  "eid" : "ec997890-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778476697,
+  "textBody" : "Donald G. Tennant (November 23, 1922 – December 8, 2001) was an American advertising agency executive.https://www.nytimes.com/2001/12/13/business/don-tennant-creator-of-characters-for-ads-is-dead-at-79.html\n\nHe worked at the Leo Burnett agency in Chicago, Illinois. The agency placed anthropomorphic faces of 'critters' on packaged goods. He was the first to draw Tony the Tiger for the Kellogg's Sugar Frosted Flakes advertising campaign in 1952. Tennant was also in charge of the Marlboro account and invented the Marlboro Man.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Don Tennant" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=9129" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Donald G. Tennant (November 23, 1922 – December 8, 2001) was an American advertising agency executive.https://www.nytimes.com/2001/12/13/business/don-tennant-creator-of-characters-for-ads-is-dead-at-79.html\n\nHe worked at the Leo Burnett agency in Chicago, Illinois. The agency placed anthropomorphic faces of 'critters' on packaged goods. He was the first to draw Tony the Tiger for the Kellogg's Sugar Frosted Flakes advertising campaign in 1952. Tennant was also in charge of the Marlboro account and invented the Marlboro Man. Don Tennant. http://en.wikipedia.org/?curid=9129."
+  }
+}

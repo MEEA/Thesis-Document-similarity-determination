@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12462",
+  "eid" : "02b34700-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778513776,
+  "textBody" : "The gauss, abbreviated as G or Gs, is the cgs unit of measurement of magnetic flux density (or \"magnetic induction\") (B). It is named after German mathematician and physicist Carl Friedrich Gauss. One gauss is defined as one  maxwell per square centimeter. The cgs system has been superseded by the International System of Units (SI), which uses the tesla (symbol T) as the unit of magnetic flux density.NIST Special Publication 1038, Section 4.3.1 One gauss equals 1 tesla (100 μT), so 1 tesla = 10,000 gauss.\n\nUnit name and convention\n\nAs with all units whose names are derived from a person's name, the first letter of its symbol is uppercase (\"G\"), but when the unit is spelled out, it should be written in lowercase (\"gauss\"), unless it begins a sentence.\n\nUnit conversions\n\n\\begin{align}\n1\\,{\\rm G} &= \\frac{\\rm Mx}",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Gauss (unit)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12462" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The gauss, abbreviated as G or Gs, is the cgs unit of measurement of magnetic flux density (or \"magnetic induction\") (B). It is named after German mathematician and physicist Carl Friedrich Gauss. One gauss is defined as one  maxwell per square centimeter. The cgs system has been superseded by the International System of Units (SI), which uses the tesla (symbol T) as the unit of magnetic flux density.NIST Special Publication 1038, Section 4.3.1 One gauss equals 1 tesla (100 μT), so 1 tesla = 10,000 gauss.\n\nUnit name and convention\n\nAs with all units whose names are derived from a person's name, the first letter of its symbol is uppercase (\"G\"), but when the unit is spelled out, it should be written in lowercase (\"gauss\"), unless it begins a sentence.\n\nUnit conversions\n\n\\begin{align}\n1\\,{\\rm G} &= \\frac{\\rm Mx}. Gauss (unit). http://en.wikipedia.org/?curid=12462."
+  }
+}

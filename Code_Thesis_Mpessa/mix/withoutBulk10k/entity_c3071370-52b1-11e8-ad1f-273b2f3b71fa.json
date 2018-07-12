@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2908",
+  "eid" : "c3071370-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778406951,
+  "textBody" : "Ahuitzotl (,) was the eighth  Aztec ruler, the Hueyi Tlatoani of the city of Tenochtitlan, son of princess Atotoztli II. He was responsible for much of the expansion of the Mexica domain, and consolidated the empire's power after emulating his predecessor. He took power as tlatoani in the year 7 Rabbit (1486), after the death of his predecessor and brother, Tizoc.\n\nHis sons were kings Chimalpilli II and Cuauhtémoc and he also had one daughter.\n\nBiography \n\nPerhaps the greatest known military leader of Pre-Columbian Mesoamerica, Ahuizotl began his reign by suppressing a Huastec rebellion, and then swiftly more than doubled the size of lands under Aztec dominance. He conquered the Mixtec, Zapotec, and other peoples from Pacific Coast of Mexico down to the western part of Guatemala. Ahuizotl also supervised a major rebuilding of Tenochtitlan on a grander scale including the expansion of the Great Pyramid or Templo Mayor in the year 8 Reed (1487).\n\nHe presided over the introduction of the great-tailed grackle into the Valley of Mexico, the earliest documented case of human-mediated bird introduction in the Western Hemisphere.\n\nAhuizotl died in the year 10 Rabbit (1502) and was succeeded by his nephew, Moctezuma II.\n\nAhuizotl took his name from the animal ahuizotl, which the Aztecs considered to be a legendary creature in its own right rather than a mere mythical representation of the king.\n\nMap\n\nTomb\n\nOn 3 August 2007, Mexican archaeologists announced discovery of what is believed to be the tomb of Ahuizotl beneath a sculpture of Tlaltecuhtli near the Zócalo in Mexico City.http://www.newsday.com/news/nationworld/world/wire/sns-ap-mexico-aztec-tomb-summary-box,0,1155875.story  [http://www.iht.com/articles/ap/2007/08/04/america/LA-GEN-Mexico-Aztec-Tomb.php AP Exclusive: Archaeologists locate what they believe are funeral chambers of Aztec emperor - International Herald Tribune]\n\nNotes",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Ahuitzotl" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2908" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Ahuitzotl (,) was the eighth  Aztec ruler, the Hueyi Tlatoani of the city of Tenochtitlan, son of princess Atotoztli II. He was responsible for much of the expansion of the Mexica domain, and consolidated the empire's power after emulating his predecessor. He took power as tlatoani in the year 7 Rabbit (1486), after the death of his predecessor and brother, Tizoc.\n\nHis sons were kings Chimalpilli II and Cuauhtémoc and he also had one daughter.\n\nBiography \n\nPerhaps the greatest known military leader of Pre-Columbian Mesoamerica, Ahuizotl began his reign by suppressing a Huastec rebellion, and then swiftly more than doubled the size of lands under Aztec dominance. He conquered the Mixtec, Zapotec, and other peoples from Pacific Coast of Mexico down to the western part of Guatemala. Ahuizotl also supervised a major rebuilding of Tenochtitlan on a grander scale including the expansion of the Great Pyramid or Templo Mayor in the year 8 Reed (1487).\n\nHe presided over the introduction of the great-tailed grackle into the Valley of Mexico, the earliest documented case of human-mediated bird introduction in the Western Hemisphere.\n\nAhuizotl died in the year 10 Rabbit (1502) and was succeeded by his nephew, Moctezuma II.\n\nAhuizotl took his name from the animal ahuizotl, which the Aztecs considered to be a legendary creature in its own right rather than a mere mythical representation of the king.\n\nMap\n\nTomb\n\nOn 3 August 2007, Mexican archaeologists announced discovery of what is believed to be the tomb of Ahuizotl beneath a sculpture of Tlaltecuhtli near the Zócalo in Mexico City.http://www.newsday.com/news/nationworld/world/wire/sns-ap-mexico-aztec-tomb-summary-box,0,1155875.story  [http://www.iht.com/articles/ap/2007/08/04/america/LA-GEN-Mexico-Aztec-Tomb.php AP Exclusive: Archaeologists locate what they believe are funeral chambers of Aztec emperor - International Herald Tribune]\n\nNotes. Ahuitzotl. http://en.wikipedia.org/?curid=2908."
+  }
+}

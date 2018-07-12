@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18227",
+  "eid" : "31bfcd70-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778592711,
+  "textBody" : "LGB may refer to:\n\nPlaces\n\n* La Grande Boissière, a campus of the International School of Geneva\n* Long Beach Airport (IATA code), California, US\n\nOther uses\n\n* Laser-guided bomb, a guided bomb\n* Lateral geniculate body, alternate term for the lateral geniculate nucleus in the human brain\n* Lectures on Government and Binding, a book by American linguist Noam Chomsky\n* \"Lesbian, gay, and bisexual\", alternative sexual orientations as a group, now usually \"Lesbian, gay, bisexual, and transgender\" (LGBT)\n* LGB (trains) (Lehmann Gross Bahn), a brand in model railroading \n* Little Golden Books, a series of children's books\n* Lou Gramm Band, a band led by Lou Gramm",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "LGB" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18227" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "LGB may refer to:\n\nPlaces\n\n* La Grande Boissière, a campus of the International School of Geneva\n* Long Beach Airport (IATA code), California, US\n\nOther uses\n\n* Laser-guided bomb, a guided bomb\n* Lateral geniculate body, alternate term for the lateral geniculate nucleus in the human brain\n* Lectures on Government and Binding, a book by American linguist Noam Chomsky\n* \"Lesbian, gay, and bisexual\", alternative sexual orientations as a group, now usually \"Lesbian, gay, bisexual, and transgender\" (LGBT)\n* LGB (trains) (Lehmann Gross Bahn), a brand in model railroading \n* Little Golden Books, a series of children's books\n* Lou Gramm Band, a band led by Lou Gramm. LGB. http://en.wikipedia.org/?curid=18227."
+  }
+}

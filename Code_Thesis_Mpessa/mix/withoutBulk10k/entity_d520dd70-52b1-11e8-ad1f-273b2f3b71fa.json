@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=5438",
+  "eid" : "d520dd70-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778437319,
+  "textBody" : "Capricorn (pl. capricorni or capricorns) may refer to:\n\nAstronomy and astrology\n\n*Capricornus, one of the constellations of the zodiac\n**Capricorn (astrology)\n\nMusic\n\n* Capricorn Records, an American record label active 1969-1979\n*Capricorn (Jay Chou album), 2008\n*Capricorn (Mike Tramp album), 1997\n*\"Capricorn (A Brand New Name)\", a 2002 single by 30 Seconds to Mars from their self-titled album\n*\"Capricorn\", song by Motörhead from the album Overkill\n*\"Capricorn\", a song by IQ from their 1997 concept album Subterranea\n*\"Capricorn\", a song by Barclay James Harvest from the album Eyes of the Universe\n\nArts and entertainment\n\n*Capricorn (manga), a 1988 manga series created by Johnny Manajeb\n*Capricorn (comics), several Marvel Comics characters\n*Capricorn (Inkworld), Inkheart character\n\nOther\n\n*Capricorn (microprocessor), a family of microprocessors used in the HP series 80 scientific microcomputers\n*Capricorn (ship), on January 28, 1980 collided with and sank the USCGC Blackthorn\n*Capricorn Africa Society, a pressure group in British African colonies\n*Capricorn District Municipality, Limpopo province, South Africa\n*Capricorn Investment Holdings, an umbrella for the Capricorn group of companies\n*An animal from the ibex family, particularly the Alpine ibex\n*One of the names for the Virgin Atlantic GlobalFlyer",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Capricorn" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=5438" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Capricorn (pl. capricorni or capricorns) may refer to:\n\nAstronomy and astrology\n\n*Capricornus, one of the constellations of the zodiac\n**Capricorn (astrology)\n\nMusic\n\n* Capricorn Records, an American record label active 1969-1979\n*Capricorn (Jay Chou album), 2008\n*Capricorn (Mike Tramp album), 1997\n*\"Capricorn (A Brand New Name)\", a 2002 single by 30 Seconds to Mars from their self-titled album\n*\"Capricorn\", song by Motörhead from the album Overkill\n*\"Capricorn\", a song by IQ from their 1997 concept album Subterranea\n*\"Capricorn\", a song by Barclay James Harvest from the album Eyes of the Universe\n\nArts and entertainment\n\n*Capricorn (manga), a 1988 manga series created by Johnny Manajeb\n*Capricorn (comics), several Marvel Comics characters\n*Capricorn (Inkworld), Inkheart character\n\nOther\n\n*Capricorn (microprocessor), a family of microprocessors used in the HP series 80 scientific microcomputers\n*Capricorn (ship), on January 28, 1980 collided with and sank the USCGC Blackthorn\n*Capricorn Africa Society, a pressure group in British African colonies\n*Capricorn District Municipality, Limpopo province, South Africa\n*Capricorn Investment Holdings, an umbrella for the Capricorn group of companies\n*An animal from the ibex family, particularly the Alpine ibex\n*One of the names for the Virgin Atlantic GlobalFlyer. Capricorn. http://en.wikipedia.org/?curid=5438."
+  }
+}

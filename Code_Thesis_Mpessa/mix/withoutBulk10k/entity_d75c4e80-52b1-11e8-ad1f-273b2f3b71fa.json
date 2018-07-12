@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=5723",
+  "eid" : "d75c4e80-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778441064,
+  "textBody" : "Constellations: An International Journal of Critical and Democratic Theory is a quarterly peer-reviewed academic journal of critical and democratic theory and successor of Praxis International. It is edited by Andrew Arato, Amy Allen, and Andreas Kalyvas. Seyla Benhabib is a co-founding former editor and Nancy Fraser a former co-editor.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Constellations (journal)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=5723" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Constellations: An International Journal of Critical and Democratic Theory is a quarterly peer-reviewed academic journal of critical and democratic theory and successor of Praxis International. It is edited by Andrew Arato, Amy Allen, and Andreas Kalyvas. Seyla Benhabib is a co-founding former editor and Nancy Fraser a former co-editor. Constellations (journal). http://en.wikipedia.org/?curid=5723."
+  }
+}

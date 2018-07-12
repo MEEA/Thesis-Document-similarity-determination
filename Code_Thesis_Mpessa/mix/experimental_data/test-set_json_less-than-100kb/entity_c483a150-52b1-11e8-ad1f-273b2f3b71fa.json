@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3158",
+  "eid" : "c483a150-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778409445,
+  "textBody" : "Alternative may refer to:\n\nGenres of music\n\n* Alternative rock, also known as \"alternative music\" or simply \"alternative\"\n* Alternative country\n* Alternative dance\n* Alternative hip hop\n* Alternative metal\n* Alternative R&B\n* Alternative reggaeton\n\nMathematics and science\n\n* Alternative algebra, an abstract algebra with alternative multiplication\n* Alternativity, a weaker property than associativity\n* Alternate leaves, a classification in botanical phyllotaxis\n\nFinance\n\n* Alternative investment, investment other than stocks, bond (finance), money funds, and cash\n\nEducation\n\n* Alternative education, non-traditional education\n* Alternative school, a school geared towards students whose needs cannot be met in a traditional school\n\nCulture and society\n\n* Alternative comics, a genre of comic strips and books\n* Alternative comedy, a range of styles used by comedians and writers in the 1980s\n* Alternative culture, a variety of subcultures existing along the fringes of mainstream culture\n* Alternative dispute resolution, processes and techniques outside the traditional mainstream of jurisprudence\n* Alternative fashion, for example Gothic fashion, Punk fashion, Fetish fashion\n* Alternative lifestyle, a lifestyle that is not within the cultural norm\n* Alternative media, media practices falling outside the mainstreams of corporate communication\n* Alternative medicine,  healing practice that does not fall within the realm of conventional medicine\n* Alternative (Kamen Rider), a character in the Japanese TV series, Kamen Rider Ryuki\n* Alternative (album), a B-sides album by Pet Shop Boys\n* The Alternative (album), an album by IAMX",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Alternative" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3158" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Alternative may refer to:\n\nGenres of music\n\n* Alternative rock, also known as \"alternative music\" or simply \"alternative\"\n* Alternative country\n* Alternative dance\n* Alternative hip hop\n* Alternative metal\n* Alternative R&B\n* Alternative reggaeton\n\nMathematics and science\n\n* Alternative algebra, an abstract algebra with alternative multiplication\n* Alternativity, a weaker property than associativity\n* Alternate leaves, a classification in botanical phyllotaxis\n\nFinance\n\n* Alternative investment, investment other than stocks, bond (finance), money funds, and cash\n\nEducation\n\n* Alternative education, non-traditional education\n* Alternative school, a school geared towards students whose needs cannot be met in a traditional school\n\nCulture and society\n\n* Alternative comics, a genre of comic strips and books\n* Alternative comedy, a range of styles used by comedians and writers in the 1980s\n* Alternative culture, a variety of subcultures existing along the fringes of mainstream culture\n* Alternative dispute resolution, processes and techniques outside the traditional mainstream of jurisprudence\n* Alternative fashion, for example Gothic fashion, Punk fashion, Fetish fashion\n* Alternative lifestyle, a lifestyle that is not within the cultural norm\n* Alternative media, media practices falling outside the mainstreams of corporate communication\n* Alternative medicine,  healing practice that does not fall within the realm of conventional medicine\n* Alternative (Kamen Rider), a character in the Japanese TV series, Kamen Rider Ryuki\n* Alternative (album), a B-sides album by Pet Shop Boys\n* The Alternative (album), an album by IAMX. Alternative. http://en.wikipedia.org/?curid=3158."
+  }
+}

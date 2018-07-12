@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=9822",
+  "eid" : "f233cc10-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778486097,
+  "textBody" : "Electronic may refer to:\n\n*Electronics, the science of how to control electric energy in semiconductor\n*Electronic storage, the storage of data using an electronic device\n*Electronic commerce or e-commerce, the trading in products or services using computer networks, such as the Internet\n*Electronic publishing or e-publishing, the digital publication of books and magazines using computer networks, such as the Internet\n*Electronic engineering\n\nEntertainment\n\n*Electronic (band), an English alternative dance band\n**Electronic (album), the self-titled debut album by British band Electronic\n*Electronic music, a music genre\n*Electronic game, a game that employs electronics",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Electronic" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=9822" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Electronic may refer to:\n\n*Electronics, the science of how to control electric energy in semiconductor\n*Electronic storage, the storage of data using an electronic device\n*Electronic commerce or e-commerce, the trading in products or services using computer networks, such as the Internet\n*Electronic publishing or e-publishing, the digital publication of books and magazines using computer networks, such as the Internet\n*Electronic engineering\n\nEntertainment\n\n*Electronic (band), an English alternative dance band\n**Electronic (album), the self-titled debut album by British band Electronic\n*Electronic music, a music genre\n*Electronic game, a game that employs electronics. Electronic. http://en.wikipedia.org/?curid=9822."
+  }
+}

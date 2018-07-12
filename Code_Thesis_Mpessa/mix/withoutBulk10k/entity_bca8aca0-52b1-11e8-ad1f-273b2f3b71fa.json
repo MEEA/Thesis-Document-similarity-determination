@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1940",
+  "eid" : "bca8aca0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778396266,
+  "textBody" : "Astronomer Royal is a senior post in the Royal Households of the United Kingdom. There are two officers, the senior being the Astronomer Royal dating from 22 June 1675; the second is the Astronomer Royal for Scotland dating from 1834.\n\nThe post was created by King Charles II in 1675, at the same time as he founded the Royal Observatory Greenwich. He appointed John Flamsteed, instructing him \".\"F Baily, \"An Account of the Rev. John Flamsteed\", reprinted in [https://books.google.com/books?id48L1w21XYI4C&pg\nPA293 vol.28,at p.293]. \"The Museum of foreign literature, science and art\", R Walsh et al., publ. E Litell, 1836.\n\nThe Astronomer Royal was director of the Royal Observatory Greenwich from the establishment of the post in 1675 until 1972. The Astronomer Royal became an honorary title in 1972 without executive responsibilities and a separate post of Director of the Royal Greenwich Observatory was created to manage the institution.\n\nThe Astronomer Royal today receives a stipend of 100 GBP per year and is a member of the Royal Household, under the general authority of the Lord Chamberlain. After the separation of the two offices, the position of Astronomer Royal has been largely honorary, though he remains available to advise the Sovereign on astronomical and related scientific matters, and the office is of great prestige.\n\nThere was also formerly a Royal Astronomer of Ireland.\n\nAstronomers Royal\n\n* 1675–1719 John Flamsteed\n* 1720–1742 Edmond Halley\n* 1742–1762 James Bradley\n* 1762–1764 Nathaniel Bliss\n* 1765–1811 Nevil Maskelyne\n* 1811–1835 John Pond\n* 1835–1881 Sir George Biddell Airy\n* 1881–1910 Sir William Christie\n* 1910–1933 Sir Frank Dyson\n* 1933–1955 Sir Harold Spencer Jones\n* 1956–1971 Sir Richard van Riet Woolley\n* 1972–1982 Sir Martin Ryle\n* 1982–1990 Sir Francis Graham-Smith\n* 1991–1995 Sir Arnold Wolfendale\n* 1995–present Martin Rees, Baron Rees of Ludlow",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Astronomer Royal" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1940" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Astronomer Royal is a senior post in the Royal Households of the United Kingdom. There are two officers, the senior being the Astronomer Royal dating from 22 June 1675; the second is the Astronomer Royal for Scotland dating from 1834.\n\nThe post was created by King Charles II in 1675, at the same time as he founded the Royal Observatory Greenwich. He appointed John Flamsteed, instructing him \".\"F Baily, \"An Account of the Rev. John Flamsteed\", reprinted in [https://books.google.com/books?id48L1w21XYI4C&pg\nPA293 vol.28,at p.293]. \"The Museum of foreign literature, science and art\", R Walsh et al., publ. E Litell, 1836.\n\nThe Astronomer Royal was director of the Royal Observatory Greenwich from the establishment of the post in 1675 until 1972. The Astronomer Royal became an honorary title in 1972 without executive responsibilities and a separate post of Director of the Royal Greenwich Observatory was created to manage the institution.\n\nThe Astronomer Royal today receives a stipend of 100 GBP per year and is a member of the Royal Household, under the general authority of the Lord Chamberlain. After the separation of the two offices, the position of Astronomer Royal has been largely honorary, though he remains available to advise the Sovereign on astronomical and related scientific matters, and the office is of great prestige.\n\nThere was also formerly a Royal Astronomer of Ireland.\n\nAstronomers Royal\n\n* 1675–1719 John Flamsteed\n* 1720–1742 Edmond Halley\n* 1742–1762 James Bradley\n* 1762–1764 Nathaniel Bliss\n* 1765–1811 Nevil Maskelyne\n* 1811–1835 John Pond\n* 1835–1881 Sir George Biddell Airy\n* 1881–1910 Sir William Christie\n* 1910–1933 Sir Frank Dyson\n* 1933–1955 Sir Harold Spencer Jones\n* 1956–1971 Sir Richard van Riet Woolley\n* 1972–1982 Sir Martin Ryle\n* 1982–1990 Sir Francis Graham-Smith\n* 1991–1995 Sir Arnold Wolfendale\n* 1995–present Martin Rees, Baron Rees of Ludlow. Astronomer Royal. http://en.wikipedia.org/?curid=1940."
+  }
+}

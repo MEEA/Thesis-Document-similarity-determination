@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8118",
+  "eid" : "e5acb470-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778465079,
+  "textBody" : "Dock may refer to:\n\nIn transportation\n\n* Cross dock, moving material directly, one truck to another.\n* Dock (maritime), either the area of water taken by a vessel when tied to a man-made structure (pier, wharf, float, etc.) or group of structures involved in the handling of boats or ships, usually on or close to a shore, or the structures themselves.\n* Dry dock, Float-in, drain, repair, fill, float-out: facility for ships.\n* Loading dock, an area for trucks to deliver or receive cargo.\n* Spacecraft docking, a spaceflight operation used to transfer personnel or materials from a spacecraft to another or for using one of the two spacecraft as a booster.\n\nIn science\n\n*Dock or tailhead, where the tail joins the Rump\n*Dock, the plant genus Rumex\n*DOCK (protein), a family of proteins involved in cell signalling\n*DOCK (UCSF), the docking program\n\nIn computing\n\n* Dock (computing), a graphical user interface feature\n* Dock (macOS), a toolbar-like application launcher in the macOS operating system\n* Docking station, a laptop accessory\n\nPlaces\n\n*The Dock, Newfoundland and Labrador, Canada\n*The Dock, Washington, D.C., United States\n*The Docks Waterfront Entertainment Complex in Toronto, Ontario, Canada\n*Docks (nightclub) in Hamburg, Germany\n*The former name of Devonport, Devon, now a part of the city of Plymouth\n\nPeople\n\n*Dock (Hayden Scott-Barren) (born 1980), English manga illustrator\n*Dock Boggs (1898–1971), American folk singer and banjoist\n*Dock Ellis (1945–2008), American baseball pitcher\n*Dock J. Jordan (1866–1943), American lawyer and educator\n*Dock Walsh (1901–1967), American banjoist\n\nOther uses\n\n*To pierce dough during its handling to prevent the formation of large air pockets, such as with a roller docker\n*The area of a courtroom where an accused party sits during proceedings",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Dock" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8118" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Dock may refer to:\n\nIn transportation\n\n* Cross dock, moving material directly, one truck to another.\n* Dock (maritime), either the area of water taken by a vessel when tied to a man-made structure (pier, wharf, float, etc.) or group of structures involved in the handling of boats or ships, usually on or close to a shore, or the structures themselves.\n* Dry dock, Float-in, drain, repair, fill, float-out: facility for ships.\n* Loading dock, an area for trucks to deliver or receive cargo.\n* Spacecraft docking, a spaceflight operation used to transfer personnel or materials from a spacecraft to another or for using one of the two spacecraft as a booster.\n\nIn science\n\n*Dock or tailhead, where the tail joins the Rump\n*Dock, the plant genus Rumex\n*DOCK (protein), a family of proteins involved in cell signalling\n*DOCK (UCSF), the docking program\n\nIn computing\n\n* Dock (computing), a graphical user interface feature\n* Dock (macOS), a toolbar-like application launcher in the macOS operating system\n* Docking station, a laptop accessory\n\nPlaces\n\n*The Dock, Newfoundland and Labrador, Canada\n*The Dock, Washington, D.C., United States\n*The Docks Waterfront Entertainment Complex in Toronto, Ontario, Canada\n*Docks (nightclub) in Hamburg, Germany\n*The former name of Devonport, Devon, now a part of the city of Plymouth\n\nPeople\n\n*Dock (Hayden Scott-Barren) (born 1980), English manga illustrator\n*Dock Boggs (1898–1971), American folk singer and banjoist\n*Dock Ellis (1945–2008), American baseball pitcher\n*Dock J. Jordan (1866–1943), American lawyer and educator\n*Dock Walsh (1901–1967), American banjoist\n\nOther uses\n\n*To pierce dough during its handling to prevent the formation of large air pockets, such as with a roller docker\n*The area of a courtroom where an accused party sits during proceedings. Dock. http://en.wikipedia.org/?curid=8118."
+  }
+}

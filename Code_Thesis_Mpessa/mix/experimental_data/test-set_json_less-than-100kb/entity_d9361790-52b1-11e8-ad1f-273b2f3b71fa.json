@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=5973",
+  "eid" : "d9361790-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778444169,
+  "textBody" : "Cinema may refer to:\n\nMovie\n\n* Cinematography, the science or art of motion-picture photography\n* Film or movie, a series of still images that create the illusion of a moving image\n** Film industry, the technological and commercial institutions of filmmaking\n** Filmmaking, the process of making a film\n* Movie theater, a building in which films are shown\n\nMusic\n\nBands\n\n* Cinema (band), a 1982 band formed by ex-Yes members Alan White and Chris Squire\n* The Cinema, an American Indie pop band\n\nAlbums\n\n* Cinema (Andrea Bocelli album), released 2015\n* Cinema (The Cat Empire album), released 2010\n* Cinema (Elaine Paige album), released 1984\n* Cinema (Karsh Kale album), released 2010\n* Cinema (Nazareth album), or the title song, released 1986\n* Cinema, a 2009 album by Brazilian band Cachorro Grande\n* Cinema, a 1990 album by English musician Ian Campbell (rapper), or the title song\n* Cinema, a 2004 album by Portuguese musician Rodrigo Leão\nSongs\n\n* Cinema (Yes song), by the band Yes, from their 1983 album 90125\n* \"Cinéma\" (Paola di Medico song), Swiss entry in the Eurovision Song Contest 1980\n* \"Cinema\" (Benny Benassi song), from the 2011 album Electroman\n* \"Cinema 1\", \"Cinema 2\" and \"Cinema 3\" by Brockhampton from Saturation III\n\nOther\n\n* Cinema (2008 film) or Bommalattam, a Tamil film directed by Bharathiraja\n* Cinema: Journal of Philosophy and the Moving Image, a journal published by the IFILNOVA - NOVA Institute of Philosophy",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Cinema" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=5973" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Cinema may refer to:\n\nMovie\n\n* Cinematography, the science or art of motion-picture photography\n* Film or movie, a series of still images that create the illusion of a moving image\n** Film industry, the technological and commercial institutions of filmmaking\n** Filmmaking, the process of making a film\n* Movie theater, a building in which films are shown\n\nMusic\n\nBands\n\n* Cinema (band), a 1982 band formed by ex-Yes members Alan White and Chris Squire\n* The Cinema, an American Indie pop band\n\nAlbums\n\n* Cinema (Andrea Bocelli album), released 2015\n* Cinema (The Cat Empire album), released 2010\n* Cinema (Elaine Paige album), released 1984\n* Cinema (Karsh Kale album), released 2010\n* Cinema (Nazareth album), or the title song, released 1986\n* Cinema, a 2009 album by Brazilian band Cachorro Grande\n* Cinema, a 1990 album by English musician Ian Campbell (rapper), or the title song\n* Cinema, a 2004 album by Portuguese musician Rodrigo Leão\nSongs\n\n* Cinema (Yes song), by the band Yes, from their 1983 album 90125\n* \"Cinéma\" (Paola di Medico song), Swiss entry in the Eurovision Song Contest 1980\n* \"Cinema\" (Benny Benassi song), from the 2011 album Electroman\n* \"Cinema 1\", \"Cinema 2\" and \"Cinema 3\" by Brockhampton from Saturation III\n\nOther\n\n* Cinema (2008 film) or Bommalattam, a Tamil film directed by Bharathiraja\n* Cinema: Journal of Philosophy and the Moving Image, a journal published by the IFILNOVA - NOVA Institute of Philosophy. Cinema. http://en.wikipedia.org/?curid=5973."
+  }
+}

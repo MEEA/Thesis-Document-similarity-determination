@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19172",
+  "eid" : "3881d810-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778604049,
+  "textBody" : "Population\n\nAccording to INSEE Martinique has an estimated population of 390,371 on January 1, 2012. Life expectancy at birth is 78.9 years for male children, and 84.8 for female (figures for 2011).\n\nEthnic groups\n\nAfrican and African-white-Indian mixture 80%; Indo-Martiniquais 10%; white 5%; Lebanese and Syrians, and Chinese less than 5%.\n\nLanguages\n\nFrench (official) and Creole patois. (by this CIA Factbook means Antillean Creole)\n\nReligion\n\nRoman Catholic 95%, Hindu and pagan African 5%, tiny number of Protestants, and small Jewish community.\n\nVital statistics[http://unstats.un.org/unsd/demographic/products/dyb/dyb2.htm#2001] United nations. Demographic Yearbooks\n\nStructure of the population http://unstats.un.org/unsd/demographic/products/dyb/dyb2.htm \n\nStructure of the population (01.01.2010) (Provisional estimates) :",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Demographics of Martinique" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19172" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Population\n\nAccording to INSEE Martinique has an estimated population of 390,371 on January 1, 2012. Life expectancy at birth is 78.9 years for male children, and 84.8 for female (figures for 2011).\n\nEthnic groups\n\nAfrican and African-white-Indian mixture 80%; Indo-Martiniquais 10%; white 5%; Lebanese and Syrians, and Chinese less than 5%.\n\nLanguages\n\nFrench (official) and Creole patois. (by this CIA Factbook means Antillean Creole)\n\nReligion\n\nRoman Catholic 95%, Hindu and pagan African 5%, tiny number of Protestants, and small Jewish community.\n\nVital statistics[http://unstats.un.org/unsd/demographic/products/dyb/dyb2.htm#2001] United nations. Demographic Yearbooks\n\nStructure of the population http://unstats.un.org/unsd/demographic/products/dyb/dyb2.htm \n\nStructure of the population (01.01.2010) (Provisional estimates) :. Demographics of Martinique. http://en.wikipedia.org/?curid=19172."
+  }
+}

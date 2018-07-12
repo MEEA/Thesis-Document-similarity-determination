@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2690",
+  "eid" : "c199eee0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778404558,
+  "textBody" : "An anti-diarrhoeal drug (or anti-diarrheal drug in American English) is any medication which provides symptomatic relief for diarrhoea.\n\nTypes\n\n* Electrolyte solutions, while not true antidiarrhoeals, are used to replace lost fluids and salts in acute cases.\n* Bulking agents like methylcellulose, guar gum or plant fibre (bran, sterculia, isabgol, etc.) are used for diarrhoea in functional bowel disease and to control ileostomy output.\n* Absorbents absorb toxic substances that cause infective diarrhoea, methylcellulose is an absorbent.\n* Anti-inflammatory compounds such as bismuth subsalicylate.\n* Anticholinergics reduce intestinal movement and are effective against both diarrhoea and accompanying cramping. \n* Opioids' classical use besides pain relief is as an anti-diarrhoeal drug. Opioids have agonist actions on the intestinal opioid receptors, which when activated cause constipation. Drugs such as morphine or codeine can be used to relieve diarrhoea this way. A notable opioid for the purpose of relief of diarrhoea is loperamide which is only an agonist of the μ opioid receptors in the large intestine and does not have opioid affects in the central nervous system as it doesn't cross the blood–brain barrier in significant amounts. This enables loperamide to be used to the same benefit as other opioid drugs but without the CNS side effects or potential for abuse.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Antidiarrhoeal" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2690" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "An anti-diarrhoeal drug (or anti-diarrheal drug in American English) is any medication which provides symptomatic relief for diarrhoea.\n\nTypes\n\n* Electrolyte solutions, while not true antidiarrhoeals, are used to replace lost fluids and salts in acute cases.\n* Bulking agents like methylcellulose, guar gum or plant fibre (bran, sterculia, isabgol, etc.) are used for diarrhoea in functional bowel disease and to control ileostomy output.\n* Absorbents absorb toxic substances that cause infective diarrhoea, methylcellulose is an absorbent.\n* Anti-inflammatory compounds such as bismuth subsalicylate.\n* Anticholinergics reduce intestinal movement and are effective against both diarrhoea and accompanying cramping. \n* Opioids' classical use besides pain relief is as an anti-diarrhoeal drug. Opioids have agonist actions on the intestinal opioid receptors, which when activated cause constipation. Drugs such as morphine or codeine can be used to relieve diarrhoea this way. A notable opioid for the purpose of relief of diarrhoea is loperamide which is only an agonist of the μ opioid receptors in the large intestine and does not have opioid affects in the central nervous system as it doesn't cross the blood–brain barrier in significant amounts. This enables loperamide to be used to the same benefit as other opioid drugs but without the CNS side effects or potential for abuse. Antidiarrhoeal. http://en.wikipedia.org/?curid=2690."
+  }
+}

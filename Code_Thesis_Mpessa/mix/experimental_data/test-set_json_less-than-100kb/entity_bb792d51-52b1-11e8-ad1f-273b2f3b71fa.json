@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1742",
+  "eid" : "bb792d51-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778394277,
+  "textBody" : "Anastasius I or Anastasios I may refer to:\n*Anastasius I Dicorus (b. 430 –  518), Roman Emperor\n*Anastasius I of Antioch (d. 599), Patriarch of Antioch\n*Pope Anastasius I (died 401), Pope of Rome",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Anastasius I" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1742" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Anastasius I or Anastasios I may refer to:\n*Anastasius I Dicorus (b. 430 –  518), Roman Emperor\n*Anastasius I of Antioch (d. 599), Patriarch of Antioch\n*Pope Anastasius I (died 401), Pope of Rome. Anastasius I. http://en.wikipedia.org/?curid=1742."
+  }
+}

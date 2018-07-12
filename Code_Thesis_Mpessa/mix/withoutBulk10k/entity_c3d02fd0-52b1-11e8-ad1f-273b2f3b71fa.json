@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3037",
+  "eid" : "c3d02fd0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778408269,
+  "textBody" : "Apollinarism or Apollinarianism was a view proposed by Apollinaris of Laodicea (died 390) that Jesus could not have had a human mind; rather,  Jesus had a human body and lower soul (the seat of the emotions) but a divine mind. \n\nHistory\n\nThe Trinity had been recognized at the Council of Nicea in 325, but debate about exactly what it meant continued. A rival to the more common belief that Jesus Christ had two natures was monophysitism (\"one nature\"), the doctrine that Christ had only one nature. Apollinarism and Eutychianism were two forms of monophysitism. Apollinaris' rejection that Christ had a human mind was considered an over-reaction to Arianism and its teaching that Christ was not divine.McGrath, Alister. 1998. Historical Theology, An Introduction to the History of Christian Thought. Oxford: Blackwell Publishers. Chapter 1.\n\nTheodoret charged Apollinaris with confounding the persons of the Godhead and with giving in to the heretical ways of Sabellius. Basil of Caesarea accused him of abandoning the literal sense of the scripture, and taking up wholly with the allegorical sense. His views were condemned in a Synod at Alexandria, under Athanasius of Alexandria, in 362, and later subdivided into several different heresies, the main ones of which were the Polemians and the Antidicomarianites.\n\nApollinaris further taught, following Tertullian, that the souls of men were propagated by other souls, as well as their bodies (see traducianism). \n\nChristian philosopher William Lane Craig has proposed a neo-Apollinarian Christology in which the divine Logos completes the human nature of Christ. Craig says his proposal is tentative and he welcomes critique and interaction from other scholars.William Lane Craig and J.P. Moreland. 2003. Philosophical Foundations for a Christian Worldview. InterVarsity Press. 608.\n\nNotes",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Apollinarism" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3037" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Apollinarism or Apollinarianism was a view proposed by Apollinaris of Laodicea (died 390) that Jesus could not have had a human mind; rather,  Jesus had a human body and lower soul (the seat of the emotions) but a divine mind. \n\nHistory\n\nThe Trinity had been recognized at the Council of Nicea in 325, but debate about exactly what it meant continued. A rival to the more common belief that Jesus Christ had two natures was monophysitism (\"one nature\"), the doctrine that Christ had only one nature. Apollinarism and Eutychianism were two forms of monophysitism. Apollinaris' rejection that Christ had a human mind was considered an over-reaction to Arianism and its teaching that Christ was not divine.McGrath, Alister. 1998. Historical Theology, An Introduction to the History of Christian Thought. Oxford: Blackwell Publishers. Chapter 1.\n\nTheodoret charged Apollinaris with confounding the persons of the Godhead and with giving in to the heretical ways of Sabellius. Basil of Caesarea accused him of abandoning the literal sense of the scripture, and taking up wholly with the allegorical sense. His views were condemned in a Synod at Alexandria, under Athanasius of Alexandria, in 362, and later subdivided into several different heresies, the main ones of which were the Polemians and the Antidicomarianites.\n\nApollinaris further taught, following Tertullian, that the souls of men were propagated by other souls, as well as their bodies (see traducianism). \n\nChristian philosopher William Lane Craig has proposed a neo-Apollinarian Christology in which the divine Logos completes the human nature of Christ. Craig says his proposal is tentative and he welcomes critique and interaction from other scholars.William Lane Craig and J.P. Moreland. 2003. Philosophical Foundations for a Christian Worldview. InterVarsity Press. 608.\n\nNotes. Apollinarism. http://en.wikipedia.org/?curid=3037."
+  }
+}

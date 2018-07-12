@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=9967",
+  "eid" : "f304d7b0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778487467,
+  "textBody" : "EDM or E-DM may refer to:\n\nComputing and Internet\n\n* Electronic document management, the tracking and storage of electronic documents\n* Enterprise data management\n* Enterprise Data Modeling or Enterprise Data Model\n* Enterprise decision management\n* Entity Data Model, the conceptual schema of data that Microsoft ADO.NET Entity framework works with\n\nMusic\n\n* Early Day Miners, a U.S. band\n* Electronic dance music, a broad range of percussive electronic music genres\n\nScience and engineering\n\n* Educational data mining\n* Electric dipole moment, in physics\n* Electrical discharge machining, a machining method\n* Electronic distance meter, or total station, a device used in surveying\n\nOrganisations\n\n* Electricidade de Moçambique, Mozambique's publicly owned electricity company\n* Department of Essential Drugs and Medicines, of the World Health Organization\n* Expertise Centre for Digital Media, a research institute of Hasselt University\n* Escola Catolica Estrela do Mar (Macau), a Catholic school in Macau, China\n\nOther uses\n\n* Event-driven marketing\n* Early day motion, a term used in the British House of Commons\n* Edmonds (Amtrak station), (Amtrak station code) Washington, United States\n* Master of Education (Ed.M.)\n* European Domestic Market, in the automobile industry; for example see Honda Civic Type R",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "EDM" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=9967" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "EDM or E-DM may refer to:\n\nComputing and Internet\n\n* Electronic document management, the tracking and storage of electronic documents\n* Enterprise data management\n* Enterprise Data Modeling or Enterprise Data Model\n* Enterprise decision management\n* Entity Data Model, the conceptual schema of data that Microsoft ADO.NET Entity framework works with\n\nMusic\n\n* Early Day Miners, a U.S. band\n* Electronic dance music, a broad range of percussive electronic music genres\n\nScience and engineering\n\n* Educational data mining\n* Electric dipole moment, in physics\n* Electrical discharge machining, a machining method\n* Electronic distance meter, or total station, a device used in surveying\n\nOrganisations\n\n* Electricidade de Moçambique, Mozambique's publicly owned electricity company\n* Department of Essential Drugs and Medicines, of the World Health Organization\n* Expertise Centre for Digital Media, a research institute of Hasselt University\n* Escola Catolica Estrela do Mar (Macau), a Catholic school in Macau, China\n\nOther uses\n\n* Event-driven marketing\n* Early day motion, a term used in the British House of Commons\n* Edmonds (Amtrak station), (Amtrak station code) Washington, United States\n* Master of Education (Ed.M.)\n* European Domestic Market, in the automobile industry; for example see Honda Civic Type R. EDM. http://en.wikipedia.org/?curid=9967."
+  }
+}

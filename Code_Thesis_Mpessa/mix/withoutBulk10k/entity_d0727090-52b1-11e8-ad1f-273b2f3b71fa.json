@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=4796",
+  "eid" : "d0727090-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778429465,
+  "textBody" : "Bladder often refers to the urinary bladder, which collects urine for excretion in animals.\n\nBladder may also refer to:\n\nBiology\n\n* Urinary bladder\n** Urinary bladder (Chinese medicine)\n** Bladder control;  see Urinary incontinence\n** Artificial urinary bladder, in humans\n** Pig bladder, urinary bladder of a domestic pig, with many human uses\n* Gallbladder, which stores bile for digestion\n* Swim bladder, in bony fishes, an internal organ that helps to control buoyancy\n\nTechnology\n\n* Waterskin, a traditional container for transporting water\n* Hydration system, sometimes known as a bladder\n* Wine bladder, see Bag-In-Box\n* Pneumatic bladder, an old technology with many industrial applications\n* Fuel bladder\n\nGeography\n\n* Bladder Lake, a lake in Minnesota",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Bladder (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=4796" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Bladder often refers to the urinary bladder, which collects urine for excretion in animals.\n\nBladder may also refer to:\n\nBiology\n\n* Urinary bladder\n** Urinary bladder (Chinese medicine)\n** Bladder control;  see Urinary incontinence\n** Artificial urinary bladder, in humans\n** Pig bladder, urinary bladder of a domestic pig, with many human uses\n* Gallbladder, which stores bile for digestion\n* Swim bladder, in bony fishes, an internal organ that helps to control buoyancy\n\nTechnology\n\n* Waterskin, a traditional container for transporting water\n* Hydration system, sometimes known as a bladder\n* Wine bladder, see Bag-In-Box\n* Pneumatic bladder, an old technology with many industrial applications\n* Fuel bladder\n\nGeography\n\n* Bladder Lake, a lake in Minnesota. Bladder (disambiguation). http://en.wikipedia.org/?curid=4796."
+  }
+}

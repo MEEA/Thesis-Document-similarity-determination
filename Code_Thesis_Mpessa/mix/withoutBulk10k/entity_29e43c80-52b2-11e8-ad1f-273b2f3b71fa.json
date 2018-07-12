@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16980",
+  "eid" : "29e43c80-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778579528,
+  "textBody" : "KY or Ky may refer to:\n\n* .ky, top-level domain for the Cayman Islands\n* K-Y Jelly, a brand of personal lubricant\n* Kyrgyz language (ISO 639 alpha-2 code KY)\n* Air São Tomé and Príncipe and  Kunming Air (IATA airline designator)\n* , Swedish Qualified Vocational Education\n* KY Cygni, a red supergiant located in the constellation Cygnus\n* A variation of the name Kye, Kai, Kay, or Cai; and as a nickname for Kyle.\n\nArts and entertainment\n\n* Ky Kiske, a fictional character in the Guilty Gear video game series\n* Kashiyatra, a festival in India\n\nPeople\n\n* Nguyễn Cao Kỳ, general and prime minister of South Vietnam\n* Ky Hollenbeck, kickboxer\n* Ky Furneaux, Australian television personality\n\nPlaces\n\n* KY postcode area, UK (Kirkcaldy), covering most of Fife and surrounding areas in Scotland\n* Kentucky, a U.S. state\n* County Kerry, a county of Ireland\n* Cayman Islands (ISO two-letter country code)\n* Kyritz, German licence plate code, for Kyritz in Brandenburg",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "KY" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16980" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "KY or Ky may refer to:\n\n* .ky, top-level domain for the Cayman Islands\n* K-Y Jelly, a brand of personal lubricant\n* Kyrgyz language (ISO 639 alpha-2 code KY)\n* Air São Tomé and Príncipe and  Kunming Air (IATA airline designator)\n* , Swedish Qualified Vocational Education\n* KY Cygni, a red supergiant located in the constellation Cygnus\n* A variation of the name Kye, Kai, Kay, or Cai; and as a nickname for Kyle.\n\nArts and entertainment\n\n* Ky Kiske, a fictional character in the Guilty Gear video game series\n* Kashiyatra, a festival in India\n\nPeople\n\n* Nguyễn Cao Kỳ, general and prime minister of South Vietnam\n* Ky Hollenbeck, kickboxer\n* Ky Furneaux, Australian television personality\n\nPlaces\n\n* KY postcode area, UK (Kirkcaldy), covering most of Fife and surrounding areas in Scotland\n* Kentucky, a U.S. state\n* County Kerry, a county of Ireland\n* Cayman Islands (ISO two-letter country code)\n* Kyritz, German licence plate code, for Kyritz in Brandenburg. KY. http://en.wikipedia.org/?curid=16980."
+  }
+}

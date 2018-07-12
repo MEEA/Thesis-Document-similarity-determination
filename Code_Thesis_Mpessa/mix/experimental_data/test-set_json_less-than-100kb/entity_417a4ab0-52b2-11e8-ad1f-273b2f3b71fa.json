@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=20330",
+  "eid" : "417a4ab0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778619099,
+  "textBody" : "Mainframe may refer to any of the following:\n\n* Mainframe computer, a type of large data processing system\n* Mainframe Entertainment, a former Canadian computer animation company now known as Rainmaker Entertainment\n* Either of two fictional Marvel Comics characters:\n** Mainframe (comics), from the series A-Next\n** Mainframe, a character from the Guardians of the Galaxy series\n* Mainframe (Transformers), a character in the Transformers series\n* Mainframe (G.I. Joe), a character in the G.I. Joe universe\n* A character from the game Gunman Chronicles\n* Mainframe, the city in which the animated series ReBoot takes place\n* A character in Gene Wolfe's novel/series The Book of the Long Sun",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Mainframe (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=20330" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Mainframe may refer to any of the following:\n\n* Mainframe computer, a type of large data processing system\n* Mainframe Entertainment, a former Canadian computer animation company now known as Rainmaker Entertainment\n* Either of two fictional Marvel Comics characters:\n** Mainframe (comics), from the series A-Next\n** Mainframe, a character from the Guardians of the Galaxy series\n* Mainframe (Transformers), a character in the Transformers series\n* Mainframe (G.I. Joe), a character in the G.I. Joe universe\n* A character from the game Gunman Chronicles\n* Mainframe, the city in which the animated series ReBoot takes place\n* A character in Gene Wolfe's novel/series The Book of the Long Sun. Mainframe (disambiguation). http://en.wikipedia.org/?curid=20330."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2620",
+  "eid" : "c137d1b0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778403915,
+  "textBody" : "Aedesius (, died 355 AD) was a Neoplatonist philosopher and mystic born of a noble Cappadocian family.\n\nCareer\n\nAedesius was born into a wealthy Cappadocian family, but he moved to Syria, where he was apprenticed to Iamblichos. He quickly became his best pupil and the two became friends. Aedesius's own philosophical doctrine, however, was somewhere between Platonism and eclecticism and, according to Eunapius, he differed from Iamblichus on certain points connected with theurgy and magic. This cites: Ritter and Preller, p. 552 (presumably of Historia philosophiae Graeco-Romanae); Ritter's Geschichte der Philosophie; T. Whittaker, The Neoplatonists (Cambridge, 1901).\n\nAfter the death of his master, the school of Syria was dispersed and Aedesius seems to have modified his doctrines out of fear of Constantine II, and took refuge in divination. An oracle in hexameter verse represented a pastoral life as his only retreat, but his disciples, perhaps calming his fears by a metaphorical interpretation, compelled him to resume his instructions.\n\nSchool of philosophy at Pergamon \n\nAedesius founded a school of philosophy at Pergamon, which emphasized theurgy and the revival of polytheism, and where he numbered among his pupils Eusebius of Myndus, Maximus of Ephesus, and the Roman emperor Julian. After the accession of the latter to the imperial purple he invited Aedesius to continue his instructions, but the declining strength of the sage being unequal to the task, two of his most learned disciples, Chrysanthius and the aforementioned Eusebius, were by his own desire appointed to supply his place.Eunapius, Vita Aedesius\n\nNone of his writings have survived, but there is an extant biography by Eunapius, a Greek sophist and historian of the 4th century who wrote a collection of biographies titled Lives of the Sophists.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Aedesius" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2620" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Aedesius (, died 355 AD) was a Neoplatonist philosopher and mystic born of a noble Cappadocian family.\n\nCareer\n\nAedesius was born into a wealthy Cappadocian family, but he moved to Syria, where he was apprenticed to Iamblichos. He quickly became his best pupil and the two became friends. Aedesius's own philosophical doctrine, however, was somewhere between Platonism and eclecticism and, according to Eunapius, he differed from Iamblichus on certain points connected with theurgy and magic. This cites: Ritter and Preller, p. 552 (presumably of Historia philosophiae Graeco-Romanae); Ritter's Geschichte der Philosophie; T. Whittaker, The Neoplatonists (Cambridge, 1901).\n\nAfter the death of his master, the school of Syria was dispersed and Aedesius seems to have modified his doctrines out of fear of Constantine II, and took refuge in divination. An oracle in hexameter verse represented a pastoral life as his only retreat, but his disciples, perhaps calming his fears by a metaphorical interpretation, compelled him to resume his instructions.\n\nSchool of philosophy at Pergamon \n\nAedesius founded a school of philosophy at Pergamon, which emphasized theurgy and the revival of polytheism, and where he numbered among his pupils Eusebius of Myndus, Maximus of Ephesus, and the Roman emperor Julian. After the accession of the latter to the imperial purple he invited Aedesius to continue his instructions, but the declining strength of the sage being unequal to the task, two of his most learned disciples, Chrysanthius and the aforementioned Eusebius, were by his own desire appointed to supply his place.Eunapius, Vita Aedesius\n\nNone of his writings have survived, but there is an extant biography by Eunapius, a Greek sophist and historian of the 4th century who wrote a collection of biographies titled Lives of the Sophists. Aedesius. http://en.wikipedia.org/?curid=2620."
+  }
+}

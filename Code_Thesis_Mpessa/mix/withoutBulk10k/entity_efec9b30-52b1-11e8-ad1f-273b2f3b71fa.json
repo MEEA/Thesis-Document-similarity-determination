@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=9561",
+  "eid" : "efec9b30-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778482275,
+  "textBody" : "*Leonhard Euler (1707–1783) was a Swiss mathematician and physicist.\n\nEuler may also refer to:\n\nScience and technology\n\n* Euler (programming language), a computer programming language\n* Euler (software), a numerical software package\n* Euler Portal to Mathematics Publications, hosted by EMIS\n* Euler-Werke, an aircraft manufacturer owned by August Euler.\n* AMS Euler, a typeface\n* Project Euler a series of challenging mathematical/computer programming problems\n\nOther uses\n\n* Euler (surname)\n* Euler Hermes, a global credit insurance company\n* EULAR, European rheumatology organization",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Euler (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=9561" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "*Leonhard Euler (1707–1783) was a Swiss mathematician and physicist.\n\nEuler may also refer to:\n\nScience and technology\n\n* Euler (programming language), a computer programming language\n* Euler (software), a numerical software package\n* Euler Portal to Mathematics Publications, hosted by EMIS\n* Euler-Werke, an aircraft manufacturer owned by August Euler.\n* AMS Euler, a typeface\n* Project Euler a series of challenging mathematical/computer programming problems\n\nOther uses\n\n* Euler (surname)\n* Euler Hermes, a global credit insurance company\n* EULAR, European rheumatology organization. Euler (disambiguation). http://en.wikipedia.org/?curid=9561."
+  }
+}

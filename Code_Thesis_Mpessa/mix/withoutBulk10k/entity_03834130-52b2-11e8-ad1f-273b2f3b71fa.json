@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12573",
+  "eid" : "03834130-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778515139,
+  "textBody" : "GIA or Gia may refer to:\n\nPeople \n\n* Gia (name), a given name (including a list of people with the name)\n\nAviation\n\n* Gan International Airport, Maldives\n* Garuda Indonesia, the national airline of Indonesia\n* Ghana International Airlines\n* Gambia International Airlines\n* Glasgow Airport, Scotland\n\nEntertainment\n\n* Gia, a 1998 film about Gia Marie Carangi\n* Gia (album), a 2001 album by Greek singer Despina Vandi\n* \"Gia\" (song), a 2001 single by Despina Vandi, taken from the album\n* GIA Publications, an American music publisher\n* Gia Sena, a 1993 studio album by Greek musician Sakis Rouvas\n\nGovernment and politics \n\n* Armed Islamic Group of Algeria, (French: ')\n* Gallup International Association, a polling organization\n* General Intelligence Agency of Mongolia\n* Government Information Awareness, an American open government project\n\nOther uses\n\n* Gemological Institute of America\n* Georgetown International Academy, in Guyana\n* Glacial isostatic adjustment\n* Gross internal area\n* Kea (island), in the Cyclades, Greece",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "GIA" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12573" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "GIA or Gia may refer to:\n\nPeople \n\n* Gia (name), a given name (including a list of people with the name)\n\nAviation\n\n* Gan International Airport, Maldives\n* Garuda Indonesia, the national airline of Indonesia\n* Ghana International Airlines\n* Gambia International Airlines\n* Glasgow Airport, Scotland\n\nEntertainment\n\n* Gia, a 1998 film about Gia Marie Carangi\n* Gia (album), a 2001 album by Greek singer Despina Vandi\n* \"Gia\" (song), a 2001 single by Despina Vandi, taken from the album\n* GIA Publications, an American music publisher\n* Gia Sena, a 1993 studio album by Greek musician Sakis Rouvas\n\nGovernment and politics \n\n* Armed Islamic Group of Algeria, (French: ')\n* Gallup International Association, a polling organization\n* General Intelligence Agency of Mongolia\n* Government Information Awareness, an American open government project\n\nOther uses\n\n* Gemological Institute of America\n* Georgetown International Academy, in Guyana\n* Glacial isostatic adjustment\n* Gross internal area\n* Kea (island), in the Cyclades, Greece. GIA. http://en.wikipedia.org/?curid=12573."
+  }
+}

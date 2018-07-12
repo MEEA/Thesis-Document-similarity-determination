@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17869",
+  "eid" : "2f008660-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778588102,
+  "textBody" : "Lagâri Hasan Çelebi was an Ottoman aviator who, according to a sole account written by traveller Evliya Çelebi, made a successful manned rocket flight.\n\nAccount\n\nEvliya Çelebi reported that in 1633, Lagari Hasan Çelebi launched in a 7-winged rocket using 50 okka (140 lbs) of gunpowder from Sarayburnu, the point below Topkapı Palace in Istanbul. The flight was said to be undertaken at the time of the birth of sultan Murad IV's daughter. As Evliya Celebi wrote, Lagari proclaimed before launch \"O my sultan! Be blessed, I am going to talk to Jesus!\"; after ascending in the rocket, he landed in the sea, swimming ashore and joking \"O my sultan! Jesus sends his regards to you!\"; he was rewarded by the Sultan with silver and the rank of sipahi in the Ottoman army.Winter, Frank H. (1992). \"Who First Flew in a Rocket?\", Journal of the British Interplanetary Society 45 (July 1992), p. 275-80\n\nEvliya Çelebi also wrote of Lagari's brother, Hezârfen Ahmed Çelebi, making a flight by glider a year earlier.\n\nPopular culture\n\nIstanbul Beneath My Wings is a 1996 film about the lives of Lagari Hasan Çelebi, his brother and fellow aviator Hezârfen Ahmed Çelebi, and Ottoman society in the early 17th century as witnessed and narrated by Evliya Çelebi.\n\nThe legend was addressed in an experiment by the television show MythBusters, on November 11, 2009, in the episode \"Crash and Burn\"; however, the team noted that Evliya Çelebi had not sufficiently specified the alleged design used by Lagâri Hasan and said that it would have been \"extremely difficult\" for a 17th-century figure, unequipped with modern steel alloys and welding, to land safely or even achieve thrust at all. Although the re-imagined rocket rose, it exploded midflight.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Lagâri Hasan Çelebi" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17869" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Lagâri Hasan Çelebi was an Ottoman aviator who, according to a sole account written by traveller Evliya Çelebi, made a successful manned rocket flight.\n\nAccount\n\nEvliya Çelebi reported that in 1633, Lagari Hasan Çelebi launched in a 7-winged rocket using 50 okka (140 lbs) of gunpowder from Sarayburnu, the point below Topkapı Palace in Istanbul. The flight was said to be undertaken at the time of the birth of sultan Murad IV's daughter. As Evliya Celebi wrote, Lagari proclaimed before launch \"O my sultan! Be blessed, I am going to talk to Jesus!\"; after ascending in the rocket, he landed in the sea, swimming ashore and joking \"O my sultan! Jesus sends his regards to you!\"; he was rewarded by the Sultan with silver and the rank of sipahi in the Ottoman army.Winter, Frank H. (1992). \"Who First Flew in a Rocket?\", Journal of the British Interplanetary Society 45 (July 1992), p. 275-80\n\nEvliya Çelebi also wrote of Lagari's brother, Hezârfen Ahmed Çelebi, making a flight by glider a year earlier.\n\nPopular culture\n\nIstanbul Beneath My Wings is a 1996 film about the lives of Lagari Hasan Çelebi, his brother and fellow aviator Hezârfen Ahmed Çelebi, and Ottoman society in the early 17th century as witnessed and narrated by Evliya Çelebi.\n\nThe legend was addressed in an experiment by the television show MythBusters, on November 11, 2009, in the episode \"Crash and Burn\"; however, the team noted that Evliya Çelebi had not sufficiently specified the alleged design used by Lagâri Hasan and said that it would have been \"extremely difficult\" for a 17th-century figure, unequipped with modern steel alloys and welding, to land safely or even achieve thrust at all. Although the re-imagined rocket rose, it exploded midflight. Lagâri Hasan Çelebi. http://en.wikipedia.org/?curid=17869."
+  }
+}

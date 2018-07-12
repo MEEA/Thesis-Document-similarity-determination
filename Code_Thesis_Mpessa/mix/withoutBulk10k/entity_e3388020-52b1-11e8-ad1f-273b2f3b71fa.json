@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7751",
+  "eid" : "e3388020-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778460962,
+  "textBody" : "CPSU  can refer to:\n* Central Philippines State University, a state university in the Philippines\n* Communist Party of the Soviet Union\n* Communist Party of the Soviet Union (1992)\n* Communist Party of the Soviet Union (Shenin)\n* Union of Communist Parties — Communist Party of the Soviet Union\n* Communist Party of Social Justice — political party in Russia established in 2012\n* Civil and Public Services Union - an Irish trade union\n* Community and Public Sector Union - an Australian trade union\n* California Polytechnic State University in San Luis Obispo, California, USA\n* Commonwealth Policy Studies Unit\n* Coventry Polytechnic Students Union",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "CPSU (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7751" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "CPSU  can refer to:\n* Central Philippines State University, a state university in the Philippines\n* Communist Party of the Soviet Union\n* Communist Party of the Soviet Union (1992)\n* Communist Party of the Soviet Union (Shenin)\n* Union of Communist Parties — Communist Party of the Soviet Union\n* Communist Party of Social Justice — political party in Russia established in 2012\n* Civil and Public Services Union - an Irish trade union\n* Community and Public Sector Union - an Australian trade union\n* California Polytechnic State University in San Luis Obispo, California, USA\n* Commonwealth Policy Studies Unit\n* Coventry Polytechnic Students Union. CPSU (disambiguation). http://en.wikipedia.org/?curid=7751."
+  }
+}

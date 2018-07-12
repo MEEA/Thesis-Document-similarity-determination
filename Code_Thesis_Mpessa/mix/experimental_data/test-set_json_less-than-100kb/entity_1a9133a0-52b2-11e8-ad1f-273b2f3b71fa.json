@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15200",
+  "eid" : "1a9133a0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778553818,
+  "textBody" : "The International Monetary Fund (IMF) is an international organization.\n\nIMF may also refer to:\n\nEntertainment\n\n* IMF (file format), a file format used in video games\n* Impossible Missions Force, a fictional secret espionage agency in the Mission: Impossible television and film series\n* International Music Feed, a music video television network\n* Internationale Medien und Film, see Intermedia (production company)\n\nScience and technology\n\n* Immunofluorescence Labeling, a method used in immunology and cytology\n* Inframammary fold, in anatomy\n* Initial mass function, in stellar astronomy\n* Intelligent Message Filter, a Microsoft anti-spam technology for Exchange/Outlook\n* Intermolecular forces, non-bonding electrostatic forces between molecules\n* Interoperable Master Format, in cinema, a file-based master format for movies, standardized by SMPTE\n* Interplanetary magnetic field, in space\n* Intramuscular fat, in anatomy\n\nOther uses\n\n* International Myeloma Foundation, a non-profit serving patients with a cancer of plasma cells in the bone marrow\n* International Metalworkers' Federation, a global union federation\n* Internationale Maifestspiele Wiesbaden, International May Festival",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "IMF (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15200" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The International Monetary Fund (IMF) is an international organization.\n\nIMF may also refer to:\n\nEntertainment\n\n* IMF (file format), a file format used in video games\n* Impossible Missions Force, a fictional secret espionage agency in the Mission: Impossible television and film series\n* International Music Feed, a music video television network\n* Internationale Medien und Film, see Intermedia (production company)\n\nScience and technology\n\n* Immunofluorescence Labeling, a method used in immunology and cytology\n* Inframammary fold, in anatomy\n* Initial mass function, in stellar astronomy\n* Intelligent Message Filter, a Microsoft anti-spam technology for Exchange/Outlook\n* Intermolecular forces, non-bonding electrostatic forces between molecules\n* Interoperable Master Format, in cinema, a file-based master format for movies, standardized by SMPTE\n* Interplanetary magnetic field, in space\n* Intramuscular fat, in anatomy\n\nOther uses\n\n* International Myeloma Foundation, a non-profit serving patients with a cancer of plasma cells in the bone marrow\n* International Metalworkers' Federation, a global union federation\n* Internationale Maifestspiele Wiesbaden, International May Festival. IMF (disambiguation). http://en.wikipedia.org/?curid=15200."
+  }
+}

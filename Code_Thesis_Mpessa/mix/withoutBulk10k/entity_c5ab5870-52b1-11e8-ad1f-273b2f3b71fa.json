@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3371",
+  "eid" : "c5ab5870-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778411383,
+  "textBody" : "Johann Sebastian Bach (1685–1750) was a famous German composer of the Baroque period.\n\nBach may also refer to:\n\nBroadcasting\n\n* WBQK, a radio station licensed to West Point, Virginia, United States, known as Bach FM\n* WLTT, a radio station licensed to Carolina Beach, North Carolina, United States, known as Bach FM from 2011 to 2013\n\nOrganizations\n\n* The Brown Association for Cooperative Housing, in Providence, Rhode Island, United States\n* Vincent Bach Corporation, a brass instrument manufacturer\n\nPeople\n\n* Bach family, of importance in the history of music\n* Bach (surname)\n* Bach (actor) (Charles-Joseph Pasquier, 1882–1953), French actor, singer and music hall performer\n* Bill Bachrach (1879–1959), American swim coach known as \"Bach\"\n*King Bach, famous youtuber and viner\n* Yoel Sirkis (1561–1640), Polish posek and halakhist, known as \"the Bach\"\n\nPlaces\n\n* Bach, Austria, a municipality in Reutte\n* Bach, Lot, a commune in France\n* Bach, Michigan, an unincorporated community in Sebewaing Township\n* Bach an der Donau, a town in Regensburg, Bavaria, Germany\n* Bach Ice Shelf, on Alexander Island, Antarctica\n* Bach quadrangle, on the planet Mercury\n* Bach (crater), on the planet Mercury\n* Bäch, a settlement of the Freienbach municipality in Schwyz, Switzerland\n** Bäch railway station, in Freienbach, Switzerland\n\nOther uses\n\n* Bach (journal), an academic journal of Baroque music\n* Bach (New Zealand), a modest holiday home or beach house\n* 1814 Bach, an asteroid\n* BACH motif, a sequence of notes",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Bach (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3371" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Johann Sebastian Bach (1685–1750) was a famous German composer of the Baroque period.\n\nBach may also refer to:\n\nBroadcasting\n\n* WBQK, a radio station licensed to West Point, Virginia, United States, known as Bach FM\n* WLTT, a radio station licensed to Carolina Beach, North Carolina, United States, known as Bach FM from 2011 to 2013\n\nOrganizations\n\n* The Brown Association for Cooperative Housing, in Providence, Rhode Island, United States\n* Vincent Bach Corporation, a brass instrument manufacturer\n\nPeople\n\n* Bach family, of importance in the history of music\n* Bach (surname)\n* Bach (actor) (Charles-Joseph Pasquier, 1882–1953), French actor, singer and music hall performer\n* Bill Bachrach (1879–1959), American swim coach known as \"Bach\"\n*King Bach, famous youtuber and viner\n* Yoel Sirkis (1561–1640), Polish posek and halakhist, known as \"the Bach\"\n\nPlaces\n\n* Bach, Austria, a municipality in Reutte\n* Bach, Lot, a commune in France\n* Bach, Michigan, an unincorporated community in Sebewaing Township\n* Bach an der Donau, a town in Regensburg, Bavaria, Germany\n* Bach Ice Shelf, on Alexander Island, Antarctica\n* Bach quadrangle, on the planet Mercury\n* Bach (crater), on the planet Mercury\n* Bäch, a settlement of the Freienbach municipality in Schwyz, Switzerland\n** Bäch railway station, in Freienbach, Switzerland\n\nOther uses\n\n* Bach (journal), an academic journal of Baroque music\n* Bach (New Zealand), a modest holiday home or beach house\n* 1814 Bach, an asteroid\n* BACH motif, a sequence of notes. Bach (disambiguation). http://en.wikipedia.org/?curid=3371."
+  }
+}

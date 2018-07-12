@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=9862",
+  "eid" : "f26e6410-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778486481,
+  "textBody" : "Europe of Democracies and Diversities (EDD) was a Eurosceptic political group with seats in the European Parliament between 1999 and 2004. Following the 2004 European elections, the group reformed as Independence/Democracy (IND/DEM).\n\nMembers\n\n#June Movement (Denmark), 3 seats\n#People's Movement against the EU (Denmark), 1 seat\n#Hunting, Fishing, Nature, Tradition (France), 6 seats\n#ChristianUnion – Reformed Political Party (Netherlands), 3 seats\n#UK Independence Party (United Kingdom), 3 seats\n#Combats Souverainistes (France), 1 MEP defected from Rally for France/UEN group in March 2001\n#League of Polish Families (Poland), after Poland joined the EU in May 2004",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Europe of Democracies and Diversities" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=9862" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Europe of Democracies and Diversities (EDD) was a Eurosceptic political group with seats in the European Parliament between 1999 and 2004. Following the 2004 European elections, the group reformed as Independence/Democracy (IND/DEM).\n\nMembers\n\n#June Movement (Denmark), 3 seats\n#People's Movement against the EU (Denmark), 1 seat\n#Hunting, Fishing, Nature, Tradition (France), 6 seats\n#ChristianUnion – Reformed Political Party (Netherlands), 3 seats\n#UK Independence Party (United Kingdom), 3 seats\n#Combats Souverainistes (France), 1 MEP defected from Rally for France/UEN group in March 2001\n#League of Polish Families (Poland), after Poland joined the EU in May 2004. Europe of Democracies and Diversities. http://en.wikipedia.org/?curid=9862."
+  }
+}

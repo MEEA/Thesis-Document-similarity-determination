@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=801",
+  "eid" : "95a815f0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778330831,
+  "textBody" : "Asterism may refer to:\n\n* Asterism (astronomy), a pattern of stars\n* Asterism (gemology), an optical phenomenon in gemstones\n* Asterism (typography), a moderately rare typographical symbol denoting a break in passages",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Asterism" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=801" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Asterism may refer to:\n\n* Asterism (astronomy), a pattern of stars\n* Asterism (gemology), an optical phenomenon in gemstones\n* Asterism (typography), a moderately rare typographical symbol denoting a break in passages. Asterism. http://en.wikipedia.org/?curid=801."
+  }
+}

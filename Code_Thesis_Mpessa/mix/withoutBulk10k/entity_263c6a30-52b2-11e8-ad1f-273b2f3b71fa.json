@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16475",
+  "eid" : "263c6a30-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778573395,
+  "textBody" : "Jamming (or variants) may refer to:\n\nGeneral\n\n* Jamming (knot), the tendency of knots to become difficult to untie\n* Interfering with communications or surveillance:\n** Radio jamming\n** Radar jamming and deception\n*** Chaff (countermeasure), a method of radar jamming which involves spreading a cloud of metallised particles in the air\n** Mobile phone jammer\n** Echolocation jamming\n** Radio-controlled improvised explosive device jamming, a counter-IED technique \n* Jamming (physics), an apparent change of physical state\n* Jamming (rock climbing), a rock climbing technique\n\nTV and radio\n\n* Culture jamming, criticizing mass media through its own methods\n* Jammin (radio programme), BBC Radio 2 musical comedy show that aired since 2001\n* Jammin, original version of TV series Kickin' It with Byron Allen 1992\n* Jammin (2006 TV series), Sí TV reality television series that aired from 2006–2008\n\nMusic and dance\n\n* Jam session, a semi-improvised rock or jazz performance\n* Jamming (dance), cheered show-offs during social dancing\n* Jamming (fanzine), a UK music fanzine of the 1970s–80s\n*Jamming, dancehall reggae album by Frankie Paul 1991\n* \"Jammin'\" (Andrews Sisters song), debut hit song of the Andrews Sisters 1937\n* \"Jamming\" (song), from Bob Marley's album Exodus\n* \"Master Blaster (Jammin')\", a 1980 song by Stevie Wonder from the album Hotter Than July",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Jamming" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16475" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Jamming (or variants) may refer to:\n\nGeneral\n\n* Jamming (knot), the tendency of knots to become difficult to untie\n* Interfering with communications or surveillance:\n** Radio jamming\n** Radar jamming and deception\n*** Chaff (countermeasure), a method of radar jamming which involves spreading a cloud of metallised particles in the air\n** Mobile phone jammer\n** Echolocation jamming\n** Radio-controlled improvised explosive device jamming, a counter-IED technique \n* Jamming (physics), an apparent change of physical state\n* Jamming (rock climbing), a rock climbing technique\n\nTV and radio\n\n* Culture jamming, criticizing mass media through its own methods\n* Jammin (radio programme), BBC Radio 2 musical comedy show that aired since 2001\n* Jammin, original version of TV series Kickin' It with Byron Allen 1992\n* Jammin (2006 TV series), Sí TV reality television series that aired from 2006–2008\n\nMusic and dance\n\n* Jam session, a semi-improvised rock or jazz performance\n* Jamming (dance), cheered show-offs during social dancing\n* Jamming (fanzine), a UK music fanzine of the 1970s–80s\n*Jamming, dancehall reggae album by Frankie Paul 1991\n* \"Jammin'\" (Andrews Sisters song), debut hit song of the Andrews Sisters 1937\n* \"Jamming\" (song), from Bob Marley's album Exodus\n* \"Master Blaster (Jammin')\", a 1980 song by Stevie Wonder from the album Hotter Than July. Jamming. http://en.wikipedia.org/?curid=16475."
+  }
+}

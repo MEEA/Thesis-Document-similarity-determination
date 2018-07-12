@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3020",
+  "eid" : "c3c1ff00-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778408176,
+  "textBody" : "Ambrose of Alexandria (before 212 – c. 250) was a friend of the Christian theologian Origen. Ambrose was attracted by Origen's fame as a teacher, and visited the Catechetical School of Alexandria in 212.  At first a gnostic Valentinian and Marcionist, Ambrose, through Origen's teaching, eventually rejected this theology and became Origen's constant companion,Origen, Epistle to Sextus Julius Africanus vol. i. p. 29 and was ordained deacon.Jerome's De Viris Illustribus # 61.Eusebius, Historia Ecclesiastica vii. 18 He plied Origen with questions, and urged him to write his Commentaries () on the books of the Bible, and, as a wealthy nobleman and courtier, he provided his teacher with books for his studies and secretaries to lighten the labor of composition.S. Epiph. adv. Haer. 64. [44] § 3\n\nHe suffered during the persecution under the Roman emperor Maximinus Thrax in 235.Eusebius of Caesarea,  Church History, 6.18. He was later released and died a confessor. The last mention of Ambrose in the historical record is in Origen's Contra Celsum, which the latter wrote at the solicitation of Ambrose.\n\nOrigen often speaks of Ambrose in affectionately as a man of education with excellent literary and scholarly tastes. All of Origen's works written after 218 are dedicated to Ambrose, including his On Martyrdom, Contra Celsum, Commentary on St. John's Gospel, and On Prayer. Ambrose's letters to Origen (praised by Jerome) are lost, although part of one exists.Routh, Reliquiae Sacr. ii. p. 367\n\nVeneration\n\nAmbrose is venerated as a saint by some branches of Christianity. His feast day in the Roman Catholic Church falls on 17 March.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Ambrose of Alexandria" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3020" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Ambrose of Alexandria (before 212 – c. 250) was a friend of the Christian theologian Origen. Ambrose was attracted by Origen's fame as a teacher, and visited the Catechetical School of Alexandria in 212.  At first a gnostic Valentinian and Marcionist, Ambrose, through Origen's teaching, eventually rejected this theology and became Origen's constant companion,Origen, Epistle to Sextus Julius Africanus vol. i. p. 29 and was ordained deacon.Jerome's De Viris Illustribus # 61.Eusebius, Historia Ecclesiastica vii. 18 He plied Origen with questions, and urged him to write his Commentaries () on the books of the Bible, and, as a wealthy nobleman and courtier, he provided his teacher with books for his studies and secretaries to lighten the labor of composition.S. Epiph. adv. Haer. 64. [44] § 3\n\nHe suffered during the persecution under the Roman emperor Maximinus Thrax in 235.Eusebius of Caesarea,  Church History, 6.18. He was later released and died a confessor. The last mention of Ambrose in the historical record is in Origen's Contra Celsum, which the latter wrote at the solicitation of Ambrose.\n\nOrigen often speaks of Ambrose in affectionately as a man of education with excellent literary and scholarly tastes. All of Origen's works written after 218 are dedicated to Ambrose, including his On Martyrdom, Contra Celsum, Commentary on St. John's Gospel, and On Prayer. Ambrose's letters to Origen (praised by Jerome) are lost, although part of one exists.Routh, Reliquiae Sacr. ii. p. 367\n\nVeneration\n\nAmbrose is venerated as a saint by some branches of Christianity. His feast day in the Roman Catholic Church falls on 17 March. Ambrose of Alexandria. http://en.wikipedia.org/?curid=3020."
+  }
+}

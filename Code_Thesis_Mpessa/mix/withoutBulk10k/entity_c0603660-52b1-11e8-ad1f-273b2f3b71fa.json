@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2459",
+  "eid" : "c0603660-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778402502,
+  "textBody" : "Appomattox, shorthand for the surrender of Robert E. Lee to Ulysses S. Grant in the American Civil War, may refer to:\n\n*Battle of Appomattox Court House, a battle of the American Civil War that was a culmination of the Appomattox Campaign and resulted in the surrender of Robert E. Lee\n*Appomattox Court House National Historical Park, a National Historical Park in Virginia at the site of the surrender\n\nAppomattox may also refer to:\n*Appomattox County, Virginia, in the United States\n**Appomattox, Virginia, a town and the seat of that county\n*Appomattox Court House (disambiguation), several courthouses in Appomattox, Virginia\n*Appomattox River, a tributary of the James River in Virginia\n* Appomattox Basin, a name for the Tri-Cities, Virginia region\n*Appomattox Manor, a manor in City Point, Hopewell, Virginia\n*Battle of Appomattox Station, a battle of the American Civil War in Appomattox, Virginia, a day before the Battle of Appomattox Court House\n*SS Appomattox, a large American wooden steamship operated mainly on the Great Lakes\n*SS Appomattox (1893), a British steamship of the early 20th century\n*Appomattox (opera), a 2007 opera in based on the American Civil War, composed by Philip Glass",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Appomattox" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2459" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Appomattox, shorthand for the surrender of Robert E. Lee to Ulysses S. Grant in the American Civil War, may refer to:\n\n*Battle of Appomattox Court House, a battle of the American Civil War that was a culmination of the Appomattox Campaign and resulted in the surrender of Robert E. Lee\n*Appomattox Court House National Historical Park, a National Historical Park in Virginia at the site of the surrender\n\nAppomattox may also refer to:\n*Appomattox County, Virginia, in the United States\n**Appomattox, Virginia, a town and the seat of that county\n*Appomattox Court House (disambiguation), several courthouses in Appomattox, Virginia\n*Appomattox River, a tributary of the James River in Virginia\n* Appomattox Basin, a name for the Tri-Cities, Virginia region\n*Appomattox Manor, a manor in City Point, Hopewell, Virginia\n*Battle of Appomattox Station, a battle of the American Civil War in Appomattox, Virginia, a day before the Battle of Appomattox Court House\n*SS Appomattox, a large American wooden steamship operated mainly on the Great Lakes\n*SS Appomattox (1893), a British steamship of the early 20th century\n*Appomattox (opera), a 2007 opera in based on the American Civil War, composed by Philip Glass. Appomattox. http://en.wikipedia.org/?curid=2459."
+  }
+}

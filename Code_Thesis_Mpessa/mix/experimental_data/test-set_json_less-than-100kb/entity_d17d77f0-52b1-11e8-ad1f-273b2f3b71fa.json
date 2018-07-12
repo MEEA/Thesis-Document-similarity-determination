@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=4957",
+  "eid" : "d17d77f0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778431215,
+  "textBody" : "BMI may refer to:\n* Body mass index, to categorize a person by weight\n\nCompanies and organizations \n\n* Central Illinois Regional Airport, IATA code\n* BMI Healthcare, UK\n* British Midland International, a UK airline incorporated into BA\n** Bmibaby.com, former airline, BMI subsidiary\n** BMI Regional airline, formerly a BMI subsidiary\n* BMI Research, a research firm\n* Baltimore Museum of Industry\n* Bank Melli Iran\n* Birmingham and Midland Institute, England\n* Bundesministerium des Innern, the German Federal Ministry of the Interior\n* Bureau of Military Information, US Civil War agency\n\nArt, media, and entertainment \n\n* BMI Gaming or BMI Worldwide, an amusement products firm\n* Best Motoring International, a Japanese magazine\n* Broadcast Music, Inc., a collecting society for composers' copyrights\n** BMI Foundation, founded by Broadcast Music Incorporated\n\nOther uses \n\n* Bit Manipulation Instruction Sets for x86 microprocessors.\n* Brain Machine Interface",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "BMI" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=4957" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "BMI may refer to:\n* Body mass index, to categorize a person by weight\n\nCompanies and organizations \n\n* Central Illinois Regional Airport, IATA code\n* BMI Healthcare, UK\n* British Midland International, a UK airline incorporated into BA\n** Bmibaby.com, former airline, BMI subsidiary\n** BMI Regional airline, formerly a BMI subsidiary\n* BMI Research, a research firm\n* Baltimore Museum of Industry\n* Bank Melli Iran\n* Birmingham and Midland Institute, England\n* Bundesministerium des Innern, the German Federal Ministry of the Interior\n* Bureau of Military Information, US Civil War agency\n\nArt, media, and entertainment \n\n* BMI Gaming or BMI Worldwide, an amusement products firm\n* Best Motoring International, a Japanese magazine\n* Broadcast Music, Inc., a collecting society for composers' copyrights\n** BMI Foundation, founded by Broadcast Music Incorporated\n\nOther uses \n\n* Bit Manipulation Instruction Sets for x86 microprocessors.\n* Brain Machine Interface. BMI. http://en.wikipedia.org/?curid=4957."
+  }
+}

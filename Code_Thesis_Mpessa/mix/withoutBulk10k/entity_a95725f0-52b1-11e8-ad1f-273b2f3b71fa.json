@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1049",
+  "eid" : "a95725f0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778363855,
+  "textBody" : "An amateur (French amateur \"lover of\", from Old French and ultimately from Latin amatorem nom. amator, \"lover\") is generally considered a person attached to a particular pursuit, study, or science in a non-professional or unpaid manner.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Amateur" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1049" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "An amateur (French amateur \"lover of\", from Old French and ultimately from Latin amatorem nom. amator, \"lover\") is generally considered a person attached to a particular pursuit, study, or science in a non-professional or unpaid manner. Amateur. http://en.wikipedia.org/?curid=1049."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16030",
+  "eid" : "22f136d0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778567869,
+  "textBody" : "The Juruá River (Portuguese Rio Juruá; Spanish Río Yurúa) is a southern affluent river of the Amazon River west of the Purus River, sharing with this the bottom of the immense inland Amazon depression, and having all the characteristics of the Purus as regards curvature, sluggishness and general features of the low, half-flooded forest country it traverses.\n\nFor most of its length the river flows through the Purus várzea ecoregion.\nThis is surrounded by the Juruá-Purus moist forests ecoregion.\nIt rises among the Ucayali highlands, and is navigable and unobstructed for a distance of 1133 mi above its junction with the Amazon. It has a total length of approximately 1500 mi, and is one of the longest tributaries of the Amazon.\n\nThe 251577 ha Médio Juruá Extractive Reserve, created in 1997, is on the left bank of the river as it meanders in a generally northeast direction through the municipality of Carauari.\nThe lower Juruá River forms the western boundary of the 187982 ha Baixo Juruá Extractive Reserve, created in 2001.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Juruá River" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16030" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The Juruá River (Portuguese Rio Juruá; Spanish Río Yurúa) is a southern affluent river of the Amazon River west of the Purus River, sharing with this the bottom of the immense inland Amazon depression, and having all the characteristics of the Purus as regards curvature, sluggishness and general features of the low, half-flooded forest country it traverses.\n\nFor most of its length the river flows through the Purus várzea ecoregion.\nThis is surrounded by the Juruá-Purus moist forests ecoregion.\nIt rises among the Ucayali highlands, and is navigable and unobstructed for a distance of 1133 mi above its junction with the Amazon. It has a total length of approximately 1500 mi, and is one of the longest tributaries of the Amazon.\n\nThe 251577 ha Médio Juruá Extractive Reserve, created in 1997, is on the left bank of the river as it meanders in a generally northeast direction through the municipality of Carauari.\nThe lower Juruá River forms the western boundary of the 187982 ha Baixo Juruá Extractive Reserve, created in 2001. Juruá River. http://en.wikipedia.org/?curid=16030."
+  }
+}

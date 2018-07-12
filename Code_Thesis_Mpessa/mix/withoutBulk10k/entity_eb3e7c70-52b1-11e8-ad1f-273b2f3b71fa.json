@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8892",
+  "eid" : "eb3e7c70-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778474423,
+  "textBody" : "Dionysius Thrax (,, Contemporary Koine:; 170–90 BC) was a Hellenistic grammarian and a pupil of Aristarchus of Samothrace. His place of origin was not Thrace as the epithet \"Thrax\" denotes, but probably Alexandria (his father's descent was Thracian). He lived and worked in this city but later taught at Rhodes.\n\nThe first extant grammar of Greek, Art of Grammar ( Tékhnē grammatiké) is attributed to him but many scholars today doubt that the work really belongs solely to him due to the difference between the technical approach of most of the work and the more literary approach (similar to the 2nd century's Alexandrian tradition) of the first few sections. It concerns itself primarily with a morphological description of Greek, lacking any treatment of syntax. The work was translated into Armenian and Syriac in the early Christian era.\n\nThrax defines grammar at the beginning of the Tékhnē as \"the practical knowledge of the general usages of poets and prose writers.\" Thus Dionysius Thrax, like contemporary Alexandrian scholars who edited Attic Greek and Homeric texts, was concerned with facilitating the teaching of classic Greek literature to an audience who spoke Koine Greek.There are extensive scholia to the Techne, which have been edited by A. Hilgard in 1901: Scholia in Dionysii Thracis Artem Grammaticam, recensuit et apparatum criticum indicesque adiecit Alfredus Hilgard, Lipsiae: in aedibus B.G. Teubneri 1901. The collections of scholia are the following: Prolegomena Vossiana (p.1); Commentarius Melampodis seu Diomedis (p. 10); Commentarius Heliodori (p. 67); Scholiorum collectio Vaticana (p. 106); Scholiorum collectio Marciana (p. 292); Scholiorum collectio Londinensis (p. 442); Commentariolus Byzantinus (pp. 565–586).\n\nNotes",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Dionysius Thrax" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8892" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Dionysius Thrax (,, Contemporary Koine:; 170–90 BC) was a Hellenistic grammarian and a pupil of Aristarchus of Samothrace. His place of origin was not Thrace as the epithet \"Thrax\" denotes, but probably Alexandria (his father's descent was Thracian). He lived and worked in this city but later taught at Rhodes.\n\nThe first extant grammar of Greek, Art of Grammar ( Tékhnē grammatiké) is attributed to him but many scholars today doubt that the work really belongs solely to him due to the difference between the technical approach of most of the work and the more literary approach (similar to the 2nd century's Alexandrian tradition) of the first few sections. It concerns itself primarily with a morphological description of Greek, lacking any treatment of syntax. The work was translated into Armenian and Syriac in the early Christian era.\n\nThrax defines grammar at the beginning of the Tékhnē as \"the practical knowledge of the general usages of poets and prose writers.\" Thus Dionysius Thrax, like contemporary Alexandrian scholars who edited Attic Greek and Homeric texts, was concerned with facilitating the teaching of classic Greek literature to an audience who spoke Koine Greek.There are extensive scholia to the Techne, which have been edited by A. Hilgard in 1901: Scholia in Dionysii Thracis Artem Grammaticam, recensuit et apparatum criticum indicesque adiecit Alfredus Hilgard, Lipsiae: in aedibus B.G. Teubneri 1901. The collections of scholia are the following: Prolegomena Vossiana (p.1); Commentarius Melampodis seu Diomedis (p. 10); Commentarius Heliodori (p. 67); Scholiorum collectio Vaticana (p. 106); Scholiorum collectio Marciana (p. 292); Scholiorum collectio Londinensis (p. 442); Commentariolus Byzantinus (pp. 565–586).\n\nNotes. Dionysius Thrax. http://en.wikipedia.org/?curid=8892."
+  }
+}

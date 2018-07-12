@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=4888",
+  "eid" : "d11e40f0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778430591,
+  "textBody" : "Bruin, Dutch for \"brown\", is used in English as a folk term for brown bears. Bruin, Bruins or BRUIN may refer to:\n\nPlaces\n\n*Lake Bruin, ox-bow lake of the Mississippi River located in northeastern Louisiana\n**Lake Bruin State Park\n*Bruin, Kentucky, United States\n*Bruin, Pennsylvania, United States\n*Bruin's Slave Jail, building in Alexandria, Virginia\n\nSports team nicknames and mascots\n\n*Ayr Bruins, a defunct Scottish ice hockey team\n*Bartlesville High School, Bartlesville, Oklahoma\n*Bellevue University, Bellevue, Nebraska\n*Belmont University, Nashville, Tennessee\n*Blacksburg High School, Blacksburg, Virginia\n*Boston Bruins, an American NHL hockey team\n*UCLA Bruins, Los Angeles, California\n*Providence Bruins, an American AHL hockey team in Providence, Rhode Island\n*George Fox University, Newberg, Oregon\n*Salt Lake Community College, Salt Lake County, Utah\n*Bob Jones University, Greenville, South Carolina\n*Piedmont International University, Winston-Salem, North Carolina\n*Kellogg Community College, Battle Creek, Michigan\n*Chilliwack Bruins, a former Canadian major junior ice hockey team in Chilliwack, British Columbia\n*New Westminster Bruins, a former Canadian major junior ice hockey team in New Westminster, British Columbia\n*Brunswick School, an all-boy's preparatory school in Greenwich, Connecticut\n*Northwest Whitfield High School in Whitfield County, Georgia\n*Forest Park High School (Woodbridge, Virginia) in Prince William County, Virginia\n*Cherry Creek High School, Greenwood Village, Colorado\n*Rock Bridge High School, Columbia, Missouri\n\nOther uses\n\n*Bruin (surname)\n*Oud bruin, Belgian beer\n*Heineken Oud Bruin, Dutch beer\n*Yamaha Bruin 350, utility all-terrain vehicle\n*Brown University Interactive Language, a programming language\n*Rasmus Klump, a comic strip published as Bruin\n*Bruin, a brown bear in the Reynard cycle fables",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Bruin" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=4888" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Bruin, Dutch for \"brown\", is used in English as a folk term for brown bears. Bruin, Bruins or BRUIN may refer to:\n\nPlaces\n\n*Lake Bruin, ox-bow lake of the Mississippi River located in northeastern Louisiana\n**Lake Bruin State Park\n*Bruin, Kentucky, United States\n*Bruin, Pennsylvania, United States\n*Bruin's Slave Jail, building in Alexandria, Virginia\n\nSports team nicknames and mascots\n\n*Ayr Bruins, a defunct Scottish ice hockey team\n*Bartlesville High School, Bartlesville, Oklahoma\n*Bellevue University, Bellevue, Nebraska\n*Belmont University, Nashville, Tennessee\n*Blacksburg High School, Blacksburg, Virginia\n*Boston Bruins, an American NHL hockey team\n*UCLA Bruins, Los Angeles, California\n*Providence Bruins, an American AHL hockey team in Providence, Rhode Island\n*George Fox University, Newberg, Oregon\n*Salt Lake Community College, Salt Lake County, Utah\n*Bob Jones University, Greenville, South Carolina\n*Piedmont International University, Winston-Salem, North Carolina\n*Kellogg Community College, Battle Creek, Michigan\n*Chilliwack Bruins, a former Canadian major junior ice hockey team in Chilliwack, British Columbia\n*New Westminster Bruins, a former Canadian major junior ice hockey team in New Westminster, British Columbia\n*Brunswick School, an all-boy's preparatory school in Greenwich, Connecticut\n*Northwest Whitfield High School in Whitfield County, Georgia\n*Forest Park High School (Woodbridge, Virginia) in Prince William County, Virginia\n*Cherry Creek High School, Greenwood Village, Colorado\n*Rock Bridge High School, Columbia, Missouri\n\nOther uses\n\n*Bruin (surname)\n*Oud bruin, Belgian beer\n*Heineken Oud Bruin, Dutch beer\n*Yamaha Bruin 350, utility all-terrain vehicle\n*Brown University Interactive Language, a programming language\n*Rasmus Klump, a comic strip published as Bruin\n*Bruin, a brown bear in the Reynard cycle fables. Bruin. http://en.wikipedia.org/?curid=4888."
+  }
+}

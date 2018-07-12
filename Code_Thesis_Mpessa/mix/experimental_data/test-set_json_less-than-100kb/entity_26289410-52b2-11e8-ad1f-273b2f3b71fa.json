@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16456",
+  "eid" : "26289410-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778573265,
+  "textBody" : "John Nash may refer to:\n\nPolitics\n\n*John Nash (MP) (1590–1661), English merchant and politician who sat in the House of Commons between 1640 and 1648\n*John Nash (Australian politician) (1857–1925), New South Wales politician\n*John Nash, Baron Nash (born 1949), British peer, government minister and businessman\n*John J. Nash (died 1989), Irish Fianna Fáil politician\n\nSports\n\n*John Nash (footballer) (1867–1939), English footballer\n*John Nash (cricket administrator) (1906–1977), English Secretary of Yorkshire County Cricket Club, 1931–1971\n*John Nash (basketball), American basketball executive\n\nOther\n\n*John Forbes Nash Jr. (1928–2015), American mathematician, 1994 Nobel Economics laureate, subject of the book and film A Beautiful Mind\n*John Nash (architect) (1752–1835), Anglo-Welsh architect\n*John Nash Round, English architect active in the mid-19th-century Kent\n*John Nash (artist) (1893–1977), English painter and engraver\n*John Nash (priest) (1879–?), Archdeacon of Tuam\n*John Francis Nash (1909–2004), American railroad executive\n*Johnny Nash (born 1940), African-American pop singer-songwriter",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "John Nash" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16456" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "John Nash may refer to:\n\nPolitics\n\n*John Nash (MP) (1590–1661), English merchant and politician who sat in the House of Commons between 1640 and 1648\n*John Nash (Australian politician) (1857–1925), New South Wales politician\n*John Nash, Baron Nash (born 1949), British peer, government minister and businessman\n*John J. Nash (died 1989), Irish Fianna Fáil politician\n\nSports\n\n*John Nash (footballer) (1867–1939), English footballer\n*John Nash (cricket administrator) (1906–1977), English Secretary of Yorkshire County Cricket Club, 1931–1971\n*John Nash (basketball), American basketball executive\n\nOther\n\n*John Forbes Nash Jr. (1928–2015), American mathematician, 1994 Nobel Economics laureate, subject of the book and film A Beautiful Mind\n*John Nash (architect) (1752–1835), Anglo-Welsh architect\n*John Nash Round, English architect active in the mid-19th-century Kent\n*John Nash (artist) (1893–1977), English painter and engraver\n*John Nash (priest) (1879–?), Archdeacon of Tuam\n*John Francis Nash (1909–2004), American railroad executive\n*Johnny Nash (born 1940), African-American pop singer-songwriter. John Nash. http://en.wikipedia.org/?curid=16456."
+  }
+}

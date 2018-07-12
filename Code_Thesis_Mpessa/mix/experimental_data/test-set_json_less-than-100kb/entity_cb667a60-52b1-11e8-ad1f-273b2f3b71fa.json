@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=4127",
+  "eid" : "cb667a60-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778420998,
+  "textBody" : "Bearing may refer to:\n* Bearing (navigation), a term for direction\n* Bearing (mechanical), a component that separates moving parts and takes a load\n* Bridge bearing, a component separating a bridge pier and deck\n* Bearing BTS Station in Bangkok",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Bearing" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=4127" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Bearing may refer to:\n* Bearing (navigation), a term for direction\n* Bearing (mechanical), a component that separates moving parts and takes a load\n* Bridge bearing, a component separating a bridge pier and deck\n* Bearing BTS Station in Bangkok. Bearing. http://en.wikipedia.org/?curid=4127."
+  }
+}

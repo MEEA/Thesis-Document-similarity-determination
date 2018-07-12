@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=6905",
+  "eid" : "deb91280-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778453416,
+  "textBody" : "Carnatic usually refers to:\n*Carnatic region, Southern India\n*Carnatic music, the classical music of Southern India\n\nIt may also refer to:\n*Carnatic Wars, a series of military conflicts in India during the 18th century\n*, a Bangor class minesweeper of the Royal Indian Navy, that served in World War II\n*, a 74-gun third rate ship of the line of the Royal Navy, launched at Deptford in 1783\n*, a 74-gun third rate ship of the line of the Royal Navy, launched at Portsmouth Dockyard in 1823\n*SS Carnatic, a P&O steamer with an early compound engine",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Carnatic" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=6905" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Carnatic usually refers to:\n*Carnatic region, Southern India\n*Carnatic music, the classical music of Southern India\n\nIt may also refer to:\n*Carnatic Wars, a series of military conflicts in India during the 18th century\n*, a Bangor class minesweeper of the Royal Indian Navy, that served in World War II\n*, a 74-gun third rate ship of the line of the Royal Navy, launched at Deptford in 1783\n*, a 74-gun third rate ship of the line of the Royal Navy, launched at Portsmouth Dockyard in 1823\n*SS Carnatic, a P&O steamer with an early compound engine. Carnatic. http://en.wikipedia.org/?curid=6905."
+  }
+}

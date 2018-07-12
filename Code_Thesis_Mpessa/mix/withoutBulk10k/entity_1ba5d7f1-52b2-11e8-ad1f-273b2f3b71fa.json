@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15396",
+  "eid" : "1ba5d7f1-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778555631,
+  "textBody" : "IRO may refer to:\n\n* Institution of Railway Operators\n* International Refugee Organization, a now-defunct specialized agency of the United Nations\n* International Rescue Dog Organisation, a global umbrella organisation for national rescue dog organisations\n* Internal Revolutionary Organization, a Bulgarian revolutionary organisation",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "IRO" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15396" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "IRO may refer to:\n\n* Institution of Railway Operators\n* International Refugee Organization, a now-defunct specialized agency of the United Nations\n* International Rescue Dog Organisation, a global umbrella organisation for national rescue dog organisations\n* Internal Revolutionary Organization, a Bulgarian revolutionary organisation. IRO. http://en.wikipedia.org/?curid=15396."
+  }
+}

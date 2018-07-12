@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1696",
+  "eid" : "bb4f8540-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778394004,
+  "textBody" : "Alfonso V may refer to:\n* Alfonso V of León (999–1028)\n* Alfonso V of Aragon (1416–1458) The Magnanimous\n* Afonso V of Portugal (1432–1481) The African",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Alfonso V" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1696" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Alfonso V may refer to:\n* Alfonso V of León (999–1028)\n* Alfonso V of Aragon (1416–1458) The Magnanimous\n* Afonso V of Portugal (1432–1481) The African. Alfonso V. http://en.wikipedia.org/?curid=1696."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15267",
+  "eid" : "1aebfdd0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778554413,
+  "textBody" : "Immunity may refer to:\n\nMedicine\n\n* Immunity (medical), resistance of an organism to infection or disease\n* Immunity (journal), a scientific journal published by Cell Press\n\nBiology\n\n* Immune system\n\nLaw\n\n*Legal immunity, the concept of a person or entity being immune from legal liability due to a special status\n**Absolute immunity, a type of immunity for government officials that confers total immunity when acting in the course of their duties\n**Amnesty law, a law that provides immunity for past crimes\n**Charitable immunity, immunity from liability granted to charities in many countries from the 19th century to the mid-20th century\n**Diplomatic immunity, agreement between sovereign governments to exclude diplomats from local laws\n**Immunity from prosecution (international law), exclusion of governments or their officials from prosecution under international law\n**Judicial immunity, immunity of a judge or magistrate in the course of their official duties\n**Parliamentary immunity, immunity granted to elected officials during their tenure and in the course of their duties\n**Qualified immunity, in the United States, immunity of individuals performing tasks as part of the government's actions\n**Sovereign immunity, the prevention of lawsuits or prosecution against rulers or governments without their given consent\n**Sovereign immunity in the United States, the legal privilege by which the American federal, state, and tribal governments cannot be sued\n**Spousal privilege, also called spousal immunity, protects a spouse from testifying against the defendant\n**State immunity, principle of international law that the government of a state is not amenable before the courts of another state\n**Witness immunity, immunity granted to a witness in exchange for testimony\n\nOther\n\n*Immunity (Rupert Hine album)\n*Immunity (Jon Hopkins album)\n*Immunity (reality television), a condition which protects a contestant on a reality TV show from being kicked off the show in a given period",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Immunity" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15267" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Immunity may refer to:\n\nMedicine\n\n* Immunity (medical), resistance of an organism to infection or disease\n* Immunity (journal), a scientific journal published by Cell Press\n\nBiology\n\n* Immune system\n\nLaw\n\n*Legal immunity, the concept of a person or entity being immune from legal liability due to a special status\n**Absolute immunity, a type of immunity for government officials that confers total immunity when acting in the course of their duties\n**Amnesty law, a law that provides immunity for past crimes\n**Charitable immunity, immunity from liability granted to charities in many countries from the 19th century to the mid-20th century\n**Diplomatic immunity, agreement between sovereign governments to exclude diplomats from local laws\n**Immunity from prosecution (international law), exclusion of governments or their officials from prosecution under international law\n**Judicial immunity, immunity of a judge or magistrate in the course of their official duties\n**Parliamentary immunity, immunity granted to elected officials during their tenure and in the course of their duties\n**Qualified immunity, in the United States, immunity of individuals performing tasks as part of the government's actions\n**Sovereign immunity, the prevention of lawsuits or prosecution against rulers or governments without their given consent\n**Sovereign immunity in the United States, the legal privilege by which the American federal, state, and tribal governments cannot be sued\n**Spousal privilege, also called spousal immunity, protects a spouse from testifying against the defendant\n**State immunity, principle of international law that the government of a state is not amenable before the courts of another state\n**Witness immunity, immunity granted to a witness in exchange for testimony\n\nOther\n\n*Immunity (Rupert Hine album)\n*Immunity (Jon Hopkins album)\n*Immunity (reality television), a condition which protects a contestant on a reality TV show from being kicked off the show in a given period. Immunity. http://en.wikipedia.org/?curid=15267."
+  }
+}

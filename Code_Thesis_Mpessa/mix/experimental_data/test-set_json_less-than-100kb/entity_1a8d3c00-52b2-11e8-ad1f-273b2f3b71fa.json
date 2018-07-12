@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15198",
+  "eid" : "1a8d3c00-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778553792,
+  "textBody" : "Indic may refer to:\n\n* Indo-Aryan languages, dominant family of languages spoken in Indian subcontinent\n* Kharoshthi (extinct) and the Brahmic scripts, used for languages of India and Southeast Asia",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Indic" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15198" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Indic may refer to:\n\n* Indo-Aryan languages, dominant family of languages spoken in Indian subcontinent\n* Kharoshthi (extinct) and the Brahmic scripts, used for languages of India and Southeast Asia. Indic. http://en.wikipedia.org/?curid=15198."
+  }
+}

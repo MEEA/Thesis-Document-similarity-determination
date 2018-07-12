@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1638",
+  "eid" : "bb0e5d91-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778393577,
+  "textBody" : "\"The Triumph of Time\" is a poem by Algernon Charles Swinburne, published in Poems and Ballads in 1866. It is in adapted ottava rima and is full of elaborate use of literary devices, particularly alliteration. The theme, which purports to be autobiographical, is that of rejected love. The speaker deplores the ruin of his life, and in tones at times reminiscent of Hamlet, craves oblivion, for which the sea serves as a constant metaphor.\n\nNotes",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "The Triumph of Time" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1638" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "\"The Triumph of Time\" is a poem by Algernon Charles Swinburne, published in Poems and Ballads in 1866. It is in adapted ottava rima and is full of elaborate use of literary devices, particularly alliteration. The theme, which purports to be autobiographical, is that of rejected love. The speaker deplores the ruin of his life, and in tones at times reminiscent of Hamlet, craves oblivion, for which the sea serves as a constant metaphor.\n\nNotes. The Triumph of Time. http://en.wikipedia.org/?curid=1638."
+  }
+}

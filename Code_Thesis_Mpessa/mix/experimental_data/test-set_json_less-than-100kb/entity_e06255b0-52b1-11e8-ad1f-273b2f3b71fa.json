@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7206",
+  "eid" : "e06255b0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778456203,
+  "textBody" : "Christiania may refer to:\n\nPlaces\n\n* Christiania or Kristiania, names of Oslo (1624–1924). Current expression (from 1925) for the part of Oslo that was founded by King Christian IV.\n* Freetown Christiania (or Christiania), a self-proclaimed autonomous neighborhood of Copenhagen, Denmark\n* Christiania Township, Minnesota, a township in Jackson County\n* Christiania Township, North Dakota, township in Burleigh County\n\nOther \n\n* Christiania Theatre in  Oslo, Norway\n* Christiania Bank, a former Norwegian bank\n* Christiania (brachiopod), a genus of Strophomenid brachiopods found in the Arenig geological group\n* Christiania bikes, family tricycle designed in Denmark",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Christiania" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7206" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Christiania may refer to:\n\nPlaces\n\n* Christiania or Kristiania, names of Oslo (1624–1924). Current expression (from 1925) for the part of Oslo that was founded by King Christian IV.\n* Freetown Christiania (or Christiania), a self-proclaimed autonomous neighborhood of Copenhagen, Denmark\n* Christiania Township, Minnesota, a township in Jackson County\n* Christiania Township, North Dakota, township in Burleigh County\n\nOther \n\n* Christiania Theatre in  Oslo, Norway\n* Christiania Bank, a former Norwegian bank\n* Christiania (brachiopod), a genus of Strophomenid brachiopods found in the Arenig geological group\n* Christiania bikes, family tricycle designed in Denmark. Christiania. http://en.wikipedia.org/?curid=7206."
+  }
+}

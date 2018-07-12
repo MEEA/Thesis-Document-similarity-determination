@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16126",
+  "eid" : "23dfb580-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778569432,
+  "textBody" : "Jehoram (meaning \"Jehovah is exalted\" in Biblical Hebrew) was the name of several individuals in the Tanakh. The female version of this name is Athaliah.\n\n*The son of Toi, King of Hamath who was sent by his father to congratulate David on the occasion of his victory over Hadadezer (2 Samuel 8:10)\n*Jehoram of Israel or Joram, the King of Israel\n*Jehoram of Judah, the King of Judah\n*A Levite of the family of Gershom (1 Chronicles 26:25)\n*A priest sent by Jehoshaphat to instruct the people in Judah (2 Chronicles 17:8)\n\nIn modern days, it is also the name of:\n\n*Yehoram Gaon (born 1939), Israeli singer and actor",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Jehoram" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16126" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Jehoram (meaning \"Jehovah is exalted\" in Biblical Hebrew) was the name of several individuals in the Tanakh. The female version of this name is Athaliah.\n\n*The son of Toi, King of Hamath who was sent by his father to congratulate David on the occasion of his victory over Hadadezer (2 Samuel 8:10)\n*Jehoram of Israel or Joram, the King of Israel\n*Jehoram of Judah, the King of Judah\n*A Levite of the family of Gershom (1 Chronicles 26:25)\n*A priest sent by Jehoshaphat to instruct the people in Judah (2 Chronicles 17:8)\n\nIn modern days, it is also the name of:\n\n*Yehoram Gaon (born 1939), Israeli singer and actor. Jehoram. http://en.wikipedia.org/?curid=16126."
+  }
+}

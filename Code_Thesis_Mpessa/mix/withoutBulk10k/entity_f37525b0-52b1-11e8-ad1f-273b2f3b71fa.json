@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10042",
+  "eid" : "f37525b0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778488203,
+  "textBody" : "EAN may refer to:\n\n* Emergency Action Notification, an American nationwide activation of the Emergency Alert System\n* Enriched air nitrox\n* Ethylammonium nitrate, a salt and ionic liquid\n* European Academy of Neurology\n* International Article Number (originally European Article Number)\n* European Aviation Network, a satellite and LTE broadband network for airplanes under development by Inmarsat",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "EAN" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10042" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "EAN may refer to:\n\n* Emergency Action Notification, an American nationwide activation of the Emergency Alert System\n* Enriched air nitrox\n* Ethylammonium nitrate, a salt and ionic liquid\n* European Academy of Neurology\n* International Article Number (originally European Article Number)\n* European Aviation Network, a satellite and LTE broadband network for airplanes under development by Inmarsat. EAN. http://en.wikipedia.org/?curid=10042."
+  }
+}

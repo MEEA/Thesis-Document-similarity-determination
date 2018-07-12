@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7646",
+  "eid" : "e2b0d990-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778460073,
+  "textBody" : "Cognitivism may refer to:\n* Cognitivism (ethics), the philosophical view that ethical sentences express propositions and are capable of being true or false\n* Cognitivism (psychology), a psychological approach that argues that mental function can be understood as the internal manipulation of symbols\n* Cognitivism (aesthetics), a view that cognitive psychology can help understand art and the response to it\n* Anecdotal cognitivism, a psychological methodology for interpreting animal behavior in terms of mental states",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Cognitivism" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7646" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Cognitivism may refer to:\n* Cognitivism (ethics), the philosophical view that ethical sentences express propositions and are capable of being true or false\n* Cognitivism (psychology), a psychological approach that argues that mental function can be understood as the internal manipulation of symbols\n* Cognitivism (aesthetics), a view that cognitive psychology can help understand art and the response to it\n* Anecdotal cognitivism, a psychological methodology for interpreting animal behavior in terms of mental states. Cognitivism. http://en.wikipedia.org/?curid=7646."
+  }
+}

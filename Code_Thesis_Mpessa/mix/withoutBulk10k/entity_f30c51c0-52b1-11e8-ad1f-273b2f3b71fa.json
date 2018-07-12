@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=9977",
+  "eid" : "f30c51c0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778487516,
+  "textBody" : "Ewe or EWE may refer to:\n\nGeography\n\n* Isle of Ewe, an island off the west coast of Scotland\n* Loch Ewe, a sea loch in Scotland\n* St Ewe, a village in Cornwall\n\nCulture\n\n* Ewe people, an ethnic group in Eastern part of Ghana, Benin and Togo\n** Ewe language\n** Ewe music\n\nPeople\n\n* David Ewe, New Zealand rugby player\n\nTransportation\n\n* Eurowings Europe, an Austrian airline\n* Ewell East railway station in Surrey, England\n* Ewer Airport, in Indonesia\n\nOther uses\n\n* Ecopath with Ecosim, an ecological computer modelling system for fisheries\n* EWE Baskets Oldenburg, a German basketball team\n* Large EWE Arena in Oldenburg, Germany\n* Small EWE Arena in Oldenburg, Germany\n* a female sheep",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Ewe" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=9977" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Ewe or EWE may refer to:\n\nGeography\n\n* Isle of Ewe, an island off the west coast of Scotland\n* Loch Ewe, a sea loch in Scotland\n* St Ewe, a village in Cornwall\n\nCulture\n\n* Ewe people, an ethnic group in Eastern part of Ghana, Benin and Togo\n** Ewe language\n** Ewe music\n\nPeople\n\n* David Ewe, New Zealand rugby player\n\nTransportation\n\n* Eurowings Europe, an Austrian airline\n* Ewell East railway station in Surrey, England\n* Ewer Airport, in Indonesia\n\nOther uses\n\n* Ecopath with Ecosim, an ecological computer modelling system for fisheries\n* EWE Baskets Oldenburg, a German basketball team\n* Large EWE Arena in Oldenburg, Germany\n* Small EWE Arena in Oldenburg, Germany\n* a female sheep. Ewe. http://en.wikipedia.org/?curid=9977."
+  }
+}

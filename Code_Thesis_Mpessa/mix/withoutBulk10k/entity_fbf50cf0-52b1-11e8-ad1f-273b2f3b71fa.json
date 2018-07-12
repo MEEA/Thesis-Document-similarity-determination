@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11489",
+  "eid" : "fbf50cf0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778502463,
+  "textBody" : "File or filing may refer to:\n\nMechanical tools and processes\n\n* File (tool), used to remove fine amounts of material from a workpiece\n* Filing (metalworking), a material removal process in manufacturing\n* Nail file, a tool used to gently grind down and shape the edges of finger- and toenails\n\nDocuments\n\n* Document, a written or drawn representation of thought\n* Filing (legal), submitting a document to the clerk of a court\n\nComputing\n\n* Computer file, a resource for storing information\n** file URI scheme\n** file (command), a Unix program for determining the type of data contained in a computer file\n\nOther uses\n\n* File (formation), a single column of men one in front of the other\n* File (chess), a column of the chessboard\n* Filé powder, a culinary ingredient used in Cajun and Creole cooking\n* Filé (band), a Cajun musical ensemble from Louisiana, U.S\n* Filè, a class of Irish poets\n* Electronic Language International Festival, an art and technology festival held yearly in São Paulo, Brazil",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "File" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11489" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "File or filing may refer to:\n\nMechanical tools and processes\n\n* File (tool), used to remove fine amounts of material from a workpiece\n* Filing (metalworking), a material removal process in manufacturing\n* Nail file, a tool used to gently grind down and shape the edges of finger- and toenails\n\nDocuments\n\n* Document, a written or drawn representation of thought\n* Filing (legal), submitting a document to the clerk of a court\n\nComputing\n\n* Computer file, a resource for storing information\n** file URI scheme\n** file (command), a Unix program for determining the type of data contained in a computer file\n\nOther uses\n\n* File (formation), a single column of men one in front of the other\n* File (chess), a column of the chessboard\n* Filé powder, a culinary ingredient used in Cajun and Creole cooking\n* Filé (band), a Cajun musical ensemble from Louisiana, U.S\n* Filè, a class of Irish poets\n* Electronic Language International Festival, an art and technology festival held yearly in São Paulo, Brazil. File. http://en.wikipedia.org/?curid=11489."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13265",
+  "eid" : "07917670-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778521943,
+  "textBody" : "Adolf Hitler (1889–1945) was the authoritarian Chancellor of Germany from 1933 to 1945.\n\nHitler may also refer to:\n\nBooks\n\n*Hitler: Speeches and Proclamations, a book series compiling Hitler's speeches\n*Hitler: A Study in Tyranny, a 1952 biography\n*The Hitler Book a 2005 publication based on a secret Soviet report about Hitler\n*Hitler: A Short Biography, 2012\n\nFilm and television \n\nAdolf Hitler \n\n* Hitler (1962 film), a film starring Richard Basehart\n* Hitler: A Film from Germany, a 1978 film co-produced by the BBC\n* Hitler – Beast of Berlin, a 1939 film\n* Hitler: The Last Ten Days, a 1973 film\n* Hitler: The Rise of Evil, a 2003 TV series broadcast by CBS\n\nOther films \n\n* Hitler (1996 film), a Malayalam film\n* Hitler (1997 film), a Telugu film\n* Hitler och vi på Klamparegatan, a Swedish film starring Chatarina Larsson\n* Hitler (1998 film), a Hindi film\n* Meet the Hitlers, 2014 documentary film\n\nOther uses\n\n*Hitler (name), a surname, and a list of people with the name\n*Hitler (retail store), a clothing store in Gujarat, India",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Hitler (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13265" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Adolf Hitler (1889–1945) was the authoritarian Chancellor of Germany from 1933 to 1945.\n\nHitler may also refer to:\n\nBooks\n\n*Hitler: Speeches and Proclamations, a book series compiling Hitler's speeches\n*Hitler: A Study in Tyranny, a 1952 biography\n*The Hitler Book a 2005 publication based on a secret Soviet report about Hitler\n*Hitler: A Short Biography, 2012\n\nFilm and television \n\nAdolf Hitler \n\n* Hitler (1962 film), a film starring Richard Basehart\n* Hitler: A Film from Germany, a 1978 film co-produced by the BBC\n* Hitler – Beast of Berlin, a 1939 film\n* Hitler: The Last Ten Days, a 1973 film\n* Hitler: The Rise of Evil, a 2003 TV series broadcast by CBS\n\nOther films \n\n* Hitler (1996 film), a Malayalam film\n* Hitler (1997 film), a Telugu film\n* Hitler och vi på Klamparegatan, a Swedish film starring Chatarina Larsson\n* Hitler (1998 film), a Hindi film\n* Meet the Hitlers, 2014 documentary film\n\nOther uses\n\n*Hitler (name), a surname, and a list of people with the name\n*Hitler (retail store), a clothing store in Gujarat, India. Hitler (disambiguation). http://en.wikipedia.org/?curid=13265."
+  }
+}

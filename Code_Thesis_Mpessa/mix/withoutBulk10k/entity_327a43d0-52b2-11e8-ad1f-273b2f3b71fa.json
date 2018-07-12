@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18364",
+  "eid" : "327a43d0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778593933,
+  "textBody" : "The Li (黎; pinyin: Lí) or Hlai are an ethnic group, the vast majority of whom live off the southern coast of mainland China on Hainan Island,Original from Indiana University  where they are the largest minority ethnic group. Divided into the five branches of the Qi, Ha, Run, Sai and Meifu, the Li have their own distinctive culture and customs.\n\nBackground\n\nThey refer to themselves as the Hlai people, but they are sometimes colloquially known as \"Sai\" or \"Say\", and during the Sui Dynasty they were known by the name Liliao. The Li form one of the 55 ethnic groups officially recognized by the People's Republic of China.\n\nOrigin and history\n\nThe Li are believed to be descendants of the ancient Yue tribes of China and Vietnam, who settled on the island thousands of years ago. DNA analysis carried out amongst the modern Li population indicate a close relationship with populations in the southern Chinese province of Guangxi.\n\nDuring the Japanese occupation of Hainan (1939–1945), the Li suffered heavily. They are held in high esteem by the Beijing government because they fought on the side of the CPC against Chinese Nationalist rule during the Chinese Civil War. Hainan Li-Miao Autonomous Prefecture was created in 1952 (abolished in 1988).\n\nLanguage and culture\n\nThe Li speak their own Hlai language, a member of the Tai–Kadai language family,Norquest, Peter K. 2007. [http://gradworks.umi.com/32/84/3284367.html A Phonological Reconstruction of Proto-Hlai]. Ph.D. dissertation, Department of Anthropology, University of Arizona. but most can understand or speak Hainanese and Mandarin.\n\nThe Li play a traditional wind instrument called kǒuxiāo (口箫), and another called lìlāluó (利拉罗).",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Li people" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18364" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The Li (黎; pinyin: Lí) or Hlai are an ethnic group, the vast majority of whom live off the southern coast of mainland China on Hainan Island,Original from Indiana University  where they are the largest minority ethnic group. Divided into the five branches of the Qi, Ha, Run, Sai and Meifu, the Li have their own distinctive culture and customs.\n\nBackground\n\nThey refer to themselves as the Hlai people, but they are sometimes colloquially known as \"Sai\" or \"Say\", and during the Sui Dynasty they were known by the name Liliao. The Li form one of the 55 ethnic groups officially recognized by the People's Republic of China.\n\nOrigin and history\n\nThe Li are believed to be descendants of the ancient Yue tribes of China and Vietnam, who settled on the island thousands of years ago. DNA analysis carried out amongst the modern Li population indicate a close relationship with populations in the southern Chinese province of Guangxi.\n\nDuring the Japanese occupation of Hainan (1939–1945), the Li suffered heavily. They are held in high esteem by the Beijing government because they fought on the side of the CPC against Chinese Nationalist rule during the Chinese Civil War. Hainan Li-Miao Autonomous Prefecture was created in 1952 (abolished in 1988).\n\nLanguage and culture\n\nThe Li speak their own Hlai language, a member of the Tai–Kadai language family,Norquest, Peter K. 2007. [http://gradworks.umi.com/32/84/3284367.html A Phonological Reconstruction of Proto-Hlai]. Ph.D. dissertation, Department of Anthropology, University of Arizona. but most can understand or speak Hainanese and Mandarin.\n\nThe Li play a traditional wind instrument called kǒuxiāo (口箫), and another called lìlāluó (利拉罗). Li people. http://en.wikipedia.org/?curid=18364."
+  }
+}

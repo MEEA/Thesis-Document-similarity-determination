@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=5683",
+  "eid" : "d6f80e70-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778440407,
+  "textBody" : "A computer expo or computer show is a trade fair or exposition for computers and electronics. Expos usually include company or organization booths where products and technologies are demonstrated; talks and lectures; and general mixing of people with common interests.\n\nNotable Computer Expos\n\n*CeBIT\n*COMDEX\n*Computex Taipei\n*GITEX\n*HostingCon\n*[http://www.iincon.com IINCON]\n*International ICT Expo\n*Interop\n*LinuxTag\n*Macworld Conference & Expo\n*SMAU\n*SIMO\n*Fall Joint Computer Conference (FJCC)\n*Spring Joint Computer Conference (SJCC)\n*World of Commodore",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Computer expo" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=5683" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A computer expo or computer show is a trade fair or exposition for computers and electronics. Expos usually include company or organization booths where products and technologies are demonstrated; talks and lectures; and general mixing of people with common interests.\n\nNotable Computer Expos\n\n*CeBIT\n*COMDEX\n*Computex Taipei\n*GITEX\n*HostingCon\n*[http://www.iincon.com IINCON]\n*International ICT Expo\n*Interop\n*LinuxTag\n*Macworld Conference & Expo\n*SMAU\n*SIMO\n*Fall Joint Computer Conference (FJCC)\n*Spring Joint Computer Conference (SJCC)\n*World of Commodore. Computer expo. http://en.wikipedia.org/?curid=5683."
+  }
+}

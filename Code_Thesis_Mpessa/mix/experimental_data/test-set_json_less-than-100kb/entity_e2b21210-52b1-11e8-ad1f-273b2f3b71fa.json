@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7649",
+  "eid" : "e2b21210-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778460081,
+  "textBody" : "Cervical mucus method may refer to a specific method of fertility awareness or natural family planning:\n\n*Billings ovulation method\n*Creighton Model FertilityCare System\n*Two Day Method",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Cervical mucus method" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7649" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Cervical mucus method may refer to a specific method of fertility awareness or natural family planning:\n\n*Billings ovulation method\n*Creighton Model FertilityCare System\n*Two Day Method. Cervical mucus method. http://en.wikipedia.org/?curid=7649."
+  }
+}

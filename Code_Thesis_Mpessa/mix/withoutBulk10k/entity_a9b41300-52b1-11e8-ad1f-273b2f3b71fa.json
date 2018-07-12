@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1109",
+  "eid" : "a9b41300-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778364464,
+  "textBody" : "American Samoa, located within the geographical region of Oceania, is one of only two possessions of the United States in the Southern Hemisphere, the other being Jarvis Island. Its total land area is —slightly larger than Washington, D.C.—consisting of five rugged, volcanic islands and two coral atolls. The five volcanic islands are: Tutuila, Aunu'u, Ofu, Olosega, Ta'u. The coral atolls are: Swains, and Rose Atoll. Of the seven islands, Rose Atoll is an uninhabited Marine National Monument.\n\nDue to its positioning in the South Pacific Ocean, it is frequently hit by typhoons between December and March. Rose Atoll is the easternmost point of the territory. American Samoa is the southernmost part of the United States. American Samoa is home to the National Park of American Samoa.\n\nRegions\n\n*Ofu-Olosega\n*Rose Atoll\n*Swains Island (claimed by Tokelau)\n*Ta'u\n*Tutuila and Aunu'u",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Geography of American Samoa" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1109" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "American Samoa, located within the geographical region of Oceania, is one of only two possessions of the United States in the Southern Hemisphere, the other being Jarvis Island. Its total land area is —slightly larger than Washington, D.C.—consisting of five rugged, volcanic islands and two coral atolls. The five volcanic islands are: Tutuila, Aunu'u, Ofu, Olosega, Ta'u. The coral atolls are: Swains, and Rose Atoll. Of the seven islands, Rose Atoll is an uninhabited Marine National Monument.\n\nDue to its positioning in the South Pacific Ocean, it is frequently hit by typhoons between December and March. Rose Atoll is the easternmost point of the territory. American Samoa is the southernmost part of the United States. American Samoa is home to the National Park of American Samoa.\n\nRegions\n\n*Ofu-Olosega\n*Rose Atoll\n*Swains Island (claimed by Tokelau)\n*Ta'u\n*Tutuila and Aunu'u. Geography of American Samoa. http://en.wikipedia.org/?curid=1109."
+  }
+}

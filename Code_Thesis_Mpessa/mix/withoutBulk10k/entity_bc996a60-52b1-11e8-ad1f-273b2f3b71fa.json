@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1931",
+  "eid" : "bc996a60-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778396166,
+  "textBody" : "An atmosphere is a gas layer around a celestial body.\n\nAtmosphere may also refer to:\n* Atmosphere (unit), a unit of pressure\n* Atmosphere of Earth\n* Extraterrestrial atmospheres\n* Stellar atmosphere\n\nMusic\n\n* Atmosphere (music group), an American hip-hop duo from Minnesota\n* Atmosphere (Polish band)\n* Atmosphères (1961), an orchestral piece by György Ligeti\n\nAlbums\n\n* Atmosphere (Atmosphere album) (1997)\n* Atmosphere (Eloy Fritsch album) (2003)\n* Atmosphere (Sevenglory album) (2007)\n* Atmosphere (Kaskade album) (2013), or the title song\n* Atmospheres (album) (2014)\n\nSongs\n\n* \"Atmosphere\" (Joy Division song) (1980)\n* \"Atmosphere\" (1975), from Let's Take It to the Stage by Funkadelic\n* \"Atmosphere\" (1984), by Russ Abbot\n\nOther uses\n\n* Atmosphere (architecture and spatial design)\n* Atmosphere (journal), an open access scientific journal\n* Atmospheres (TV series)\n* Atmospheric theatre, a type of cinema architecture\n* Atmosphere Visual Effects, a Canadian company\n* Adobe Atmosphere, a computer graphics platform",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Atmosphere (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1931" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "An atmosphere is a gas layer around a celestial body.\n\nAtmosphere may also refer to:\n* Atmosphere (unit), a unit of pressure\n* Atmosphere of Earth\n* Extraterrestrial atmospheres\n* Stellar atmosphere\n\nMusic\n\n* Atmosphere (music group), an American hip-hop duo from Minnesota\n* Atmosphere (Polish band)\n* Atmosphères (1961), an orchestral piece by György Ligeti\n\nAlbums\n\n* Atmosphere (Atmosphere album) (1997)\n* Atmosphere (Eloy Fritsch album) (2003)\n* Atmosphere (Sevenglory album) (2007)\n* Atmosphere (Kaskade album) (2013), or the title song\n* Atmospheres (album) (2014)\n\nSongs\n\n* \"Atmosphere\" (Joy Division song) (1980)\n* \"Atmosphere\" (1975), from Let's Take It to the Stage by Funkadelic\n* \"Atmosphere\" (1984), by Russ Abbot\n\nOther uses\n\n* Atmosphere (architecture and spatial design)\n* Atmosphere (journal), an open access scientific journal\n* Atmospheres (TV series)\n* Atmospheric theatre, a type of cinema architecture\n* Atmosphere Visual Effects, a Canadian company\n* Adobe Atmosphere, a computer graphics platform. Atmosphere (disambiguation). http://en.wikipedia.org/?curid=1931."
+  }
+}

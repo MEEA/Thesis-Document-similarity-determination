@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11532",
+  "eid" : "fc4305e0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778502974,
+  "textBody" : "First Fandom is an informal association of early, active and well-known science fiction fans.\n\nIn 1958 a number of fans at Midwestcon realized amid table-talk that they all had been active in fandom for more than 20 years. This inspired the creation of an organization for longstanding fans under the initial chairmanship of Robert A. Madle. Originally only those fans who were known to have been active in fandom before the cutoff date, January 1, 1938, were eligible. Such fannish activity (or \"fanac\") including writing to letter columns in science fiction magazines, having been published in fanzines, or having participated in science fiction oriented clubs, or just generally doing fannish things.[http://nebulasf.atspace.com/madle.htm Madle, Robert A. \"Bob Madle's American Letter\" Nebula 40 (May 1959)]\n\nThe term itself is an oblique reference to Olaf Stapledon's classic science fiction epic Last and First Men. In this book the stages of mankind are enumerated. Thus early 1950s historian of fandom Jack Speer began to label successive generations of fans as First Fandom, Second Fandom, Third Fandom, and so forth... all the way to Seventh Fandom and beyond.\n\nCurrently the organization allows several classes of membership. For example, a Dinosaur is a member who was active before the first Worldcon (World Science Fiction Convention) held on July 4, 1939, while Associate Membership requires provable activity in fandom for more than three decades.\n\nFirst Fandom annually presents its First Fandom Hall of Fame award and Sam Moskowitz Archive Award for excellence in science fiction collecting. at the beginning of the Hugo Awards Ceremony at the World Science Fiction Convention.\n\nThere is an analogous informal society in Finnish fandom called the Dinosaur Club; the cutoff being the first major Finnish con Kingcon.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "First Fandom" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11532" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "First Fandom is an informal association of early, active and well-known science fiction fans.\n\nIn 1958 a number of fans at Midwestcon realized amid table-talk that they all had been active in fandom for more than 20 years. This inspired the creation of an organization for longstanding fans under the initial chairmanship of Robert A. Madle. Originally only those fans who were known to have been active in fandom before the cutoff date, January 1, 1938, were eligible. Such fannish activity (or \"fanac\") including writing to letter columns in science fiction magazines, having been published in fanzines, or having participated in science fiction oriented clubs, or just generally doing fannish things.[http://nebulasf.atspace.com/madle.htm Madle, Robert A. \"Bob Madle's American Letter\" Nebula 40 (May 1959)]\n\nThe term itself is an oblique reference to Olaf Stapledon's classic science fiction epic Last and First Men. In this book the stages of mankind are enumerated. Thus early 1950s historian of fandom Jack Speer began to label successive generations of fans as First Fandom, Second Fandom, Third Fandom, and so forth... all the way to Seventh Fandom and beyond.\n\nCurrently the organization allows several classes of membership. For example, a Dinosaur is a member who was active before the first Worldcon (World Science Fiction Convention) held on July 4, 1939, while Associate Membership requires provable activity in fandom for more than three decades.\n\nFirst Fandom annually presents its First Fandom Hall of Fame award and Sam Moskowitz Archive Award for excellence in science fiction collecting. at the beginning of the Hugo Awards Ceremony at the World Science Fiction Convention.\n\nThere is an analogous informal society in Finnish fandom called the Dinosaur Club; the cutoff being the first major Finnish con Kingcon. First Fandom. http://en.wikipedia.org/?curid=11532."
+  }
+}

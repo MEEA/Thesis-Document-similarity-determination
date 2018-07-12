@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10486",
+  "eid" : "f5d535c0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778492188,
+  "textBody" : "Elo or ELO may refer to:\n\nMusic\n\n* Electric Light Orchestra, a British rock music group\n** The Electric Light Orchestra (album), the group's debut album\n** ELO 2, the group's second album\n* ELO Part II, an offshoot band of Electric Light Orchestra\n\nBiology\n\n* Eleorchis, an orchid genus abbreviated Elo in trade journals\n* Elo (dog), a dog breed\n* Very-long-chain 3-oxoacyl-CoA synthase, an enzyme\n\nPeople\n\n* Arpad Elo (1903–1992), Hungarian-American creator of the Elo rating system\n* Colmán Elo (555–611), Irish saint\n* Michael Elo, Danish musician\n* Unto Elo (born 1944), Finnish sprint canoer\n\nOther uses\n\n* Elo, Wisconsin, an unincorporated community in the U.S.\n* East Liverpool, Ohio, a town in the U.S.\n* Elo rating system, a system for measuring the relative strength of players in chess and other two-player games\n* World Football Elo Ratings, a ranking system for men's national teams in football, based on Elo rating system\n* Eurolot, an airline, by ICAO airline designator\n* Electronic Literature Organization, a nonprofit organisation promoting electronic literary works\n* Saveasi'uleo, also known as Elo, a Samoan god who presides over Pulotu (the underworld)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Elo" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10486" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Elo or ELO may refer to:\n\nMusic\n\n* Electric Light Orchestra, a British rock music group\n** The Electric Light Orchestra (album), the group's debut album\n** ELO 2, the group's second album\n* ELO Part II, an offshoot band of Electric Light Orchestra\n\nBiology\n\n* Eleorchis, an orchid genus abbreviated Elo in trade journals\n* Elo (dog), a dog breed\n* Very-long-chain 3-oxoacyl-CoA synthase, an enzyme\n\nPeople\n\n* Arpad Elo (1903–1992), Hungarian-American creator of the Elo rating system\n* Colmán Elo (555–611), Irish saint\n* Michael Elo, Danish musician\n* Unto Elo (born 1944), Finnish sprint canoer\n\nOther uses\n\n* Elo, Wisconsin, an unincorporated community in the U.S.\n* East Liverpool, Ohio, a town in the U.S.\n* Elo rating system, a system for measuring the relative strength of players in chess and other two-player games\n* World Football Elo Ratings, a ranking system for men's national teams in football, based on Elo rating system\n* Eurolot, an airline, by ICAO airline designator\n* Electronic Literature Organization, a nonprofit organisation promoting electronic literary works\n* Saveasi'uleo, also known as Elo, a Samoan god who presides over Pulotu (the underworld). Elo. http://en.wikipedia.org/?curid=10486."
+  }
+}

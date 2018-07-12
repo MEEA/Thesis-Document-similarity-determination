@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16060",
+  "eid" : "2347e250-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778568437,
+  "textBody" : "Japanese refers to something from or related to Japan, an island country in East Asia, including:\n\n* Japanese language, spoken mainly in Japan\n* Japanese people, the ethnic group that identifies with Japan through culture or ancestry\n** Japanese diaspora, Japanese emigrants and their descendants around the world\n** Foreign-born Japanese, naturalized citizens of Japan\n* Japanese writing system, consisting of kanji and kana\n* Japanese cuisine, the food and food culture of Japan",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Japanese" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16060" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Japanese refers to something from or related to Japan, an island country in East Asia, including:\n\n* Japanese language, spoken mainly in Japan\n* Japanese people, the ethnic group that identifies with Japan through culture or ancestry\n** Japanese diaspora, Japanese emigrants and their descendants around the world\n** Foreign-born Japanese, naturalized citizens of Japan\n* Japanese writing system, consisting of kanji and kana\n* Japanese cuisine, the food and food culture of Japan. Japanese. http://en.wikipedia.org/?curid=16060."
+  }
+}

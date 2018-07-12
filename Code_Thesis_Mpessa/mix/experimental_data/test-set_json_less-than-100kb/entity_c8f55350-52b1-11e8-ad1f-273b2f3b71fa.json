@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3814",
+  "eid" : "c8f55350-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778416901,
+  "textBody" : "Games played (most often abbreviated as G or GP) is a statistic used in team sports to indicate the total number of games in which a player has participated (in any capacity); the statistic is generally applied irrespective of whatever portion of the game is contested.\n\nBaseball\n\nIn baseball, the statistic applies also to players who, prior to a game, are included on a starting lineup card or are announced as ex ante substitutes, whether or not they play,[http://mlb.mlb.com/mlb/official_info/official_rules/official_scorer_10.jsp Section 20 of the official scorer guidelines] although, in Major League Baseball, the application of this statistic does not extend to consecutive games played streaks. A starting pitcher, then, may be credited with a game played even as he is not credited with a game started or an inning pitched.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Games played" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3814" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Games played (most often abbreviated as G or GP) is a statistic used in team sports to indicate the total number of games in which a player has participated (in any capacity); the statistic is generally applied irrespective of whatever portion of the game is contested.\n\nBaseball\n\nIn baseball, the statistic applies also to players who, prior to a game, are included on a starting lineup card or are announced as ex ante substitutes, whether or not they play,[http://mlb.mlb.com/mlb/official_info/official_rules/official_scorer_10.jsp Section 20 of the official scorer guidelines] although, in Major League Baseball, the application of this statistic does not extend to consecutive games played streaks. A starting pitcher, then, may be credited with a game played even as he is not credited with a game started or an inning pitched. Games played. http://en.wikipedia.org/?curid=3814."
+  }
+}

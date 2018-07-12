@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10887",
+  "eid" : "f84c5040-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778496324,
+  "textBody" : "Finagle's law of dynamic negatives, also known as Melody's law or Finagle's corollary to Murphy's law, is usually rendered:\n\nThe term \"Finagle's law\" was first used by John W. Campbell, Jr., the influential editor of Astounding Science Fiction (later Analog). He used it frequently in his editorials for many years in the 1940s to 1960s, but it never came into general usage the way Murphy's law has.\n\nVariants\n\nOne variant (known as O'Toole's corollary of Finagle's law) favored among hackers is a takeoff on the second law of thermodynamics (related to the augmentation of entropy):\n\nIn the Star Trek episode \"The Ultimate Computer\", Dr. McCoy refers to an alcoholic drink known as the \"Finagle's Folly\", apparently a reference to \"Finagle's law\". In Season 2 episode \"Amok Time\" (written by Theodore Sturgeon, 1967), Captain Kirk tells Spock, \"As one of Finagle's laws puts it: 'Any home port the ship makes will be somebody else's, not mine.'\"\n\nThe term \"Finagle's law\" was popularized by science fiction author Larry Niven in several stories depicting a frontier culture of asteroid miners; this \"Belter\" culture professed a religion or running joke involving the worship of the dread god Finagle and his mad prophet Murphy.\n\n\"Finagle's law\" can also be the related belief \"Inanimate objects are out to get us\", also known as Resistentialism.\nSimilar to Finagle's law is the verbless phrase of the German novelist Friedrich Theodor Vischer: \"die Tücke des Objekts\" (the perfidy of inanimate objects).\n\nA related concept, the \"Finagle factor\", is an ad hoc multiplicative or additive term in an equation, which can only be justified by the fact that it gives more correct results.  Also known as Finagle's variable constant, it is sometimes defined as the correct answer divided by your answer.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Finagle's law" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10887" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Finagle's law of dynamic negatives, also known as Melody's law or Finagle's corollary to Murphy's law, is usually rendered:\n\nThe term \"Finagle's law\" was first used by John W. Campbell, Jr., the influential editor of Astounding Science Fiction (later Analog). He used it frequently in his editorials for many years in the 1940s to 1960s, but it never came into general usage the way Murphy's law has.\n\nVariants\n\nOne variant (known as O'Toole's corollary of Finagle's law) favored among hackers is a takeoff on the second law of thermodynamics (related to the augmentation of entropy):\n\nIn the Star Trek episode \"The Ultimate Computer\", Dr. McCoy refers to an alcoholic drink known as the \"Finagle's Folly\", apparently a reference to \"Finagle's law\". In Season 2 episode \"Amok Time\" (written by Theodore Sturgeon, 1967), Captain Kirk tells Spock, \"As one of Finagle's laws puts it: 'Any home port the ship makes will be somebody else's, not mine.'\"\n\nThe term \"Finagle's law\" was popularized by science fiction author Larry Niven in several stories depicting a frontier culture of asteroid miners; this \"Belter\" culture professed a religion or running joke involving the worship of the dread god Finagle and his mad prophet Murphy.\n\n\"Finagle's law\" can also be the related belief \"Inanimate objects are out to get us\", also known as Resistentialism.\nSimilar to Finagle's law is the verbless phrase of the German novelist Friedrich Theodor Vischer: \"die Tücke des Objekts\" (the perfidy of inanimate objects).\n\nA related concept, the \"Finagle factor\", is an ad hoc multiplicative or additive term in an equation, which can only be justified by the fact that it gives more correct results.  Also known as Finagle's variable constant, it is sometimes defined as the correct answer divided by your answer. Finagle's law. http://en.wikipedia.org/?curid=10887."
+  }
+}

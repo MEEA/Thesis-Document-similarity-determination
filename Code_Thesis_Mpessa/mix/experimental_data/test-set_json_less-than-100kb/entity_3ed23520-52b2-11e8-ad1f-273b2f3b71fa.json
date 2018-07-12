@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19926",
+  "eid" : "3ed23520-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778614642,
+  "textBody" : "The M81 Group is a galaxy group in the constellations Ursa Major and Camelopardalis that includes the  galaxies Messier 81 and Messier 82, as well as several other galaxies with high apparent brightnesses.  The approximate center of the group is located at a distance of 3.6 Mpc, making it one of the nearest groups to the Local Group.  The group is estimated to have a total mass of (1.03 ± 0.17).\nThe M81 Group, the Local Group, and other nearby groups all lie within the Virgo Supercluster (i.e. the Local Supercluster).\n\nMembers\n\nThe table below lists galaxies that have been identified as associated with the M81 Group by I. D. Karachentsev.\n\nNote that the object names used in the above table differ from the names used by Karachentsev.  NGC, IC, UGC, and PGC numbers have been used in many cases to allow for easier referencing.\n\nInteractions within the group\n\nMessier 81, Messier 82, and NGC 3077 are all strongly interacting with each other.  The gravitational interactions have stripped some hydrogen gas away from all three galaxies, leading to the formation of filamentary gas structures within the group.  Moreover, the interactions have also caused some interstellar gas to fall into the centers of Messier 82 and NGC 3077, which has led to strong starburst activity (or the formation of many stars) within the centers of these two galaxies.\n\nGallery\n\nThe mysteries of UGC 8201.jpg|Galaxy UGC 8201 is a dwarf irregular galaxy member of the M81 galaxy group.\nM81+M82-and other galaxies.jpg|Amateur picture Messier 81 + 82 and NGC 3077 all of the M81 group, 33 frames stacked of 1 minute each.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "M81 Group" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19926" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The M81 Group is a galaxy group in the constellations Ursa Major and Camelopardalis that includes the  galaxies Messier 81 and Messier 82, as well as several other galaxies with high apparent brightnesses.  The approximate center of the group is located at a distance of 3.6 Mpc, making it one of the nearest groups to the Local Group.  The group is estimated to have a total mass of (1.03 ± 0.17).\nThe M81 Group, the Local Group, and other nearby groups all lie within the Virgo Supercluster (i.e. the Local Supercluster).\n\nMembers\n\nThe table below lists galaxies that have been identified as associated with the M81 Group by I. D. Karachentsev.\n\nNote that the object names used in the above table differ from the names used by Karachentsev.  NGC, IC, UGC, and PGC numbers have been used in many cases to allow for easier referencing.\n\nInteractions within the group\n\nMessier 81, Messier 82, and NGC 3077 are all strongly interacting with each other.  The gravitational interactions have stripped some hydrogen gas away from all three galaxies, leading to the formation of filamentary gas structures within the group.  Moreover, the interactions have also caused some interstellar gas to fall into the centers of Messier 82 and NGC 3077, which has led to strong starburst activity (or the formation of many stars) within the centers of these two galaxies.\n\nGallery\n\nThe mysteries of UGC 8201.jpg|Galaxy UGC 8201 is a dwarf irregular galaxy member of the M81 galaxy group.\nM81+M82-and other galaxies.jpg|Amateur picture Messier 81 + 82 and NGC 3077 all of the M81 group, 33 frames stacked of 1 minute each. M81 Group. http://en.wikipedia.org/?curid=19926."
+  }
+}

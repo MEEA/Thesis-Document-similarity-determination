@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19018",
+  "eid" : "370f5c50-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778601621,
+  "textBody" : "Mouthpiece may refer to:\n\n* The part of an object which comes near or in contact with one's mouth or nose during use\n** Mouthpiece (smoking pipe) or cigarette holder\n** Mouthpiece (telephone handset)\n** Mouthpiece (woodwind), a component of a woodwind instrument\n** Mouthpiece (brass), a component of a brass instrument\n** Mouthpiece (scuba), a component of a scuba diving or industrial breathing set\n** Mouthguard, a device protecting the teeth from injury, also known as mouth piece\n\nOther \n\n* The Mouthpiece, a 1932 crime drama film directed by James Flood and Elliott Nugent\n* Mouthpiece (comics), a DC comics character\n* Mouthpiece (band), a hardcore punk band\n* Figuratively and with negative connotations to indicate the role of a spokesperson or mass media venue that is used to perpetuate the views or agenda of another, as in \"the newspaper became a mouthpiece for its owner's political views.\"",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Mouthpiece" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19018" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Mouthpiece may refer to:\n\n* The part of an object which comes near or in contact with one's mouth or nose during use\n** Mouthpiece (smoking pipe) or cigarette holder\n** Mouthpiece (telephone handset)\n** Mouthpiece (woodwind), a component of a woodwind instrument\n** Mouthpiece (brass), a component of a brass instrument\n** Mouthpiece (scuba), a component of a scuba diving or industrial breathing set\n** Mouthguard, a device protecting the teeth from injury, also known as mouth piece\n\nOther \n\n* The Mouthpiece, a 1932 crime drama film directed by James Flood and Elliott Nugent\n* Mouthpiece (comics), a DC comics character\n* Mouthpiece (band), a hardcore punk band\n* Figuratively and with negative connotations to indicate the role of a spokesperson or mass media venue that is used to perpetuate the views or agenda of another, as in \"the newspaper became a mouthpiece for its owner's political views.\". Mouthpiece. http://en.wikipedia.org/?curid=19018."
+  }
+}

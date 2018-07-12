@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10256",
+  "eid" : "f4925580-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778490072,
+  "textBody" : "Eccentricity or eccentric may refer to:\n\n* Eccentricity (behavior), odd behavior on the part of a person, as opposed to being \"normal\"\n\nScience and technology\n\nOrbital mechanics\n\n* Orbital eccentricity, in astrodynamics, a measure of the non-circularity of an orbit\n* Eccentric anomaly, the angle between the direction of periapsis and the current position of an object on its orbit\n* Eccentricity vector, in celestial mechanics, a dimensionless vector with direction pointing from apoapsis to periapsis\n* Eccentric, a type of deferent, a circle or sphere used in obsolete epicyclical systems to carry a planet around the Earth or Sun\n\nOther sciences\n\n* Off-center, in geometry\n* Eccentricity (graph theory) of a vertex in a graph\n* Eccentricity (mathematics), a parameter associated with every conic section\n* Eccentric (mechanism), a wheel that rotates on an axle that is displaced from the focus of the circle described by the wheel\n* Horizontal eccentricity, in vision, degrees of visual angle from the center of the eye\n* Eccentric contraction, the lengthening of muscle fibers\n* Eccentric position of a surveying tripod, to be able to measure hidden points\n* Eccentric training, the motion of an active muscle while it is lengthening under load\n\nOther uses\n\n* Eccentric Club, a London gentlemen's club",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Eccentricity" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10256" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Eccentricity or eccentric may refer to:\n\n* Eccentricity (behavior), odd behavior on the part of a person, as opposed to being \"normal\"\n\nScience and technology\n\nOrbital mechanics\n\n* Orbital eccentricity, in astrodynamics, a measure of the non-circularity of an orbit\n* Eccentric anomaly, the angle between the direction of periapsis and the current position of an object on its orbit\n* Eccentricity vector, in celestial mechanics, a dimensionless vector with direction pointing from apoapsis to periapsis\n* Eccentric, a type of deferent, a circle or sphere used in obsolete epicyclical systems to carry a planet around the Earth or Sun\n\nOther sciences\n\n* Off-center, in geometry\n* Eccentricity (graph theory) of a vertex in a graph\n* Eccentricity (mathematics), a parameter associated with every conic section\n* Eccentric (mechanism), a wheel that rotates on an axle that is displaced from the focus of the circle described by the wheel\n* Horizontal eccentricity, in vision, degrees of visual angle from the center of the eye\n* Eccentric contraction, the lengthening of muscle fibers\n* Eccentric position of a surveying tripod, to be able to measure hidden points\n* Eccentric training, the motion of an active muscle while it is lengthening under load\n\nOther uses\n\n* Eccentric Club, a London gentlemen's club. Eccentricity. http://en.wikipedia.org/?curid=10256."
+  }
+}

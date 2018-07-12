@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17998",
+  "eid" : "301a0cb0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778589947,
+  "textBody" : "This is a list of Latin words with derivatives in English (and other modern languages).\n\nAncient orthography did not distinguish between i and j or between u and v. Many modern works distinguish u from v but not i from j. In this article, both distinctions are shown as they are helpful when tracing the origin of English words. See also Latin spelling and pronunciation.\n\nNouns and adjectives\n\nThe citation form for nouns (the form normally shown in Latin dictionaries) is the Latin nominative singular, but that typically does not exhibit the root form from which English nouns are generally derived.\n\nVerbs\n\nIn some Latin verbs, a preposition caused a vowel change in the root of the verb. For example, \"capiō\" prefixed with \"in\" becomes \"incipio\".\n\nPrepositions and other words used to form compound words",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "List of Latin words with English derivatives" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17998" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "This is a list of Latin words with derivatives in English (and other modern languages).\n\nAncient orthography did not distinguish between i and j or between u and v. Many modern works distinguish u from v but not i from j. In this article, both distinctions are shown as they are helpful when tracing the origin of English words. See also Latin spelling and pronunciation.\n\nNouns and adjectives\n\nThe citation form for nouns (the form normally shown in Latin dictionaries) is the Latin nominative singular, but that typically does not exhibit the root form from which English nouns are generally derived.\n\nVerbs\n\nIn some Latin verbs, a preposition caused a vowel change in the root of the verb. For example, \"capiō\" prefixed with \"in\" becomes \"incipio\".\n\nPrepositions and other words used to form compound words. List of Latin words with English derivatives. http://en.wikipedia.org/?curid=17998."
+  }
+}

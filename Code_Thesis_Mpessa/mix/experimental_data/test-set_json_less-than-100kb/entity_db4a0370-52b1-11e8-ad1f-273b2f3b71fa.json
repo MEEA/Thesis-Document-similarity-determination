@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=6360",
+  "eid" : "db4a0370-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778447655,
+  "textBody" : "Cepheus (Ancient Greek: Κηφεύς Kepheús) may refer to:\n\n;In Greek mythology\n* Cepheus, King of Aethiopia,  in Greek mythology\n* Cepheus, King of Tegea, the king of Tegea, Arcadia in Greek mythology\n\n;In astronomy\n* Cepheus (constellation), one of the 88 modern constellations\n* Cepheus (crater), a lunar impact crater\n\n;In Computing\n* Cepheus (poker bot)\n\n;In modern fiction\n* Cepheus Daidalos, a fictional character in the manga and anime, Saint Seiya\n* Cepheus, the FM king in Mega Man Star Force\n* In the Galaxy Railways, one of the squads is named the Cepheus Platoon.\n\n;Other uses\n* USS Cepheus (AKA-18), an Andromeda class attack cargo ship",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Cepheus" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=6360" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Cepheus (Ancient Greek: Κηφεύς Kepheús) may refer to:\n\n;In Greek mythology\n* Cepheus, King of Aethiopia,  in Greek mythology\n* Cepheus, King of Tegea, the king of Tegea, Arcadia in Greek mythology\n\n;In astronomy\n* Cepheus (constellation), one of the 88 modern constellations\n* Cepheus (crater), a lunar impact crater\n\n;In Computing\n* Cepheus (poker bot)\n\n;In modern fiction\n* Cepheus Daidalos, a fictional character in the manga and anime, Saint Seiya\n* Cepheus, the FM king in Mega Man Star Force\n* In the Galaxy Railways, one of the squads is named the Cepheus Platoon.\n\n;Other uses\n* USS Cepheus (AKA-18), an Andromeda class attack cargo ship. Cepheus. http://en.wikipedia.org/?curid=6360."
+  }
+}

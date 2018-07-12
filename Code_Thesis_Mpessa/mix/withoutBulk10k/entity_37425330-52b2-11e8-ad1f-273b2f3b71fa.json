@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19041",
+  "eid" : "37425330-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778601955,
+  "textBody" : "Marlon Williams (born September 30, 1962), better known by his stage name Marley Marl, is an American DJ, record producer, rapper and record label founder, primarily operating in hip hop music. He is credited with influencing a number of hip hop icons such as RZA, DJ Premier, and Pete Rock.[ Biography] He was also featured on Eric B. & Rakim's \"Paid In Full\" from their debut album which was also recorded in his studio.  As a producer, one notable project was LL Cool J's Mama Said Knock You Out.\n\nDiscography \n\nCompilations \n\n* House of Hits (1995)\n* Best of Cold Chillin (2001)\n* Marley Marl's House of Hits (released 2007)\n* Hip Hop's Hero w/ Nikal Fieldz (released 2010)\n\nPopular culture \n\nMarl was referenced on Biggie Smalls' track \"Juicy\" as being one of Smalls' early influences.https://genius.com/The-notorious-big-juicy-lyrics",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Marley Marl" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19041" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Marlon Williams (born September 30, 1962), better known by his stage name Marley Marl, is an American DJ, record producer, rapper and record label founder, primarily operating in hip hop music. He is credited with influencing a number of hip hop icons such as RZA, DJ Premier, and Pete Rock.[ Biography] He was also featured on Eric B. & Rakim's \"Paid In Full\" from their debut album which was also recorded in his studio.  As a producer, one notable project was LL Cool J's Mama Said Knock You Out.\n\nDiscography \n\nCompilations \n\n* House of Hits (1995)\n* Best of Cold Chillin (2001)\n* Marley Marl's House of Hits (released 2007)\n* Hip Hop's Hero w/ Nikal Fieldz (released 2010)\n\nPopular culture \n\nMarl was referenced on Biggie Smalls' track \"Juicy\" as being one of Smalls' early influences.https://genius.com/The-notorious-big-juicy-lyrics. Marley Marl. http://en.wikipedia.org/?curid=19041."
+  }
+}

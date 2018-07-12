@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12913",
+  "eid" : "05743bc0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778518396,
+  "textBody" : "Greens may refer to:\n*Leaf vegetables such as collard greens, mustard greens, spring greens, winter greens, spinach, etc.\n\nPolitics\n\nSupranational\n\n* Green politics\n* Green party, political parties adhering to Green politics\n* Global Greens\n* European Green Party\n\nEstablished parties\n\n* Green Party (disambiguation)\n* The Greens (disambiguation)\n\nOther\n\n* Australian Greens\n* Green armies, peasant-based groups participating in the Russian Civil War of 1917–23\n* Green Movement (disambiguation)\n* The Greens, an early 20th-century nationalist and separatist political and military movement in Montenegro\n* Greens, a political faction and associated chariot-racing team in the Byzantine empire; involved in the deadly Nika riots of 532\n\nPlaces\n\n* Greens Farms in Westport, Connecticut, United States\n* Greens Ledge Light on Long Island Sound, United States\n* Greens Norton village in Northamptonshire, England\n* Greens Pool beach on the south coast of Western Australia\n* Greens Restaurant in San Francisco, California, United States\n* Millennium Greens and Doorstep Greens, locally owned and managed public spaces in England\n* Breckenridge Greens (Edmonton), Potter Greens, Suder Greens - neighbourhoods in Alberta, Canada\n\nIn sport\n\n* Ashland Greens basketball team in Pennsylvania, United States\n* Bentleigh Greens soccer team in a suburb of Melbourne, Victoria, Australia\n* Baywood Greens public golf club in Long Neck, Delaware, United States\n* Greens Worldwide sports management company\n* Greens (golf), the area of a golf course around the tee, maintained by a Greenskeeper\n\nManufacturing\n\n* A British brand of railway locomotives, road rollers and other products; see Thomas Green & Son",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Greens" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12913" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Greens may refer to:\n*Leaf vegetables such as collard greens, mustard greens, spring greens, winter greens, spinach, etc.\n\nPolitics\n\nSupranational\n\n* Green politics\n* Green party, political parties adhering to Green politics\n* Global Greens\n* European Green Party\n\nEstablished parties\n\n* Green Party (disambiguation)\n* The Greens (disambiguation)\n\nOther\n\n* Australian Greens\n* Green armies, peasant-based groups participating in the Russian Civil War of 1917–23\n* Green Movement (disambiguation)\n* The Greens, an early 20th-century nationalist and separatist political and military movement in Montenegro\n* Greens, a political faction and associated chariot-racing team in the Byzantine empire; involved in the deadly Nika riots of 532\n\nPlaces\n\n* Greens Farms in Westport, Connecticut, United States\n* Greens Ledge Light on Long Island Sound, United States\n* Greens Norton village in Northamptonshire, England\n* Greens Pool beach on the south coast of Western Australia\n* Greens Restaurant in San Francisco, California, United States\n* Millennium Greens and Doorstep Greens, locally owned and managed public spaces in England\n* Breckenridge Greens (Edmonton), Potter Greens, Suder Greens - neighbourhoods in Alberta, Canada\n\nIn sport\n\n* Ashland Greens basketball team in Pennsylvania, United States\n* Bentleigh Greens soccer team in a suburb of Melbourne, Victoria, Australia\n* Baywood Greens public golf club in Long Neck, Delaware, United States\n* Greens Worldwide sports management company\n* Greens (golf), the area of a golf course around the tee, maintained by a Greenskeeper\n\nManufacturing\n\n* A British brand of railway locomotives, road rollers and other products; see Thomas Green & Son. Greens. http://en.wikipedia.org/?curid=12913."
+  }
+}

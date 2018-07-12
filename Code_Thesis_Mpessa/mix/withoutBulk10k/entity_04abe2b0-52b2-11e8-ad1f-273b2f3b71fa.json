@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12753",
+  "eid" : "04abe2b0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778517083,
+  "textBody" : "Gramophone might refer to:\n\n* A phonograph, the first device for recording and replaying sound\n* Gramophone record, also called vinyl or phonograph record, a disc shaped analogue sound recording medium\n\nCompanies\n\n* Gramophone (magazine), a British publication devoted to classical music\n* Gramophone Company, a British record company, existing from 1897 to 1931\n* Gramophone Company of India, the former name of Saregama, an Indian record company\n* Berliner Gramophone, a record company incorporated in 1892 in Washington, D.C. as the United States Gramophone Company\n* Deutsche Grammophon, a German classical music record company, founded in 1898\n* Gramaphone Records, a music store in Chicago\n\nOther uses\n\n* Gramophone (film), a 2003 Indian film\n* Gramophone Award, given for classical music recordings, given by Gramophone magazine",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Gramophone" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12753" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Gramophone might refer to:\n\n* A phonograph, the first device for recording and replaying sound\n* Gramophone record, also called vinyl or phonograph record, a disc shaped analogue sound recording medium\n\nCompanies\n\n* Gramophone (magazine), a British publication devoted to classical music\n* Gramophone Company, a British record company, existing from 1897 to 1931\n* Gramophone Company of India, the former name of Saregama, an Indian record company\n* Berliner Gramophone, a record company incorporated in 1892 in Washington, D.C. as the United States Gramophone Company\n* Deutsche Grammophon, a German classical music record company, founded in 1898\n* Gramaphone Records, a music store in Chicago\n\nOther uses\n\n* Gramophone (film), a 2003 Indian film\n* Gramophone Award, given for classical music recordings, given by Gramophone magazine. Gramophone. http://en.wikipedia.org/?curid=12753."
+  }
+}

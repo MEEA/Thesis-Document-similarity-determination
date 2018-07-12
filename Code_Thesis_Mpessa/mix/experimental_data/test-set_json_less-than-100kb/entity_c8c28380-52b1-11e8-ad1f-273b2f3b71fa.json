@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3788",
+  "eid" : "c8c28380-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778416568,
+  "textBody" : "Body or BODY may refer to:\n\nIn science\n\nIn physics\n\n* Physical body, an object in physics\n\nIn life sciences\n\n* Human body, the entire structure of a human organism\n** Dead body or cadaver, a dead human body\n* Body plan, the physical features shared by a group of animals\n\nIn arts and entertainment\n\nIn film and television\n\n* Body (2015 Polish film), a 2015 Polish film\n* Body (2015 American film), a 2015 American film\n* \"Body\" (Wonder Showzen episode), a 2006 episode of American sketch comedy television series Wonder Showzen\n* \"Body\", an episode of the Adult Swim television series, Off the Air\n\nIn literature and publishing\n\n* Body (publishing), the main part of an article\n* body (typography), the size of a piece of metal type\n* B.O.D.Y. (manga), by Ao Mimori\n* B O D Y, an international online literary magazine\n\nIn music\n\n* \"Body\" (Ja Rule song), a 2007 hip-hop song\n* \"Body\" (Marques Houston song), a 2009 R&B song\n* \"Body\" (Teairra Mari song), a 2010 R&B song\n* \"Body\", a song by Men Without Hats from No Hats Beyond This Point, 2003\n* \"Body\", a song by Funky Green Dogs from Star, 1999\n* \"Body\", a song by The Jacksons from Victory, 1984\n* B.O.D.Y. (Machel Montano album) (Band Of D Year), a 2006 album by Machel Montano\n* Best Night of My Life, a 2010 Jamie Foxx album originally named Body\n\nOther uses\n\n* Body (surname)\n* Body (transistor), a terminal of a field-effect transistor\n* Body (wine), a wine tasting descriptor of sense of alcohol and feeling in the mouth\n* Automobile body, the outer body of a motor vehicle which is built around a chassis\n* Body corporate, a corporation capable of having legal rights and duties within a certain legal system\n* Body politic, metaphor in which a nation is considered to be a corporate entity, being likened to a human body\n* An HTML element that contains the displayable content of a page",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Body" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3788" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Body or BODY may refer to:\n\nIn science\n\nIn physics\n\n* Physical body, an object in physics\n\nIn life sciences\n\n* Human body, the entire structure of a human organism\n** Dead body or cadaver, a dead human body\n* Body plan, the physical features shared by a group of animals\n\nIn arts and entertainment\n\nIn film and television\n\n* Body (2015 Polish film), a 2015 Polish film\n* Body (2015 American film), a 2015 American film\n* \"Body\" (Wonder Showzen episode), a 2006 episode of American sketch comedy television series Wonder Showzen\n* \"Body\", an episode of the Adult Swim television series, Off the Air\n\nIn literature and publishing\n\n* Body (publishing), the main part of an article\n* body (typography), the size of a piece of metal type\n* B.O.D.Y. (manga), by Ao Mimori\n* B O D Y, an international online literary magazine\n\nIn music\n\n* \"Body\" (Ja Rule song), a 2007 hip-hop song\n* \"Body\" (Marques Houston song), a 2009 R&B song\n* \"Body\" (Teairra Mari song), a 2010 R&B song\n* \"Body\", a song by Men Without Hats from No Hats Beyond This Point, 2003\n* \"Body\", a song by Funky Green Dogs from Star, 1999\n* \"Body\", a song by The Jacksons from Victory, 1984\n* B.O.D.Y. (Machel Montano album) (Band Of D Year), a 2006 album by Machel Montano\n* Best Night of My Life, a 2010 Jamie Foxx album originally named Body\n\nOther uses\n\n* Body (surname)\n* Body (transistor), a terminal of a field-effect transistor\n* Body (wine), a wine tasting descriptor of sense of alcohol and feeling in the mouth\n* Automobile body, the outer body of a motor vehicle which is built around a chassis\n* Body corporate, a corporation capable of having legal rights and duties within a certain legal system\n* Body politic, metaphor in which a nation is considered to be a corporate entity, being likened to a human body\n* An HTML element that contains the displayable content of a page. Body. http://en.wikipedia.org/?curid=3788."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2381",
+  "eid" : "bfcecbd0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778401549,
+  "textBody" : "Andreas Aagesen (5 August 1826 – 26 October 1879) was a Danish jurist.\n\nBiography\n\nAagesen was educated for the law at Christianshavn and Copenhagen, and interrupted his studies in 1848 to take part in the First Schleswig War, in which he served as the leader of a reserve battalion.\n\nIn 1855 Aagesen became a professor of jurisprudence at the University of Copenhagen. In 1870 he was appointed a member of the commission  for drawing up a maritime and commercial code, and the navigation  law of 1882 is mainly his work. In 1879 he was elected a member of the Landsting (one of two chambers of the Danish Parliament, the Rigsdagen); but it is as a teacher at the university that he won his reputation. Aagesen was Carl Christian Hall's successor as lecturer on Roman law at the university, and in this department his research was epoch-making.\n\nBibliography\n\nAmong his numerous juridical works may be mentioned:\n*Bidrag til Læren om Overdragelse af Ejendomsret, Bemærkinger om Rettigheder over Ting (Copenhagen, 1866, 1871-1872);\n*Fortegnelse over Retssamlinger, Retslitteratur i Danmark, Norge, Sverige (Copenhagen, 1876).\n\nNotes",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Andreas Aagesen" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2381" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Andreas Aagesen (5 August 1826 – 26 October 1879) was a Danish jurist.\n\nBiography\n\nAagesen was educated for the law at Christianshavn and Copenhagen, and interrupted his studies in 1848 to take part in the First Schleswig War, in which he served as the leader of a reserve battalion.\n\nIn 1855 Aagesen became a professor of jurisprudence at the University of Copenhagen. In 1870 he was appointed a member of the commission  for drawing up a maritime and commercial code, and the navigation  law of 1882 is mainly his work. In 1879 he was elected a member of the Landsting (one of two chambers of the Danish Parliament, the Rigsdagen); but it is as a teacher at the university that he won his reputation. Aagesen was Carl Christian Hall's successor as lecturer on Roman law at the university, and in this department his research was epoch-making.\n\nBibliography\n\nAmong his numerous juridical works may be mentioned:\n*Bidrag til Læren om Overdragelse af Ejendomsret, Bemærkinger om Rettigheder over Ting (Copenhagen, 1866, 1871-1872);\n*Fortegnelse over Retssamlinger, Retslitteratur i Danmark, Norge, Sverige (Copenhagen, 1876).\n\nNotes. Andreas Aagesen. http://en.wikipedia.org/?curid=2381."
+  }
+}

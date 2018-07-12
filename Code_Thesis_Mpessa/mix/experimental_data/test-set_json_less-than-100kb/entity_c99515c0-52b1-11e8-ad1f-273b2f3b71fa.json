@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3879",
+  "eid" : "c99515c0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778417948,
+  "textBody" : "\"Business statistics is the science of good decision making in the face of uncertainty and is used in many disciplines such as financial analysis,  econometrics , auditing, production and operations including services improvement and marketing research\".• \nJournal of Business & Economic Statistics, [http://pubs.amstat.org/page/jbes/aims-and-scope Aims and Scope.]  • [http://www.amstat.org/publications/jbes.cfm \"Journal of Business & Economic Statistics, American Statistical Association.\"] \n\nThese sources feature regular repetitive publication of series of data. This makes the topic of time series especially important for business statistics. It is also a branch of applied statistics working mostly on data collected as a by-product of doing business or by government agencies. It provides knowledge and skills to interpret and use statistical techniques in a variety of business applications. \n\nA typical business statistics course is intended for business majors, and covers statistical study, descriptive statistics (collection, description, analysis, and summary of data), probability, and the binomial and normal distributions, test of hypotheses and confidence intervals, linear regression, and correlation.• E. Pekoz, The Manager's Guide to Statistics, http://www.probabilitybookstore.com, 2012.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Business statistics" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3879" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "\"Business statistics is the science of good decision making in the face of uncertainty and is used in many disciplines such as financial analysis,  econometrics , auditing, production and operations including services improvement and marketing research\".• \nJournal of Business & Economic Statistics, [http://pubs.amstat.org/page/jbes/aims-and-scope Aims and Scope.]  • [http://www.amstat.org/publications/jbes.cfm \"Journal of Business & Economic Statistics, American Statistical Association.\"] \n\nThese sources feature regular repetitive publication of series of data. This makes the topic of time series especially important for business statistics. It is also a branch of applied statistics working mostly on data collected as a by-product of doing business or by government agencies. It provides knowledge and skills to interpret and use statistical techniques in a variety of business applications. \n\nA typical business statistics course is intended for business majors, and covers statistical study, descriptive statistics (collection, description, analysis, and summary of data), probability, and the binomial and normal distributions, test of hypotheses and confidence intervals, linear regression, and correlation.• E. Pekoz, The Manager's Guide to Statistics, http://www.probabilitybookstore.com, 2012. Business statistics. http://en.wikipedia.org/?curid=3879."
+  }
+}

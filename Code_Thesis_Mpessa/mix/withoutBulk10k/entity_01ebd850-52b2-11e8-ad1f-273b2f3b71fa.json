@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12349",
+  "eid" : "01ebd850-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778512469,
+  "textBody" : "Telephones - main lines in use:\n159,000 (1995)\n\nTelephones - mobile cellular:\n814 (1990)\n\nTelephone system:\ndomestic facilities inadequate\ndomestic:\nNA\ninternational:\nsatellite earth station - 1 Intelsat (Atlantic Ocean); microwave radio relay to Antigua and Barbuda, Dominica, and Martinique\n\nRadio broadcast stations:\nAM 1, FM 17, shortwave 0 (1998)\n\nRadios:\n113,000 (1997)\n\nTelevision broadcast stations:\n5 (plus several low-power repeaters) (1997)\n\nTelevisions:\n118,000 (1997)\n\nInternet Service Providers (ISPs): France Telecom (Orange)\n\nCountry code (Top-level domain): GP",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Telecommunications in Guadeloupe" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12349" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Telephones - main lines in use:\n159,000 (1995)\n\nTelephones - mobile cellular:\n814 (1990)\n\nTelephone system:\ndomestic facilities inadequate\ndomestic:\nNA\ninternational:\nsatellite earth station - 1 Intelsat (Atlantic Ocean); microwave radio relay to Antigua and Barbuda, Dominica, and Martinique\n\nRadio broadcast stations:\nAM 1, FM 17, shortwave 0 (1998)\n\nRadios:\n113,000 (1997)\n\nTelevision broadcast stations:\n5 (plus several low-power repeaters) (1997)\n\nTelevisions:\n118,000 (1997)\n\nInternet Service Providers (ISPs): France Telecom (Orange)\n\nCountry code (Top-level domain): GP. Telecommunications in Guadeloupe. http://en.wikipedia.org/?curid=12349."
+  }
+}

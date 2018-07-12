@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19908",
+  "eid" : "3ecba570-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778614599,
+  "textBody" : "Mount is often used as part of the name of specific mountains, e.g. Mount Everest.\n\nMount or Mounts may also refer to:\n\nDisplays and equipment\n\n* Weapon mount, equipment used to secure an armament\n* Telescope mount, a device used to support a telescope\n* Lens mount, an interface used to fix a lens to a camera\n* A fixed point for attaching equipment, such as a hardpoint on an airframe\n* Hanging scroll for mounting paintings\n* The display of an item on a heavy backing such as foamcore\n** Attaching a picture or a painting to a support, followed by framing it\n** Pinning a biological specimen on a heavy backing in a stretched stable position for ease of dissection or display.\n** Preparing dead animals for display in taxidermy\n* Mounting a coverslip on a specimen on a microscopic slide.\n\nComputing and software\n\n* Mount (computing), the process of making a file system accessible\n* mount (Unix), the utility in Unix-like operating systems which mounts file systems \n* Mount (streaming), a concept used in streaming software programs\n\nGeography \n\n* Mounts, Indiana, a community in Gibson County, Indiana\n\nOther meanings\n\n* Mount (grappling), a grappling position\n* Copulation, the union of the sex organs in mating\n* Riding animal, any animal that can be ridden\n* Vahana, an animal or mythical entity closely associated with a particular deity in Hindu mythology\n* Boarding an apparatus used for gymnastics, such as a balance beam\n* Adding butter to a sauce in order to thicken it, as with beurre monté",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Mount" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19908" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Mount is often used as part of the name of specific mountains, e.g. Mount Everest.\n\nMount or Mounts may also refer to:\n\nDisplays and equipment\n\n* Weapon mount, equipment used to secure an armament\n* Telescope mount, a device used to support a telescope\n* Lens mount, an interface used to fix a lens to a camera\n* A fixed point for attaching equipment, such as a hardpoint on an airframe\n* Hanging scroll for mounting paintings\n* The display of an item on a heavy backing such as foamcore\n** Attaching a picture or a painting to a support, followed by framing it\n** Pinning a biological specimen on a heavy backing in a stretched stable position for ease of dissection or display.\n** Preparing dead animals for display in taxidermy\n* Mounting a coverslip on a specimen on a microscopic slide.\n\nComputing and software\n\n* Mount (computing), the process of making a file system accessible\n* mount (Unix), the utility in Unix-like operating systems which mounts file systems \n* Mount (streaming), a concept used in streaming software programs\n\nGeography \n\n* Mounts, Indiana, a community in Gibson County, Indiana\n\nOther meanings\n\n* Mount (grappling), a grappling position\n* Copulation, the union of the sex organs in mating\n* Riding animal, any animal that can be ridden\n* Vahana, an animal or mythical entity closely associated with a particular deity in Hindu mythology\n* Boarding an apparatus used for gymnastics, such as a balance beam\n* Adding butter to a sauce in order to thicken it, as with beurre monté. Mount. http://en.wikipedia.org/?curid=19908."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=4338",
+  "eid" : "cced6880-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778423560,
+  "textBody" : "Brittonic or Brythonic may refer to:\n\n*Common Brittonic, or Brythonic, the Celtic language anciently spoken in Great Britain\n*Brittonic languages, a branch of the Celtic languages descended from Common Brittonic\n*Britons (Celtic people), the Celtic people of Great Britain in ancient times",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Brittonic" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=4338" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Brittonic or Brythonic may refer to:\n\n*Common Brittonic, or Brythonic, the Celtic language anciently spoken in Great Britain\n*Brittonic languages, a branch of the Celtic languages descended from Common Brittonic\n*Britons (Celtic people), the Celtic people of Great Britain in ancient times. Brittonic. http://en.wikipedia.org/?curid=4338."
+  }
+}

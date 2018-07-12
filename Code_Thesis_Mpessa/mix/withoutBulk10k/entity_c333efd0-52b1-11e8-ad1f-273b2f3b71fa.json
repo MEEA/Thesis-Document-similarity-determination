@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2941",
+  "eid" : "c333efd0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778407245,
+  "textBody" : "In Alaska, the bush typically refers to any region of the State not connected to the North American road network or ready access to the State's Ferry System.  A large proportion of Alaska's native populations live in the bush, often substantially depending on subsistence hunting and fishing.\n\nGeographically, the bush comprises the Alaska North Slope; Northwest Arctic; West, including the Baldwin and Seward Peninsulas; the Yukon-Kuskokwim Delta; Southwest Alaska; Bristol Bay; Alaska Peninsula; and remote areas of the Alaska Panhandle and Interior. \n\nSome of the larger, hub communities in the bush, which typically can be reached by larger, commercial airplanes, include Bethel, Dillingham, King Salmon, Nome, Barrow,  Kodiak Island, Kotzebue, and Unalaska-Dutch Harbor.\n\nMost parts of Alaska that are off the road or ferry system can be reached by small bush airplanes. Travel between smaller communities, or to and from hub communities, is typically accomplished by snow machines, boats, or ATVs.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "The Bush (Alaska)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2941" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "In Alaska, the bush typically refers to any region of the State not connected to the North American road network or ready access to the State's Ferry System.  A large proportion of Alaska's native populations live in the bush, often substantially depending on subsistence hunting and fishing.\n\nGeographically, the bush comprises the Alaska North Slope; Northwest Arctic; West, including the Baldwin and Seward Peninsulas; the Yukon-Kuskokwim Delta; Southwest Alaska; Bristol Bay; Alaska Peninsula; and remote areas of the Alaska Panhandle and Interior. \n\nSome of the larger, hub communities in the bush, which typically can be reached by larger, commercial airplanes, include Bethel, Dillingham, King Salmon, Nome, Barrow,  Kodiak Island, Kotzebue, and Unalaska-Dutch Harbor.\n\nMost parts of Alaska that are off the road or ferry system can be reached by small bush airplanes. Travel between smaller communities, or to and from hub communities, is typically accomplished by snow machines, boats, or ATVs. The Bush (Alaska). http://en.wikipedia.org/?curid=2941."
+  }
+}

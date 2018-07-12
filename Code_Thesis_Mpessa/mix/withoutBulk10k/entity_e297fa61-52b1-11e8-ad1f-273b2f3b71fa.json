@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7624",
+  "eid" : "e297fa61-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778459910,
+  "textBody" : "CISC may refer to:\n\n*Caribbean Island Swimming Championships\n*Centre for Innovation and Structural Change\n*Chongqing Iron and Steel Company\n* Clean intermittent self-catheterisation, a form of urinary catheterization\n*Complex instruction set computing\n*Criminal Intelligence Service Canada\n*CRTC Interconnection Steering Committee",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "CISC" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7624" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "CISC may refer to:\n\n*Caribbean Island Swimming Championships\n*Centre for Innovation and Structural Change\n*Chongqing Iron and Steel Company\n* Clean intermittent self-catheterisation, a form of urinary catheterization\n*Complex instruction set computing\n*Criminal Intelligence Service Canada\n*CRTC Interconnection Steering Committee. CISC. http://en.wikipedia.org/?curid=7624."
+  }
+}

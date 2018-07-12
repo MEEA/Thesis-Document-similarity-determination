@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18875",
+  "eid" : "356c81c0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778598876,
+  "textBody" : "A mental event is anything which happens within the mind or mind substitute of a conscious individual. Examples include thoughts, feelings, decisions, dreams, and realizations.\n\nSome believe that mental events are not limited to human thought but can be associated with animals and artificial intelligence as well. Whether mental events are identical to complex physical events, or whether such an identity even makes sense, is central to the mind-body problem.\n\nRelation to mind-body problem \n\nSome state that the mental and the physical are the very same property which cause any event(s). This view is known as substance monism. An opposing view is substance dualism, which claims that the mental and physical are fundamentally different and can exist independently.\n\nPhysicalism, a form of substance monism, states that everything that exists is either physical or depends on that which is physical. The existence of mental events has been used by philosophers as an argument against physicalism. For example, in his 1974 paper What Is it Like to Be a Bat?, Thomas Nagel argues that physicalist theories of mind cannot explain an organism’s subjective experience because they cannot account for its mental events.\n\nExamples\n\n* Mary is walking through a park and she sees and recognizes City Hall. This instance of seeing and recognizing City Hall is an instance of perception—something that happens in Mary's mind. That instance of perception is a mental event. It is an event because it is something that happens, and it is mental because it happens in Mary's mind.  \n* Mary feels happy after doing well on an exam and she smiles. This thought is a mental event. The smile is a physical event.\n* A killer whale recognized a feeling of hunger. It eats a fish. The recognition of the feeling of hunger is a mental event. Eating the fish is the physical event.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Mental event" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18875" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A mental event is anything which happens within the mind or mind substitute of a conscious individual. Examples include thoughts, feelings, decisions, dreams, and realizations.\n\nSome believe that mental events are not limited to human thought but can be associated with animals and artificial intelligence as well. Whether mental events are identical to complex physical events, or whether such an identity even makes sense, is central to the mind-body problem.\n\nRelation to mind-body problem \n\nSome state that the mental and the physical are the very same property which cause any event(s). This view is known as substance monism. An opposing view is substance dualism, which claims that the mental and physical are fundamentally different and can exist independently.\n\nPhysicalism, a form of substance monism, states that everything that exists is either physical or depends on that which is physical. The existence of mental events has been used by philosophers as an argument against physicalism. For example, in his 1974 paper What Is it Like to Be a Bat?, Thomas Nagel argues that physicalist theories of mind cannot explain an organism’s subjective experience because they cannot account for its mental events.\n\nExamples\n\n* Mary is walking through a park and she sees and recognizes City Hall. This instance of seeing and recognizing City Hall is an instance of perception—something that happens in Mary's mind. That instance of perception is a mental event. It is an event because it is something that happens, and it is mental because it happens in Mary's mind.  \n* Mary feels happy after doing well on an exam and she smiles. This thought is a mental event. The smile is a physical event.\n* A killer whale recognized a feeling of hunger. It eats a fish. The recognition of the feeling of hunger is a mental event. Eating the fish is the physical event. Mental event. http://en.wikipedia.org/?curid=18875."
+  }
+}

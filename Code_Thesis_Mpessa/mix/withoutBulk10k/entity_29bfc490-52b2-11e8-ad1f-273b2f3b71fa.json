@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16921",
+  "eid" : "29bfc490-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778579289,
+  "textBody" : "Knowledge Aided Retrieval in Activity Context (KARNAC) is a system being developed in the United States for use in profiling different categories of terrorist attacks to determine the components of possible future terrorist incidents.\n\nInformation for KARNAC is generally to be derived from structured, semi-structured and unstructured databases. This would include information derived from gun registrations, driver's licenses, residential and criminal records, as well as the Internet, newspapers and county records.\n\nFor example, the system might raise an alert if someone attempted to buy components for bomb making, hired a car and rented a hotel room near the White House.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Knowledge Aided Retrieval in Activity Context" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16921" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Knowledge Aided Retrieval in Activity Context (KARNAC) is a system being developed in the United States for use in profiling different categories of terrorist attacks to determine the components of possible future terrorist incidents.\n\nInformation for KARNAC is generally to be derived from structured, semi-structured and unstructured databases. This would include information derived from gun registrations, driver's licenses, residential and criminal records, as well as the Internet, newspapers and county records.\n\nFor example, the system might raise an alert if someone attempted to buy components for bomb making, hired a car and rented a hotel room near the White House. Knowledge Aided Retrieval in Activity Context. http://en.wikipedia.org/?curid=16921."
+  }
+}

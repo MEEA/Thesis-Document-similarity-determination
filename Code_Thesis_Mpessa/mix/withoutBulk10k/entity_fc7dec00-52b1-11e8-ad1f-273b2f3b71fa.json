@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11572",
+  "eid" : "fc7dec00-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778503360,
+  "textBody" : "Font may mean:\n\nPrinting and computers\n\n* Font in typography, a complete character set in a particular point size, in a particular typeface\n* Computer font\n\nReligion\n\n* Holy water font, a vessel for holy water, often seen at the entrance of a church\n* Baptismal font, a container for holy water used in the Christian ceremonial of baptism\n\nPeople with the surname\n\n* Héctor Font, Spanish footballer\n* Pedro Font (1737-1781), Franciscan missionary and diarist\n\nLocations\n\n* Font, Switzerland, a municipality of the canton of Fribourg\n* Font Hill Beach, beach on the south coast of Jamaica\n* La Font de la Figuera, a municipality in Spain\n* La Font de la Guatlla, a neighborhood in Barcelona, Spain\n* La Font d'En Carròs, a municipality in Spain\n* River Font, a river in Northumberland, England\n\nOther\n\n* Fountain (archaic usage, also spelled fount)\n* Kerosene lamp font, the container at the base of an oil or kerosene lamp that holds the oil, also spelled fount",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Font (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11572" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Font may mean:\n\nPrinting and computers\n\n* Font in typography, a complete character set in a particular point size, in a particular typeface\n* Computer font\n\nReligion\n\n* Holy water font, a vessel for holy water, often seen at the entrance of a church\n* Baptismal font, a container for holy water used in the Christian ceremonial of baptism\n\nPeople with the surname\n\n* Héctor Font, Spanish footballer\n* Pedro Font (1737-1781), Franciscan missionary and diarist\n\nLocations\n\n* Font, Switzerland, a municipality of the canton of Fribourg\n* Font Hill Beach, beach on the south coast of Jamaica\n* La Font de la Figuera, a municipality in Spain\n* La Font de la Guatlla, a neighborhood in Barcelona, Spain\n* La Font d'En Carròs, a municipality in Spain\n* River Font, a river in Northumberland, England\n\nOther\n\n* Fountain (archaic usage, also spelled fount)\n* Kerosene lamp font, the container at the base of an oil or kerosene lamp that holds the oil, also spelled fount. Font (disambiguation). http://en.wikipedia.org/?curid=11572."
+  }
+}

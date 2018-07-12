@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11956",
+  "eid" : "ff0f4540-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778507668,
+  "textBody" : "GPS is the Global Positioning System, a satellite-based navigation system.\n\nGPS may also refer to:\n\nTechnology\n\n* GPS navigation device, especially an automotive navigation system\n* Generalized processor sharing, an algorithm to fairly share computer processing time\n* General Problem Solver, a 1959 computer program\n* GNAT Programming Studio, a software development package\n\nOrganizations\n\n* Crossroads GPS (Grassroots Policy Strategies), a nonprofit corporation that works in conjunction with the Super PAC American Crossroads\n* Fusion GPS, American commercial and strategic research firm\n* Ghana Prisons Service\n* GPS (band), a progressive rock band\n* GPS Rugby, an Australian rugby union club\n* Geirus Policies and Standards committee, a body of the Rabbinical Council of America\n\nEducation\n\n* Gilbert Public Schools, a school district in Gilbert, Arizona, US\n* Girls Preparatory School, an all-girls prep school in Chattanooga, Tennessee, US\n* Athletic Association of the Great Public Schools of New South Wales, an association of private boys' schools, Australia\n* Great Public Schools Association of Queensland Inc., an association of nine Australian schools\n* Grosse Pointe South High School, a public high school in Grosse Pointe, Michigan, US\n* The School of Global Policy and Strategy, an institute of international studies at the University of California, San Diego\n\nMedicine\n\n* Goodpasture syndrome, a rare autoimmune disease\n\nOther uses\n\n* Seymour Airport (IATA code), Galápagos Islands, Ecuador\n* Fareed Zakaria GPS (Global Public Square), a CNN television show\n* Geometrical Products Specification, an international standard for geometric dimensioning and tolerancing\n* Genealogical Proof Standard (see also Cluster genealogy)\n* \"Var är jag\", renamed to \"GPS\", a song by Basshunter from his LOL  album",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "GPS (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11956" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "GPS is the Global Positioning System, a satellite-based navigation system.\n\nGPS may also refer to:\n\nTechnology\n\n* GPS navigation device, especially an automotive navigation system\n* Generalized processor sharing, an algorithm to fairly share computer processing time\n* General Problem Solver, a 1959 computer program\n* GNAT Programming Studio, a software development package\n\nOrganizations\n\n* Crossroads GPS (Grassroots Policy Strategies), a nonprofit corporation that works in conjunction with the Super PAC American Crossroads\n* Fusion GPS, American commercial and strategic research firm\n* Ghana Prisons Service\n* GPS (band), a progressive rock band\n* GPS Rugby, an Australian rugby union club\n* Geirus Policies and Standards committee, a body of the Rabbinical Council of America\n\nEducation\n\n* Gilbert Public Schools, a school district in Gilbert, Arizona, US\n* Girls Preparatory School, an all-girls prep school in Chattanooga, Tennessee, US\n* Athletic Association of the Great Public Schools of New South Wales, an association of private boys' schools, Australia\n* Great Public Schools Association of Queensland Inc., an association of nine Australian schools\n* Grosse Pointe South High School, a public high school in Grosse Pointe, Michigan, US\n* The School of Global Policy and Strategy, an institute of international studies at the University of California, San Diego\n\nMedicine\n\n* Goodpasture syndrome, a rare autoimmune disease\n\nOther uses\n\n* Seymour Airport (IATA code), Galápagos Islands, Ecuador\n* Fareed Zakaria GPS (Global Public Square), a CNN television show\n* Geometrical Products Specification, an international standard for geometric dimensioning and tolerancing\n* Genealogical Proof Standard (see also Cluster genealogy)\n* \"Var är jag\", renamed to \"GPS\", a song by Basshunter from his LOL  album. GPS (disambiguation). http://en.wikipedia.org/?curid=11956."
+  }
+}

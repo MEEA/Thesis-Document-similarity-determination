@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2702",
+  "eid" : "c1a7aa80-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778404648,
+  "textBody" : "An aberration is something that deviates from the normal way.\n\nAberration may refer to:\n\nOptics and physics\n\n*Optical aberration, an imperfection in image formation by an optical system\n*Chromatic aberration, caused by differences in refractive index for different wavelengths of light, in contrast with monochromatic aberration, which occurs for all frequencies of light\n*Spherical aberration, which occurs when light rays pass through a lens near the edge\n*Defocus aberration, which occurs when a system is out of focus\n*Aberration of light, which produces an apparent motion of celestial objects\n*Relativistic aberration, the distortion of light at high velocities\n\nBiology and medicine\n\n*aberratio or aberration, a rare (mutant) butterfly or moth wing pattern.\n*Chromosome abnormality, or aberration, a disruption in the normal chromosomal content of a cell\n*Cardiac aberrancy, aberration of the conduction of action potentials in the electrical conduction system of the heart\n\nEntertainment\n\n*Aberration, a DLC for the video game ARK: Survival Evolved\n*Aberration (Dungeons & Dragons), a creature type in the role-playing game\n*Aberration (film), a horror movie\n*Aberration (EP)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Aberration" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2702" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "An aberration is something that deviates from the normal way.\n\nAberration may refer to:\n\nOptics and physics\n\n*Optical aberration, an imperfection in image formation by an optical system\n*Chromatic aberration, caused by differences in refractive index for different wavelengths of light, in contrast with monochromatic aberration, which occurs for all frequencies of light\n*Spherical aberration, which occurs when light rays pass through a lens near the edge\n*Defocus aberration, which occurs when a system is out of focus\n*Aberration of light, which produces an apparent motion of celestial objects\n*Relativistic aberration, the distortion of light at high velocities\n\nBiology and medicine\n\n*aberratio or aberration, a rare (mutant) butterfly or moth wing pattern.\n*Chromosome abnormality, or aberration, a disruption in the normal chromosomal content of a cell\n*Cardiac aberrancy, aberration of the conduction of action potentials in the electrical conduction system of the heart\n\nEntertainment\n\n*Aberration, a DLC for the video game ARK: Survival Evolved\n*Aberration (Dungeons & Dragons), a creature type in the role-playing game\n*Aberration (film), a horror movie\n*Aberration (EP). Aberration. http://en.wikipedia.org/?curid=2702."
+  }
+}

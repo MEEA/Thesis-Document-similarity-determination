@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1768",
+  "eid" : "bb8f7470-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778394423,
+  "textBody" : "ALICE is an acronym used by some schools and school districts as the list of instructions and procedures to be followed in the event of a school shooting. There are two differnt common acronyms associated with this term, both of which serve the same purpose and are used interchangeably depending on the independent school and school district.\n\nDifferent acronyms\n\nThe ALICE term can be translated into two different acronyms, but with the same meaning:\n*Alert the authorities\n*Locate the threat\n*Inform others of the threat\n*Check your surroundings\n*Evacuate the area if possible\n\nor\n\n*Alert the authorities\n*Lockdown your area if evacuation is not possible\n*Inform others of the threat\n*Confront the intruder if necessary\n*Evacuate the area if possible\n\nCurrent uses\n\nOne or both of these acronyms are known to be in current use in the flowing locations:\n\n*Methuen, Massachusetts public schools\n*Presentation of Mary Academy\n*Saint Monica School, Methuen, Massachusetts\n*Central Catholic High School\n*Lowell Catholic High School\n*Lawrence, Massachusetts public schools\n*Lowell, Massachusetts public schools",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "ALICE" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1768" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "ALICE is an acronym used by some schools and school districts as the list of instructions and procedures to be followed in the event of a school shooting. There are two differnt common acronyms associated with this term, both of which serve the same purpose and are used interchangeably depending on the independent school and school district.\n\nDifferent acronyms\n\nThe ALICE term can be translated into two different acronyms, but with the same meaning:\n*Alert the authorities\n*Locate the threat\n*Inform others of the threat\n*Check your surroundings\n*Evacuate the area if possible\n\nor\n\n*Alert the authorities\n*Lockdown your area if evacuation is not possible\n*Inform others of the threat\n*Confront the intruder if necessary\n*Evacuate the area if possible\n\nCurrent uses\n\nOne or both of these acronyms are known to be in current use in the flowing locations:\n\n*Methuen, Massachusetts public schools\n*Presentation of Mary Academy\n*Saint Monica School, Methuen, Massachusetts\n*Central Catholic High School\n*Lowell Catholic High School\n*Lawrence, Massachusetts public schools\n*Lowell, Massachusetts public schools. ALICE. http://en.wikipedia.org/?curid=1768."
+  }
+}

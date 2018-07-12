@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11629",
+  "eid" : "fcc86280-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778503848,
+  "textBody" : "Furry may refer to:\n\n* Furry, the quality of being made of or covered in fur\n* Furry, a member of the furry fandom\n\nPeople\n\n* Wendell H. Furry (1907–1984), professor of physics\n* Furry Lewis (1893 or 1899–1981), American country blues guitarist and songwriter",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Furry" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11629" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Furry may refer to:\n\n* Furry, the quality of being made of or covered in fur\n* Furry, a member of the furry fandom\n\nPeople\n\n* Wendell H. Furry (1907–1984), professor of physics\n* Furry Lewis (1893 or 1899–1981), American country blues guitarist and songwriter. Furry. http://en.wikipedia.org/?curid=11629."
+  }
+}

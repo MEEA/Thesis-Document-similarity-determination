@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15345",
+  "eid" : "1b6bb520-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778555250,
+  "textBody" : "IEE may stand for:\n\n* Institution of Electrical Engineers, a British professional organisation now part of the Institution of Engineering and Technology\n* Instituto de Estudos Empresariais, a Brazilian non-profit\n* Intuitive Ethical Extrovert, in socionics\n* Institute for Energy & Environment, at New Mexico State University",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "IEE" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15345" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "IEE may stand for:\n\n* Institution of Electrical Engineers, a British professional organisation now part of the Institution of Engineering and Technology\n* Instituto de Estudos Empresariais, a Brazilian non-profit\n* Intuitive Ethical Extrovert, in socionics\n* Institute for Energy & Environment, at New Mexico State University. IEE. http://en.wikipedia.org/?curid=15345."
+  }
+}

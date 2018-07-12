@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=6779",
+  "eid" : "dda7a280-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778451624,
+  "textBody" : "Christchurch is the third largest urban area in New Zealand. \n\nChristchurch  may also refer to:\n\nPlaces\n\n* Christchurch, New Zealand\n** Christchurch (New Zealand electorate), a former electorate in New Zealand, also called Town (or City) of Christchurch\n** Christchurch Central, the current electorate of Christchurch in New Zealand\n* Christchurch, Cambridgeshire, in England\n* Christchurch, Dorset, town on the south coast of England\n** RAF Christchurch, a WW II airfield near the town\n** Christchurch (UK Parliament constituency), England, centred on the town\n**Christchurch (Dorset) railway station, a railway station serving the town\n* Christchurch, Gloucestershire, hamlet in the west of the Forest of Dean, Gloucestershire, England\n* Christchurch, Newport, in Wales\n* Christchurch, Virginia, United States\n* Christchurch Mansion, a stately home in Ipswich, Suffolk\n**Christchurch Park, a park surrounding Christchurch Mansion\n*Christchurch railway station, Dublin, a proposed railway station in Dublin, Ireland\n\nEducational institutions\n\n* Christchurch School, Christchurch, Virginia, U.S.\n* Christchurch Boys' High School, Christchurch, New Zealand\n* Christchurch Girls' High School, Christchurch, New Zealand\n* University of Otago Christchurch School of Medicine, one of three medical schools of University of Otago, New Zealand\n* Christchurch Anglo-Indian Higher Secondary School, Christchurch, Chennai, India\n\nSports teams\n\n* Christchurch F.C., England\n* Christchurch United, New Zealand\n* Christchurch Technical, New Zealand\n* Christchurch High School Old Boys, New Zealand\n\nOther uses\n\n* Christchurch-Campbell, an automobile made in 1922\n* ChristChurch London, an evangelic church in London, UK\n* Christchurch the Music, 2005 compilation album from New Zealand",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Christchurch (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=6779" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Christchurch is the third largest urban area in New Zealand. \n\nChristchurch  may also refer to:\n\nPlaces\n\n* Christchurch, New Zealand\n** Christchurch (New Zealand electorate), a former electorate in New Zealand, also called Town (or City) of Christchurch\n** Christchurch Central, the current electorate of Christchurch in New Zealand\n* Christchurch, Cambridgeshire, in England\n* Christchurch, Dorset, town on the south coast of England\n** RAF Christchurch, a WW II airfield near the town\n** Christchurch (UK Parliament constituency), England, centred on the town\n**Christchurch (Dorset) railway station, a railway station serving the town\n* Christchurch, Gloucestershire, hamlet in the west of the Forest of Dean, Gloucestershire, England\n* Christchurch, Newport, in Wales\n* Christchurch, Virginia, United States\n* Christchurch Mansion, a stately home in Ipswich, Suffolk\n**Christchurch Park, a park surrounding Christchurch Mansion\n*Christchurch railway station, Dublin, a proposed railway station in Dublin, Ireland\n\nEducational institutions\n\n* Christchurch School, Christchurch, Virginia, U.S.\n* Christchurch Boys' High School, Christchurch, New Zealand\n* Christchurch Girls' High School, Christchurch, New Zealand\n* University of Otago Christchurch School of Medicine, one of three medical schools of University of Otago, New Zealand\n* Christchurch Anglo-Indian Higher Secondary School, Christchurch, Chennai, India\n\nSports teams\n\n* Christchurch F.C., England\n* Christchurch United, New Zealand\n* Christchurch Technical, New Zealand\n* Christchurch High School Old Boys, New Zealand\n\nOther uses\n\n* Christchurch-Campbell, an automobile made in 1922\n* ChristChurch London, an evangelic church in London, UK\n* Christchurch the Music, 2005 compilation album from New Zealand. Christchurch (disambiguation). http://en.wikipedia.org/?curid=6779."
+  }
+}

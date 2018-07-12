@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7768",
+  "eid" : "e3429240-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778461028,
+  "textBody" : "The Crete Senesi refers to an area of the Italian region of Tuscany to the south of Siena. It consists of a range of hills and woods among villages and includes  the comuni of \nAsciano, \nBuonconvento,\nMonteroni d'Arbia,\nRapolano Terme and\nSan Giovanni d'Asso, all within the province of Siena.\n\nCrete senesi are literally ‘Senese clays’, and the distinctive grey colouration of the soil gives the landscape an appearance often described as lunar. This characteristic clay, known as mattaione, represents the sediments of the Pliocene sea which covered the area between 2.5 and 4.5 million years ago. Nearby is also the semi-arid area known as the Accona Desert.\n\nPerhaps the most notable edifice of this area is the monastery of Monte Oliveto Maggiore.\n\nThe region is known for its production of white truffles, and hosts a festival and a museum dedicated to the rare fungus (genus Tuber).\n\nImage:Cretesenesi_fieno.jpg|Cereal crops are cultivated with the aid of irrigation\nImage:Cretesenesi_panorama.jpg|Panorama\nImage:Monteolivetomaggiore02.jpg|Monte Oliveto Maggiore\nImage:Crete Senesi Sunset - Saltafabbro, Asciano, Siena, Italy - July 4, 2010 01.jpg|Sunset - Saltafabbro, Asciano, Siena",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Crete Senesi" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7768" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The Crete Senesi refers to an area of the Italian region of Tuscany to the south of Siena. It consists of a range of hills and woods among villages and includes  the comuni of \nAsciano, \nBuonconvento,\nMonteroni d'Arbia,\nRapolano Terme and\nSan Giovanni d'Asso, all within the province of Siena.\n\nCrete senesi are literally ‘Senese clays’, and the distinctive grey colouration of the soil gives the landscape an appearance often described as lunar. This characteristic clay, known as mattaione, represents the sediments of the Pliocene sea which covered the area between 2.5 and 4.5 million years ago. Nearby is also the semi-arid area known as the Accona Desert.\n\nPerhaps the most notable edifice of this area is the monastery of Monte Oliveto Maggiore.\n\nThe region is known for its production of white truffles, and hosts a festival and a museum dedicated to the rare fungus (genus Tuber).\n\nImage:Cretesenesi_fieno.jpg|Cereal crops are cultivated with the aid of irrigation\nImage:Cretesenesi_panorama.jpg|Panorama\nImage:Monteolivetomaggiore02.jpg|Monte Oliveto Maggiore\nImage:Crete Senesi Sunset - Saltafabbro, Asciano, Siena, Italy - July 4, 2010 01.jpg|Sunset - Saltafabbro, Asciano, Siena. Crete Senesi. http://en.wikipedia.org/?curid=7768."
+  }
+}

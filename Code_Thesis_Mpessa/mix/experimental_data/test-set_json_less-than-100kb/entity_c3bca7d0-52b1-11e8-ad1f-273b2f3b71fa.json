@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3014",
+  "eid" : "c3bca7d0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778408141,
+  "textBody" : "Analcime or analcite (from the Greek analkimos - \"weak\") is a white, gray, or colorless tectosilicate mineral.  Analcime consists of hydrated sodium aluminium silicate in cubic crystalline form. Its chemical formula is NaAlSi2O6·H2O. Minor amounts of potassium and calcium substitute for sodium. A silver-bearing synthetic variety also exists (Ag-analcite).\n\nAnalcime is usually classified as a zeolite mineral, but structurally and chemically it is more similar to the feldspathoids. Analcime occurs as a primary mineral in analcime basalt and other alkaline igneous rocks. It also occurs as cavity and vesicle fillings associated with prehnite, calcite, and zeolites. \n\nLocations\n\nWell known locations for sourcing analcime include Croft Quarry in Leicestershire, UK; the Cyclopean Islands east off Sicily and near Trentino in northern Italy; Victoria in Australia; Kerguelen Island in the Indian Ocean; in the Lake Superior copper district of Michigan, Bergen Hill, New Jersey, Golden, Colorado, and at Searles Lake, California in the United States; and at Cape Blomidon, Nova Scotia and Mont Saint-Hilaire, Quebec in Canada; and in Iceland.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Analcime" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3014" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Analcime or analcite (from the Greek analkimos - \"weak\") is a white, gray, or colorless tectosilicate mineral.  Analcime consists of hydrated sodium aluminium silicate in cubic crystalline form. Its chemical formula is NaAlSi2O6·H2O. Minor amounts of potassium and calcium substitute for sodium. A silver-bearing synthetic variety also exists (Ag-analcite).\n\nAnalcime is usually classified as a zeolite mineral, but structurally and chemically it is more similar to the feldspathoids. Analcime occurs as a primary mineral in analcime basalt and other alkaline igneous rocks. It also occurs as cavity and vesicle fillings associated with prehnite, calcite, and zeolites. \n\nLocations\n\nWell known locations for sourcing analcime include Croft Quarry in Leicestershire, UK; the Cyclopean Islands east off Sicily and near Trentino in northern Italy; Victoria in Australia; Kerguelen Island in the Indian Ocean; in the Lake Superior copper district of Michigan, Bergen Hill, New Jersey, Golden, Colorado, and at Searles Lake, California in the United States; and at Cape Blomidon, Nova Scotia and Mont Saint-Hilaire, Quebec in Canada; and in Iceland. Analcime. http://en.wikipedia.org/?curid=3014."
+  }
+}

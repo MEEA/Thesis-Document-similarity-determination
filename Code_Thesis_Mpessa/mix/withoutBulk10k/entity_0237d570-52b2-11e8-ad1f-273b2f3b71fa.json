@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12417",
+  "eid" : "0237d570-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778512967,
+  "textBody" : "Guanosine is a purine nucleoside comprising guanine attached to a ribose (ribofuranose) ring via a β-N9-glycosidic bond. Guanosine can be phosphorylated to become guanosine monophosphate (GMP), cyclic guanosine monophosphate (cGMP), guanosine diphosphate (GDP), and guanosine triphosphate (GTP). These forms play important roles in various biochemical processes such as synthesis of nucleic acids and proteins, photosynthesis, muscle contraction, and intracellular signal transduction (cGMP). When guanine is attached by its N9 nitrogen to the C1 carbon of a deoxyribose ring it is known as deoxyguanosine.\n\nThe antiviral drug aciclovir, often used in herpes treatment, and the anti-HIV drug abacavir, are structurally similar to guanosine.\n\nGuanosine is required for an RNA splicing reaction in mRNA, when a \"self-splicing\" intron removes itself from the mRNA message by cutting at both ends, re-ligating, and leaving just the exons on either side to be translated into protein.[http://blogs.scienceforums.net/ecoli/files/2008/04/introns.jpg Splicing (JPG)] \n\nGuanosine was used to make Regadenoson.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Guanosine" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12417" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Guanosine is a purine nucleoside comprising guanine attached to a ribose (ribofuranose) ring via a β-N9-glycosidic bond. Guanosine can be phosphorylated to become guanosine monophosphate (GMP), cyclic guanosine monophosphate (cGMP), guanosine diphosphate (GDP), and guanosine triphosphate (GTP). These forms play important roles in various biochemical processes such as synthesis of nucleic acids and proteins, photosynthesis, muscle contraction, and intracellular signal transduction (cGMP). When guanine is attached by its N9 nitrogen to the C1 carbon of a deoxyribose ring it is known as deoxyguanosine.\n\nThe antiviral drug aciclovir, often used in herpes treatment, and the anti-HIV drug abacavir, are structurally similar to guanosine.\n\nGuanosine is required for an RNA splicing reaction in mRNA, when a \"self-splicing\" intron removes itself from the mRNA message by cutting at both ends, re-ligating, and leaving just the exons on either side to be translated into protein.[http://blogs.scienceforums.net/ecoli/files/2008/04/introns.jpg Splicing (JPG)] \n\nGuanosine was used to make Regadenoson. Guanosine. http://en.wikipedia.org/?curid=12417."
+  }
+}

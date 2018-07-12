@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18003",
+  "eid" : "30275320-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778590034,
+  "textBody" : "LDS may refer to:\n\nReligion\n\n* The Latter Day Saint movement\n* The Church of Jesus Christ of Latter-day Saints, the largest LDS church\n\nOrganisations\n\n* LDS Hospital, Salt Lake City, Utah, US\n* Liberal Democracy of Slovenia, a political party in Slovenia\n* Lotus Development Corporation, a software developer (Lotus 1-2-3, Symphony etc.)\n\nScience and engineering\n\n* Laser direct structuring\n* LDS fluid, an hydraulic fluid used in some Citroën hydropneumatic suspension systems\n* LDS (automobile), various single seat race cars built for the South African Formula One Championship by Louis Douglas Serrurier\n* Leak detection system\n\nOther uses\n\n* Landscape Dedicated Server, now known as Canonical OPL - On Premise Landscape - related to Ubuntu Linux\n* Yichun Lindu Airport, China (by IATA airport code)\n* CDE Podebrady, formerly known as the Laboratory of Distant Studies, Charles University, Czech Republic\n* Licentiate in Dental Surgery, a dental degree\n* Leeds railway station, England, National Rail station code LDS\n* Landkreis Dahme-Spreewald, Germany\n* LSD",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "LDS" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18003" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "LDS may refer to:\n\nReligion\n\n* The Latter Day Saint movement\n* The Church of Jesus Christ of Latter-day Saints, the largest LDS church\n\nOrganisations\n\n* LDS Hospital, Salt Lake City, Utah, US\n* Liberal Democracy of Slovenia, a political party in Slovenia\n* Lotus Development Corporation, a software developer (Lotus 1-2-3, Symphony etc.)\n\nScience and engineering\n\n* Laser direct structuring\n* LDS fluid, an hydraulic fluid used in some Citroën hydropneumatic suspension systems\n* LDS (automobile), various single seat race cars built for the South African Formula One Championship by Louis Douglas Serrurier\n* Leak detection system\n\nOther uses\n\n* Landscape Dedicated Server, now known as Canonical OPL - On Premise Landscape - related to Ubuntu Linux\n* Yichun Lindu Airport, China (by IATA airport code)\n* CDE Podebrady, formerly known as the Laboratory of Distant Studies, Charles University, Czech Republic\n* Licentiate in Dental Surgery, a dental degree\n* Leeds railway station, England, National Rail station code LDS\n* Landkreis Dahme-Spreewald, Germany\n* LSD. LDS. http://en.wikipedia.org/?curid=18003."
+  }
+}

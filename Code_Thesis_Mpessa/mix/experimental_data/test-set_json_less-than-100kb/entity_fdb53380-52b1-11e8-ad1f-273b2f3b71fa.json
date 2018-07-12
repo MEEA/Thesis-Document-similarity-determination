@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11754",
+  "eid" : "fdb53380-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778505400,
+  "textBody" : "Fonni () is a town and comune in Sardinia, in the province of Nuoro (Italy).\n\nIt is the highest town in Sardinia, and situated among fine scenery with some chestnut woods. Fonni is a winter sports centre with a ski lift to Monte Spada and Bruncu Spina.\n\nEtymology\n\nThe term \"Fonni/-e\" probably derives from the Latin fons, meaning \"fountain\" or \"god of the sources\". In fact the village contains numerous spring water fountains.\n\nCulture\n \nThe local costumes are extremely picturesque, and are well seen on the day of St John the Baptist, the patron saint. The men's costume is similar to that worn in the district generally; the linen trousers are long and black gaiters are worn. The women wear a white chemise; over that a very small corselet, and over that a red jacket with blue and black velvet facings. The skirt is brown above and red below, with a blue band between the two colours; it is accordion-pleated. Two identical skirts are often worn, one above the other. The unmarried girls wear white kerchiefs, the married women black.\n\nNeighborhoods\n\nNeighborhoods in Fonni are called \"Rioni\" of these the oldest is called su piggiu or the peak, probably derived by the fact this is the highest and first layer of the village. Others include puppuai  and  cresiedda to the south, and logotza to the east.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Fonni" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11754" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Fonni () is a town and comune in Sardinia, in the province of Nuoro (Italy).\n\nIt is the highest town in Sardinia, and situated among fine scenery with some chestnut woods. Fonni is a winter sports centre with a ski lift to Monte Spada and Bruncu Spina.\n\nEtymology\n\nThe term \"Fonni/-e\" probably derives from the Latin fons, meaning \"fountain\" or \"god of the sources\". In fact the village contains numerous spring water fountains.\n\nCulture\n \nThe local costumes are extremely picturesque, and are well seen on the day of St John the Baptist, the patron saint. The men's costume is similar to that worn in the district generally; the linen trousers are long and black gaiters are worn. The women wear a white chemise; over that a very small corselet, and over that a red jacket with blue and black velvet facings. The skirt is brown above and red below, with a blue band between the two colours; it is accordion-pleated. Two identical skirts are often worn, one above the other. The unmarried girls wear white kerchiefs, the married women black.\n\nNeighborhoods\n\nNeighborhoods in Fonni are called \"Rioni\" of these the oldest is called su piggiu or the peak, probably derived by the fact this is the highest and first layer of the village. Others include puppuai  and  cresiedda to the south, and logotza to the east. Fonni. http://en.wikipedia.org/?curid=11754."
+  }
+}

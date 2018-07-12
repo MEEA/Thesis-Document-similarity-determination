@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2605",
+  "eid" : "c12d4a60-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778403846,
+  "textBody" : "Abati is a surname. It was used by an ancient noble family of Florence.  \n\nNotable people with the surname include:\n\n*Antonio Abati (died 1667), Italian poet\n*Baldo Angelo Abati (sixteenth century), Italian naturalist\n*Joaquín Abati (1865-1936), Spanish writer\n*Joël Abati (born 1970), French handball player\n*Megliore degli Abati (thirteenth century), Italian poet\n*Niccolò dell'Abbate (1509 or 1512-1571), Italian painter\n*Reuben Abati (born 1965), Nigerian newspaper columnist\n\nOther uses\n\n* Abati, Iran, village in Iran\n* Marauna abati, species of beetle in the family Cerambycidae",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Abati" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2605" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Abati is a surname. It was used by an ancient noble family of Florence.  \n\nNotable people with the surname include:\n\n*Antonio Abati (died 1667), Italian poet\n*Baldo Angelo Abati (sixteenth century), Italian naturalist\n*Joaquín Abati (1865-1936), Spanish writer\n*Joël Abati (born 1970), French handball player\n*Megliore degli Abati (thirteenth century), Italian poet\n*Niccolò dell'Abbate (1509 or 1512-1571), Italian painter\n*Reuben Abati (born 1965), Nigerian newspaper columnist\n\nOther uses\n\n* Abati, Iran, village in Iran\n* Marauna abati, species of beetle in the family Cerambycidae. Abati. http://en.wikipedia.org/?curid=2605."
+  }
+}

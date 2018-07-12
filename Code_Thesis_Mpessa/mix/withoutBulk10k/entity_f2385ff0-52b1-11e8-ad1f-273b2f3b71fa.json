@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=9828",
+  "eid" : "f2385ff0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778486127,
+  "textBody" : "In computer engineering, an execution unit (also called a functional unit) is a part of the central processing unit (CPU) that performs the operations and calculations as instructed by the computer program. It may have its own internal control sequence unit, which is not to be confused with the CPU's main control unit, some registers, and other internal units such as an arithmetic logic unit (ALU), address generation unit (AGU), floating-point unit (FPU), load-store unit (LSU) or some smaller and more specific components.[https://web.archive.org/web/20131231145405/http://people.cs.umass.edu/~weems/CmpSci535/Discussion10.html \"Execution Unit\" discussion from the University of Massachusetts Amherst], archived on the Wayback Machine\n\nIt is common for modern CPUs to have multiple parallel execution units, which is referred to as superscalar design. The simplest arrangement is to use one, the bus manager, to manage the memory interface, and the others to perform calculations. Additionally, modern CPUs' execution units are usually pipelined.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Execution unit" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=9828" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "In computer engineering, an execution unit (also called a functional unit) is a part of the central processing unit (CPU) that performs the operations and calculations as instructed by the computer program. It may have its own internal control sequence unit, which is not to be confused with the CPU's main control unit, some registers, and other internal units such as an arithmetic logic unit (ALU), address generation unit (AGU), floating-point unit (FPU), load-store unit (LSU) or some smaller and more specific components.[https://web.archive.org/web/20131231145405/http://people.cs.umass.edu/~weems/CmpSci535/Discussion10.html \"Execution Unit\" discussion from the University of Massachusetts Amherst], archived on the Wayback Machine\n\nIt is common for modern CPUs to have multiple parallel execution units, which is referred to as superscalar design. The simplest arrangement is to use one, the bus manager, to manage the memory interface, and the others to perform calculations. Additionally, modern CPUs' execution units are usually pipelined. Execution unit. http://en.wikipedia.org/?curid=9828."
+  }
+}

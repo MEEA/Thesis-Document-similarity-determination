@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=4987",
+  "eid" : "d1b83700-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778431600,
+  "textBody" : "There were two battles of El Alamein in World War II, both fought in 1942. The Battles occurred in North Africa, in Egypt, in and around an area named after a railway stop called El Alamein.\n\n* First Battle of El Alamein: 1–27 July 1942\n* Second Battle of El Alamein: 23 October – 4 November 1942\n\nIn addition, the Battle of Alam el Halfa (30 August – 5 September 1942) was fought between both battles and in the same location.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Battle of El Alamein" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=4987" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "There were two battles of El Alamein in World War II, both fought in 1942. The Battles occurred in North Africa, in Egypt, in and around an area named after a railway stop called El Alamein.\n\n* First Battle of El Alamein: 1–27 July 1942\n* Second Battle of El Alamein: 23 October – 4 November 1942\n\nIn addition, the Battle of Alam el Halfa (30 August – 5 September 1942) was fought between both battles and in the same location. Battle of El Alamein. http://en.wikipedia.org/?curid=4987."
+  }
+}

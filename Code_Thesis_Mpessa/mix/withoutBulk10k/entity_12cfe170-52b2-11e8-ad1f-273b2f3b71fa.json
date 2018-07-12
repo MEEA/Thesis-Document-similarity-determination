@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14196",
+  "eid" : "12cfe170-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778540807,
+  "textBody" : "The Hamoaze (;) is an estuarine stretch of the tidal River Tamar, between its confluence with the River Lynher and Plymouth Sound, England.\n\nThe name first appears as ryver of Hamose in 1588 and it originally most likely applied just to a creek of the estuary that led up to the manor of Ham, north of the present-day Devonport Dockyard. The name evidently later came to be used for the estuary's main channel. The ose element possibly derives from Old English wāse meaning 'mud' (as in 'ooze') – the creek consisting of mud-banks at low tide – although this is not confirmed.\n\nThe Hamoaze flows past Devonport Dockyard, which is one of three major bases of the Royal Navy today. The presence of large numbers of small watercraft are a challenge and hazard to the warships using the naval base and dockyard. Navigation on the waterway is controlled by the Queen's Harbour Master for Plymouth.[http://www.gov.uk/government/groups/qhm-plymouth Queen's Harbour Master Plymouth][http://www.legislation.gov.uk/uksi/1999/2029/made The Dockyard Port of Plymouth Order 1999]\n\nSettlements on the banks of the Hamoaze are Saltash, Wilcove, Torpoint and Cremyll in Cornwall, as well as Devonport and Plymouth in Devon.\n\nTwo regular ferry services crossing the Hamoaze exist: the Torpoint Ferry (a chain ferry that takes vehicles) and the Cremyll Ferry (passengers and cyclists only).",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Hamoaze" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14196" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The Hamoaze (;) is an estuarine stretch of the tidal River Tamar, between its confluence with the River Lynher and Plymouth Sound, England.\n\nThe name first appears as ryver of Hamose in 1588 and it originally most likely applied just to a creek of the estuary that led up to the manor of Ham, north of the present-day Devonport Dockyard. The name evidently later came to be used for the estuary's main channel. The ose element possibly derives from Old English wāse meaning 'mud' (as in 'ooze') – the creek consisting of mud-banks at low tide – although this is not confirmed.\n\nThe Hamoaze flows past Devonport Dockyard, which is one of three major bases of the Royal Navy today. The presence of large numbers of small watercraft are a challenge and hazard to the warships using the naval base and dockyard. Navigation on the waterway is controlled by the Queen's Harbour Master for Plymouth.[http://www.gov.uk/government/groups/qhm-plymouth Queen's Harbour Master Plymouth][http://www.legislation.gov.uk/uksi/1999/2029/made The Dockyard Port of Plymouth Order 1999]\n\nSettlements on the banks of the Hamoaze are Saltash, Wilcove, Torpoint and Cremyll in Cornwall, as well as Devonport and Plymouth in Devon.\n\nTwo regular ferry services crossing the Hamoaze exist: the Torpoint Ferry (a chain ferry that takes vehicles) and the Cremyll Ferry (passengers and cyclists only). Hamoaze. http://en.wikipedia.org/?curid=14196."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=4192",
+  "eid" : "cbd764a0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778421738,
+  "textBody" : "Bunsen may refer to:\n* Christian Charles Josias Bunsen (1791–1860), Prussian diplomat and scholar\n* Frances Bunsen (1791–1876), or Baroness Bunsen, Welsh painter and author, wife of Christian Charles Josias Bunsen\n* Robert Bunsen (1811–1899), German chemist, after whom is named:\n** Bunsen burner\n** Bunsen cell\n** Bunsen crater on the moon\n** 10361 Bunsen, an asteroid\n** Bunsen Reaction\n** The Bunsen–Kirchhoff Award, a German award for spectroscopy\n* Sir Maurice de Bunsen (1852–1932), British diplomat\n* Dr. Bunsen Honeydew, fictional character from the Muppet Show",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Bunsen" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=4192" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Bunsen may refer to:\n* Christian Charles Josias Bunsen (1791–1860), Prussian diplomat and scholar\n* Frances Bunsen (1791–1876), or Baroness Bunsen, Welsh painter and author, wife of Christian Charles Josias Bunsen\n* Robert Bunsen (1811–1899), German chemist, after whom is named:\n** Bunsen burner\n** Bunsen cell\n** Bunsen crater on the moon\n** 10361 Bunsen, an asteroid\n** Bunsen Reaction\n** The Bunsen–Kirchhoff Award, a German award for spectroscopy\n* Sir Maurice de Bunsen (1852–1932), British diplomat\n* Dr. Bunsen Honeydew, fictional character from the Muppet Show. Bunsen. http://en.wikipedia.org/?curid=4192."
+  }
+}

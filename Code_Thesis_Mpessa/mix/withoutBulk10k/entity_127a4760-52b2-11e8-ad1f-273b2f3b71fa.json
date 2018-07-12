@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14158",
+  "eid" : "127a4760-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778540246,
+  "textBody" : "Several ships and one submarine of the Royal Navy have borne the name HMS Dreadnought in the expectation that they would \"dread nought\", i.e. \"fear nothing\". The 1906 ship was one of the Royal Navy's most famous vessels; battleships built after her were referred to as 'dreadnoughts', and earlier battleships became known as pre-dreadnoughts.\n\n*  was a 40-gun built in 1553.Boniface (2003), p 84.\n*  was a 41-gun ship launched in 1573, rebuilt in 1592 and 1614, then broken up in 1648.\n*  was a 52-gun third-rate ship of the line launched in 1654 as the Torrington for the Commonwealth of England Navy, renamed Dreadnought at the Restoration in 1660, and lost in 1690.\n*  was a 60-gun fourth-rate ship of the line launched in 1691, rebuilt in 1706 and broken up 1748.\n*  was a 60-gun fourth rate launched in 1742 and sold 1784.\n*  was a 98-gun second rate launched in 1801, converted to a hospital ship in 1827, and broken up 1857.\n*  was a battleship launched in 1875 and hulked in 1903, then sold in 1908.\n*  was a revolutionary battleship, launched in 1906 and sold for breakup in 1921.\n*  was the UK's first nuclear-powered submarine, launched in 1960 and decommissioned in 1980.\n* HMS Dreadnought will be the first of the UK's new s. \n\nAlso\n*Dreadnought was a gunboat that the garrison at Gibraltar launched in June 1782 during the Great Siege of Gibraltar. She was one of 12. Each was armed with an 18-pounder gun, and received a crew of 21 men drawn from Royal Navy vessels stationed at Gibraltar.  provided Dreadnoughts crew.Drinkwater (1905), p.246.\n*Dreadnought was a gunboat operating in North American waters in 1813. On 6 November 1813 she captured the schooners Polly and Cyrus.\n\nCitations and references\n\nCitations\n\nReferences\n\n*Boniface, Patrick (2003) Dreadnought: Britain's First Nuclear Powered Submarine. (Periscope Publishing). \n*Drinkwater, John (1905) A History of the Siege of Gibraltar, 1779-1783: With a Description and Account of that Garrison from the Earliest Times. (J. Murray).",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "HMS Dreadnought" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14158" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Several ships and one submarine of the Royal Navy have borne the name HMS Dreadnought in the expectation that they would \"dread nought\", i.e. \"fear nothing\". The 1906 ship was one of the Royal Navy's most famous vessels; battleships built after her were referred to as 'dreadnoughts', and earlier battleships became known as pre-dreadnoughts.\n\n*  was a 40-gun built in 1553.Boniface (2003), p 84.\n*  was a 41-gun ship launched in 1573, rebuilt in 1592 and 1614, then broken up in 1648.\n*  was a 52-gun third-rate ship of the line launched in 1654 as the Torrington for the Commonwealth of England Navy, renamed Dreadnought at the Restoration in 1660, and lost in 1690.\n*  was a 60-gun fourth-rate ship of the line launched in 1691, rebuilt in 1706 and broken up 1748.\n*  was a 60-gun fourth rate launched in 1742 and sold 1784.\n*  was a 98-gun second rate launched in 1801, converted to a hospital ship in 1827, and broken up 1857.\n*  was a battleship launched in 1875 and hulked in 1903, then sold in 1908.\n*  was a revolutionary battleship, launched in 1906 and sold for breakup in 1921.\n*  was the UK's first nuclear-powered submarine, launched in 1960 and decommissioned in 1980.\n* HMS Dreadnought will be the first of the UK's new s. \n\nAlso\n*Dreadnought was a gunboat that the garrison at Gibraltar launched in June 1782 during the Great Siege of Gibraltar. She was one of 12. Each was armed with an 18-pounder gun, and received a crew of 21 men drawn from Royal Navy vessels stationed at Gibraltar.  provided Dreadnoughts crew.Drinkwater (1905), p.246.\n*Dreadnought was a gunboat operating in North American waters in 1813. On 6 November 1813 she captured the schooners Polly and Cyrus.\n\nCitations and references\n\nCitations\n\nReferences\n\n*Boniface, Patrick (2003) Dreadnought: Britain's First Nuclear Powered Submarine. (Periscope Publishing). \n*Drinkwater, John (1905) A History of the Siege of Gibraltar, 1779-1783: With a Description and Account of that Garrison from the Earliest Times. (J. Murray). HMS Dreadnought. http://en.wikipedia.org/?curid=14158."
+  }
+}

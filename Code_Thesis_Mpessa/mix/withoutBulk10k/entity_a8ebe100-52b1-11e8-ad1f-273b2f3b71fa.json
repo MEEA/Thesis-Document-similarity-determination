@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=994",
+  "eid" : "a8ebe100-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778363152,
+  "textBody" : "Arecales is an order of flowering plants. The order has been widely recognised only for the past few decades; until then, the accepted name for the order including these plants was Principes.\n\nTaxonomy\n\nThe Cronquist system of 1981 assigned the order to the subclass Arecidae in the class Liliopsida (= monocotyledons).\n\nThe Thorne system (1992) and the Dahlgren system assigned the order to the superorder Areciflorae, also called Arecanae in the subclass Liliidae (= monocotyledons), with the single family Arecaceae.\n\nThe APG II system of 2003 recognised the order and placed it in the clade commelinids in the monocots and uses this circumscription:\n\n* order Arecales\n*: family Arecaceae, alternative name Palmae\n\nThis was unchanged from the APG system of 1998, although it used the spelling \"commelinoids\" instead of commelinids.\n\nThe APG IV system of 2016 places Dasypogonaceae in this order, after studies shown Dasypogonaceae as sister to Arecaceae.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Arecales" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=994" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Arecales is an order of flowering plants. The order has been widely recognised only for the past few decades; until then, the accepted name for the order including these plants was Principes.\n\nTaxonomy\n\nThe Cronquist system of 1981 assigned the order to the subclass Arecidae in the class Liliopsida (= monocotyledons).\n\nThe Thorne system (1992) and the Dahlgren system assigned the order to the superorder Areciflorae, also called Arecanae in the subclass Liliidae (= monocotyledons), with the single family Arecaceae.\n\nThe APG II system of 2003 recognised the order and placed it in the clade commelinids in the monocots and uses this circumscription:\n\n* order Arecales\n*: family Arecaceae, alternative name Palmae\n\nThis was unchanged from the APG system of 1998, although it used the spelling \"commelinoids\" instead of commelinids.\n\nThe APG IV system of 2016 places Dasypogonaceae in this order, after studies shown Dasypogonaceae as sister to Arecaceae. Arecales. http://en.wikipedia.org/?curid=994."
+  }
+}

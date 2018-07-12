@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2827",
+  "eid" : "c27e5b70-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778406055,
+  "textBody" : "Abingdon may refer to:\n\nPlaces\n\nIn Australia :\n* Abingdon Downs, Queensland, a place in Northern Queensland\n\nIn Britain:\n*Abingdon-on-Thames\n**Abingdon School\n**Abingdon Abbey\n**Abingdon Lock\n**Abingdon Bridge\n**Abingdon Air & Country Show\n**Abingdon and Witney College\n** Abingdon (UK Parliament constituency)\n\nIn Canada:\n*Abingdon, Ontario\n\nIn the United States:\n*Abingdon, Iowa\n*Abingdon, Illinois\n*Abingdon, Maryland\n*Abingdon (plantation)\n*Abingdon, Virginia\n**USS Abingdon (PC-1237)\n\nIn the Galapagos Islands:\n*Abingdon Island\n\nOther uses\n\n*Abingdon (1902 automobile)\n*Abingdon (1922 automobile)\n*Abingdon Press, publishing house of the United Methodist Church\n*Abingdon Boys School, Japanese music band\n*Abingdon station (disambiguation), stations of the name\n*The Earl of Abingdon",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Abingdon" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2827" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Abingdon may refer to:\n\nPlaces\n\nIn Australia :\n* Abingdon Downs, Queensland, a place in Northern Queensland\n\nIn Britain:\n*Abingdon-on-Thames\n**Abingdon School\n**Abingdon Abbey\n**Abingdon Lock\n**Abingdon Bridge\n**Abingdon Air & Country Show\n**Abingdon and Witney College\n** Abingdon (UK Parliament constituency)\n\nIn Canada:\n*Abingdon, Ontario\n\nIn the United States:\n*Abingdon, Iowa\n*Abingdon, Illinois\n*Abingdon, Maryland\n*Abingdon (plantation)\n*Abingdon, Virginia\n**USS Abingdon (PC-1237)\n\nIn the Galapagos Islands:\n*Abingdon Island\n\nOther uses\n\n*Abingdon (1902 automobile)\n*Abingdon (1922 automobile)\n*Abingdon Press, publishing house of the United Methodist Church\n*Abingdon Boys School, Japanese music band\n*Abingdon station (disambiguation), stations of the name\n*The Earl of Abingdon. Abingdon. http://en.wikipedia.org/?curid=2827."
+  }
+}

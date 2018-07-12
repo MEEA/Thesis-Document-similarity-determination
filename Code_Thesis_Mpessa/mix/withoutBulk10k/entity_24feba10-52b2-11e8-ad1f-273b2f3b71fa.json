@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16265",
+  "eid" : "24feba10-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778571313,
+  "textBody" : "Jug may refer to:\n\n* Jug (container), a type of container commonly used to hold liquid\n* Jug (musical instrument), a musical instrument used for rhythmic bass accompaniment\n\nOther meanings\n\n;Geography\n* The Jug, an island in West Virginia, United States\n* Jug Rock, a natural geological formation outside of Shoals, Indiana, United States\n* Jug Tavern, a historic structure in Ossining, New York, United States\n* Jug Fork, Mississippi, an unincorporated community in Lee County, Mississippi\n* Jug Sport Hall, an indoor arena in Osijek, Croatia\n* Cepotina, a Serbian Army base also known as Jug\n* Jug II, a city district of Osijek, Croatia. \n* Jug Bogdanovac, a village in Serbia\n\n;People (given name)\n* Jug Earp (1897 –  1969), an American football player\n* Jug Girard (1927 – 1997), an American football player\n* Jug McSpaden (1908 – 1996) an American professional golfer\n* Jug Thesenga (1914 – 2002), an American baseball player\n* Jug Suraiya, an Indian journalist, author and columnist\n* Jug (nickname)\n\n;People (surname)\n* Klement Jug (1898 – 1924), a Slovene philosopher, essayist and mountaineer\n* Ažbe Jug (born 1992), a Slovenian football goalkeeper\n* Matej Jug (born 1980), a Slovenian football referee\n* Lord Toby Jug (born 1965), a British politician\n\n;Slang\n* Jugs, a slang term for women's breasts, especially large ones\n* Jug, a slang term for prison\n* Australian term for an electric kettle, New Zealand term for a kettle\n\n;Other\n* Jug, a nickname for the P-47 Thunderbolt fighter aircraft\n* Jug (dog), a cross breed between a Pug and a Jack Russell Terrier \n* Java User Group (JUG), a group of people who meet to discuss the Java programming language\n* VK Jug, a water polo club from Dubrovnik, Croatia\n* Jug wine, a term used for inexpensive table wine\n* Jug (album), by jazz saxophonist Gene Ammons\n* Jug Face, a 2013 American horror film\n* Jug fishing, a method of fishing that uses lines suspended from floating jugs",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Jug (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16265" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Jug may refer to:\n\n* Jug (container), a type of container commonly used to hold liquid\n* Jug (musical instrument), a musical instrument used for rhythmic bass accompaniment\n\nOther meanings\n\n;Geography\n* The Jug, an island in West Virginia, United States\n* Jug Rock, a natural geological formation outside of Shoals, Indiana, United States\n* Jug Tavern, a historic structure in Ossining, New York, United States\n* Jug Fork, Mississippi, an unincorporated community in Lee County, Mississippi\n* Jug Sport Hall, an indoor arena in Osijek, Croatia\n* Cepotina, a Serbian Army base also known as Jug\n* Jug II, a city district of Osijek, Croatia. \n* Jug Bogdanovac, a village in Serbia\n\n;People (given name)\n* Jug Earp (1897 –  1969), an American football player\n* Jug Girard (1927 – 1997), an American football player\n* Jug McSpaden (1908 – 1996) an American professional golfer\n* Jug Thesenga (1914 – 2002), an American baseball player\n* Jug Suraiya, an Indian journalist, author and columnist\n* Jug (nickname)\n\n;People (surname)\n* Klement Jug (1898 – 1924), a Slovene philosopher, essayist and mountaineer\n* Ažbe Jug (born 1992), a Slovenian football goalkeeper\n* Matej Jug (born 1980), a Slovenian football referee\n* Lord Toby Jug (born 1965), a British politician\n\n;Slang\n* Jugs, a slang term for women's breasts, especially large ones\n* Jug, a slang term for prison\n* Australian term for an electric kettle, New Zealand term for a kettle\n\n;Other\n* Jug, a nickname for the P-47 Thunderbolt fighter aircraft\n* Jug (dog), a cross breed between a Pug and a Jack Russell Terrier \n* Java User Group (JUG), a group of people who meet to discuss the Java programming language\n* VK Jug, a water polo club from Dubrovnik, Croatia\n* Jug wine, a term used for inexpensive table wine\n* Jug (album), by jazz saxophonist Gene Ammons\n* Jug Face, a 2013 American horror film\n* Jug fishing, a method of fishing that uses lines suspended from floating jugs. Jug (disambiguation). http://en.wikipedia.org/?curid=16265."
+  }
+}

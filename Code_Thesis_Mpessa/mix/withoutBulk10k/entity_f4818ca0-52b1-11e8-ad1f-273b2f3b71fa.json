@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10244",
+  "eid" : "f4818ca0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778489962,
+  "textBody" : "Édouard Alexandre de Pomiane, sometimes Édouard Pozerski (20 April 1875 in Paris – 26 January 1964 in Paris) was a French scientist, radio broadcaster and food writer.Hervé This Cours de gastronomie moléculaire: Tome 2, Les précisions culinaires 2010  p104 \"Il le doubla d'un musée de gastronomie pour honorer Édouard de Pomiane : domaine et château sont aujourd'hui nationalisés ... En France, le Prix Édouard de Pomiane est fondé en 1969 par le Guide du Médecin, en souvenir de celui que ses  \"\n \nHis parents emigrated from Poland in 1863, changed their name from Pozerski to de Pomiane, and became French citizens.\n\nDe Pomiane worked as a physician at the Institut Pasteur in Paris, where he gave Félix d'Herelle a place to work on bacteriophages.\n\nHis best known works that have been translated into English are Cooking in Ten Minutes and Cooking with Pomiane. His writing was remarkable in its time for its directness (he frequently uses a strange second-person voice, telling you—the reader—what you are seeing and smelling as you follow a recipe) and for his general disdain for upper-class elaborate French cuisine. He travelled widely and quite a few of his recipes are from abroad. His recipes often take pains to demystify cooking by explaining the chemical processes at work.\n\nBooks\n\n*La Cuisine en dix minutes, ou l'Adaptation au rythme moderne (1930) \n** Also translated as Cooking in ten minutes : The adaptation to the rhythm of our time \n*Cooking with Pomiane \n\"Vingt Plats Qui Donnent Goutte\"IMG_7221.jpeg 1935 edition.Le Piperazine Midy",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Édouard de Pomiane" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10244" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Édouard Alexandre de Pomiane, sometimes Édouard Pozerski (20 April 1875 in Paris – 26 January 1964 in Paris) was a French scientist, radio broadcaster and food writer.Hervé This Cours de gastronomie moléculaire: Tome 2, Les précisions culinaires 2010  p104 \"Il le doubla d'un musée de gastronomie pour honorer Édouard de Pomiane : domaine et château sont aujourd'hui nationalisés ... En France, le Prix Édouard de Pomiane est fondé en 1969 par le Guide du Médecin, en souvenir de celui que ses  \"\n \nHis parents emigrated from Poland in 1863, changed their name from Pozerski to de Pomiane, and became French citizens.\n\nDe Pomiane worked as a physician at the Institut Pasteur in Paris, where he gave Félix d'Herelle a place to work on bacteriophages.\n\nHis best known works that have been translated into English are Cooking in Ten Minutes and Cooking with Pomiane. His writing was remarkable in its time for its directness (he frequently uses a strange second-person voice, telling you—the reader—what you are seeing and smelling as you follow a recipe) and for his general disdain for upper-class elaborate French cuisine. He travelled widely and quite a few of his recipes are from abroad. His recipes often take pains to demystify cooking by explaining the chemical processes at work.\n\nBooks\n\n*La Cuisine en dix minutes, ou l'Adaptation au rythme moderne (1930) \n** Also translated as Cooking in ten minutes : The adaptation to the rhythm of our time \n*Cooking with Pomiane \n\"Vingt Plats Qui Donnent Goutte\"IMG_7221.jpeg 1935 edition.Le Piperazine Midy. Édouard de Pomiane. http://en.wikipedia.org/?curid=10244."
+  }
+}

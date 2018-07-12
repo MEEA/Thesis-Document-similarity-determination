@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3784",
+  "eid" : "c8c19920-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778416562,
+  "textBody" : "BSE may refer to:\n\nMedicine\n\n* Bovine spongiform encephalopathy, also known as mad cow disease, a disease of cattle\n* Breast self-examination\n\nStock exchanges\n\n* Bahrain Stock Exchange, Bahrain\n* Baku Stock Exchange, Azerbaijan\n* Barbados Stock Exchange\n* Bombay Stock Exchange, India\n* Boston Stock Exchange, Massachusetts, US\n* Botswana Stock Exchange in Gaborone, Botswana\n* Budapest Stock Exchange, Hungary\n* Bulgarian Stock Exchange – Sofia, BSE-Sofia\n\nOther uses\n\n* Britain Stronger in Europe, a lobbying group \n* Board of Secondary Education, Odisha, India\n* Biological systems engineering\n* Bury St Edmunds railway station (station code), Suffolk, England\n* Backscattered electron, See Scanning electron microscope\n* Blender Stack Exchange, a Q&A site for the 3D software blender\n* BSE (satellite), a Japanese satellite\n* Bachelor of Science in Engineering, an undergraduate academic degree awarded to a student after three to five years of studying engineering at a university or college.\n* Black Sun Empire, a Dutch drum and bass group",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "BSE" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3784" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "BSE may refer to:\n\nMedicine\n\n* Bovine spongiform encephalopathy, also known as mad cow disease, a disease of cattle\n* Breast self-examination\n\nStock exchanges\n\n* Bahrain Stock Exchange, Bahrain\n* Baku Stock Exchange, Azerbaijan\n* Barbados Stock Exchange\n* Bombay Stock Exchange, India\n* Boston Stock Exchange, Massachusetts, US\n* Botswana Stock Exchange in Gaborone, Botswana\n* Budapest Stock Exchange, Hungary\n* Bulgarian Stock Exchange – Sofia, BSE-Sofia\n\nOther uses\n\n* Britain Stronger in Europe, a lobbying group \n* Board of Secondary Education, Odisha, India\n* Biological systems engineering\n* Bury St Edmunds railway station (station code), Suffolk, England\n* Backscattered electron, See Scanning electron microscope\n* Blender Stack Exchange, a Q&A site for the 3D software blender\n* BSE (satellite), a Japanese satellite\n* Bachelor of Science in Engineering, an undergraduate academic degree awarded to a student after three to five years of studying engineering at a university or college.\n* Black Sun Empire, a Dutch drum and bass group. BSE. http://en.wikipedia.org/?curid=3784."
+  }
+}

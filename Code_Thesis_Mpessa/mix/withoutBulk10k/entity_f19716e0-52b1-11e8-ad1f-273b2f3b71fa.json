@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=9712",
+  "eid" : "f19716e0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778485070,
+  "textBody" : "ERP or Erp may refer to:\n\nMedicine\n\n* Effective refractory period, in a cardiac cycle\n* Estrogen receptor positive, a cancer pathology test result\n* Event-related potential, a measured brain response\n* Exposure and response prevention, a treatment method\n\nPeople\n\n* Erp (Pict), father of Drest I of the Picts\n\nPlaces\n\n* Erp, Ariège, a village in southern France\n* Erp (Germany), a village in Germany\n* Erp, Netherlands, a town in the Netherlands\n\nPolitics and economics\n\n* Economic Report of the President, a document published by the President of the United States' Council of Economic Advisers\n* Effective rate of protection, a method of working out the value of import tariffs\n* Ejército Revolucionario del Pueblo (disambiguation), (Spanish for People's Revolutionary Army), in several Latin American countries\n* Equity risk premium, excess return on risky investments\n* Estonian Reform Party\n* European Recovery Program, official name of the Marshall Plan\n\nTechnology and management \n\n* Effective radiated power, in electromagnetic transmission systems, a standardised theoretical measurement of radio frequency energy\n* Electronic Road Pricing, an electronic toll collection scheme adopted in Singapore to manage traffic by way of road pricing\n* Energy-related products, devices that affect energy consumption, and are subject to Energy Efficiency requirements\n* Enterprise resource planning, the integrated management of core business processes",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "ERP" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=9712" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "ERP or Erp may refer to:\n\nMedicine\n\n* Effective refractory period, in a cardiac cycle\n* Estrogen receptor positive, a cancer pathology test result\n* Event-related potential, a measured brain response\n* Exposure and response prevention, a treatment method\n\nPeople\n\n* Erp (Pict), father of Drest I of the Picts\n\nPlaces\n\n* Erp, Ariège, a village in southern France\n* Erp (Germany), a village in Germany\n* Erp, Netherlands, a town in the Netherlands\n\nPolitics and economics\n\n* Economic Report of the President, a document published by the President of the United States' Council of Economic Advisers\n* Effective rate of protection, a method of working out the value of import tariffs\n* Ejército Revolucionario del Pueblo (disambiguation), (Spanish for People's Revolutionary Army), in several Latin American countries\n* Equity risk premium, excess return on risky investments\n* Estonian Reform Party\n* European Recovery Program, official name of the Marshall Plan\n\nTechnology and management \n\n* Effective radiated power, in electromagnetic transmission systems, a standardised theoretical measurement of radio frequency energy\n* Electronic Road Pricing, an electronic toll collection scheme adopted in Singapore to manage traffic by way of road pricing\n* Energy-related products, devices that affect energy consumption, and are subject to Energy Efficiency requirements\n* Enterprise resource planning, the integrated management of core business processes. ERP. http://en.wikipedia.org/?curid=9712."
+  }
+}

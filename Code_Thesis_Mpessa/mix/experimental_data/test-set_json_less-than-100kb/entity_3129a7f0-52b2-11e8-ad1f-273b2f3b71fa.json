@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18148",
+  "eid" : "3129a7f0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778591727,
+  "textBody" : "Left-arm orthodox spin also known as Slow Left Arm Orthodox spin bowling is a type of Left Arm Finger Leg spin bowling in the sport of cricket. http://news.bbc.co.uk/sportacademy/hi/sa/cricket/skills/newsid_3207000/3207491.stm\nLeft-arm orthodox spin is bowled by a left-arm bowler using the fingers to spin the ball from right to left of the cricket pitch (from the bowler's perspective).\n\nLeft arm orthodox spin bowlers generally attempt to drift the ball in the air into a right-handed batsman, and then turn it away from the batsman (towards off-stump) upon landing on the pitch. The drift and turn in the air are attacking techniques. The left-arm orthodox spin like an off break or off spin is also a bowling action.\nhttps://www.youtube.com/watch?v=2O-Nlc7pRXo\n\nThe major variations of a left-arm spinner are the topspinner (which turns less and bounces higher in the cricket pitch), the arm ball (which does not turn at all, drifts into a right-handed batsman in the direction of the bowler's arm movement; also called a 'floater') and the left-arm spinner's version of a doosra (which turns the other way). The left-arm unorthodox spin like a leg break or leg spin is also a bowling action.\n\nNotes",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Left-arm orthodox spin" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18148" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Left-arm orthodox spin also known as Slow Left Arm Orthodox spin bowling is a type of Left Arm Finger Leg spin bowling in the sport of cricket. http://news.bbc.co.uk/sportacademy/hi/sa/cricket/skills/newsid_3207000/3207491.stm\nLeft-arm orthodox spin is bowled by a left-arm bowler using the fingers to spin the ball from right to left of the cricket pitch (from the bowler's perspective).\n\nLeft arm orthodox spin bowlers generally attempt to drift the ball in the air into a right-handed batsman, and then turn it away from the batsman (towards off-stump) upon landing on the pitch. The drift and turn in the air are attacking techniques. The left-arm orthodox spin like an off break or off spin is also a bowling action.\nhttps://www.youtube.com/watch?v=2O-Nlc7pRXo\n\nThe major variations of a left-arm spinner are the topspinner (which turns less and bounces higher in the cricket pitch), the arm ball (which does not turn at all, drifts into a right-handed batsman in the direction of the bowler's arm movement; also called a 'floater') and the left-arm spinner's version of a doosra (which turns the other way). The left-arm unorthodox spin like a leg break or leg spin is also a bowling action.\n\nNotes. Left-arm orthodox spin. http://en.wikipedia.org/?curid=18148."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11444",
+  "eid" : "fbbb1130-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778502083,
+  "textBody" : "Falsification may refer to:\n* The act of disproving a proposition, hypothesis, or theory: see Falsifiability\n* Mathematical proof\n* Falsified evidence\n* Falsification of history, distortion of the historical record also known as Historical revisionism (negationism)\n* Forgery, the act of producing something that lacks authenticity with the intent to commit fraud or deception\n* Self-falsification, e.g., the Liar's paradox",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Falsification" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11444" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Falsification may refer to:\n* The act of disproving a proposition, hypothesis, or theory: see Falsifiability\n* Mathematical proof\n* Falsified evidence\n* Falsification of history, distortion of the historical record also known as Historical revisionism (negationism)\n* Forgery, the act of producing something that lacks authenticity with the intent to commit fraud or deception\n* Self-falsification, e.g., the Liar's paradox. Falsification. http://en.wikipedia.org/?curid=11444."
+  }
+}

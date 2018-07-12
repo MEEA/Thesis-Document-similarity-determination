@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15086",
+  "eid" : "19f0ade0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778552766,
+  "textBody" : "IWW may refer to:\n\nOrganizations\n\n*Industrial Workers of the World, known as the Wobblies, an international union founded in 1905\n*Irish Whip Wrestling, an Irish-owned independent professional wrestling promotion established in 2002\n\nTransport\n\n*Inland waterway, a body of water, such as a river, canal or lake, is navigable if it is deep, wide and slow enough for a vessel to pass.\n\nMusic\n\n*It Was Written, the second studio album by American rapper Nas",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "IWW (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15086" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "IWW may refer to:\n\nOrganizations\n\n*Industrial Workers of the World, known as the Wobblies, an international union founded in 1905\n*Irish Whip Wrestling, an Irish-owned independent professional wrestling promotion established in 2002\n\nTransport\n\n*Inland waterway, a body of water, such as a river, canal or lake, is navigable if it is deep, wide and slow enough for a vessel to pass.\n\nMusic\n\n*It Was Written, the second studio album by American rapper Nas. IWW (disambiguation). http://en.wikipedia.org/?curid=15086."
+  }
+}

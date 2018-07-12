@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1543",
+  "eid" : "ba6c7840-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778392516,
+  "textBody" : "Agapanthus africanus (African lily) is a flowering plant from the genus Agapanthus native to the area of Cape of Good Hope in South Africa.[http://apps.kew.org/wcsp/namedetail.do?name_id293521 Kew World Checklist of Selected Plant Families] A. africanus is more difficult to grow in gardens than A. praecox, and almost all plants sold as A. africanus are actually A. praecox.[http://www.plantzafrica.com/plantab/agapanafric.htm PlantZAfrica: Agapanthus africanus]\n\nIt has a short stem bearing a tuft of long, narrow, arching leaves 10–35 cm long and 1–2 cm broad, and a central flower stalk 25–60 cm tall, ending in an umbel of 20-30 white, or bright blue, funnel-shaped flowers, each flower 2.5–5 cm diameter.Hoffmannsegg, Johann Centurius von. 1824. Verzeichniss der Pflanzenkulturen 35. Agapanthus africanus[http://www.botanicus.org/page/358311 Linnaeus, Carl von. 1753. Species Plantarum 1: 292, as Crinum africanum ]\n\nCultivation\n\nIt was introduced to Europe at the close of the 17th century. Unlike the more common A. praecox, it is not generally suitable as a garden plant, and will not tolerate extended freezing temperatures.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Agapanthus africanus" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1543" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Agapanthus africanus (African lily) is a flowering plant from the genus Agapanthus native to the area of Cape of Good Hope in South Africa.[http://apps.kew.org/wcsp/namedetail.do?name_id293521 Kew World Checklist of Selected Plant Families] A. africanus is more difficult to grow in gardens than A. praecox, and almost all plants sold as A. africanus are actually A. praecox.[http://www.plantzafrica.com/plantab/agapanafric.htm PlantZAfrica: Agapanthus africanus]\n\nIt has a short stem bearing a tuft of long, narrow, arching leaves 10–35 cm long and 1–2 cm broad, and a central flower stalk 25–60 cm tall, ending in an umbel of 20-30 white, or bright blue, funnel-shaped flowers, each flower 2.5–5 cm diameter.Hoffmannsegg, Johann Centurius von. 1824. Verzeichniss der Pflanzenkulturen 35. Agapanthus africanus[http://www.botanicus.org/page/358311 Linnaeus, Carl von. 1753. Species Plantarum 1: 292, as Crinum africanum ]\n\nCultivation\n\nIt was introduced to Europe at the close of the 17th century. Unlike the more common A. praecox, it is not generally suitable as a garden plant, and will not tolerate extended freezing temperatures. Agapanthus africanus. http://en.wikipedia.org/?curid=1543."
+  }
+}

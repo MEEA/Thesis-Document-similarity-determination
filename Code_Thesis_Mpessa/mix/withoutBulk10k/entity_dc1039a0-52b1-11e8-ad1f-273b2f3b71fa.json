@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=6563",
+  "eid" : "dc1039a0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778448954,
+  "textBody" : "Conjunction introduction (often abbreviated simply as conjunction and also called and introductionCopi and CohenMoore and Parker) is a valid rule of inference of propositional logic. The rule makes it possible to introduce a conjunction into a logical proof. It is the inference that if the proposition p is true, and proposition q is true, then the logical conjunction of the two propositions p and q is true. For example, if it's true that it's raining, and it's true that I'm inside, then it's true that \"it's raining and I'm inside\". The rule can be stated:\n\n\\frac{P,Q}{\\therefore P \\and Q}\n\nwhere the rule is that wherever an instance of \"P\" and \"Q\" appear on lines of a proof, a \"P \\and Q\" can be placed on a subsequent line.\n\nFormal notation \n\nThe conjunction introduction rule may be written in sequent notation:\n\nP, Q \\vdash P \\and Q\n\nwhere \\vdash is a metalogical symbol meaning that P \\and Q is a syntactic consequence if P and Q are each on lines of a proof in some logical system;\n\nwhere P and Q are propositions expressed in some formal system.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Conjunction introduction" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=6563" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Conjunction introduction (often abbreviated simply as conjunction and also called and introductionCopi and CohenMoore and Parker) is a valid rule of inference of propositional logic. The rule makes it possible to introduce a conjunction into a logical proof. It is the inference that if the proposition p is true, and proposition q is true, then the logical conjunction of the two propositions p and q is true. For example, if it's true that it's raining, and it's true that I'm inside, then it's true that \"it's raining and I'm inside\". The rule can be stated:\n\n\\frac{P,Q}{\\therefore P \\and Q}\n\nwhere the rule is that wherever an instance of \"P\" and \"Q\" appear on lines of a proof, a \"P \\and Q\" can be placed on a subsequent line.\n\nFormal notation \n\nThe conjunction introduction rule may be written in sequent notation:\n\nP, Q \\vdash P \\and Q\n\nwhere \\vdash is a metalogical symbol meaning that P \\and Q is a syntactic consequence if P and Q are each on lines of a proof in some logical system;\n\nwhere P and Q are propositions expressed in some formal system. Conjunction introduction. http://en.wikipedia.org/?curid=6563."
+  }
+}

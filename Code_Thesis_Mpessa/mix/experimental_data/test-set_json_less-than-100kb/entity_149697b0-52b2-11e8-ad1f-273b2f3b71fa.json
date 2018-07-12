@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14445",
+  "eid" : "149697b0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778543787,
+  "textBody" : "Hardcore, hard core or hard-core may refer to:\n\nArts and media\n\nFilm\n\n* Hardcore (1977 film), a British comedy film\n* Hardcore (1979 film), an American crime drama film starring George C Scott\n* Hardcore (2001 film), a British documentary film directed by Stephen Walker\n* Hardcore (2004 film), a Greek drama film directed by Dennis Iliadis\n* Hardcore Henry, a Russian first-person action adventure/sci-fi film directed by Ilya Naishuller of the band Biting Elbows\n\nMusic\n\nGenres\n\n* Hardcore punk\n** harDCore, a portmanteau abbreviation for hardcore punk music in Washington, D.C.\n** hardcore dancing, a style of dance related to moshing, sometimes performed at hardcore punk shows\n* Hardcore (electronic dance music genre)\n* Hardcore hip hop\n* Digital hardcore, a fusion between hardcore punk and electronic dance music\n\nAlbums\n\n* Hardcore (Daddy Freddy album), 2004\n* Hard Core (Paul Dean album), 1989\n* Hard Core (Lil' Kim album), 1996\n* Hard Core (Lil' Kim mixtape), 2014\n* Hardcore '81, album by D.O.A.\n\nOther uses in media\n\n* Hardcore (comics), a fictional character in the Marvel Multiverse\n* Hardcore pornography, a form of pornography that is explicit\n* Hardcore wrestling, a form of professional wrestling\n* Hardcore Holly, the ring name of American professional wrestler Robert Howard (born 1963)\n* Permanent death, sometimes called \"hardcore mode\", a video game style which doesn't allow a killed character to be restored\n\nTechnology\n\n* Construction aggregate, often referred to as \"hardcore\"\n* Hard core, a type of semiconductor intellectual property core\n* Hard-core predicate, a concept in cryptography",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Hardcore" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14445" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Hardcore, hard core or hard-core may refer to:\n\nArts and media\n\nFilm\n\n* Hardcore (1977 film), a British comedy film\n* Hardcore (1979 film), an American crime drama film starring George C Scott\n* Hardcore (2001 film), a British documentary film directed by Stephen Walker\n* Hardcore (2004 film), a Greek drama film directed by Dennis Iliadis\n* Hardcore Henry, a Russian first-person action adventure/sci-fi film directed by Ilya Naishuller of the band Biting Elbows\n\nMusic\n\nGenres\n\n* Hardcore punk\n** harDCore, a portmanteau abbreviation for hardcore punk music in Washington, D.C.\n** hardcore dancing, a style of dance related to moshing, sometimes performed at hardcore punk shows\n* Hardcore (electronic dance music genre)\n* Hardcore hip hop\n* Digital hardcore, a fusion between hardcore punk and electronic dance music\n\nAlbums\n\n* Hardcore (Daddy Freddy album), 2004\n* Hard Core (Paul Dean album), 1989\n* Hard Core (Lil' Kim album), 1996\n* Hard Core (Lil' Kim mixtape), 2014\n* Hardcore '81, album by D.O.A.\n\nOther uses in media\n\n* Hardcore (comics), a fictional character in the Marvel Multiverse\n* Hardcore pornography, a form of pornography that is explicit\n* Hardcore wrestling, a form of professional wrestling\n* Hardcore Holly, the ring name of American professional wrestler Robert Howard (born 1963)\n* Permanent death, sometimes called \"hardcore mode\", a video game style which doesn't allow a killed character to be restored\n\nTechnology\n\n* Construction aggregate, often referred to as \"hardcore\"\n* Hard core, a type of semiconductor intellectual property core\n* Hard-core predicate, a concept in cryptography. Hardcore. http://en.wikipedia.org/?curid=14445."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1604",
+  "eid" : "baacdca0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778392938,
+  "textBody" : "Alexander III may refer to:\n\n* Alexander III of Macedon (356 BC–323 BC), also known as Alexander the Great\n* Alexander (emperor), Byzantine Emperor (912–913)\n* Pope Alexander III, pope from 1159 to 1181\n* Alexander III of Vladimir, Grand Duke of Vladimir (1328-1331), Prince of Suzdal\n* Alexander III of Scotland (1241–1286), king of Scotland\n* Alexander III of Imereti (1609–1660), king of Imereti\n* Alexander III of Russia (1845–1894), emperor of Russia\n** Pont Alexandre III, an arch bridge that spans the Seine\n** Russian battleship Imperator Aleksandr III Russian warship",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Alexander III" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1604" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Alexander III may refer to:\n\n* Alexander III of Macedon (356 BC–323 BC), also known as Alexander the Great\n* Alexander (emperor), Byzantine Emperor (912–913)\n* Pope Alexander III, pope from 1159 to 1181\n* Alexander III of Vladimir, Grand Duke of Vladimir (1328-1331), Prince of Suzdal\n* Alexander III of Scotland (1241–1286), king of Scotland\n* Alexander III of Imereti (1609–1660), king of Imereti\n* Alexander III of Russia (1845–1894), emperor of Russia\n** Pont Alexandre III, an arch bridge that spans the Seine\n** Russian battleship Imperator Aleksandr III Russian warship. Alexander III. http://en.wikipedia.org/?curid=1604."
+  }
+}

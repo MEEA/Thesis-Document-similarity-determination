@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19327",
+  "eid" : "39ea1aa0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778606410,
+  "textBody" : "A master shot is a film recording of an entire dramatized scene, from start to finish, from an angle that keeps all the players in view.  It is often a long shot and can sometimes perform a double function as an establishing shot.  Usually, the master shot is the first shot checked off during the shooting of a scene—it is the foundation of what is called camera coverage, other shots that reveal different aspects of the action, groupings of two or three of the actors at crucial moments, close-ups of individuals, insert shots of various props, and so on.\n\nHistorically, the master shot was perhaps the most important shot of any given scene.  All shots in a given scene were somehow related to what was happening in the master shot.  This is one reason some of the films from the 1930s and 1940s are considered \"stagey\" by today's standards.  By the 1960s and 1970s, the style of film shooting and editing shifted to include radical angles that conveyed more subjectivity and intimacy within the scenes.Ascher (1999), p. 227  Today, the master shot is still a key element of film production, but scenes are not built around the master shot in the same way that they were when professional filmmaking was in its infancy.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Master shot" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19327" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A master shot is a film recording of an entire dramatized scene, from start to finish, from an angle that keeps all the players in view.  It is often a long shot and can sometimes perform a double function as an establishing shot.  Usually, the master shot is the first shot checked off during the shooting of a scene—it is the foundation of what is called camera coverage, other shots that reveal different aspects of the action, groupings of two or three of the actors at crucial moments, close-ups of individuals, insert shots of various props, and so on.\n\nHistorically, the master shot was perhaps the most important shot of any given scene.  All shots in a given scene were somehow related to what was happening in the master shot.  This is one reason some of the films from the 1930s and 1940s are considered \"stagey\" by today's standards.  By the 1960s and 1970s, the style of film shooting and editing shifted to include radical angles that conveyed more subjectivity and intimacy within the scenes.Ascher (1999), p. 227  Today, the master shot is still a key element of film production, but scenes are not built around the master shot in the same way that they were when professional filmmaking was in its infancy. Master shot. http://en.wikipedia.org/?curid=19327."
+  }
+}

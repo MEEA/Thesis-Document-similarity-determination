@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2684",
+  "eid" : "c195d030-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778404531,
+  "textBody" : "Abdera (, Strabo; , Ptol.; , Ephor. ap. Steph. B.) was an ancient seaport town on the south coast of Spain, between Malaca (now Málaga) and Carthago Nova (now Cartagena), in the district inhabited by the Bastuli.\n\nIt was founded by the Carthaginians as a trading station, and after a period of decline became under the Romans one of the more important towns in the province of Hispania Baetica. It was situated on a hill above the modern Adra.\n\nOf its coins, the most ancient bear the Phoenician inscription abdrt with the head of Melkart and a tunny-fish; those of Tiberius (who seems to have made the place a colonia) show the chief temple of the town with two erect tunny fish in the form of columns. Earlier Roman coins were bilingual: Latin inscriptions on one side, stating the name of the emperor and the town and a Phoenician ethnic on the other side, simply stating the name of the town ('bdrt).",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Abdera, Spain" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2684" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Abdera (, Strabo; , Ptol.; , Ephor. ap. Steph. B.) was an ancient seaport town on the south coast of Spain, between Malaca (now Málaga) and Carthago Nova (now Cartagena), in the district inhabited by the Bastuli.\n\nIt was founded by the Carthaginians as a trading station, and after a period of decline became under the Romans one of the more important towns in the province of Hispania Baetica. It was situated on a hill above the modern Adra.\n\nOf its coins, the most ancient bear the Phoenician inscription abdrt with the head of Melkart and a tunny-fish; those of Tiberius (who seems to have made the place a colonia) show the chief temple of the town with two erect tunny fish in the form of columns. Earlier Roman coins were bilingual: Latin inscriptions on one side, stating the name of the emperor and the town and a Phoenician ethnic on the other side, simply stating the name of the town ('bdrt). Abdera, Spain. http://en.wikipedia.org/?curid=2684."
+  }
+}

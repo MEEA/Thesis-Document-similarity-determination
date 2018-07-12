@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17211",
+  "eid" : "2adc3111-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778581153,
+  "textBody" : "Knuth is a name of Nordic origin. Knuth may refer to:\n\nAs a surname:\n\n*Donald Knuth, American computer scientist; whence:\n** The Art of Computer Programming, often referred to by the author's name\n**Knuth's Algorithm X\n**21656 Knuth, Asteroid\n**Knuth–Morris–Pratt algorithm\n**Fisher–Yates shuffle, also known as the Knuth Shuffle, an algorithm for randomly permuting sets\n**Knuth Prize, a prize for outstanding contributions to the foundations of computer science\n**Knuth reward check\n**Knuth's up-arrow notation, a method of notation of very large integers\n*Eigil Knuth, Danish explorer and archaeologist\n*Frederik Marcus Knuth, Danish taxonomist\n*Jeff Knuth, Queensland politician\n*Kate Knuth, US politician\n*Paul Knuth, German botanist\n*Reinhard Gustav Paul Knuth, German botanist\n*Shane Knuth, Queensland politician\n*Shay Knuth, Playboys Playmate of the Month for September 1969\n*Jason Knuth, the subject of the dedication of Silver Session for Jason Knuth, a 1998 EP by Sonic Youth",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Knuth" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17211" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Knuth is a name of Nordic origin. Knuth may refer to:\n\nAs a surname:\n\n*Donald Knuth, American computer scientist; whence:\n** The Art of Computer Programming, often referred to by the author's name\n**Knuth's Algorithm X\n**21656 Knuth, Asteroid\n**Knuth–Morris–Pratt algorithm\n**Fisher–Yates shuffle, also known as the Knuth Shuffle, an algorithm for randomly permuting sets\n**Knuth Prize, a prize for outstanding contributions to the foundations of computer science\n**Knuth reward check\n**Knuth's up-arrow notation, a method of notation of very large integers\n*Eigil Knuth, Danish explorer and archaeologist\n*Frederik Marcus Knuth, Danish taxonomist\n*Jeff Knuth, Queensland politician\n*Kate Knuth, US politician\n*Paul Knuth, German botanist\n*Reinhard Gustav Paul Knuth, German botanist\n*Shane Knuth, Queensland politician\n*Shay Knuth, Playboys Playmate of the Month for September 1969\n*Jason Knuth, the subject of the dedication of Silver Session for Jason Knuth, a 1998 EP by Sonic Youth. Knuth. http://en.wikipedia.org/?curid=17211."
+  }
+}

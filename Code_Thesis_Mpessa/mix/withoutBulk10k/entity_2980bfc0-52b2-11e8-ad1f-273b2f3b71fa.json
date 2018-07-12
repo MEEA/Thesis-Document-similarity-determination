@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16893",
+  "eid" : "2980bfc0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778578876,
+  "textBody" : "Most broadly, Kansas City is the 15-county Kansas City metropolitan area in the U.S. states of Missouri and Kansas, centered on Kansas City, Missouri.\n\nKansas City may also refer to:\n* Kansas City, Missouri, the anchor city of the Kansas City metropolitan area\n* Kansas City, Kansas, western inner suburb and the third-largest city in Kansas\n* North Kansas City, Missouri, northern suburb\n\nKansas City may also refer to:\n* Kansas City, Oregon, an unincorporated community west of Portland, Oregon, U.S.\nFilm and TV\n\n* Kansas City (film), a 1996 film by Robert Altman\nMusic\n\n* \"Kansas City\" (Leiber and Stoller song) - covered by The Beatles\n* \"Kansas City\" (Sneaky Sound System song)\n* \"Kansas City\" (Oklahoma!), a song from Oklahoma!\n* \"Jim Jackson's Kansas City Blues\", a 1927 song by Jim Jackson\n* \"The Kansas City Song\", a song by Buck Owens and the Buckaroos\n* \"Kansas City\", a song by Okkervil River\n* \"Kansas City\", a song by Melissa Etheridge from her 2012 studio album 4th Street Feeling\n* \"Kansas City\", a song by The New Basement Tapes on their 2014 album Lost on the River: The New Basement Tapes\nOther\n\n* Kansas City standard, a digital data format for storing computer programs and data on music/audio cassette tapes\n* Kansas City lowball, a nickname for Deuce-to-seven lowball poker",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Kansas City (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16893" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Most broadly, Kansas City is the 15-county Kansas City metropolitan area in the U.S. states of Missouri and Kansas, centered on Kansas City, Missouri.\n\nKansas City may also refer to:\n* Kansas City, Missouri, the anchor city of the Kansas City metropolitan area\n* Kansas City, Kansas, western inner suburb and the third-largest city in Kansas\n* North Kansas City, Missouri, northern suburb\n\nKansas City may also refer to:\n* Kansas City, Oregon, an unincorporated community west of Portland, Oregon, U.S.\nFilm and TV\n\n* Kansas City (film), a 1996 film by Robert Altman\nMusic\n\n* \"Kansas City\" (Leiber and Stoller song) - covered by The Beatles\n* \"Kansas City\" (Sneaky Sound System song)\n* \"Kansas City\" (Oklahoma!), a song from Oklahoma!\n* \"Jim Jackson's Kansas City Blues\", a 1927 song by Jim Jackson\n* \"The Kansas City Song\", a song by Buck Owens and the Buckaroos\n* \"Kansas City\", a song by Okkervil River\n* \"Kansas City\", a song by Melissa Etheridge from her 2012 studio album 4th Street Feeling\n* \"Kansas City\", a song by The New Basement Tapes on their 2014 album Lost on the River: The New Basement Tapes\nOther\n\n* Kansas City standard, a digital data format for storing computer programs and data on music/audio cassette tapes\n* Kansas City lowball, a nickname for Deuce-to-seven lowball poker. Kansas City (disambiguation). http://en.wikipedia.org/?curid=16893."
+  }
+}

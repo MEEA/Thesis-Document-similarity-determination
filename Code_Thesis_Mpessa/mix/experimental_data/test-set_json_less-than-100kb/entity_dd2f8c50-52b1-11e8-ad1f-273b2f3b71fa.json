@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=6711",
+  "eid" : "dd2f8c50-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778450837,
+  "textBody" : "A gas compressor is a device that pressurizes fluids.\n\nCompressor may also refer to:\n* Compressor (software), an application used with Final Cut Studio\n* In signal processing:\n** Audio data compression of an audio signal\n** Dynamic range compression of an audio signal\n** Video compression of a video signal",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Compressor (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=6711" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A gas compressor is a device that pressurizes fluids.\n\nCompressor may also refer to:\n* Compressor (software), an application used with Final Cut Studio\n* In signal processing:\n** Audio data compression of an audio signal\n** Dynamic range compression of an audio signal\n** Video compression of a video signal. Compressor (disambiguation). http://en.wikipedia.org/?curid=6711."
+  }
+}

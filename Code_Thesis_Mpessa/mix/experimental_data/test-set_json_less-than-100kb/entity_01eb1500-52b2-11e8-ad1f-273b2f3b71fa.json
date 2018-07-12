@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12347",
+  "eid" : "01eb1500-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778512464,
+  "textBody" : "Guadeloupe sends four deputies to the French National Assembly and three senators to the French Senate. \n\nGeneral Council of Guadeloupe\n\nThe general council is composed of 43 seats; whose members are elected by popular vote to serve six-year terms.\n\nComposition\n\nRegional Council of Guadeloupe\n\nThe regional council is composed of 41 seats; whose members are elected by popular vote to serve six-year terms.\n\nComposition\n\nCurrent Deputies\n\nGuadeloupe also elects 4 seats to the French National Assembly, the last elections were held in June 2012.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Politics of Guadeloupe" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12347" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Guadeloupe sends four deputies to the French National Assembly and three senators to the French Senate. \n\nGeneral Council of Guadeloupe\n\nThe general council is composed of 43 seats; whose members are elected by popular vote to serve six-year terms.\n\nComposition\n\nRegional Council of Guadeloupe\n\nThe regional council is composed of 41 seats; whose members are elected by popular vote to serve six-year terms.\n\nComposition\n\nCurrent Deputies\n\nGuadeloupe also elects 4 seats to the French National Assembly, the last elections were held in June 2012. Politics of Guadeloupe. http://en.wikipedia.org/?curid=12347."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14540",
+  "eid" : "15212470-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778544695,
+  "textBody" : "Indo-European languages are a major language family of Europe, the Middle East and South Asia, thought to have originated, according to the Kurgan hypothesis, on the Eurasian Pontic steppe.\n\nIndo-European may also refer to various topics related to this family of languages:\n* Indo-European migrations\n* Indo-European studies, an academic field involving linguistics, anthropology, history, archaeology etc. dealing with the IE language family\n* Proto-Indo-European language (abbr. PIE), the reconstructed common ancestor of all Indo-European languages\n* Proto-Indo-Europeans, a hypothetical ancient ethnic group speaking the PIE language\n* Proto-Indo-European religion, the hypothetical religion of the Proto-Indo-Europeans\n* Proto-Indo-European society, the hypothetical society of the Proto-Indo-Europeans\n\nThe term has also been used as a synonym for:\n* Indo people, people of Dutch East Indies and European descent",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Indo-European" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14540" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Indo-European languages are a major language family of Europe, the Middle East and South Asia, thought to have originated, according to the Kurgan hypothesis, on the Eurasian Pontic steppe.\n\nIndo-European may also refer to various topics related to this family of languages:\n* Indo-European migrations\n* Indo-European studies, an academic field involving linguistics, anthropology, history, archaeology etc. dealing with the IE language family\n* Proto-Indo-European language (abbr. PIE), the reconstructed common ancestor of all Indo-European languages\n* Proto-Indo-Europeans, a hypothetical ancient ethnic group speaking the PIE language\n* Proto-Indo-European religion, the hypothetical religion of the Proto-Indo-Europeans\n* Proto-Indo-European society, the hypothetical society of the Proto-Indo-Europeans\n\nThe term has also been used as a synonym for:\n* Indo people, people of Dutch East Indies and European descent. Indo-European. http://en.wikipedia.org/?curid=14540."
+  }
+}

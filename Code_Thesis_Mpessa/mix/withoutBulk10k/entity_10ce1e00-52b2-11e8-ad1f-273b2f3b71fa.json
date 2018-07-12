@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13994",
+  "eid" : "10ce1e00-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778537440,
+  "textBody" : "Hotspot or Hot spot may refer to:\n\nPlaces\n\n* Hot Spot, Kentucky, a community in the United States\n\nArts, entertainment, and media\n\nFictitious entities\n\n* Hot Spot (comics), a name for the DC Comics character Isaiah Crockett\n* Hot Spot (Transformers), any of several characters\nFilms and television \n\n* Hot Spot (1941 film), later retitled I Wake Up Screaming\n* The Hot Spot, a 1990 neo-noir film\n* \"Hot Spot\" (Burn Notice), a television episode\n\nMusic and theater\n\n* Hot Spot (musical), 1963\n* \"Hot Spot\" (song), by Foxy Brown\n\nComputing\n\n* Hot spot (computer science), a compute-intensive region of a program\n* Hotspot (Wi-Fi), a wireless network access point or area\n** Connectify Hotspot, a software application for creating a wireless access point\n** T-Mobile HotSpot, a service that allows mobile phone connections via a WiFi connection\n* HotSpot, a Java virtual machine\n* Screen hotspot, an area enabled for user interactivity on a display\n* Hot spot, an area which is customizable by users in software frameworks\n\nScience and medicine\n\n* Hot spot (veterinary medicine), an irritated skin lesion\n* Hot spot effect in subatomic physics, regions of high energy density or temperature\n* Hotspot (geology), an area of unusually high volcanic activity\n* Biodiversity hotspot, a region of significant variety and variability of life\n* Recombination hotspot, a region in a genome\n\nOther uses\n\n* Hot spot (casting), a metal casting defect\n* Hot Spot (cricket), an infrared tracking system\n* Airport hot spots, locations where aircraft collisions with ground equipment may occur",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Hotspot" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13994" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Hotspot or Hot spot may refer to:\n\nPlaces\n\n* Hot Spot, Kentucky, a community in the United States\n\nArts, entertainment, and media\n\nFictitious entities\n\n* Hot Spot (comics), a name for the DC Comics character Isaiah Crockett\n* Hot Spot (Transformers), any of several characters\nFilms and television \n\n* Hot Spot (1941 film), later retitled I Wake Up Screaming\n* The Hot Spot, a 1990 neo-noir film\n* \"Hot Spot\" (Burn Notice), a television episode\n\nMusic and theater\n\n* Hot Spot (musical), 1963\n* \"Hot Spot\" (song), by Foxy Brown\n\nComputing\n\n* Hot spot (computer science), a compute-intensive region of a program\n* Hotspot (Wi-Fi), a wireless network access point or area\n** Connectify Hotspot, a software application for creating a wireless access point\n** T-Mobile HotSpot, a service that allows mobile phone connections via a WiFi connection\n* HotSpot, a Java virtual machine\n* Screen hotspot, an area enabled for user interactivity on a display\n* Hot spot, an area which is customizable by users in software frameworks\n\nScience and medicine\n\n* Hot spot (veterinary medicine), an irritated skin lesion\n* Hot spot effect in subatomic physics, regions of high energy density or temperature\n* Hotspot (geology), an area of unusually high volcanic activity\n* Biodiversity hotspot, a region of significant variety and variability of life\n* Recombination hotspot, a region in a genome\n\nOther uses\n\n* Hot spot (casting), a metal casting defect\n* Hot Spot (cricket), an infrared tracking system\n* Airport hot spots, locations where aircraft collisions with ground equipment may occur. Hotspot. http://en.wikipedia.org/?curid=13994."
+  }
+}

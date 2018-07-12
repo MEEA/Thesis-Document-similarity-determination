@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14553",
+  "eid" : "1528eca0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778544746,
+  "textBody" : "The secondary sector include industries that produce a finished, usable product or are involved in construction.\n\nThis sector generally takes the output of the primary sector and manufactures finished goods or where they are suitable for used by other businesses, for export, or sale to domestic consumers. This sector is often divided into light industry and heavy industry. Many of these industries consume large quantities of energy and require factories and machinery to convert the raw materials into goods and products. They also produce waste materials and waste heat that may cause environmental problems or cause pollution. The secondary sector supports both the primary and tertiary sector.\n\nSome economists contrast wealth-producing sectors in an economy such as manufacturing with the service sector which tends to be wealth-consuming.[1] Examples of service may include retail, insurance, and government. These economists contend that an economy begins to decline as its wealth-producing sector shrinks.[2] Manufacturing is an important activity to promote economic growth and development. Nations that export manufactured products tend to generate higher marginal GDP growth which supports higher incomes and marginal tax revenue needed to fund the quality of life initiatives such as health care and infrastructure in the economy. The field is an important source for engineering job opportunities. Among developed countries, it is an important source of well paying jobs for the middle class to facilitate greater social mobility for successive generations on the economy",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Secondary sector of the economy" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14553" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The secondary sector include industries that produce a finished, usable product or are involved in construction.\n\nThis sector generally takes the output of the primary sector and manufactures finished goods or where they are suitable for used by other businesses, for export, or sale to domestic consumers. This sector is often divided into light industry and heavy industry. Many of these industries consume large quantities of energy and require factories and machinery to convert the raw materials into goods and products. They also produce waste materials and waste heat that may cause environmental problems or cause pollution. The secondary sector supports both the primary and tertiary sector.\n\nSome economists contrast wealth-producing sectors in an economy such as manufacturing with the service sector which tends to be wealth-consuming.[1] Examples of service may include retail, insurance, and government. These economists contend that an economy begins to decline as its wealth-producing sector shrinks.[2] Manufacturing is an important activity to promote economic growth and development. Nations that export manufactured products tend to generate higher marginal GDP growth which supports higher incomes and marginal tax revenue needed to fund the quality of life initiatives such as health care and infrastructure in the economy. The field is an important source for engineering job opportunities. Among developed countries, it is an important source of well paying jobs for the middle class to facilitate greater social mobility for successive generations on the economy. Secondary sector of the economy. http://en.wikipedia.org/?curid=14553."
+  }
+}

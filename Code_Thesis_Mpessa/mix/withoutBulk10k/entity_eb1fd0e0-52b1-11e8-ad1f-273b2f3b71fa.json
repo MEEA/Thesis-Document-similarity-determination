@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8877",
+  "eid" : "eb1fd0e0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778474222,
+  "textBody" : "Dione may refer to:\n\nAstronomy\n\n*106 Dione, a large main belt asteroid\n*Dione (moon), a moon of Saturn\n*Helene (moon), a moon of Saturn sometimes referred to as \"Dione B\"\n\nMythology\n\n*Dione (Titaness), a Titaness in Greek mythology\n*Dione (mythology), a name for various women in Greek mythology\n\nBiology\n\n* Dione (alga), a genus of red algae in the family Bangiaceae\n* Dione (butterfly), a genus in the family Heliconiinae\n* Pitar dione, the elegant venus clam\n\nBoating\n\n*Dione 98, a Spanish sailboat design\n\nChemistry\n\n*Diketone (Dione), a molecule containing two ketone groups\n*Ethylene dione (ethylenedione, ethene dione, or ethene 1,2-dione), a hypothetical chemical compound with the formula C2O2 (OC\nC=O)\n\nGiven Name\n\n*Dione Lucas (1909–1971), English chef and first female graduate of Le Cordon Bleu\n*Dee Dee Sharp (born Dione LaRue, 1945), American R&B singer\n*Dione Santos (born 1979), Brazilian footballer\n*Dione Taylor, Canadian jazz singer\n\nPopular culture\n\n*Dee Bliss (Dione \"Dee\" Rebecchi), from the Australian soap opera Neighbours\n*Thanos, A villain in Marvel Comics, was originally given the name by his mother\n\nSurname\n\n*Dione (Serer surname), a West African surname among the Serer people with no connection to the French \"Dione\"\n*Rose Dione (1875–1936), French actress\n*Aura Dione, Danish singer-songwriter\n\nOther\n\n*Dione plc, a former UK-based point-of-sale equipment manufacturer, now part of VeriFone",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Dione" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8877" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Dione may refer to:\n\nAstronomy\n\n*106 Dione, a large main belt asteroid\n*Dione (moon), a moon of Saturn\n*Helene (moon), a moon of Saturn sometimes referred to as \"Dione B\"\n\nMythology\n\n*Dione (Titaness), a Titaness in Greek mythology\n*Dione (mythology), a name for various women in Greek mythology\n\nBiology\n\n* Dione (alga), a genus of red algae in the family Bangiaceae\n* Dione (butterfly), a genus in the family Heliconiinae\n* Pitar dione, the elegant venus clam\n\nBoating\n\n*Dione 98, a Spanish sailboat design\n\nChemistry\n\n*Diketone (Dione), a molecule containing two ketone groups\n*Ethylene dione (ethylenedione, ethene dione, or ethene 1,2-dione), a hypothetical chemical compound with the formula C2O2 (OC\nC=O)\n\nGiven Name\n\n*Dione Lucas (1909–1971), English chef and first female graduate of Le Cordon Bleu\n*Dee Dee Sharp (born Dione LaRue, 1945), American R&B singer\n*Dione Santos (born 1979), Brazilian footballer\n*Dione Taylor, Canadian jazz singer\n\nPopular culture\n\n*Dee Bliss (Dione \"Dee\" Rebecchi), from the Australian soap opera Neighbours\n*Thanos, A villain in Marvel Comics, was originally given the name by his mother\n\nSurname\n\n*Dione (Serer surname), a West African surname among the Serer people with no connection to the French \"Dione\"\n*Rose Dione (1875–1936), French actress\n*Aura Dione, Danish singer-songwriter\n\nOther\n\n*Dione plc, a former UK-based point-of-sale equipment manufacturer, now part of VeriFone. Dione. http://en.wikipedia.org/?curid=8877."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16710",
+  "eid" : "27c29500-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778575952,
+  "textBody" : "Krone (the cognate of Crown) may refer to:\n\nGeneral\n\n* Crown (headgear)\n* ADC KRONE & The KRONE Group in ADC Telecommunications\n* KRONE LSA-PLUS, a popular telecommunications connector, or krone tool\n* Krone an der Brahe, the German name for Koronowo, Poland\n* Diu Crône, a medieval poem\n* Kronen Zeitung, an Austrian tabloid\n* The Krone Group, manufacturer \n* Krone (mountain), in the Alps\n\nName\n\n* Julie Krone, American jockey\n* Sigismund Ernst Richard Krone (1861 – 1917), German naturalist\n* Hermann Krone (1827 – 1916), German photographer\n* Roger Krone, CEO of Leidos\n\nCurrency\n\n* Named by European monarchies:\n** Scandinavia:\n*** Norwegian krone\n*** Danish krone\n*** Faroese króna\n*** Icelandic króna\n*** Swedish krona\n** Estonian kroon\n** Austro-Hungarian krone\n** Yugoslav krone\n** Fiume krone\n* Named by republics:\n** Czech koruna\n** Slovak koruna",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Krone" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16710" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Krone (the cognate of Crown) may refer to:\n\nGeneral\n\n* Crown (headgear)\n* ADC KRONE & The KRONE Group in ADC Telecommunications\n* KRONE LSA-PLUS, a popular telecommunications connector, or krone tool\n* Krone an der Brahe, the German name for Koronowo, Poland\n* Diu Crône, a medieval poem\n* Kronen Zeitung, an Austrian tabloid\n* The Krone Group, manufacturer \n* Krone (mountain), in the Alps\n\nName\n\n* Julie Krone, American jockey\n* Sigismund Ernst Richard Krone (1861 – 1917), German naturalist\n* Hermann Krone (1827 – 1916), German photographer\n* Roger Krone, CEO of Leidos\n\nCurrency\n\n* Named by European monarchies:\n** Scandinavia:\n*** Norwegian krone\n*** Danish krone\n*** Faroese króna\n*** Icelandic króna\n*** Swedish krona\n** Estonian kroon\n** Austro-Hungarian krone\n** Yugoslav krone\n** Fiume krone\n* Named by republics:\n** Czech koruna\n** Slovak koruna. Krone. http://en.wikipedia.org/?curid=16710."
+  }
+}

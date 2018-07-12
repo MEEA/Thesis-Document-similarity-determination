@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8477",
+  "eid" : "e810bc20-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778469090,
+  "textBody" : "Dual or Duals may refer to:\n* Dual (mathematics), a notion of paired concepts that mirror one another\n** Dual (category theory), a formalization of mathematical duality\n** . . . see more cases in :Category:Duality theories\n* Dual (grammatical number), a grammatical category used in some languages\n* Dual-Ghia, US-brand of luxury-car of the late 1950s\n* Dual impedance, electrical circuits that are the dual of each other\n* Dual diagnosis, a psychiatric diagnosis of co-occurrence of substance abuse and a mental problem\n* Dual fertilization, simultaneous application of a P-type and N-type fertilizer\n* DUAL (cognitive architecture), an artificial intelligence design model\n* DUAL algorithm, or diffusing update algorithm, used to update Internet protocol routing tables\n* DUAL table, a special one-row and one-column database table\n* Dual SIM cellphone\n* Dual (brand), a manufacturer of Hifi equipment\n* Dual county, referring to a Gaelic Athletic Association county which traditionally competes at a similar level in both Gaelic football and hurling\n* Aerochute International Dual a two-seat Australian powered parachute design\n\nMedia \n\n* Dual (film), 2008\n* \"Dual\" (Heroes), an episode of Heroes\n* Dual! Parallel Trouble Adventure, an anime series\n* Dual (album), an album of traditional Scottish and Irish music recorded by Éamonn Doorley, Muireann Nic Amhlaoibh, Julie Fowlis and Ross Martin, released 2008\n* Dual (Sampha EP)\n* Duals, an album by U2\n*The Duals band",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Dual" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8477" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Dual or Duals may refer to:\n* Dual (mathematics), a notion of paired concepts that mirror one another\n** Dual (category theory), a formalization of mathematical duality\n** . . . see more cases in :Category:Duality theories\n* Dual (grammatical number), a grammatical category used in some languages\n* Dual-Ghia, US-brand of luxury-car of the late 1950s\n* Dual impedance, electrical circuits that are the dual of each other\n* Dual diagnosis, a psychiatric diagnosis of co-occurrence of substance abuse and a mental problem\n* Dual fertilization, simultaneous application of a P-type and N-type fertilizer\n* DUAL (cognitive architecture), an artificial intelligence design model\n* DUAL algorithm, or diffusing update algorithm, used to update Internet protocol routing tables\n* DUAL table, a special one-row and one-column database table\n* Dual SIM cellphone\n* Dual (brand), a manufacturer of Hifi equipment\n* Dual county, referring to a Gaelic Athletic Association county which traditionally competes at a similar level in both Gaelic football and hurling\n* Aerochute International Dual a two-seat Australian powered parachute design\n\nMedia \n\n* Dual (film), 2008\n* \"Dual\" (Heroes), an episode of Heroes\n* Dual! Parallel Trouble Adventure, an anime series\n* Dual (album), an album of traditional Scottish and Irish music recorded by Éamonn Doorley, Muireann Nic Amhlaoibh, Julie Fowlis and Ross Martin, released 2008\n* Dual (Sampha EP)\n* Duals, an album by U2\n*The Duals band. Dual. http://en.wikipedia.org/?curid=8477."
+  }
+}

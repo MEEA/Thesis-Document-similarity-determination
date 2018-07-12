@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2028",
+  "eid" : "bd520c00-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778397376,
+  "textBody" : "Ambient or Ambiance may refer to:\n\nMusic\n\n*Ambient music\n*Ambient 1–4, a set of four albums by Brian Eno, see Obscure Records\n*Virgin Ambient series, by Virgin Records\n*Ambient (album), by Moby\n*Ambience (album), by the Lambrettas \n*Ambience (sound recording), also known as atmospheres or backgrounds\n\nOther\n\n*Ambient (desktop environment)\n*Ambient (novel), a novel by Jack Womack\n*Ambiancé (film), an upcoming experimental film by Swedish director Anders Weberg\n*Mark Ambient, pen name of Harold Harley (1860–1937), English dramatist",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Ambient" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2028" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Ambient or Ambiance may refer to:\n\nMusic\n\n*Ambient music\n*Ambient 1–4, a set of four albums by Brian Eno, see Obscure Records\n*Virgin Ambient series, by Virgin Records\n*Ambient (album), by Moby\n*Ambience (album), by the Lambrettas \n*Ambience (sound recording), also known as atmospheres or backgrounds\n\nOther\n\n*Ambient (desktop environment)\n*Ambient (novel), a novel by Jack Womack\n*Ambiancé (film), an upcoming experimental film by Swedish director Anders Weberg\n*Mark Ambient, pen name of Harold Harley (1860–1937), English dramatist. Ambient. http://en.wikipedia.org/?curid=2028."
+  }
+}

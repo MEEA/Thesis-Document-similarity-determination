@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12338",
+  "eid" : "01dae860-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778512358,
+  "textBody" : "A GMO is a genetically modified organism.\n\nGMO may also refer to:\n* Genetically modified food\n* Gell-Mann–Okubo mass formula in particle physics\n* Generalised molecular orbital theory, in chemistry\n* Gulf, Mobile and Ohio Railroad, a U.S. railroad carrier corporation\n* U.S. Bank Championship in Milwaukee (formerly Greater Milwaukee Open), a golfing competition\n* Grantham, Mayo, Van Otterloo & Co. LLC (\"GMO\"), a Boston-based asset management firm led by Jeremy Grantham\n* GMO Internet, Inc, a Japanese internet services company, and parent of web security company GlobalSign\n\nMusic\n* The Glenn Miller Orchestra, a U.S. jazz group\n* Green Mountain Orchestra, a band from Hong Kong",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "GMO (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12338" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A GMO is a genetically modified organism.\n\nGMO may also refer to:\n* Genetically modified food\n* Gell-Mann–Okubo mass formula in particle physics\n* Generalised molecular orbital theory, in chemistry\n* Gulf, Mobile and Ohio Railroad, a U.S. railroad carrier corporation\n* U.S. Bank Championship in Milwaukee (formerly Greater Milwaukee Open), a golfing competition\n* Grantham, Mayo, Van Otterloo & Co. LLC (\"GMO\"), a Boston-based asset management firm led by Jeremy Grantham\n* GMO Internet, Inc, a Japanese internet services company, and parent of web security company GlobalSign\n\nMusic\n* The Glenn Miller Orchestra, a U.S. jazz group\n* Green Mountain Orchestra, a band from Hong Kong. GMO (disambiguation). http://en.wikipedia.org/?curid=12338."
+  }
+}

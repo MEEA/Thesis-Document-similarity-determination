@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10163",
+  "eid" : "f425d810-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778489361,
+  "textBody" : "Eusebius (AD 263 – 339; also called Eusebius of Caesarea and Eusebius Pamphili) was a Roman historian, exegete and Christian polemicist. \n\nEusebius (; Greek Εὐσέβιος \"pious\" from eu (εὖ) \"well\" and sebein (σέβειν) \"to respect\") may also refer to:\n* Eusebius of Esztergom, Hungarian priest, hermit, founder of the Order of Saint Paul the First Hermit\n* Eusebius (praepositus sacri cubiculi), under Constantius II\n* Eusebius (consul 347) (died c. 350), Roman consul in 347\n* Eusebius (consul 359), Roman consul in 359\n* Eusebius of Alexandria (6th century), Christian author\n* Eusebius of Angers (died 1081), bishop of Angers\n* Saint Eusebius of Cremona (died c. 423)\n* Eusebius of Dorylaeum (5th century), bishop of Dorylaeum, opponent of Nestorianism and Monophysitism\n* Eusebius of Emesa (300–360), bishop of Emesa\n* Eusebius of Laodicea (died 268), bishop of Laodicea\n* Eusebius of Myndus (4th century), Neoplatonist philosopher\n* Eusebius of Nicomedia (died 341), bishop of Berytus, Nicomedia and Constantinople, leader of Arianism\n* Saint Eusebius of Rome (died 357), priest and martyr\n* Saint Eusebius of Samosata (died 4th-century), bishop of Samosata\n* Saint Eusebius of Vercelli (283–371), bishop of Vercelli, opponent of Arianism\n* Saint Eusebius (bishop of Milan) (died 462), archbishop of Milan\n* Saint Eusebius the Hermit (4th century), solitary monk of Syria\n* Pope Eusebius (died 310), Pope in 309 or 310\n* Eusebius, bishop of Paris until his death in 555\n* Hwaetberht (died c. 740s), Abbot of Monkwearmouth-Jarrow Priory, who wrote under the pen-name of Eusebius\n* Eusebius, one of the personae of Robert Schumann\n\nEusebius is also the name of:\n* Jerome (347–420), Christian scholar and church father, whose full name was Eusebius Sophronius Hieronymus\n* Karl Eusebius of Liechtenstein (1611–1684), the second prince of Liechtenstein",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Eusebius (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10163" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Eusebius (AD 263 – 339; also called Eusebius of Caesarea and Eusebius Pamphili) was a Roman historian, exegete and Christian polemicist. \n\nEusebius (; Greek Εὐσέβιος \"pious\" from eu (εὖ) \"well\" and sebein (σέβειν) \"to respect\") may also refer to:\n* Eusebius of Esztergom, Hungarian priest, hermit, founder of the Order of Saint Paul the First Hermit\n* Eusebius (praepositus sacri cubiculi), under Constantius II\n* Eusebius (consul 347) (died c. 350), Roman consul in 347\n* Eusebius (consul 359), Roman consul in 359\n* Eusebius of Alexandria (6th century), Christian author\n* Eusebius of Angers (died 1081), bishop of Angers\n* Saint Eusebius of Cremona (died c. 423)\n* Eusebius of Dorylaeum (5th century), bishop of Dorylaeum, opponent of Nestorianism and Monophysitism\n* Eusebius of Emesa (300–360), bishop of Emesa\n* Eusebius of Laodicea (died 268), bishop of Laodicea\n* Eusebius of Myndus (4th century), Neoplatonist philosopher\n* Eusebius of Nicomedia (died 341), bishop of Berytus, Nicomedia and Constantinople, leader of Arianism\n* Saint Eusebius of Rome (died 357), priest and martyr\n* Saint Eusebius of Samosata (died 4th-century), bishop of Samosata\n* Saint Eusebius of Vercelli (283–371), bishop of Vercelli, opponent of Arianism\n* Saint Eusebius (bishop of Milan) (died 462), archbishop of Milan\n* Saint Eusebius the Hermit (4th century), solitary monk of Syria\n* Pope Eusebius (died 310), Pope in 309 or 310\n* Eusebius, bishop of Paris until his death in 555\n* Hwaetberht (died c. 740s), Abbot of Monkwearmouth-Jarrow Priory, who wrote under the pen-name of Eusebius\n* Eusebius, one of the personae of Robert Schumann\n\nEusebius is also the name of:\n* Jerome (347–420), Christian scholar and church father, whose full name was Eusebius Sophronius Hieronymus\n* Karl Eusebius of Liechtenstein (1611–1684), the second prince of Liechtenstein. Eusebius (disambiguation). http://en.wikipedia.org/?curid=10163."
+  }
+}

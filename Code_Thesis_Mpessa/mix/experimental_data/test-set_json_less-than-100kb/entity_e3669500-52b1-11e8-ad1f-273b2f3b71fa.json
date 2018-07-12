@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7791",
+  "eid" : "e3669500-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778461264,
+  "textBody" : "The current Political Constitution of the Republic of Chile, approved by Chilean voters in a controversial plebiscite on September 11, 1980, under the military dictatorship of Augusto Pinochet, partially effective March 11, 1981, fully effective 11 March 1990 and amended considerably on August 17, 1989 (via referendum) and on September 22, 2005 (legislatively), and also in 1991, 1994, 1997, 1999, 2000, 2001, 2003, 2007, 2008, 2009 and 2010, replaced the earlier constitution of 1925. It is Chile's eighth constitution.\n\nLegitimacy\n\nAccording to law professor, Camel Cazor Aliste, the Constitution of 1980 has problems of legitimacy stemming from two facts: First, the writing commission was not representative of the political spectrum of Chile. Its members were hand-picked by the dictatorship of Pinochet and deliberately excluded opponents of the regime. Secondly, the constitution \"approval\" was achieved through the controversial and tightly government-controlled referendum of 1980.\n\nTimeline of Constitutions\n\n* Reglamento para el arreglo de la Autoridad Ejecutiva Provisoria de Chile 1811\n* Reglamento Constitucional 1812\n* Reglamento para el gobierno Provisorio 1814\n* Constitución de 1818\n* Constitución de 1822\n* Constitución de 1823\n* Ensayo Federal de 1826\n* Constitución de 1828\n* Constitución de 1833 - Written among others by Mariano Egaña and Manuel José Gandarillas\n** Reinterpreted after the 1891 Chilean Civil War augmenting the power of the National Congress of Chile\n* Constitución de 1925 - Written among others by Arturo Alessandri Palma and José Maza\n* Constitución de 1980 - Written among others by Jaime Guzmán\n**Has been reformed in 1989, 1991, 1994, 1997, 1999, 2000, 2001, 2003, 2005, 2007, 2008, 2009 and 2010.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Constitution of Chile" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7791" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The current Political Constitution of the Republic of Chile, approved by Chilean voters in a controversial plebiscite on September 11, 1980, under the military dictatorship of Augusto Pinochet, partially effective March 11, 1981, fully effective 11 March 1990 and amended considerably on August 17, 1989 (via referendum) and on September 22, 2005 (legislatively), and also in 1991, 1994, 1997, 1999, 2000, 2001, 2003, 2007, 2008, 2009 and 2010, replaced the earlier constitution of 1925. It is Chile's eighth constitution.\n\nLegitimacy\n\nAccording to law professor, Camel Cazor Aliste, the Constitution of 1980 has problems of legitimacy stemming from two facts: First, the writing commission was not representative of the political spectrum of Chile. Its members were hand-picked by the dictatorship of Pinochet and deliberately excluded opponents of the regime. Secondly, the constitution \"approval\" was achieved through the controversial and tightly government-controlled referendum of 1980.\n\nTimeline of Constitutions\n\n* Reglamento para el arreglo de la Autoridad Ejecutiva Provisoria de Chile 1811\n* Reglamento Constitucional 1812\n* Reglamento para el gobierno Provisorio 1814\n* Constitución de 1818\n* Constitución de 1822\n* Constitución de 1823\n* Ensayo Federal de 1826\n* Constitución de 1828\n* Constitución de 1833 - Written among others by Mariano Egaña and Manuel José Gandarillas\n** Reinterpreted after the 1891 Chilean Civil War augmenting the power of the National Congress of Chile\n* Constitución de 1925 - Written among others by Arturo Alessandri Palma and José Maza\n* Constitución de 1980 - Written among others by Jaime Guzmán\n**Has been reformed in 1989, 1991, 1994, 1997, 1999, 2000, 2001, 2003, 2005, 2007, 2008, 2009 and 2010. Constitution of Chile. http://en.wikipedia.org/?curid=7791."
+  }
+}

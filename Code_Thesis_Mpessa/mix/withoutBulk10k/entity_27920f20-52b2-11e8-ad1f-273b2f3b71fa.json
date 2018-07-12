@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16680",
+  "eid" : "27920f20-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778575634,
+  "textBody" : "Kiribati has two international airports (Tarawa and Kiritimati). The main port is Betio (Tarawa). Phones are available only on Tarawa and Kiritimati and radio phones are used elsewhere. Kiribati has 2 newspapers (one private).\n\nTelephones - main lines in use:\n3,800 (1999)\n\nTelephones - mobile cellular:\n20,000 (2G 10,00) (3G/4G 10,000). \n\nTelephone system:\ndomestic:\nNA\ninternational:\nsatellite earth station - 1 Intelsat (Pacific Ocean)\nnote:\nKiribati is being linked to the Pacific Ocean Cooperative Telecommunications Network, which should improve telephone service\n\nRadio broadcast stations:\nAM 1, FM 2, shortwave 1 (2002)\nnote: the shortwave station may be inactive\n\nRadios:\n17,000 (1997)\n\nTelevision broadcast stations:\n1 (not reported to be active) (2002)\n\nTelevisions:\n1,000 (1997)\n\nInternet Service Providers (ISPs):\n5 Satellite Only (2017)\n\nInternet users:\n15,947 (2017)\n\nCountry code (Top-level domain): KI",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Telecommunications in Kiribati" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16680" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Kiribati has two international airports (Tarawa and Kiritimati). The main port is Betio (Tarawa). Phones are available only on Tarawa and Kiritimati and radio phones are used elsewhere. Kiribati has 2 newspapers (one private).\n\nTelephones - main lines in use:\n3,800 (1999)\n\nTelephones - mobile cellular:\n20,000 (2G 10,00) (3G/4G 10,000). \n\nTelephone system:\ndomestic:\nNA\ninternational:\nsatellite earth station - 1 Intelsat (Pacific Ocean)\nnote:\nKiribati is being linked to the Pacific Ocean Cooperative Telecommunications Network, which should improve telephone service\n\nRadio broadcast stations:\nAM 1, FM 2, shortwave 1 (2002)\nnote: the shortwave station may be inactive\n\nRadios:\n17,000 (1997)\n\nTelevision broadcast stations:\n1 (not reported to be active) (2002)\n\nTelevisions:\n1,000 (1997)\n\nInternet Service Providers (ISPs):\n5 Satellite Only (2017)\n\nInternet users:\n15,947 (2017)\n\nCountry code (Top-level domain): KI. Telecommunications in Kiribati. http://en.wikipedia.org/?curid=16680."
+  }
+}

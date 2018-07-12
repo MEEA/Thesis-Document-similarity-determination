@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=6626",
+  "eid" : "dc889df0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778449743,
+  "textBody" : "CDE may refer to:\n\nEducation\n\n* California Department of Education\n* Colorado Department of Education, part of the Law and Government of Colorado\n* Center for Distance Education at University of Alaska Fairbanks\n* Career Development Event, a type of contest sponsored by the National FFA Organization\n* Certified diabetes educator\n* Center for Data Engineering, IIIT Hyderabad\n\nOther\n\n* Carbon dioxide equivalent\n* Celestial Digital Entertainment, a Hong Kong-based computer game company\n* Common Desktop Environment, a graphical desktop environment for Unix and OpenVMS\n* Collaborative Development Environment, a software development methodology\n* Comissões Democráticas Eleitorais, part of the former Portuguese Democratic Movement\n* CD-E, better known as CD-RW\n* Concept development and experimentation\n* Cde., an abbreviation of comrade\n* CDE, the NYSE stock symbol for Coeur Mining\n* Cardholder Data Environment, a network environment that possesses or transmits credit card data (part of the Payment Card Industry Data Security Standard)\n* Cornell Dubilier Electronics Inc. (CDE), a capacitor manufacturer\n* Chrome Dev Editor, a development environment built in Dart for the Chromium web browser",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "CDE" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=6626" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "CDE may refer to:\n\nEducation\n\n* California Department of Education\n* Colorado Department of Education, part of the Law and Government of Colorado\n* Center for Distance Education at University of Alaska Fairbanks\n* Career Development Event, a type of contest sponsored by the National FFA Organization\n* Certified diabetes educator\n* Center for Data Engineering, IIIT Hyderabad\n\nOther\n\n* Carbon dioxide equivalent\n* Celestial Digital Entertainment, a Hong Kong-based computer game company\n* Common Desktop Environment, a graphical desktop environment for Unix and OpenVMS\n* Collaborative Development Environment, a software development methodology\n* Comissões Democráticas Eleitorais, part of the former Portuguese Democratic Movement\n* CD-E, better known as CD-RW\n* Concept development and experimentation\n* Cde., an abbreviation of comrade\n* CDE, the NYSE stock symbol for Coeur Mining\n* Cardholder Data Environment, a network environment that possesses or transmits credit card data (part of the Payment Card Industry Data Security Standard)\n* Cornell Dubilier Electronics Inc. (CDE), a capacitor manufacturer\n* Chrome Dev Editor, a development environment built in Dart for the Chromium web browser. CDE. http://en.wikipedia.org/?curid=6626."
+  }
+}

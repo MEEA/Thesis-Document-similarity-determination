@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3728",
+  "eid" : "c839f290-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778415673,
+  "textBody" : "Bass music (also called UK bass or post-dubstep) is an umbrella term for  club music that emerged in the United Kingdom during the mid-2000s under the influence of dubstep, UK garage, wonky, R&B, 2-step, house, grime, and other electronic styles that coalesced amongst varied artists. The phrase \"bass music\" came into use as artists began ambiguously blending the sounds of these defined genres while maintaining an emphasis on bass and rhythm.\n\nOrigins\n\nThe breadth of styles that have come to be associated with the term preclude it from being a specific musical genre. Pitchfork writer Martin Clark has suggested that \"well-meaning attempts to loosely define the ground we're covering here are somewhat futile and almost certainly flawed. This is not one genre. However, given the links, interaction, and free-flowing ideas ... you can't dismiss all these acts as unrelated.\" Dubstep producer Skream is quoted in an interview with The Independent in September 2011 as saying: The word dubstep is being used by a lot of people and there were a lot of people being tagged with the dubstep brush. They don't want to be tagged with it and shouldn't be tagged with it – that's not what they're pushing... When I say 'UK bass', it's what everyone UK is associated with so it would be a lot easier if it was called that.\"\n\nIn the United Kingdom, bass music, or UK bass has had major mainstream success since the late 2000s and early 2010s, with artists such as James Blake, Example, Burial, Zomby, Chase & Status, Skream, TNGHT, Benga and Wretch 32. The term \"post-dubstep\" has been used synonymously to refer to artists, such as Blake, Mount Kimbie and Fantastic Mr. Fox whose work drew on UK garage, 2-step, and other forms of underground dance music, as well as ambient music and early R&B. Outside of nightclubs, bass music has mainly been promoted and played on internet radio stations such as Sub.FM and Rinse FM.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Bass music" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3728" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Bass music (also called UK bass or post-dubstep) is an umbrella term for  club music that emerged in the United Kingdom during the mid-2000s under the influence of dubstep, UK garage, wonky, R&B, 2-step, house, grime, and other electronic styles that coalesced amongst varied artists. The phrase \"bass music\" came into use as artists began ambiguously blending the sounds of these defined genres while maintaining an emphasis on bass and rhythm.\n\nOrigins\n\nThe breadth of styles that have come to be associated with the term preclude it from being a specific musical genre. Pitchfork writer Martin Clark has suggested that \"well-meaning attempts to loosely define the ground we're covering here are somewhat futile and almost certainly flawed. This is not one genre. However, given the links, interaction, and free-flowing ideas ... you can't dismiss all these acts as unrelated.\" Dubstep producer Skream is quoted in an interview with The Independent in September 2011 as saying: The word dubstep is being used by a lot of people and there were a lot of people being tagged with the dubstep brush. They don't want to be tagged with it and shouldn't be tagged with it – that's not what they're pushing... When I say 'UK bass', it's what everyone UK is associated with so it would be a lot easier if it was called that.\"\n\nIn the United Kingdom, bass music, or UK bass has had major mainstream success since the late 2000s and early 2010s, with artists such as James Blake, Example, Burial, Zomby, Chase & Status, Skream, TNGHT, Benga and Wretch 32. The term \"post-dubstep\" has been used synonymously to refer to artists, such as Blake, Mount Kimbie and Fantastic Mr. Fox whose work drew on UK garage, 2-step, and other forms of underground dance music, as well as ambient music and early R&B. Outside of nightclubs, bass music has mainly been promoted and played on internet radio stations such as Sub.FM and Rinse FM. Bass music. http://en.wikipedia.org/?curid=3728."
+  }
+}

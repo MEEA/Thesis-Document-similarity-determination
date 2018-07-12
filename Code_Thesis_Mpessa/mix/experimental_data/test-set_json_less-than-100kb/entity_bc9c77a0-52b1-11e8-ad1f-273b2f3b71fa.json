@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1935",
+  "eid" : "bc9c77a0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778396186,
+  "textBody" : "Attorney may refer to:\n\n* Lawyer, as a general synonym\n* Attorney at law, an official title of lawyers in some jurisdictions\n* Attorney-in-fact, a holder of a power of attorney who is (though not necessarily a lawyer) able to act on another's behalf in legal and financial contexts\n* The Attorney, a 2013 South Korean film\n* Certain plants in the genus Clusia",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Attorney" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1935" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Attorney may refer to:\n\n* Lawyer, as a general synonym\n* Attorney at law, an official title of lawyers in some jurisdictions\n* Attorney-in-fact, a holder of a power of attorney who is (though not necessarily a lawyer) able to act on another's behalf in legal and financial contexts\n* The Attorney, a 2013 South Korean film\n* Certain plants in the genus Clusia. Attorney. http://en.wikipedia.org/?curid=1935."
+  }
+}

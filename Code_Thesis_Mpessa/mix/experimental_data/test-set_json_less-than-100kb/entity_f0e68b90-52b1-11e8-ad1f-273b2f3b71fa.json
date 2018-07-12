@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=9665",
+  "eid" : "f0e68b90-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778483913,
+  "textBody" : "An ectopia is a displacement or malposition of an organ or other body part, which is then referred to as ectopic. Most ectopias are congenital, but some may happen later in life.\n\nExamples\n\n*Ectopic ACTH syndrome, also known as small-cell carcinoma.\n*Ectopic calcification, a pathologic deposition of calcium salts in tissues or bone growth in soft tissues\n*Cerebellar tonsillar ectopia, aka Chiari malformation, a herniation of the brain through the foramen magnum, which may be congenital or caused by trauma. \n*Ectopic cilia, a hair growing where it isn't supposed to be, commonly an eyelash on an abnormal spot on the eyelid, distichia\n*Ectopia cordis, the displacement of the heart outside the body during fetal development \n*Ectopic enamel, a tooth abnormality, where enamel is found in an unusual location, such as at the root of a tooth\n*Ectopic expression, the expression of a gene in an abnormal place in an organism\n*Ectopic hormone, a hormone produced by a tumor, such as small-cell carcinoma, can cause Cushing's syndrome \n*Ectopia lentis, the displacement of the crystalline lens of the eye\n*Neuronal ectopia\n*Ectopic pancreas, displacement of pancreatic tissue in the body with no connection, anatomical or vascular, to the pancreas\n*Ectopic recombination, the recombination between sequences (like leu2 sequences) present at different genomic locations\n*Renal ectopia occurs when both kidneys are on the same side of the body\n*Ectopic testis, a testis that has moved to an unusual location\n*Ectopic thymus,  where thymus tissue is found in an abnormal location\n*Ectopic thyroid, where an entire or parts of the thyroid are located elsewhere in the body\n*Ectopic tooth\n*Ectopic ureter, where the ureter terminates somewhere other than the urinary bladder\n*Ectopia vesicae,  a congenital anomality in which part of the urinary bladder is present outside the body",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Ectopia (medicine)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=9665" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "An ectopia is a displacement or malposition of an organ or other body part, which is then referred to as ectopic. Most ectopias are congenital, but some may happen later in life.\n\nExamples\n\n*Ectopic ACTH syndrome, also known as small-cell carcinoma.\n*Ectopic calcification, a pathologic deposition of calcium salts in tissues or bone growth in soft tissues\n*Cerebellar tonsillar ectopia, aka Chiari malformation, a herniation of the brain through the foramen magnum, which may be congenital or caused by trauma. \n*Ectopic cilia, a hair growing where it isn't supposed to be, commonly an eyelash on an abnormal spot on the eyelid, distichia\n*Ectopia cordis, the displacement of the heart outside the body during fetal development \n*Ectopic enamel, a tooth abnormality, where enamel is found in an unusual location, such as at the root of a tooth\n*Ectopic expression, the expression of a gene in an abnormal place in an organism\n*Ectopic hormone, a hormone produced by a tumor, such as small-cell carcinoma, can cause Cushing's syndrome \n*Ectopia lentis, the displacement of the crystalline lens of the eye\n*Neuronal ectopia\n*Ectopic pancreas, displacement of pancreatic tissue in the body with no connection, anatomical or vascular, to the pancreas\n*Ectopic recombination, the recombination between sequences (like leu2 sequences) present at different genomic locations\n*Renal ectopia occurs when both kidneys are on the same side of the body\n*Ectopic testis, a testis that has moved to an unusual location\n*Ectopic thymus,  where thymus tissue is found in an abnormal location\n*Ectopic thyroid, where an entire or parts of the thyroid are located elsewhere in the body\n*Ectopic tooth\n*Ectopic ureter, where the ureter terminates somewhere other than the urinary bladder\n*Ectopia vesicae,  a congenital anomality in which part of the urinary bladder is present outside the body. Ectopia (medicine). http://en.wikipedia.org/?curid=9665."
+  }
+}

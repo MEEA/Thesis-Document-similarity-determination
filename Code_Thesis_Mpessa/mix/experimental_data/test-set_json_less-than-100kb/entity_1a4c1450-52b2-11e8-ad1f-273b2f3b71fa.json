@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15156",
+  "eid" : "1a4c1450-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778553365,
+  "textBody" : "ICD may refer to:\n\nIn health and medicine:\n* ICD, International Statistical Classification of Diseases and Related Health Problems\n* Implantable cardioverter-defibrillator\n* Impulse control disorder\n* Intercostal drain\n* Irritant contact dermatitis\n* Isobaric counterdiffusion\n \nOrganizations:\n* Information Control Division, a U.S. Army department in occupied Germany after World War II\n* Short form of USAMRICD: the United States Army Medical Research Institute of Chemical Defense\n* Iranian Club Dubai, a social club in Dubai, U.A.E.\n* Islamic Corporation for the Development of the Private Sector\n\nIn technology:\n* In-circuit debugger, in electronic hardware design\n* MPLAB ICD, an in-circuit debugger by Microchip Technology\n* Initial Capability Document, a description of system requirements used in United States Department of Defense\n* Interface Control Document, in system engineering and software engineering\n* Installable Client device driver, in Microsoft Windows\n\nOther uses:\n* Doctor of Canon Law, also \"JCD\", from Latin (Iuris Canonici Doctor)\n* Incentive-centered design\n* inland container depot\n* Interatomic Coulombic Decay",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "ICD (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15156" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "ICD may refer to:\n\nIn health and medicine:\n* ICD, International Statistical Classification of Diseases and Related Health Problems\n* Implantable cardioverter-defibrillator\n* Impulse control disorder\n* Intercostal drain\n* Irritant contact dermatitis\n* Isobaric counterdiffusion\n \nOrganizations:\n* Information Control Division, a U.S. Army department in occupied Germany after World War II\n* Short form of USAMRICD: the United States Army Medical Research Institute of Chemical Defense\n* Iranian Club Dubai, a social club in Dubai, U.A.E.\n* Islamic Corporation for the Development of the Private Sector\n\nIn technology:\n* In-circuit debugger, in electronic hardware design\n* MPLAB ICD, an in-circuit debugger by Microchip Technology\n* Initial Capability Document, a description of system requirements used in United States Department of Defense\n* Interface Control Document, in system engineering and software engineering\n* Installable Client device driver, in Microsoft Windows\n\nOther uses:\n* Doctor of Canon Law, also \"JCD\", from Latin (Iuris Canonici Doctor)\n* Incentive-centered design\n* inland container depot\n* Interatomic Coulombic Decay. ICD (disambiguation). http://en.wikipedia.org/?curid=15156."
+  }
+}

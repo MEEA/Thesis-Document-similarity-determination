@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16690",
+  "eid" : "279ee060-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778575718,
+  "textBody" : "Telecommunications in Kuwait provides information about the telephone, Internet, radio, and television infrastructure in Kuwait.\n\nInfrastructure\n\nTelephones\n\nTelephones - main lines in use:\n514,700 (2011), 510,300 (2005)\n\nTelephones - mobile cellular:\n4.9 million (2011), 2.7 million (2007)\n\nTelephone system:\n*general assessment: the quality of service is excellent\n*domestic: new telephone exchanges provide a large capacity for new subscribers; trunk traffic is carried by microwave radio relay, coaxial cable, open-wire and fiber-optic cable; a cellular telephone system operates throughout Kuwait, and the country is well supplied with pay telephones. \n*international: linked to international submarine cable Fiber-Optic Link Around the Globe (FLAG); linked to Bahrain, Qatar, UAE via the Fiber-Optic Gulf (FOG) cable; coaxial cable and microwave radio relay to Saudi Arabia; satellite earth stations - 6 (3 Intelsat - 1 Atlantic Ocean and 2 Indian Ocean, 1 Inmarsat - Atlantic Ocean, and 2 Arabsat) \n*country code: 965\n\nBroadcast media\n\nRadio broadcast stations:\nAM 6, FM 11, shortwave 1 (1998)\n\nRadios:\n1.175 million (1997)\n\nTelevision broadcast stations:\n13 (plus several satellite channels) (1997)\n\nTelevisions:\n875,000 (1997)\n\nInternet\n\nInternet Service Providers (ISPs):\n5 (2011)\nWhich are: Fasttelco, Gulfnet, KEMS, Mada, and Qualitynet  \n\nInternet users:\n1,925,956 or 74.2% of the population (2011),[http://www.itu.int/ITU-D/ict/statistics/material/excel/Individuals%20using%20the%20Internet2000-2011.xls Percentage of Individuals using the Internet 2000-2011], International Telecommunication Union, accessed on 19 August 2012. 700,000 (2005)\n\nTop-level domain: .kw[https://www.cia.gov/library/publications/the-world-factbook/geos/ku.html \"Kuwait\"], World Factbook, U.S. Central Intelligence Agency, retrieved 16 February 2013",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Telecommunications in Kuwait" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16690" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Telecommunications in Kuwait provides information about the telephone, Internet, radio, and television infrastructure in Kuwait.\n\nInfrastructure\n\nTelephones\n\nTelephones - main lines in use:\n514,700 (2011), 510,300 (2005)\n\nTelephones - mobile cellular:\n4.9 million (2011), 2.7 million (2007)\n\nTelephone system:\n*general assessment: the quality of service is excellent\n*domestic: new telephone exchanges provide a large capacity for new subscribers; trunk traffic is carried by microwave radio relay, coaxial cable, open-wire and fiber-optic cable; a cellular telephone system operates throughout Kuwait, and the country is well supplied with pay telephones. \n*international: linked to international submarine cable Fiber-Optic Link Around the Globe (FLAG); linked to Bahrain, Qatar, UAE via the Fiber-Optic Gulf (FOG) cable; coaxial cable and microwave radio relay to Saudi Arabia; satellite earth stations - 6 (3 Intelsat - 1 Atlantic Ocean and 2 Indian Ocean, 1 Inmarsat - Atlantic Ocean, and 2 Arabsat) \n*country code: 965\n\nBroadcast media\n\nRadio broadcast stations:\nAM 6, FM 11, shortwave 1 (1998)\n\nRadios:\n1.175 million (1997)\n\nTelevision broadcast stations:\n13 (plus several satellite channels) (1997)\n\nTelevisions:\n875,000 (1997)\n\nInternet\n\nInternet Service Providers (ISPs):\n5 (2011)\nWhich are: Fasttelco, Gulfnet, KEMS, Mada, and Qualitynet  \n\nInternet users:\n1,925,956 or 74.2% of the population (2011),[http://www.itu.int/ITU-D/ict/statistics/material/excel/Individuals%20using%20the%20Internet2000-2011.xls Percentage of Individuals using the Internet 2000-2011], International Telecommunication Union, accessed on 19 August 2012. 700,000 (2005)\n\nTop-level domain: .kw[https://www.cia.gov/library/publications/the-world-factbook/geos/ku.html \"Kuwait\"], World Factbook, U.S. Central Intelligence Agency, retrieved 16 February 2013. Telecommunications in Kuwait. http://en.wikipedia.org/?curid=16690."
+  }
+}

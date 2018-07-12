@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10496",
+  "eid" : "f5df6ef0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778492255,
+  "textBody" : "Daigo may refer to:\n\nBuddhism\n\n*Daigo (Zen) (大悟), a Buddhist term meaning great enlightenment or great realization\n*Daigo (Shōbōgenzō) (大悟), or Great Realization, a book in Eihei Dōgen's Shōbōgenzō\n*Daigo Temple (醍醐寺), from which Emperor Daigo took his name\n\nPeople\n\n*Emperor Daigo (醍醐天皇), Emperor of Japan between 897 and 930\n*Daigo family, a branch of the Ichijō family of Japanese nobility\n*Daigo (name)\n*Daigo Umehara, a Japanese competitive fighting game player\n\nPlaces\n\n*Daigo, Fushimi, Kyoto, a district in the ward of Fushimi-ku, Kyoto\n*Daigo Station (Kyoto) (醍醐駅), a train station\n*Daigo Station (Akita) (醍醐駅), a train station\n*Daigo, Ibaraki (大子町), a town in Ibaraki Prefecture\n\nOther uses\n\n*Daigo (dairy product) (醍醐), a type of cheese made in ancient Japan",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Daigo" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10496" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Daigo may refer to:\n\nBuddhism\n\n*Daigo (Zen) (大悟), a Buddhist term meaning great enlightenment or great realization\n*Daigo (Shōbōgenzō) (大悟), or Great Realization, a book in Eihei Dōgen's Shōbōgenzō\n*Daigo Temple (醍醐寺), from which Emperor Daigo took his name\n\nPeople\n\n*Emperor Daigo (醍醐天皇), Emperor of Japan between 897 and 930\n*Daigo family, a branch of the Ichijō family of Japanese nobility\n*Daigo (name)\n*Daigo Umehara, a Japanese competitive fighting game player\n\nPlaces\n\n*Daigo, Fushimi, Kyoto, a district in the ward of Fushimi-ku, Kyoto\n*Daigo Station (Kyoto) (醍醐駅), a train station\n*Daigo Station (Akita) (醍醐駅), a train station\n*Daigo, Ibaraki (大子町), a town in Ibaraki Prefecture\n\nOther uses\n\n*Daigo (dairy product) (醍醐), a type of cheese made in ancient Japan. Daigo. http://en.wikipedia.org/?curid=10496."
+  }
+}

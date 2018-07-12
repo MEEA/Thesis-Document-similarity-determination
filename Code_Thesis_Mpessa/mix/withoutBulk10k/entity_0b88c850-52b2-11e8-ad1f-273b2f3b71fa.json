@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13615",
+  "eid" : "0b88c850-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778528597,
+  "textBody" : "Household hardware (or simply, hardware) is equipment that can be touched or held by hand such as nuts, screws, washers, keys, locks, hinges, latches, handles, wire, chains, belts, plumbing supplies, electrical supplies, tools, utensils, cutlery and machine parts.  Household hardware is typically sold in hardware stores.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Household hardware" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13615" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Household hardware (or simply, hardware) is equipment that can be touched or held by hand such as nuts, screws, washers, keys, locks, hinges, latches, handles, wire, chains, belts, plumbing supplies, electrical supplies, tools, utensils, cutlery and machine parts.  Household hardware is typically sold in hardware stores. Household hardware. http://en.wikipedia.org/?curid=13615."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13927",
+  "eid" : "103dc4e0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778536494,
+  "textBody" : "Hyaena is a genus comprising two of the living species of hyenas: the striped hyena (Hyaena hyaena) from western Asia and northern Africa and the brown hyena (Hyaena brunnea) from southern Africa. The brown hyena has sometimes been placed in a separate genus Parahyaena, or even included in the otherwise fossil genus Pachycrocuta, but recent sources have tended to place it in Hyaena. The brown hyena's skull is larger than that of the striped hyena. The male brown hyena is slightly larger than the female, while the sexes of the striped hyena are equally sized. Both species are smaller than the spotted hyena, but larger than the aardwolf. They are predominantly scavengers.\nExtant Species",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Hyaena" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13927" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Hyaena is a genus comprising two of the living species of hyenas: the striped hyena (Hyaena hyaena) from western Asia and northern Africa and the brown hyena (Hyaena brunnea) from southern Africa. The brown hyena has sometimes been placed in a separate genus Parahyaena, or even included in the otherwise fossil genus Pachycrocuta, but recent sources have tended to place it in Hyaena. The brown hyena's skull is larger than that of the striped hyena. The male brown hyena is slightly larger than the female, while the sexes of the striped hyena are equally sized. Both species are smaller than the spotted hyena, but larger than the aardwolf. They are predominantly scavengers.\nExtant Species. Hyaena. http://en.wikipedia.org/?curid=13927."
+  }
+}

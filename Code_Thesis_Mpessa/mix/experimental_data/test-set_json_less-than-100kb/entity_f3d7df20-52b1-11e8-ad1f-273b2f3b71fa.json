@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10104",
+  "eid" : "f3d7df20-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778488850,
+  "textBody" : "Elara may refer to one of the following:\n\n*Elara (moon), a moon of Jupiter\n*Elara (mythology), the mother of Tityos in Greek mythology\n*Elara (timeshare), a Hilton Grand Vacations resort in Las Vegas, Nevada\n*Ellalan (monarch), an ancient Sri Lankan king also known as Ellara\n*\"Elara\", a song by Celldweller from Soundtrack for the Voices in My Head Vol. 2",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Elara" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10104" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Elara may refer to one of the following:\n\n*Elara (moon), a moon of Jupiter\n*Elara (mythology), the mother of Tityos in Greek mythology\n*Elara (timeshare), a Hilton Grand Vacations resort in Las Vegas, Nevada\n*Ellalan (monarch), an ancient Sri Lankan king also known as Ellara\n*\"Elara\", a song by Celldweller from Soundtrack for the Voices in My Head Vol. 2. Elara. http://en.wikipedia.org/?curid=10104."
+  }
+}

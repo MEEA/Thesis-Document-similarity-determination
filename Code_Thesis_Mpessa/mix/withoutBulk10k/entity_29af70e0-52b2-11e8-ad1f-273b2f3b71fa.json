@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16908",
+  "eid" : "29af70e0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778579182,
+  "textBody" : "Kadiogo is a province of Burkina Faso, located in its Centre Region. Its area is of 2,805 km², containing six departments and a population of 1,523,980 (2006).[http://www.insd.bf/Documents/Publications/INSD/Publications/Resultats_enquetes/Autres%20enq/Rapport_preliminaire_RGPH06.pdf National 2006 census preliminary results] Its capital is also the State capital, Ouagadougou. It features the central plateau of the country. It is highly urbanized and is the most densely populated province.\n\nDepartments\n\nKadiogo is divided into 7 departments:",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Kadiogo Province" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16908" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Kadiogo is a province of Burkina Faso, located in its Centre Region. Its area is of 2,805 km², containing six departments and a population of 1,523,980 (2006).[http://www.insd.bf/Documents/Publications/INSD/Publications/Resultats_enquetes/Autres%20enq/Rapport_preliminaire_RGPH06.pdf National 2006 census preliminary results] Its capital is also the State capital, Ouagadougou. It features the central plateau of the country. It is highly urbanized and is the most densely populated province.\n\nDepartments\n\nKadiogo is divided into 7 departments:. Kadiogo Province. http://en.wikipedia.org/?curid=16908."
+  }
+}

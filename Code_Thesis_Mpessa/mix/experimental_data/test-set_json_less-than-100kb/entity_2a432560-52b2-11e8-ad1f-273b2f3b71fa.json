@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17056",
+  "eid" : "2a432560-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778580150,
+  "textBody" : "Kiyoshi Atsumi (渥美 清 Atsumi Kiyoshi), born Yasuo Tadokoro (田所 康雄 Tadokoro Yasuo, 10 March 1928 in Tokyo – 4 August 1996 in Tokyo), was a Japanese film actor.\nHe started his career in 1951 as a comedian at a strip-show theater in Asakusa. After two years of fighting pulmonary tuberculosis, he made his debut on TV in 1956 and on film in 1957. His vivid performance of a lovable, innocent man in a film “Dear Mr. Emperor” (Haikei Tenno-Heika-Sama) in 1963 established his reputation as an actor.\n\nLater he became the star of the highly popular Tora-san series of films, from the original Otoko wa Tsurai yo in 1969 to the 48th film released in 1995, the year before his death.\n\nThe enduring success of the series made him synonymous with the Tora-san character, and many Japanese regarded his death as the death of Tora-san, not the death of Yasuo Tadokoro or Kiyoshi Atsumi.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Kiyoshi Atsumi" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17056" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Kiyoshi Atsumi (渥美 清 Atsumi Kiyoshi), born Yasuo Tadokoro (田所 康雄 Tadokoro Yasuo, 10 March 1928 in Tokyo – 4 August 1996 in Tokyo), was a Japanese film actor.\nHe started his career in 1951 as a comedian at a strip-show theater in Asakusa. After two years of fighting pulmonary tuberculosis, he made his debut on TV in 1956 and on film in 1957. His vivid performance of a lovable, innocent man in a film “Dear Mr. Emperor” (Haikei Tenno-Heika-Sama) in 1963 established his reputation as an actor.\n\nLater he became the star of the highly popular Tora-san series of films, from the original Otoko wa Tsurai yo in 1969 to the 48th film released in 1995, the year before his death.\n\nThe enduring success of the series made him synonymous with the Tora-san character, and many Japanese regarded his death as the death of Tora-san, not the death of Yasuo Tadokoro or Kiyoshi Atsumi. Kiyoshi Atsumi. http://en.wikipedia.org/?curid=17056."
+  }
+}

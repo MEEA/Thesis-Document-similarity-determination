@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18916",
+  "eid" : "3616f290-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778599993,
+  "textBody" : "Meaning may refer to:\n* Meaning (existential), the worth of life in contemporary existentialism\n* Meaning (linguistics), meaning which is communicated through the use of language\n* Meaning (non-linguistic), a general term of art to capture senses of the word \"meaning\", independent from its linguistic uses\n* Meaning (philosophy of language), definition, elements, and types of meaning discussed in philosophy\n* Meaning (psychology), epistemological position, in psychology as well as philosophy, linguistics, semiotics and sociology\n* Meaning (semiotics), the distribution of signs in sign relations\n* The meaning of life, a notion concerning the nature of human existence\n* Meaning, a 1975 book by Michael Polanyi and Harry Prosch\n* The Meaning of Meaning, a 1923 book by C. K. Ogden and I. A. Richards\n\nArts and entertainment\n\n* Meanings (album), a 2004 album by Gad Elbaz\n* \"Meaning\" (House), a 2006 episode of the TV series House\n* Meaning (music), the philosophical question of meaning in relation to music\n*\"The Meaning\", a song on Discipline (Janet Jackson album) (2008)\n*The Meaning (album), a 2011 album by Layzie Bone",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Meaning" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18916" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Meaning may refer to:\n* Meaning (existential), the worth of life in contemporary existentialism\n* Meaning (linguistics), meaning which is communicated through the use of language\n* Meaning (non-linguistic), a general term of art to capture senses of the word \"meaning\", independent from its linguistic uses\n* Meaning (philosophy of language), definition, elements, and types of meaning discussed in philosophy\n* Meaning (psychology), epistemological position, in psychology as well as philosophy, linguistics, semiotics and sociology\n* Meaning (semiotics), the distribution of signs in sign relations\n* The meaning of life, a notion concerning the nature of human existence\n* Meaning, a 1975 book by Michael Polanyi and Harry Prosch\n* The Meaning of Meaning, a 1923 book by C. K. Ogden and I. A. Richards\n\nArts and entertainment\n\n* Meanings (album), a 2004 album by Gad Elbaz\n* \"Meaning\" (House), a 2006 episode of the TV series House\n* Meaning (music), the philosophical question of meaning in relation to music\n*\"The Meaning\", a song on Discipline (Janet Jackson album) (2008)\n*The Meaning (album), a 2011 album by Layzie Bone. Meaning. http://en.wikipedia.org/?curid=18916."
+  }
+}

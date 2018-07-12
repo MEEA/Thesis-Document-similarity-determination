@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11781",
+  "eid" : "fdf522b0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778505819,
+  "textBody" : "Frisian usually refers to:\n\n*Frisians, the medieval and modern ethnic group inhabiting Frisia, a region on the western coasts of Germany and the Netherlands\n**Frisii, the ancient inhabitants of Frisia prior to 600 AD\n*Frisian languages, a group of West Germanic languages, including:\n**West Frisian language, spoken in Friesland, Netherlands\n**Saterland Frisian language, spoken in Lower Saxony, Germany\n**North Frisian language, spoken in Schleswig-Holstein, Germany\n**Middle Frisian, spoken in Frisia from the 16th to 19th Century\n**Old Frisian, spoken in Frisia from the 8th to 16th Century\n\nFrisian or Friesian may also refer to:\nAnimal breeds\n\n*Friesian horse, a horse breed from Friesland\n*Friesian cross, a cross of the Friesian horse with any other breed\n*Friesian Sporthorse, a type of Frisian cross, bred specifically for sport horse disciplines\n*Friesian or Holstein (cattle), a widespread black-and-white breed of dairy cattle\n*East Friesian (sheep), a breed of sheep notable for its high production of milk\n*Friesian chicken, a Dutch breed of chicken\n\nOther\n\n*Frisian horse or cheval de frise, a type of military barrier\n*Frisian School, a school of philosophy based on the works of Jakob Friedrich Fries\n*Frisian Solar Challenge, a solar-powered boat race\n*Friesan Fire, a horse that ran in the 2009 Kentucky Derby",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Frisian" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11781" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Frisian usually refers to:\n\n*Frisians, the medieval and modern ethnic group inhabiting Frisia, a region on the western coasts of Germany and the Netherlands\n**Frisii, the ancient inhabitants of Frisia prior to 600 AD\n*Frisian languages, a group of West Germanic languages, including:\n**West Frisian language, spoken in Friesland, Netherlands\n**Saterland Frisian language, spoken in Lower Saxony, Germany\n**North Frisian language, spoken in Schleswig-Holstein, Germany\n**Middle Frisian, spoken in Frisia from the 16th to 19th Century\n**Old Frisian, spoken in Frisia from the 8th to 16th Century\n\nFrisian or Friesian may also refer to:\nAnimal breeds\n\n*Friesian horse, a horse breed from Friesland\n*Friesian cross, a cross of the Friesian horse with any other breed\n*Friesian Sporthorse, a type of Frisian cross, bred specifically for sport horse disciplines\n*Friesian or Holstein (cattle), a widespread black-and-white breed of dairy cattle\n*East Friesian (sheep), a breed of sheep notable for its high production of milk\n*Friesian chicken, a Dutch breed of chicken\n\nOther\n\n*Frisian horse or cheval de frise, a type of military barrier\n*Frisian School, a school of philosophy based on the works of Jakob Friedrich Fries\n*Frisian Solar Challenge, a solar-powered boat race\n*Friesan Fire, a horse that ran in the 2009 Kentucky Derby. Frisian. http://en.wikipedia.org/?curid=11781."
+  }
+}

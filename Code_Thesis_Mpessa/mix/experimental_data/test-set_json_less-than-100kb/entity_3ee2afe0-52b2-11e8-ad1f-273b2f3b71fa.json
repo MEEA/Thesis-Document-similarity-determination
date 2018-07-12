@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19943",
+  "eid" : "3ee2afe0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778614750,
+  "textBody" : "Mostaganem (, ) is a province (wilaya) of Algeria. The capital is Mostaganem. Other localities include Ain Nouissi, Ain Tadles, Tazgait and Stidia.\n\nAdministrative divisions\n\nThe province is divided into 10 districts (daïras), which are further divided into 32 communes or municipalities.\n\nDistricts\n\n# Achacha\n# Aïn Nouïssy\n# Aïn Tédelès\n# Bouguirat\n# Hassi Mamèche\n# Kheïr Eddine\n# Mesra\n# Mostaganem\n# Sidi Ali\n# Sidi Lakhdar\n\nCommunes\n\n# Achacha (Achaacha)\n# Aïn Boudinar\n# Aïn Nouïssy\n# Aïn Sidi Chérif\n# Aïn Tédelès (Ain Tedles)\n# Benabdelmalek Ramdane (Abdelmalek Ramdane)\n# Bouguirat\n# El Hassaine\n# Fornaka\n# Hadjadj\n# Hassi Mamèche (Hasi Mameche)\n# Khadra\n# Kheïr Eddine (Kheiredine)\n# Mansourah\n# Mazagran (Mazagrain, Mezghrane)\n# Mesra\n# Mostaganem\n# Nékmaria\n# Oued El Kheïr\n# Ouled Boughalem\n# Ouled Malah (Ouled Maalef)\n# Safsaf (Saf Saf)\n# Sayada\n# Sidi Ali\n# Sidi Bellater (Sidi Belatar)\n# Sidi Lakhdar (Sidi Lakhdaara)\n# Sirat\n# Souaflia\n# Sour\n# Stidia\n# Tazgait\n# Touahria",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Mostaganem Province" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19943" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Mostaganem (, ) is a province (wilaya) of Algeria. The capital is Mostaganem. Other localities include Ain Nouissi, Ain Tadles, Tazgait and Stidia.\n\nAdministrative divisions\n\nThe province is divided into 10 districts (daïras), which are further divided into 32 communes or municipalities.\n\nDistricts\n\n# Achacha\n# Aïn Nouïssy\n# Aïn Tédelès\n# Bouguirat\n# Hassi Mamèche\n# Kheïr Eddine\n# Mesra\n# Mostaganem\n# Sidi Ali\n# Sidi Lakhdar\n\nCommunes\n\n# Achacha (Achaacha)\n# Aïn Boudinar\n# Aïn Nouïssy\n# Aïn Sidi Chérif\n# Aïn Tédelès (Ain Tedles)\n# Benabdelmalek Ramdane (Abdelmalek Ramdane)\n# Bouguirat\n# El Hassaine\n# Fornaka\n# Hadjadj\n# Hassi Mamèche (Hasi Mameche)\n# Khadra\n# Kheïr Eddine (Kheiredine)\n# Mansourah\n# Mazagran (Mazagrain, Mezghrane)\n# Mesra\n# Mostaganem\n# Nékmaria\n# Oued El Kheïr\n# Ouled Boughalem\n# Ouled Malah (Ouled Maalef)\n# Safsaf (Saf Saf)\n# Sayada\n# Sidi Ali\n# Sidi Bellater (Sidi Belatar)\n# Sidi Lakhdar (Sidi Lakhdaara)\n# Sirat\n# Souaflia\n# Sour\n# Stidia\n# Tazgait\n# Touahria. Mostaganem Province. http://en.wikipedia.org/?curid=19943."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17217",
+  "eid" : "2adf8c70-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778581175,
+  "textBody" : "KR is the ISO 3166-1 alpha-2 and WMO country code for South Korea.\n\nKR or Kr may also refer to:\n\nArts and entertainment\n\n* Grand Duke Konstantin Konstantinovich of Russia (1858–1915), poet known by his pen name \"KR\"\n* Kroger, an American grocery chain, NYSE symbol\n\nBusinesses and organizations\n\nRailways \n\n* Kenya Railways\n* Konkan Railway, India\n* Korea Rail Network Authority\n\nOther businesses and organizations\n\n* Kayser-Roth Corporation, clothing manufacturer, North Carolina, US\n* Knattspyrnufélag Reykjavíkur, an Icelandic football club\n**KR (basketball club), the basketball club associated with Knattspyrnufélag Reykjavíkur\n* Comores Aviation International (IATA airline designator KR)\n\nPlaces \n\n* .kr, country code top-level domain (ccTLD) of South Korea\n* K. R. Market, Bengalor, India\n* Kiribati (FIPS 10-4 country code)\n* Province of Crotone, Italy, vehicle regitration\n* Krasnodar International Airport (IATA airport code KR)\n\nOther uses \n\n* KR (ANSI), an ANSI X3.64 escape sequence\n* Kanuri language (ISO 639 alpha-2)\n* Kickoff returner, a return specialist in American and Canadian football\n* Knowledge representation and reasoning\n* Krone, or Krona, several currencies\n* Krypton, a chemical element with symbol Kr",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "KR" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17217" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "KR is the ISO 3166-1 alpha-2 and WMO country code for South Korea.\n\nKR or Kr may also refer to:\n\nArts and entertainment\n\n* Grand Duke Konstantin Konstantinovich of Russia (1858–1915), poet known by his pen name \"KR\"\n* Kroger, an American grocery chain, NYSE symbol\n\nBusinesses and organizations\n\nRailways \n\n* Kenya Railways\n* Konkan Railway, India\n* Korea Rail Network Authority\n\nOther businesses and organizations\n\n* Kayser-Roth Corporation, clothing manufacturer, North Carolina, US\n* Knattspyrnufélag Reykjavíkur, an Icelandic football club\n**KR (basketball club), the basketball club associated with Knattspyrnufélag Reykjavíkur\n* Comores Aviation International (IATA airline designator KR)\n\nPlaces \n\n* .kr, country code top-level domain (ccTLD) of South Korea\n* K. R. Market, Bengalor, India\n* Kiribati (FIPS 10-4 country code)\n* Province of Crotone, Italy, vehicle regitration\n* Krasnodar International Airport (IATA airport code KR)\n\nOther uses \n\n* KR (ANSI), an ANSI X3.64 escape sequence\n* Kanuri language (ISO 639 alpha-2)\n* Kickoff returner, a return specialist in American and Canadian football\n* Knowledge representation and reasoning\n* Krone, or Krona, several currencies\n* Krypton, a chemical element with symbol Kr. KR. http://en.wikipedia.org/?curid=17217."
+  }
+}

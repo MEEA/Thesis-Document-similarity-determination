@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11501",
+  "eid" : "fbfef800-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778502528,
+  "textBody" : "Railways:\n0 km\n\nHighways:\ntotal:\n\npaved:\n\nunpaved:\n (1996 est.)\n\nPorts and harbours:\nColonia (Yap), Kolonia (Pohnpei), Lele, Moen\n\nMerchant marine:\ntotal: three ships (1000 GRT or over) 3,560 GRT/ \nby type: cargo one, passenger/cargo two (2007) \n\nAirports:\nSix (2007)\n\nAirports - with paved runways:\ntotal:\nSix\n1,524 to 2,437 m:\nFour (Chuuk International Airport, Kosrae International Airport, Pohnpei International Airport and Yap International Airport)\n914 to 1,523 m:\nTwo (2007)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Transportation in the Federated States of Micronesia" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11501" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Railways:\n0 km\n\nHighways:\ntotal:\n\npaved:\n\nunpaved:\n (1996 est.)\n\nPorts and harbours:\nColonia (Yap), Kolonia (Pohnpei), Lele, Moen\n\nMerchant marine:\ntotal: three ships (1000 GRT or over) 3,560 GRT/ \nby type: cargo one, passenger/cargo two (2007) \n\nAirports:\nSix (2007)\n\nAirports - with paved runways:\ntotal:\nSix\n1,524 to 2,437 m:\nFour (Chuuk International Airport, Kosrae International Airport, Pohnpei International Airport and Yap International Airport)\n914 to 1,523 m:\nTwo (2007). Transportation in the Federated States of Micronesia. http://en.wikipedia.org/?curid=11501."
+  }
+}

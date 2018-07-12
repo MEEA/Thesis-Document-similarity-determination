@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=4994",
+  "eid" : "d1baa800-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778431616,
+  "textBody" : "Ballu tundu or ballu bardu is a traditional Sardinian folk dance which is typically danced in a closed or open circle. The dance was described as early as 1805 by Mameli and by La Marmora in 1825. In northern and central Sardinia, the dance is lively and animated with leaps and agile movements and usually accompanied by a choir of three or more singers in the center of the circle. In other areas, the dance is done to launeddas and the shepherd's sulittu but the accordion had also made its appearance by the 19th century. The Introduction is in Time_signature#Most_frequent_time_signatures| time but the dance itself is done in Time_signature#Most_frequent_time_signatures|.\n\nAt least in the past, the manner of holding hands was very important and followed strict rules. Married or engaged couples could hold hands palm to palm with fingers entwined, but a man could not do this with a young girl or another man's wife. If a stranger entered the circle, he had to do so to the woman's right so as not to come between her and her husband.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Ballu tundu" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=4994" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Ballu tundu or ballu bardu is a traditional Sardinian folk dance which is typically danced in a closed or open circle. The dance was described as early as 1805 by Mameli and by La Marmora in 1825. In northern and central Sardinia, the dance is lively and animated with leaps and agile movements and usually accompanied by a choir of three or more singers in the center of the circle. In other areas, the dance is done to launeddas and the shepherd's sulittu but the accordion had also made its appearance by the 19th century. The Introduction is in Time_signature#Most_frequent_time_signatures| time but the dance itself is done in Time_signature#Most_frequent_time_signatures|.\n\nAt least in the past, the manner of holding hands was very important and followed strict rules. Married or engaged couples could hold hands palm to palm with fingers entwined, but a man could not do this with a young girl or another man's wife. If a stranger entered the circle, he had to do so to the woman's right so as not to come between her and her husband. Ballu tundu. http://en.wikipedia.org/?curid=4994."
+  }
+}

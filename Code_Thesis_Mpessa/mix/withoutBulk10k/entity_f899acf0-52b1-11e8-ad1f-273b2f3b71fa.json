@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10947",
+  "eid" : "f899acf0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778496831,
+  "textBody" : "Fission, a splitting of something into two or more parts, may refer to:\n\n* Fission (biology), the subdivision of a cell or multi-cellular body into one or more parts and the regeneration of each part into a complete individual\n** Mitochondrial fission\n* Loop fission, a computer science concept\n* Nuclear fission, where a large atomic nucleus (such as that of uranium) is split into two (or sometimes more) smaller nuclei\n** Cold fission\n** Fast fission\n** Spontaneous fission\n** Ternary fission\n* Another name for secession, the process whereby a nation-state divides into multiple states\n* Singlet fission, in spectroscopy\n\nMusic\n\n* Fission (album), a 1997 release by Jens Johansson\n* Fission (band), a Swedish death metal band\n* Melodic fission, a phenomenon in music theory",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Fission" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10947" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Fission, a splitting of something into two or more parts, may refer to:\n\n* Fission (biology), the subdivision of a cell or multi-cellular body into one or more parts and the regeneration of each part into a complete individual\n** Mitochondrial fission\n* Loop fission, a computer science concept\n* Nuclear fission, where a large atomic nucleus (such as that of uranium) is split into two (or sometimes more) smaller nuclei\n** Cold fission\n** Fast fission\n** Spontaneous fission\n** Ternary fission\n* Another name for secession, the process whereby a nation-state divides into multiple states\n* Singlet fission, in spectroscopy\n\nMusic\n\n* Fission (album), a 1997 release by Jens Johansson\n* Fission (band), a Swedish death metal band\n* Melodic fission, a phenomenon in music theory. Fission. http://en.wikipedia.org/?curid=10947."
+  }
+}

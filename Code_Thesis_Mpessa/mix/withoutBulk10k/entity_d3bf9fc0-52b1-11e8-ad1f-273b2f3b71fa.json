@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=5302",
+  "eid" : "d3bf9fc0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778435004,
+  "textBody" : "Conditional may refer to:\n\n*Causal conditional, if X then Y, where X is a cause of Y\n*Conditional probability, the probability of an event A given that another event B has occurred\n*Conditional proof, in logic: a proof that asserts a conditional, and proves that the antecedent leads to the consequent\n*Strict conditional, in philosophy, logic, and mathematics\n*Material conditional, in propositional calculus, or logical calculus in mathematics\n*Relevance conditional, in relevance logic\n*Conditional (computer programming), a statement or expression in computer programming languages\n*A conditional expression in computer programming languages such as ?:\n*Conditions in a contract\n\nGrammar and linguistics\n\n*Conditional mood (or conditional tense), a verb form in many languages\n*Conditional sentence, a sentence type used to refer to hypothetical situations and their consequences\n**Indicative conditional, a conditional sentence expressing \"if A then B\" in a natural language\n**Counterfactual conditional, a conditional sentence indicating what would be the case if its antecedent were true\n\nOther\n\n* Conditional jockey, an apprentice jockey in British or Irish National Hunt racing\n* Conditional short-circuit current\n* Conditional Turn-Based Battle\n* Conditional Value-at-Risk",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Conditional" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=5302" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Conditional may refer to:\n\n*Causal conditional, if X then Y, where X is a cause of Y\n*Conditional probability, the probability of an event A given that another event B has occurred\n*Conditional proof, in logic: a proof that asserts a conditional, and proves that the antecedent leads to the consequent\n*Strict conditional, in philosophy, logic, and mathematics\n*Material conditional, in propositional calculus, or logical calculus in mathematics\n*Relevance conditional, in relevance logic\n*Conditional (computer programming), a statement or expression in computer programming languages\n*A conditional expression in computer programming languages such as ?:\n*Conditions in a contract\n\nGrammar and linguistics\n\n*Conditional mood (or conditional tense), a verb form in many languages\n*Conditional sentence, a sentence type used to refer to hypothetical situations and their consequences\n**Indicative conditional, a conditional sentence expressing \"if A then B\" in a natural language\n**Counterfactual conditional, a conditional sentence indicating what would be the case if its antecedent were true\n\nOther\n\n* Conditional jockey, an apprentice jockey in British or Irish National Hunt racing\n* Conditional short-circuit current\n* Conditional Turn-Based Battle\n* Conditional Value-at-Risk. Conditional. http://en.wikipedia.org/?curid=5302."
+  }
+}

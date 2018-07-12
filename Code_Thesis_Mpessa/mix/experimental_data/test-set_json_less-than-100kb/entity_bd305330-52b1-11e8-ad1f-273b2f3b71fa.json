@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2004",
+  "eid" : "bd305330-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778397155,
+  "textBody" : "ASL is a common initialism for American Sign Language, the sign language of the United States and Canada, and may also refer to:\n\nCulture \n\nSport \n\n* American Soccer League (1921-1933)\n* American Soccer League (1933-1983)\n* American Soccer League (1988-1989)\n* American Soccer League (2014)\n* Australia's Surfing Life, surf magazine\n* Axpo Super League, Switzerland, soccer league\n\nOther uses \n\n* A Static Lullaby, a band, Chino Hills, California, USA\n* Advanced Squad Leader, a tactical board wargame\n* \"age/sex/location\", commonly used in personal advertisements etc.\n* Average shot length, in film editing\n\nScience and technology \n\nAviation\n\n* Aeronautical Syndicate Ltd, British aeroplane manufacturer.\n* Air Serbia, ICAO airline code\n* ASL Aviation Group, a Belgian air taxi and charter airline\n\nBiology and medicine \n\n* American Society of Lymphology\n* Argininosuccinate lyase, an enzyme\n* Arterial spin labelling, a perfusion MRI technique\n\nComputing \n\n* ACPI Source Language, for ACPI tables\n* Adobe Source Libraries, open-source GUI software libraries\n* Advanced Simulation Library, open-source hardware-accelerated multiphysics simulation software\n* AMPL Solver Library, an open-source automatic differentiation library\n* Apache Software License, an open-source license for software\n* Application Services Library, a process model for the maintenance of software applications\n\nOther uses \n\n* Above sea level, an altitude measurement\n* Association for Symbolic Logic, of specialists in mathematical logic and philosophical logic\n* Automated Side Loader, type of garbage collection truck\n\nSociety \n\nEducation \n\n* The American School in London\n* Appalachian School of Law, Grundy, Virginia, USA\n* Art Students' League of Philadelphia\n\nOther uses \n\n* Advanced stop line, a road marking at junctions\n* Former Artists' Suffrage League, UK\n* Autobacs Sportscar Laboratory, of Autobacs Seven, Japan\n* Ansar al-Sharia in Libya, a Salafist Islamist militia group",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "ASL (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2004" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "ASL is a common initialism for American Sign Language, the sign language of the United States and Canada, and may also refer to:\n\nCulture \n\nSport \n\n* American Soccer League (1921-1933)\n* American Soccer League (1933-1983)\n* American Soccer League (1988-1989)\n* American Soccer League (2014)\n* Australia's Surfing Life, surf magazine\n* Axpo Super League, Switzerland, soccer league\n\nOther uses \n\n* A Static Lullaby, a band, Chino Hills, California, USA\n* Advanced Squad Leader, a tactical board wargame\n* \"age/sex/location\", commonly used in personal advertisements etc.\n* Average shot length, in film editing\n\nScience and technology \n\nAviation\n\n* Aeronautical Syndicate Ltd, British aeroplane manufacturer.\n* Air Serbia, ICAO airline code\n* ASL Aviation Group, a Belgian air taxi and charter airline\n\nBiology and medicine \n\n* American Society of Lymphology\n* Argininosuccinate lyase, an enzyme\n* Arterial spin labelling, a perfusion MRI technique\n\nComputing \n\n* ACPI Source Language, for ACPI tables\n* Adobe Source Libraries, open-source GUI software libraries\n* Advanced Simulation Library, open-source hardware-accelerated multiphysics simulation software\n* AMPL Solver Library, an open-source automatic differentiation library\n* Apache Software License, an open-source license for software\n* Application Services Library, a process model for the maintenance of software applications\n\nOther uses \n\n* Above sea level, an altitude measurement\n* Association for Symbolic Logic, of specialists in mathematical logic and philosophical logic\n* Automated Side Loader, type of garbage collection truck\n\nSociety \n\nEducation \n\n* The American School in London\n* Appalachian School of Law, Grundy, Virginia, USA\n* Art Students' League of Philadelphia\n\nOther uses \n\n* Advanced stop line, a road marking at junctions\n* Former Artists' Suffrage League, UK\n* Autobacs Sportscar Laboratory, of Autobacs Seven, Japan\n* Ansar al-Sharia in Libya, a Salafist Islamist militia group. ASL (disambiguation). http://en.wikipedia.org/?curid=2004."
+  }
+}

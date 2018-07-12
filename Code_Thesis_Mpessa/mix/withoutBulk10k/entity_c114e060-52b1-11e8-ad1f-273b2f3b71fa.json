@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2580",
+  "eid" : "c114e060-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778403686,
+  "textBody" : "Ananke () has several meanings:\n\n*Ananke (moon), a moon of Jupiter\n*Ananke group, a group of satellites of Jupiter that follow similar orbits to Ananke\n*Ananke (mythology), in Greek mythology, the mother of the Moirai and Adrasteia, Goddess of destiny, necessity, and fate\n*\"Ananke\", a short story by Stanislav Lem\n*Cosmopterix ananke, a moth of family Cosmopterigidae",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Ananke" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2580" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Ananke () has several meanings:\n\n*Ananke (moon), a moon of Jupiter\n*Ananke group, a group of satellites of Jupiter that follow similar orbits to Ananke\n*Ananke (mythology), in Greek mythology, the mother of the Moirai and Adrasteia, Goddess of destiny, necessity, and fate\n*\"Ananke\", a short story by Stanislav Lem\n*Cosmopterix ananke, a moth of family Cosmopterigidae. Ananke. http://en.wikipedia.org/?curid=2580."
+  }
+}

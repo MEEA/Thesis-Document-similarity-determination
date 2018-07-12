@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17175",
+  "eid" : "2ad21ef1-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778581087,
+  "textBody" : "KISS is an early low-level programming language on the IBM 650 business computer. It was listed in the Communications of the ACM 2(5):16 (May 1959).",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "KISS (system)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17175" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "KISS is an early low-level programming language on the IBM 650 business computer. It was listed in the Communications of the ACM 2(5):16 (May 1959). KISS (system). http://en.wikipedia.org/?curid=17175."
+  }
+}

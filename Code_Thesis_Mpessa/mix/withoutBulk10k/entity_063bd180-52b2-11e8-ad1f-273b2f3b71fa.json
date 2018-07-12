@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13048",
+  "eid" : "063bd180-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778519704,
+  "textBody" : "Gent or Gents may refer to:\n* Gentleman (shortened form)\n** Gent (magazine), a men's magazine\n* The Belgian city of Ghent (Gent in Dutch)\n** K.A.A. Gent, a football club from Ghent\n* Gent (hyperelastic model), rubber elasticity  model\n* Gentamicin, an antibiotic\n* Gents (novel), a 1997 novel by Warwick Collins\n* a man's toilet in British English\n\nPeople \n\nFirst name \n\n*Gent Strazimiri, Albanian politician\nLast name \n\n*Alan Neville Gent, American University of Akron professor noted for contributions to elastomer physics\n*Chris Gent, British former CEO of Vodafone\n*Edward Gent, Governor General of the Malayan Union\n* John Thomas Gent, founder of British clock makers, Gents' of Leicester\n* Thomas Gent (1693-1778), printer and author\n*Peter Gent, American writer and football player\n\nMusic\n\n*Mike Gent, American musician\nBands\n\n*The Gents (American band) Willie Kent\n*The Gents (British band)\n*The Gents, Dutch classical vocal group led by Peter Dijkstra",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Gent" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13048" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Gent or Gents may refer to:\n* Gentleman (shortened form)\n** Gent (magazine), a men's magazine\n* The Belgian city of Ghent (Gent in Dutch)\n** K.A.A. Gent, a football club from Ghent\n* Gent (hyperelastic model), rubber elasticity  model\n* Gentamicin, an antibiotic\n* Gents (novel), a 1997 novel by Warwick Collins\n* a man's toilet in British English\n\nPeople \n\nFirst name \n\n*Gent Strazimiri, Albanian politician\nLast name \n\n*Alan Neville Gent, American University of Akron professor noted for contributions to elastomer physics\n*Chris Gent, British former CEO of Vodafone\n*Edward Gent, Governor General of the Malayan Union\n* John Thomas Gent, founder of British clock makers, Gents' of Leicester\n* Thomas Gent (1693-1778), printer and author\n*Peter Gent, American writer and football player\n\nMusic\n\n*Mike Gent, American musician\nBands\n\n*The Gents (American band) Willie Kent\n*The Gents (British band)\n*The Gents, Dutch classical vocal group led by Peter Dijkstra. Gent. http://en.wikipedia.org/?curid=13048."
+  }
+}

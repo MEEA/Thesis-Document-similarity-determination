@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19287",
+  "eid" : "3986ec01-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778605760,
+  "textBody" : "Montserrat possesses a number of telecommunications systems, including mobile and main line telephone, radio and television.  The country code for Montserrat is \"MS\".\n\nIn Montserrat, there are 4,000 telephone main lines in use.  There are 17 internet service providers.\n\nMontserrat possesses an AM radio station, and 2 FM stations.  These serve 7,000 radios (by 1997 figures).  There is one television broadcast station, which in 1997 was serving 3,000 televisions.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Telecommunications in Montserrat" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19287" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Montserrat possesses a number of telecommunications systems, including mobile and main line telephone, radio and television.  The country code for Montserrat is \"MS\".\n\nIn Montserrat, there are 4,000 telephone main lines in use.  There are 17 internet service providers.\n\nMontserrat possesses an AM radio station, and 2 FM stations.  These serve 7,000 radios (by 1997 figures).  There is one television broadcast station, which in 1997 was serving 3,000 televisions. Telecommunications in Montserrat. http://en.wikipedia.org/?curid=19287."
+  }
+}

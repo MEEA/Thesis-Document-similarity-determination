@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=6979",
+  "eid" : "df0e1050-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778453973,
+  "textBody" : "Cell Cycle is a biweekly peer-reviewed scientific journal covering cell biology. The editor-in-chief is Mikhail V. Blagosklonny (Roswell Park Cancer Institute). The journal is abstracted and indexed in Medline/PubMed and the Science Citation Index Expanded.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Cell Cycle (journal)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=6979" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Cell Cycle is a biweekly peer-reviewed scientific journal covering cell biology. The editor-in-chief is Mikhail V. Blagosklonny (Roswell Park Cancer Institute). The journal is abstracted and indexed in Medline/PubMed and the Science Citation Index Expanded. Cell Cycle (journal). http://en.wikipedia.org/?curid=6979."
+  }
+}

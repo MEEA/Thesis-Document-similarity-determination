@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12442",
+  "eid" : "026fae50-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778513333,
+  "textBody" : "George Clinton may refer to:\n\nMusic\n\n*George Clinton (musician) (born 1941), American funk musician\n*George S. Clinton (born 1947), American musician\n*George Clinton (clarinettist) (1850–1913), British clarinettist\n\nPolitics\n\n*George Clinton (vice president) (1739–1812), Vice President of the U.S. and Governor of New York\n*George Clinton Jr. (1771–1809), U.S. Representative from New York, nephew of Vice President George Clinton\n*George W. Clinton (1807–1885), mayor of Buffalo, New York\n*George Clinton (born 1846), member of the 107th New York State Legislature (1884), son of Mayor George W. Clinton\n*George De Witt Clinton, member of the 77th (1854) and 80th New York State Legislatures (1857)\n*George Henry Clinton, Louisiana politician\n*George Clinton (Royal Navy officer) (1686–1761), British colonial governor of Newfoundland and of New York\n\nOther\n\n*George Clinton (rugby league) (1924–?), rugby league footballer who played in the 1940s, and 1950s, and coached in the 1950s, and 1960s\n*George Perkins Clinton (1867–1937), American botanist and mycologist",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "George Clinton" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12442" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "George Clinton may refer to:\n\nMusic\n\n*George Clinton (musician) (born 1941), American funk musician\n*George S. Clinton (born 1947), American musician\n*George Clinton (clarinettist) (1850–1913), British clarinettist\n\nPolitics\n\n*George Clinton (vice president) (1739–1812), Vice President of the U.S. and Governor of New York\n*George Clinton Jr. (1771–1809), U.S. Representative from New York, nephew of Vice President George Clinton\n*George W. Clinton (1807–1885), mayor of Buffalo, New York\n*George Clinton (born 1846), member of the 107th New York State Legislature (1884), son of Mayor George W. Clinton\n*George De Witt Clinton, member of the 77th (1854) and 80th New York State Legislatures (1857)\n*George Henry Clinton, Louisiana politician\n*George Clinton (Royal Navy officer) (1686–1761), British colonial governor of Newfoundland and of New York\n\nOther\n\n*George Clinton (rugby league) (1924–?), rugby league footballer who played in the 1940s, and 1950s, and coached in the 1950s, and 1960s\n*George Perkins Clinton (1867–1937), American botanist and mycologist. George Clinton. http://en.wikipedia.org/?curid=12442."
+  }
+}

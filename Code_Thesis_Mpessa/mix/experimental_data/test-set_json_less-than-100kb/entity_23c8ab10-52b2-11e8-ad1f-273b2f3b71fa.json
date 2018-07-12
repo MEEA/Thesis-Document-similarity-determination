@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16117",
+  "eid" : "23c8ab10-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778569281,
+  "textBody" : "Joseph is a masculine given name.\n\nJoseph may also refer to:\n\nReligion\n\n* Joseph (Genesis)\n* Saint Joseph\n* Joseph (Book of Mormon)\n\nPlaces\n\n;In the United States\n* Joseph, Idaho, a ghost town\n* Joseph, Oregon, a city\n* Joseph, Utah, a town\n* Joseph Canyon, in Oregon and Washington\n* Joseph Peak, Yellowstone National Park, Montana\n\nArts and entertainment\n\n* Joseph (opera), by the French composer Étienne Méhul\n* Joseph (film), a German/Italian/American television movie from 1995, which tells the story of Joseph in the Hebrew Bible\n* Joseph: King of Dreams, a 2000 direct-to-video animated musical film\n* Joseph (comics), a Marvel Comics character who was briefly a member of the X-Men\n* Joseph, a member of the Saint Shields in the animated series Beyblade: V-Force\n* Joseph (band), a vocal trio from Oregon\n* Joseph and the Amazing Technicolor Dreamcoat, a 1968 musical by Tim Rice and Andrew Lloyd Webber\n* Joseph Joestar, a fictional character from JoJo's Bizarre Adventure\n\nOther uses\n\n* Joseph (surname)\n*Joseph (fashion brand), a retailer founded by Joseph Ettedgui\n* Joseph, the formal name of Big Joe, a church bell",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Joseph (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16117" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Joseph is a masculine given name.\n\nJoseph may also refer to:\n\nReligion\n\n* Joseph (Genesis)\n* Saint Joseph\n* Joseph (Book of Mormon)\n\nPlaces\n\n;In the United States\n* Joseph, Idaho, a ghost town\n* Joseph, Oregon, a city\n* Joseph, Utah, a town\n* Joseph Canyon, in Oregon and Washington\n* Joseph Peak, Yellowstone National Park, Montana\n\nArts and entertainment\n\n* Joseph (opera), by the French composer Étienne Méhul\n* Joseph (film), a German/Italian/American television movie from 1995, which tells the story of Joseph in the Hebrew Bible\n* Joseph: King of Dreams, a 2000 direct-to-video animated musical film\n* Joseph (comics), a Marvel Comics character who was briefly a member of the X-Men\n* Joseph, a member of the Saint Shields in the animated series Beyblade: V-Force\n* Joseph (band), a vocal trio from Oregon\n* Joseph and the Amazing Technicolor Dreamcoat, a 1968 musical by Tim Rice and Andrew Lloyd Webber\n* Joseph Joestar, a fictional character from JoJo's Bizarre Adventure\n\nOther uses\n\n* Joseph (surname)\n*Joseph (fashion brand), a retailer founded by Joseph Ettedgui\n* Joseph, the formal name of Big Joe, a church bell. Joseph (disambiguation). http://en.wikipedia.org/?curid=16117."
+  }
+}

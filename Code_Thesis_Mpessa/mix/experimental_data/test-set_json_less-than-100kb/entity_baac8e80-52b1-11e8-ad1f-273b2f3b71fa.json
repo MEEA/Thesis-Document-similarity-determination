@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1602",
+  "eid" : "baac8e80-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778392936,
+  "textBody" : "Alexander I may refer to:\n\n* Alexander I of Macedon, king of Macedon 495–450 BC\n* Alexander I of Epirus (370 BC–331 BC), King of Epirus about 342 BC\n* Pope Alexander I (died 115), Pope from 106 to 115\n* Pope Alexander I of Alexandria (died 320s), Patriarch of Alexandria about 320\n* Alexander I of Scotland (c. 1078–1124), King of Scotland\n* Alexander I of Georgia (1386–?), King of Georgia\n* Alexandru cel Bun, (?–1432) Alexander I of Moldavia, prince\n* Alexander I of Kakheti (1445–1511), King of Kakheti\n* Alexander I Jagiellon (1461–1506), King of Poland\n* Alexander I of Russia (1777–1825), Emperor of Russia\n* Alexander of Bulgaria (1857–1893), Prince of Bulgaria\n* Alexander I of Serbia (1876–1903), King of Serbia\n* Alexander I of Yugoslavia (1888–1934), King of Yugoslavia\n* Alexander of Greece (1893–1920), King of Greece",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Alexander I" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1602" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Alexander I may refer to:\n\n* Alexander I of Macedon, king of Macedon 495–450 BC\n* Alexander I of Epirus (370 BC–331 BC), King of Epirus about 342 BC\n* Pope Alexander I (died 115), Pope from 106 to 115\n* Pope Alexander I of Alexandria (died 320s), Patriarch of Alexandria about 320\n* Alexander I of Scotland (c. 1078–1124), King of Scotland\n* Alexander I of Georgia (1386–?), King of Georgia\n* Alexandru cel Bun, (?–1432) Alexander I of Moldavia, prince\n* Alexander I of Kakheti (1445–1511), King of Kakheti\n* Alexander I Jagiellon (1461–1506), King of Poland\n* Alexander I of Russia (1777–1825), Emperor of Russia\n* Alexander of Bulgaria (1857–1893), Prince of Bulgaria\n* Alexander I of Serbia (1876–1903), King of Serbia\n* Alexander I of Yugoslavia (1888–1934), King of Yugoslavia\n* Alexander of Greece (1893–1920), King of Greece. Alexander I. http://en.wikipedia.org/?curid=1602."
+  }
+}

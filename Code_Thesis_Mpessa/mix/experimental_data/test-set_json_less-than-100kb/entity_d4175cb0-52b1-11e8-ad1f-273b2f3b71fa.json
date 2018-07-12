@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=5347",
+  "eid" : "d4175cb0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778435579,
+  "textBody" : "Chinese can refer to:\n* Something of, from, or related to China\n* Chinese people, people of Chinese nationality, or one of several Chinese ethnicities\n** Zhonghua minzu, the supra-ethnic Chinese nationality \n** Han Chinese, the dominant ethnic group in China, Singapore, and Taiwan\n** List of ethnic groups in China\n*** Ethnic minorities in China, the non-Han Chinese population in China\n** Overseas Chinese, people of Chinese ancestry who live outside mainland China, Hong Kong, Macau, and Taiwan\n* Chinese language, a language or family of languages spoken by the Han Chinese in China\n** Standard Chinese, the standard form of the Chinese (Mandarin) language in mainland China, Taiwan and Singapore, and the variety most commonly taught as a foreign language\n** Other varieties of Chinese\n** Written Chinese, the writing system of China\n* Chinese cuisine, styles of cooking originating from China\n* American Chinese cuisine\nGeography\n\n* Chinese Peak (California), a mountain\n* Chinese Peak (Idaho), a mountain\nOther\n\n* \"Chinese Gordon\", a nickname of Charles George Gordon (1833–1885), British military commander and administrator\n*\"Chinese\", song about take out meal by Lily Allen from It's Not Me, It's You",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Chinese" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=5347" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Chinese can refer to:\n* Something of, from, or related to China\n* Chinese people, people of Chinese nationality, or one of several Chinese ethnicities\n** Zhonghua minzu, the supra-ethnic Chinese nationality \n** Han Chinese, the dominant ethnic group in China, Singapore, and Taiwan\n** List of ethnic groups in China\n*** Ethnic minorities in China, the non-Han Chinese population in China\n** Overseas Chinese, people of Chinese ancestry who live outside mainland China, Hong Kong, Macau, and Taiwan\n* Chinese language, a language or family of languages spoken by the Han Chinese in China\n** Standard Chinese, the standard form of the Chinese (Mandarin) language in mainland China, Taiwan and Singapore, and the variety most commonly taught as a foreign language\n** Other varieties of Chinese\n** Written Chinese, the writing system of China\n* Chinese cuisine, styles of cooking originating from China\n* American Chinese cuisine\nGeography\n\n* Chinese Peak (California), a mountain\n* Chinese Peak (Idaho), a mountain\nOther\n\n* \"Chinese Gordon\", a nickname of Charles George Gordon (1833–1885), British military commander and administrator\n*\"Chinese\", song about take out meal by Lily Allen from It's Not Me, It's You. Chinese. http://en.wikipedia.org/?curid=5347."
+  }
+}

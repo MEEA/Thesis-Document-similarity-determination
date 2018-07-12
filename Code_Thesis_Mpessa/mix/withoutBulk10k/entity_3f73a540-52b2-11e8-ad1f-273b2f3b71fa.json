@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=20040",
+  "eid" : "3f73a540-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778615700,
+  "textBody" : "Maule Air, Inc. is a manufacturer of light, single-engined, short take-off and landing (STOL) aircraft, based in Moultrie, Georgia, USA. The company delivered 2,500 aircraft in its first 50 years of business.\n\nHistory \n\nBelford D. Maule (1911–1995) designed his first aircraft, the M-1 starting at age 19. He founded the company Mechanical Products Co. in Jackson, Michigan to market his own starter design. In 1941 the B.D. Maule Co. was founded, and Maule produced tailwheels and fabric testers. In 1953 he began design work, and started aircraft production with the \"Bee-Dee\" M-4 in 1957.\n\nThe company is a family-owned enterprise. Its owner, June Maule, widow of B. D. Maule, remained directly involved with factory production until her death in 2009 at the age of 92.\n\nProducts \n\nThe aircraft produced by Maule Air are tube-and-fabric designs and are popular with bush pilots, thanks to their very low stall speed, their tundra tires and oleo strut landing gear. Most Maules are built with tailwheel or amphibious configurations, although the newer MXT models have tricycle gear.\n\nAircraft models \n\nGallery \n\nFile:maule.mx-7-235.superrocket.g-iton.arp.jpg|Maule MX-7-235 Super Rocket, built 1987\nFile:Maule-Amphibian.780.jpg|A Maule amphibian\nFile:maule.m7-235b.arp.jpg|Maule M7-235B Super Rocket, built 1999",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Maule Air" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=20040" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Maule Air, Inc. is a manufacturer of light, single-engined, short take-off and landing (STOL) aircraft, based in Moultrie, Georgia, USA. The company delivered 2,500 aircraft in its first 50 years of business.\n\nHistory \n\nBelford D. Maule (1911–1995) designed his first aircraft, the M-1 starting at age 19. He founded the company Mechanical Products Co. in Jackson, Michigan to market his own starter design. In 1941 the B.D. Maule Co. was founded, and Maule produced tailwheels and fabric testers. In 1953 he began design work, and started aircraft production with the \"Bee-Dee\" M-4 in 1957.\n\nThe company is a family-owned enterprise. Its owner, June Maule, widow of B. D. Maule, remained directly involved with factory production until her death in 2009 at the age of 92.\n\nProducts \n\nThe aircraft produced by Maule Air are tube-and-fabric designs and are popular with bush pilots, thanks to their very low stall speed, their tundra tires and oleo strut landing gear. Most Maules are built with tailwheel or amphibious configurations, although the newer MXT models have tricycle gear.\n\nAircraft models \n\nGallery \n\nFile:maule.mx-7-235.superrocket.g-iton.arp.jpg|Maule MX-7-235 Super Rocket, built 1987\nFile:Maule-Amphibian.780.jpg|A Maule amphibian\nFile:maule.m7-235b.arp.jpg|Maule M7-235B Super Rocket, built 1999. Maule Air. http://en.wikipedia.org/?curid=20040."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11344",
+  "eid" : "fb2009b0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778501067,
+  "textBody" : "In mathematical logic, a first-order predicate is a predicate that takes only individual(s) constants or variables as argument(s).. Compare second-order predicate and higher-order predicate.\n\nThis is not to be confused with a one-place predicate or monad, which is a predicate that takes only one argument. For example the expression \"is a planet\" is a one-place predicate, while the expression \"is father of\" is a two-place predicate.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "First-order predicate" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11344" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "In mathematical logic, a first-order predicate is a predicate that takes only individual(s) constants or variables as argument(s).. Compare second-order predicate and higher-order predicate.\n\nThis is not to be confused with a one-place predicate or monad, which is a predicate that takes only one argument. For example the expression \"is a planet\" is a one-place predicate, while the expression \"is father of\" is a two-place predicate. First-order predicate. http://en.wikipedia.org/?curid=11344."
+  }
+}

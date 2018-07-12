@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7287",
+  "eid" : "e0d4eda0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778456954,
+  "textBody" : "Castello is the Italian word for castle. The Latin word Castellum means reservoir, water tank.\n\nCastello may refer to:\n\nPlaces\n\n*Castello, Venice is the largest of the six sestieri of Venice\n*Castello, the old town center of Giudicato of Cagliari in Sardinia\n*Castello, a neighbourhood in Florence\n*Castello, Hong Kong, a private housing estate in Hong Kong\n*A locality in the town of Monteggio in Switzerland\n*The Cittadella, a citadel in Gozo, Malta\n* Castello.  Field name (no 90), Devon County Records Office, to the Tithe Map of Littlehempston, South Devon UK.\n\nOther\n\n*Roman Catholic Diocese of Castello, a former diocese based in Venice\n*Castello (surname)\n*Castello cheeses",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Castello" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7287" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Castello is the Italian word for castle. The Latin word Castellum means reservoir, water tank.\n\nCastello may refer to:\n\nPlaces\n\n*Castello, Venice is the largest of the six sestieri of Venice\n*Castello, the old town center of Giudicato of Cagliari in Sardinia\n*Castello, a neighbourhood in Florence\n*Castello, Hong Kong, a private housing estate in Hong Kong\n*A locality in the town of Monteggio in Switzerland\n*The Cittadella, a citadel in Gozo, Malta\n* Castello.  Field name (no 90), Devon County Records Office, to the Tithe Map of Littlehempston, South Devon UK.\n\nOther\n\n*Roman Catholic Diocese of Castello, a former diocese based in Venice\n*Castello (surname)\n*Castello cheeses. Castello. http://en.wikipedia.org/?curid=7287."
+  }
+}

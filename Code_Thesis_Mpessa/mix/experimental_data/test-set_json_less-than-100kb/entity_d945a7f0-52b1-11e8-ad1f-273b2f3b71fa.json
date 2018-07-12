@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=5986",
+  "eid" : "d945a7f0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778444271,
+  "textBody" : "Con may refer to:\n\n* Confidence trick, also known as con, scam, or flim flam\n** Con (TV series), a television show about confidence trickery\n* Con (name)\n* Conn (nautical), also spelled con, the command of movement of a ship at sea\n* Consider (MUD), the ability to evaluate an opponent in MUDs\n* Consolidated Edison, also Con Edison\n* Contact lens, in Hong Kong English\n* Contra as in the original Latin phrase of pros and cons pro et contra\n* Convention (meeting)\n** Fan convention, e.g. \"Comic-Con\"\n* Convict, as in ex-con, a person who has been convicted of a crime\n** Convicted felon, a person who has been convicted of a felony crime in a court of law\n* In Italian musical terms used in English, it means \"with\" (con means \"with\" in both Italian and Spanish as the word derives from Latin)\n\nCON may refer to:\n\n* Certificate of Need\n* Commander of the Order of the Niger\n* Commonwealth of Nations, an association of primarily former British colonies\n* Concord Municipal Airport, a public-use airport in Merrimack County, New Hampshire, United States by IATA airport code\n* Continental Oil, via its ICAO airline designator\n* Cornwall, England, via its Chapman code\n* Naruto: Clash of Ninja, a 3D cel-shaded fighting game\n* The Chronicles of Narnia, a series of seven fantasy novels for children written by C. S. Lewis",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Con" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=5986" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Con may refer to:\n\n* Confidence trick, also known as con, scam, or flim flam\n** Con (TV series), a television show about confidence trickery\n* Con (name)\n* Conn (nautical), also spelled con, the command of movement of a ship at sea\n* Consider (MUD), the ability to evaluate an opponent in MUDs\n* Consolidated Edison, also Con Edison\n* Contact lens, in Hong Kong English\n* Contra as in the original Latin phrase of pros and cons pro et contra\n* Convention (meeting)\n** Fan convention, e.g. \"Comic-Con\"\n* Convict, as in ex-con, a person who has been convicted of a crime\n** Convicted felon, a person who has been convicted of a felony crime in a court of law\n* In Italian musical terms used in English, it means \"with\" (con means \"with\" in both Italian and Spanish as the word derives from Latin)\n\nCON may refer to:\n\n* Certificate of Need\n* Commander of the Order of the Niger\n* Commonwealth of Nations, an association of primarily former British colonies\n* Concord Municipal Airport, a public-use airport in Merrimack County, New Hampshire, United States by IATA airport code\n* Continental Oil, via its ICAO airline designator\n* Cornwall, England, via its Chapman code\n* Naruto: Clash of Ninja, a 3D cel-shaded fighting game\n* The Chronicles of Narnia, a series of seven fantasy novels for children written by C. S. Lewis. Con. http://en.wikipedia.org/?curid=5986."
+  }
+}

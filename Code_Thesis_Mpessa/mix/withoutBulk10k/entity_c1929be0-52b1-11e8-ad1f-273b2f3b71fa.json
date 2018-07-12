@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2680",
+  "eid" : "c1929be0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778404510,
+  "textBody" : "Abd ar-Rahman V () was an Umayyad Caliph of Córdoba.\n\nIn the agony of the Umayyad dynasty in the Al-Andalus (Moorish Iberia), two princes of the house were proclaimed Caliph of Córdoba for a very short time, Abd-ar-Rahman IV Mortada (1017), and Abd-ar-Rahman V Mostadir (1023–1024). Both were the mere puppets of factions, who deserted them at once. Abd-ar-Rahman IV was murdered the same year he was proclaimed at Cadiz, in flight from a battle in which he had been deserted by his supporters. Abd-ar-Rahman V was proclaimed caliph in December 1023 at Córdoba, and murdered in January 1024 by a mob of unemployed workmen, headed by one of his own cousins.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Abd ar-Rahman V" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2680" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Abd ar-Rahman V () was an Umayyad Caliph of Córdoba.\n\nIn the agony of the Umayyad dynasty in the Al-Andalus (Moorish Iberia), two princes of the house were proclaimed Caliph of Córdoba for a very short time, Abd-ar-Rahman IV Mortada (1017), and Abd-ar-Rahman V Mostadir (1023–1024). Both were the mere puppets of factions, who deserted them at once. Abd-ar-Rahman IV was murdered the same year he was proclaimed at Cadiz, in flight from a battle in which he had been deserted by his supporters. Abd-ar-Rahman V was proclaimed caliph in December 1023 at Córdoba, and murdered in January 1024 by a mob of unemployed workmen, headed by one of his own cousins. Abd ar-Rahman V. http://en.wikipedia.org/?curid=2680."
+  }
+}

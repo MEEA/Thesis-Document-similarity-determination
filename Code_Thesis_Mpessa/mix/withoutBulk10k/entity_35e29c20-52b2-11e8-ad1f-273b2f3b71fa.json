@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18889",
+  "eid" : "35e29c20-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778599650,
+  "textBody" : "Microphotonics is a branch of technology that deals with directing light on a microscopic scale.  It is used in optical networking.\n\nMicrophotonics employs at least two different materials with a large differential index of refraction to squeeze the light down to a small size.  Generally speaking, virtually all of microphotonics relies on Fresnel reflection to guide the light.  If the photons reside mainly in the higher index material, the confinement is due to total internal reflection.  If the confinement is due many distributed Fresnel reflections, the device is termed a photonic crystal.  There are many different types of geometries used in microphotonics including optical waveguides, optical microcavities, and Arrayed waveguide gratings.\n\nPhotonic crystals \n\nPhotonic crystals are non-conducting materials that reflect various wavelengths of light almost perfectly. Such a crystal can be referred to as a perfect mirror. Other devices employed in microphotonics include micromirrors and photonic wire waveguides. These tools are used to \"mold the flow of light\", a famous phrase for describing the goal of microphotonics.\n\nCurrently, microphotonics technology is being developed to replace electronics devices.  For instance, the long-standing goal of an all-optical router would eliminate electronic bottlenecks, speeding up the network. Perfect mirrors are being developed for use in fiber optic cables.\n\nMicrodisks, microtoroids, and microspheres \n\nAn optical microdisk, optical microtoroid, or optical microsphere uses internal reflection in a circular geometry to hold on to the photons.  This type of circularly symmetric optical resonance is called a Whispering gallery mode, after Lord Rayleigh coined the term.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Microphotonics" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18889" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Microphotonics is a branch of technology that deals with directing light on a microscopic scale.  It is used in optical networking.\n\nMicrophotonics employs at least two different materials with a large differential index of refraction to squeeze the light down to a small size.  Generally speaking, virtually all of microphotonics relies on Fresnel reflection to guide the light.  If the photons reside mainly in the higher index material, the confinement is due to total internal reflection.  If the confinement is due many distributed Fresnel reflections, the device is termed a photonic crystal.  There are many different types of geometries used in microphotonics including optical waveguides, optical microcavities, and Arrayed waveguide gratings.\n\nPhotonic crystals \n\nPhotonic crystals are non-conducting materials that reflect various wavelengths of light almost perfectly. Such a crystal can be referred to as a perfect mirror. Other devices employed in microphotonics include micromirrors and photonic wire waveguides. These tools are used to \"mold the flow of light\", a famous phrase for describing the goal of microphotonics.\n\nCurrently, microphotonics technology is being developed to replace electronics devices.  For instance, the long-standing goal of an all-optical router would eliminate electronic bottlenecks, speeding up the network. Perfect mirrors are being developed for use in fiber optic cables.\n\nMicrodisks, microtoroids, and microspheres \n\nAn optical microdisk, optical microtoroid, or optical microsphere uses internal reflection in a circular geometry to hold on to the photons.  This type of circularly symmetric optical resonance is called a Whispering gallery mode, after Lord Rayleigh coined the term. Microphotonics. http://en.wikipedia.org/?curid=18889."
+  }
+}

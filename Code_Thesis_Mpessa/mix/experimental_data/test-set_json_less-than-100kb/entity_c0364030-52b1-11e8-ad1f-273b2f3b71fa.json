@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2421",
+  "eid" : "c0364030-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778402227,
+  "textBody" : "Albrecht Achilles may refer to:\n*Albert Achilles, Elector of Brandenburg, (1414–1486)\n*Albrecht Achilles (Korvettenkapitän) (1914–1943), U-boat commander",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Albrecht Achilles" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2421" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Albrecht Achilles may refer to:\n*Albert Achilles, Elector of Brandenburg, (1414–1486)\n*Albrecht Achilles (Korvettenkapitän) (1914–1943), U-boat commander. Albrecht Achilles. http://en.wikipedia.org/?curid=2421."
+  }
+}

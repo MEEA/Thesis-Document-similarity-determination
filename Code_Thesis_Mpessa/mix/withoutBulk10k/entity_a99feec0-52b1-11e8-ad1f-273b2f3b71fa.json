@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1096",
+  "eid" : "a99feec0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778364332,
+  "textBody" : "This article considers transport in Armenia. For Soviet transportation, see Transport in the Soviet Union.\n\nRailways\n\nTotal\n\n825 km in common carrier service; does not include industrial lines\n\nBroad gauge\n\n825 km of  gauge (825 km electrified) (1995)\nThere is no service south of Yerevan.\n\nCity with metro system: Yerevan\n\nInternational Links\n\n* Azerbaijan - closed - same gauge\n* Georgia - yes - same gauge\n* Iran - via Azerbaijan - closed - break of gauge - /\n* Turkey - closed - break of gauge -/\n\nMost of the cross-border lines are currently closed due to political problems.\n\nRoadways\n\nAs of the end of 2010, nearly 450,000 automobiles were registered in Armenia.\n\nTotal\n\n7,700 km\nWorld Ranking: 144\n\nPaved\n\n7,700 km (including 1,561 km of expressways)\n\nUnpaved\n\n0 km (2006 est.)\n\nPipelines\n\nNatural gas 2,233 km (2008)\n\nPorts and harbors\n\nCargo shipments to landlocked Armenia are routed through ports in Georgia and Turkey.\n\nAirports\n\n11 (2008) Only Yerevan's Zvartnots International Airport and Gyumri's Shirak Airport are in use for commercial aviation.\ncountry comparison to the world: 154\n\nAirports - with paved runways\n\nTotal: 10\nOver 3,047 m (9,900 feet): 2\n1,524 to 2,437 m (7,920 feet): 2\n914 to 1,523 m (4,950 feet): 4\nUnder 914 m: 2 (as of 2008)\n\nAirports - with unpaved runways\n\nTotal: 1\n1,524 to 2,437 m: 0\n914 to 1,523 m: 1\nunder 914 m: 0 (as of 2008)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Transport in Armenia" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1096" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "This article considers transport in Armenia. For Soviet transportation, see Transport in the Soviet Union.\n\nRailways\n\nTotal\n\n825 km in common carrier service; does not include industrial lines\n\nBroad gauge\n\n825 km of  gauge (825 km electrified) (1995)\nThere is no service south of Yerevan.\n\nCity with metro system: Yerevan\n\nInternational Links\n\n* Azerbaijan - closed - same gauge\n* Georgia - yes - same gauge\n* Iran - via Azerbaijan - closed - break of gauge - /\n* Turkey - closed - break of gauge -/\n\nMost of the cross-border lines are currently closed due to political problems.\n\nRoadways\n\nAs of the end of 2010, nearly 450,000 automobiles were registered in Armenia.\n\nTotal\n\n7,700 km\nWorld Ranking: 144\n\nPaved\n\n7,700 km (including 1,561 km of expressways)\n\nUnpaved\n\n0 km (2006 est.)\n\nPipelines\n\nNatural gas 2,233 km (2008)\n\nPorts and harbors\n\nCargo shipments to landlocked Armenia are routed through ports in Georgia and Turkey.\n\nAirports\n\n11 (2008) Only Yerevan's Zvartnots International Airport and Gyumri's Shirak Airport are in use for commercial aviation.\ncountry comparison to the world: 154\n\nAirports - with paved runways\n\nTotal: 10\nOver 3,047 m (9,900 feet): 2\n1,524 to 2,437 m (7,920 feet): 2\n914 to 1,523 m (4,950 feet): 4\nUnder 914 m: 2 (as of 2008)\n\nAirports - with unpaved runways\n\nTotal: 1\n1,524 to 2,437 m: 0\n914 to 1,523 m: 1\nunder 914 m: 0 (as of 2008). Transport in Armenia. http://en.wikipedia.org/?curid=1096."
+  }
+}

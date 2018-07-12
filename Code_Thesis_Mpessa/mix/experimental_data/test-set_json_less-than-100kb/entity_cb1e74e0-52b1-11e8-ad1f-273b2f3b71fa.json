@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=4061",
+  "eid" : "cb1e74e0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778420526,
+  "textBody" : "In Norse mythology, BreiðablikThe name can be Anglicized as Breidablik, Breithablik or Breidhablik. (Broad-gleaming) is the home of Baldr. It is briefly described in Snorri Sturluson's Gylfaginning as one of the halls of Asgard:\n\n\"Then there is also in that place the abode called Breidablik, and there is not in heaven a fairer dwelling.\"Gylfaginning XVII, Brodeur's translation.\n\nLater in the work, when Snorri describes Baldr, he gives a longer description, citing Grímnismál, though he does not name the poem:\n\n\"He dwells in the place called Breidablik, which is in heaven; in that place may nothing unclean be, even as is said here:\n\n:Breidablik 't is called, | where Baldr has\n::A hall made for himself:\n:In that land | where I know lie\n::Fewest baneful runes.\"Gylfaginning XXII, Brodeur's translation. The strophe is Grímnismál 12.\n\nBreiðablik is not otherwise mentioned in the Eddic sources.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Breidablik" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=4061" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "In Norse mythology, BreiðablikThe name can be Anglicized as Breidablik, Breithablik or Breidhablik. (Broad-gleaming) is the home of Baldr. It is briefly described in Snorri Sturluson's Gylfaginning as one of the halls of Asgard:\n\n\"Then there is also in that place the abode called Breidablik, and there is not in heaven a fairer dwelling.\"Gylfaginning XVII, Brodeur's translation.\n\nLater in the work, when Snorri describes Baldr, he gives a longer description, citing Grímnismál, though he does not name the poem:\n\n\"He dwells in the place called Breidablik, which is in heaven; in that place may nothing unclean be, even as is said here:\n\n:Breidablik 't is called, | where Baldr has\n::A hall made for himself:\n:In that land | where I know lie\n::Fewest baneful runes.\"Gylfaginning XXII, Brodeur's translation. The strophe is Grímnismál 12.\n\nBreiðablik is not otherwise mentioned in the Eddic sources. Breidablik. http://en.wikipedia.org/?curid=4061."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12974",
+  "eid" : "05cb0e50-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778518965,
+  "textBody" : "Gilbert Plains is an unincorporated urban community in the Gilbert Plains Municipality within the Canadian province of Manitoba that held town status prior to January 1, 2015. It is located on Highway 5 and the CN railway line, between Dauphin and Grandview. It is approximately 250 miles northwest of Winnipeg. Gilbert Plains railway station receives Via Rail service. The local newspaper, [http://www.grandviewexponent.com/ The Exponent], services both Gilbert Plains and its neighboring town, Grandview.\n\nHistory \n\nIncorporated in 1906, the original townsite was some miles to the south. The community was named for Gilbert Ross, a Métis man who was living in the region when the first European settler, Glenlyon Campbell, arrived. The first white baby born in the Gilbert Plains district was Myrtle McCurdy, while the first white boy was Gilbert Clifford Best in 1900.\n\nOn January 1, 2015, the Town of Gilbert Plains relinquished its town status when it amalgamated with the Rural Municipality of Gilbert Plains to form the Gilbert Plains Municipality.\n\nGeography \n\nGilbert Plains is situated on the Valley River, in the parkland country between Riding Mountain National Park and Duck Mountain Provincial Park.\n\nClimate",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Gilbert Plains" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12974" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Gilbert Plains is an unincorporated urban community in the Gilbert Plains Municipality within the Canadian province of Manitoba that held town status prior to January 1, 2015. It is located on Highway 5 and the CN railway line, between Dauphin and Grandview. It is approximately 250 miles northwest of Winnipeg. Gilbert Plains railway station receives Via Rail service. The local newspaper, [http://www.grandviewexponent.com/ The Exponent], services both Gilbert Plains and its neighboring town, Grandview.\n\nHistory \n\nIncorporated in 1906, the original townsite was some miles to the south. The community was named for Gilbert Ross, a Métis man who was living in the region when the first European settler, Glenlyon Campbell, arrived. The first white baby born in the Gilbert Plains district was Myrtle McCurdy, while the first white boy was Gilbert Clifford Best in 1900.\n\nOn January 1, 2015, the Town of Gilbert Plains relinquished its town status when it amalgamated with the Rural Municipality of Gilbert Plains to form the Gilbert Plains Municipality.\n\nGeography \n\nGilbert Plains is situated on the Valley River, in the parkland country between Riding Mountain National Park and Duck Mountain Provincial Park.\n\nClimate. Gilbert Plains. http://en.wikipedia.org/?curid=12974."
+  }
+}

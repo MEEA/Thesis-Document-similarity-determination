@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14162",
+  "eid" : "127e17f0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778540271,
+  "textBody" : "This is a timeline of Polish history, comprising important legal and territorial changes and political events in Poland and its predecessor states.  To read about the background to these events, see History of Poland.  See also the list of Polish monarchs and list of Prime Ministers of Poland.\n\n Centuries: 5th6th7th8th9th10th11th12th13th14th15th16th17th18th19th20th21stSee also\n\n5th century \n\n10th century \n\n11th century \n\n12th century \n\n13th century \n\n14th century \n\n15th century \n\n16th century \n\n17th century \n\n18th century \n\n19th century \n\n20th century \n\nThe Second Polish Republic (1918–39)\n\nOccupation of Poland (1939–45)\n\nCommunist takeover, Polish People's Republic\n\nDemocratic Republic of Poland\n\n21st century",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Timeline of Polish history" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14162" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "This is a timeline of Polish history, comprising important legal and territorial changes and political events in Poland and its predecessor states.  To read about the background to these events, see History of Poland.  See also the list of Polish monarchs and list of Prime Ministers of Poland.\n\n Centuries: 5th6th7th8th9th10th11th12th13th14th15th16th17th18th19th20th21stSee also\n\n5th century \n\n10th century \n\n11th century \n\n12th century \n\n13th century \n\n14th century \n\n15th century \n\n16th century \n\n17th century \n\n18th century \n\n19th century \n\n20th century \n\nThe Second Polish Republic (1918–39)\n\nOccupation of Poland (1939–45)\n\nCommunist takeover, Polish People's Republic\n\nDemocratic Republic of Poland\n\n21st century. Timeline of Polish history. http://en.wikipedia.org/?curid=14162."
+  }
+}

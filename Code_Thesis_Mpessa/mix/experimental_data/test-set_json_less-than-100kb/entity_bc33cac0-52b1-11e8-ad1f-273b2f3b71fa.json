@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1870",
+  "eid" : "bc33cac0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778395500,
+  "textBody" : "Amalric or Amalaric (also Americ, Almerich, Emeric, Emerick and other variations) is a personal name derived from the tribal name Amal (referring to the Gothic Amali) and ric (Gothic reiks) meaning \"ruler, prince\". \n\nEquivalents in different languages include:\n*French: Amaury (surname/given name), Amalric (surname), Amaurich (surname), Maury (surname)\n*German: Amalrich, Emmerich\n*Italian: Amerigo, Arrigo\n*Hungarian: Imre\n*Latin: Amalricus, Americus, Almericus, Emericus\n*Greek: Emerikos\n*Polish: Amalaryk, Amalryk, Emeryk\n*Dutch: Emmerik, Amerik, \n*Portuguese: Amauri, Américo, América\n*Spanish: Américo\n*Serbo-Croatian: Mirko\n\nGiven name\n\n* Amalaric (502–531), King of the Visigoths from 526 to 531\n* Malaric (fl. 585), King of the Suevi\n* Amalric of Nesle (fl. 1151–1180), Patriarch of Jerusalem from 1158 to 1180\n* Amalric I of Jerusalem (1136–1174), King of Jerusalem from 1162 to 1174\n* Amalric II of Jerusalem (fl. 1155–1205), King of Jerusalem from 1197 to 1205\n* Amalric of Bena (f. 1200–1204), French theologian\n* Arnaud Amalric (fl. 1196–1225), seventeenth abbot of Citeaux\n* Amaury VI of Montfort (1195–1241), crusader\n* Amalric, Lord of Tyre (c. 1272 – 1310), Governor of Cyprus from 1306 to 1310\n* Amalric Gérard (born 1980), French actor\n\nSurname\n\n* Arnaud Amalric (died 1225), Cistercian abbot \n* Mathieu Amalric (born 1965), French actor and director\n* Leonid Amalrik (1905–1997), Soviet animator\n* Andrei Amalrik (1938–1980), Soviet dissident",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Amalric" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1870" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Amalric or Amalaric (also Americ, Almerich, Emeric, Emerick and other variations) is a personal name derived from the tribal name Amal (referring to the Gothic Amali) and ric (Gothic reiks) meaning \"ruler, prince\". \n\nEquivalents in different languages include:\n*French: Amaury (surname/given name), Amalric (surname), Amaurich (surname), Maury (surname)\n*German: Amalrich, Emmerich\n*Italian: Amerigo, Arrigo\n*Hungarian: Imre\n*Latin: Amalricus, Americus, Almericus, Emericus\n*Greek: Emerikos\n*Polish: Amalaryk, Amalryk, Emeryk\n*Dutch: Emmerik, Amerik, \n*Portuguese: Amauri, Américo, América\n*Spanish: Américo\n*Serbo-Croatian: Mirko\n\nGiven name\n\n* Amalaric (502–531), King of the Visigoths from 526 to 531\n* Malaric (fl. 585), King of the Suevi\n* Amalric of Nesle (fl. 1151–1180), Patriarch of Jerusalem from 1158 to 1180\n* Amalric I of Jerusalem (1136–1174), King of Jerusalem from 1162 to 1174\n* Amalric II of Jerusalem (fl. 1155–1205), King of Jerusalem from 1197 to 1205\n* Amalric of Bena (f. 1200–1204), French theologian\n* Arnaud Amalric (fl. 1196–1225), seventeenth abbot of Citeaux\n* Amaury VI of Montfort (1195–1241), crusader\n* Amalric, Lord of Tyre (c. 1272 – 1310), Governor of Cyprus from 1306 to 1310\n* Amalric Gérard (born 1980), French actor\n\nSurname\n\n* Arnaud Amalric (died 1225), Cistercian abbot \n* Mathieu Amalric (born 1965), French actor and director\n* Leonid Amalrik (1905–1997), Soviet animator\n* Andrei Amalrik (1938–1980), Soviet dissident. Amalric. http://en.wikipedia.org/?curid=1870."
+  }
+}

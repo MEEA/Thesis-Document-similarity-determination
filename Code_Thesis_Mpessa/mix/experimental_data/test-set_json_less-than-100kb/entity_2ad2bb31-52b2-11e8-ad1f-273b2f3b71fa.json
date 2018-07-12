@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17178",
+  "eid" : "2ad2bb31-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778581091,
+  "textBody" : "Kernel Language 0 (KL0) is a sequential logic programming language based on Prolog, used in the ICOT Fifth generation computer project.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "KL0" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17178" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Kernel Language 0 (KL0) is a sequential logic programming language based on Prolog, used in the ICOT Fifth generation computer project. KL0. http://en.wikipedia.org/?curid=17178."
+  }
+}

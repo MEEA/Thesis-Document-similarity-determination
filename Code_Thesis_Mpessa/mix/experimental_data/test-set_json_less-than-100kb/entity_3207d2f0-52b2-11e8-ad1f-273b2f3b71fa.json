@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18297",
+  "eid" : "3207d2f0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778593183,
+  "textBody" : "Lamentations may refer to:\n\n*The Book of Lamentations, part of the Old Testament or Pentateuch\n*The Holy Saturday Lamentation hymns in Eastern Orthodoxy\n*\"Lamentations of Jeremiah the Prophet\" from the celebration of Tenebrae in Roman Catholic and certain other Christian denominations\n*Laments (Kochanowski) by 16th-century Polish poet Jan Kochanowski\n*Lamentations (Live at Shepherd's Bush Empire 2003), a live DVD by the band Opeth\n*Lament",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Lamentations (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18297" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Lamentations may refer to:\n\n*The Book of Lamentations, part of the Old Testament or Pentateuch\n*The Holy Saturday Lamentation hymns in Eastern Orthodoxy\n*\"Lamentations of Jeremiah the Prophet\" from the celebration of Tenebrae in Roman Catholic and certain other Christian denominations\n*Laments (Kochanowski) by 16th-century Polish poet Jan Kochanowski\n*Lamentations (Live at Shepherd's Bush Empire 2003), a live DVD by the band Opeth\n*Lament. Lamentations (disambiguation). http://en.wikipedia.org/?curid=18297."
+  }
+}

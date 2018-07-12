@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10217",
+  "eid" : "f468ad70-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778489799,
+  "textBody" : "Eth is a commune in the Nord department in northern France.\n\nIt is about 10 km east-southeast of Valenciennes. Residents are called Ethois (feminine plural Ethoises).\n\nHeraldry",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Eth, Nord" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10217" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Eth is a commune in the Nord department in northern France.\n\nIt is about 10 km east-southeast of Valenciennes. Residents are called Ethois (feminine plural Ethoises).\n\nHeraldry. Eth, Nord. http://en.wikipedia.org/?curid=10217."
+  }
+}

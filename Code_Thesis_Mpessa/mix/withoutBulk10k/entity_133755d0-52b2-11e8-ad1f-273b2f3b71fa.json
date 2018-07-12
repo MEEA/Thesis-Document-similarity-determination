@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14246",
+  "eid" : "133755d0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778541485,
+  "textBody" : "Hedwig may refer to:\n\nPeople \n\n* Hedwig (name), a feminine German given name\n\nArts \n\n* Hedwig and the Angry Inch (musical), 1999\n** Hedwig and the Angry Inch (soundtrack), 1999\n* Hedwig and the Angry Inch (film), 2001\n\nPlaces \n\n* Hedwig Village, Texas, city in Harris County, Texas, United States\n\nOther \n\n* Hedwig Fountain, fountain in Zürich, Switzerland\n* Hedwig glass, type of glass of uncertain origin dating from some time in the 10th-12th centuries AD\n* Hedwig, code name of Red Hat Linux version 6.0 released April 19, 1999\n* 476 Hedwig, a main-belt asteroid\n* Hedwig, a type of hot cross bun eaten in northern German and Frisia",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Hedwig" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14246" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Hedwig may refer to:\n\nPeople \n\n* Hedwig (name), a feminine German given name\n\nArts \n\n* Hedwig and the Angry Inch (musical), 1999\n** Hedwig and the Angry Inch (soundtrack), 1999\n* Hedwig and the Angry Inch (film), 2001\n\nPlaces \n\n* Hedwig Village, Texas, city in Harris County, Texas, United States\n\nOther \n\n* Hedwig Fountain, fountain in Zürich, Switzerland\n* Hedwig glass, type of glass of uncertain origin dating from some time in the 10th-12th centuries AD\n* Hedwig, code name of Red Hat Linux version 6.0 released April 19, 1999\n* 476 Hedwig, a main-belt asteroid\n* Hedwig, a type of hot cross bun eaten in northern German and Frisia. Hedwig. http://en.wikipedia.org/?curid=14246."
+  }
+}

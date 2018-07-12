@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19549",
+  "eid" : "3bc1e7e0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778609502,
+  "textBody" : "Masochism is the practice of seeking pain because it is pleasurable, named for Leopold von Sacher-Masoch from Lviv. It may also refer to:\n\nPsychology \n\n* Sadomasochism, giving or receiving pleasure from the receipt or infliction of pain or humiliation\n** BDSM, consensual adult sadomasochistic activity\n** Sexual masochism disorder, a medical condition in which experiencing pain or humiliation is required for sexual arousal\n** Masochistic personality disorder, another name for self-defeating personality disorder, proposed in 1987 but never accepted into the Diagnostic and Statistical Manual of Mental Disorders (DSM)\n** Sadistic personality disorder\n\nBooks \n\n* Masochism and the Self, a 1989 book by Roy Baumeister\n* Masochism: Coldness and Cruelty, a 1967 book by Gilles Deleuze\n* Masochism in Modern Man, a 1941 book by Theodor Reik\n* A Defence of Masochism, a 1998 book by Anita Phillips\n\nMusic \n\n*Masochist is the title of the 2004 single release by Drum & Bass artists Pendulum\n* Masochism in the Place of Romance, a 2005 album by The Stiletto Formal\n* \"The Masochism Tango\", a song on the album An Evening Wasted with Tom Lehrer\n* \"Masochism World\", a song on Zen Arcade, a 1984 album by Hüsker Dü",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Masochism" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19549" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Masochism is the practice of seeking pain because it is pleasurable, named for Leopold von Sacher-Masoch from Lviv. It may also refer to:\n\nPsychology \n\n* Sadomasochism, giving or receiving pleasure from the receipt or infliction of pain or humiliation\n** BDSM, consensual adult sadomasochistic activity\n** Sexual masochism disorder, a medical condition in which experiencing pain or humiliation is required for sexual arousal\n** Masochistic personality disorder, another name for self-defeating personality disorder, proposed in 1987 but never accepted into the Diagnostic and Statistical Manual of Mental Disorders (DSM)\n** Sadistic personality disorder\n\nBooks \n\n* Masochism and the Self, a 1989 book by Roy Baumeister\n* Masochism: Coldness and Cruelty, a 1967 book by Gilles Deleuze\n* Masochism in Modern Man, a 1941 book by Theodor Reik\n* A Defence of Masochism, a 1998 book by Anita Phillips\n\nMusic \n\n*Masochist is the title of the 2004 single release by Drum & Bass artists Pendulum\n* Masochism in the Place of Romance, a 2005 album by The Stiletto Formal\n* \"The Masochism Tango\", a song on the album An Evening Wasted with Tom Lehrer\n* \"Masochism World\", a song on Zen Arcade, a 1984 album by Hüsker Dü. Masochism. http://en.wikipedia.org/?curid=19549."
+  }
+}

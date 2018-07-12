@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1046",
+  "eid" : "a956fee0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778363854,
+  "textBody" : "Abatement refers generally to a lessening, diminution, reduction, or moderation; specifically, it may refer to:\n\n* Abatement of debts and legacies, a common law doctrine of wills\n* Abatement in pleading, a legal defense to civil and criminal actions based purely on procedural and technical issues involving the death of parties\n* Abatement (heraldry), a modification of the shield or coat of arms that supposedly can be imposed by authority (in England supposedly by the Court of Chivalry) for misconduct\n* Asbestos abatement\n* Bird abatement, driving or removing undesired birds from an area\n* Dust abatement, the process of inhibiting the creation of excess soil dust, a pollutant that contributes to excess levels of particulate matter\n* Graffiti abatement\n* Nuisance abatement",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Abatement" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1046" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Abatement refers generally to a lessening, diminution, reduction, or moderation; specifically, it may refer to:\n\n* Abatement of debts and legacies, a common law doctrine of wills\n* Abatement in pleading, a legal defense to civil and criminal actions based purely on procedural and technical issues involving the death of parties\n* Abatement (heraldry), a modification of the shield or coat of arms that supposedly can be imposed by authority (in England supposedly by the Court of Chivalry) for misconduct\n* Asbestos abatement\n* Bird abatement, driving or removing undesired birds from an area\n* Dust abatement, the process of inhibiting the creation of excess soil dust, a pollutant that contributes to excess levels of particulate matter\n* Graffiti abatement\n* Nuisance abatement. Abatement. http://en.wikipedia.org/?curid=1046."
+  }
+}

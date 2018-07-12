@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15773",
+  "eid" : "1e6768f0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778560255,
+  "textBody" : "Jabal Ram is a mountain in Jordan. Most authorities give its elevation as 1734 m metres above sea level. It was once thought to be the highest point in Jordan, but SRTM data shows that Jabal Umm al Dami is 1854 m metres above sea level  and therefore higher.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Jabal Ram" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15773" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Jabal Ram is a mountain in Jordan. Most authorities give its elevation as 1734 m metres above sea level. It was once thought to be the highest point in Jordan, but SRTM data shows that Jabal Umm al Dami is 1854 m metres above sea level  and therefore higher. Jabal Ram. http://en.wikipedia.org/?curid=15773."
+  }
+}

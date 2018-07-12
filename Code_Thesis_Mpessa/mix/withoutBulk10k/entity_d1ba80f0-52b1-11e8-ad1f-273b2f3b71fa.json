@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=4992",
+  "eid" : "d1ba80f0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778431615,
+  "textBody" : "Belgian or Belgia refer to something or someone of, or related to, Belgium.\n\nBelgian may also refer to:\n*A person from Belgium, or of Belgian descent. For information about the Belgian people, see Belgians, Demographics of Belgium and Culture of Belgium. For specific persons, see List of Belgians\n*Belgian language, an extinct language formerly spoken in Gallia Belgica\n**Belgian Dutch and Belgian French, variants of Dutch and French, respectively\n*Belgian (horse), breed of heavy horse\n*Belgian cuisine\n*Belgian waffle, in culinary contexts\n*SS Belgian, a cargo ship in service with F Leyland & Co Ltd from 1919 to 1934\n*SS Belgia, a passenger ship in service with the Gotha Line from 1930 to 1941",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Belgian (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=4992" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Belgian or Belgia refer to something or someone of, or related to, Belgium.\n\nBelgian may also refer to:\n*A person from Belgium, or of Belgian descent. For information about the Belgian people, see Belgians, Demographics of Belgium and Culture of Belgium. For specific persons, see List of Belgians\n*Belgian language, an extinct language formerly spoken in Gallia Belgica\n**Belgian Dutch and Belgian French, variants of Dutch and French, respectively\n*Belgian (horse), breed of heavy horse\n*Belgian cuisine\n*Belgian waffle, in culinary contexts\n*SS Belgian, a cargo ship in service with F Leyland & Co Ltd from 1919 to 1934\n*SS Belgia, a passenger ship in service with the Gotha Line from 1930 to 1941. Belgian (disambiguation). http://en.wikipedia.org/?curid=4992."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1887",
+  "eid" : "bc4a11e0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778395646,
+  "textBody" : "Alexius is the Latinized form of the given name Alexios (, polytonic , \"defender\", cf. Alexander), especially common in the later Byzantine Empire. Variants include Alexis with the Russian Aleksey and its Ukrainian counterpart Oleksa/Oleksiy deriving from this form. The female form is Alexia () and its variants such as Alessia (which male form is Alessio) in Italian. \n\nIt may refer to:\n\nRulers \n\n* Alexios I Komnenos (1048–1118), Byzantine emperor\n* Alexios II Komnenos (1167–1183), Byzantine emperor\n* Alexios III, Byzantine emperor\n* Alexios IV, Byzantine emperor\n* Alexios V, Byzantine emperor\n* Alexios I of Trebizond, Emperor of Trebizond\n* Alexios II of Trebizond, Emperor of Trebizond\n* Alexios III of Trebizond, Emperor of Trebizond\n* Alexios IV of Trebizond, Emperor of Trebizond\n* Alexius Mikhailovich (1629–1676), Tsar of Russia\n* Alexius Petrovich (1690–1718), Russian tsarevich\n\nReligious figures\n\n* Alexius, Metropolitan of Moscow (1354–1378)\n* Patriarch Alexius I of Constantinople (1025–1043)\n* Alexius (c. 1425–1488), Russian archpriest who converted to Judaism\n* Patriarch Alexius I of Moscow and All Russia (r. 1945–1970)\n* Patriarch Alexius II of Moscow and All Russia (r. 1990–2008)\n* Alexius of Nicaea, metropolitan bishop\n* Saint Alexius of Rome, fifth-century eastern saint\n* Alexius, a monk and saint of Kiev - see Abraham and Onesimus of Kiev\n\nOther people\n\n* Alexios Apokaukos, Byzantine statesman\n* Alexios Aspietes, Byzantine governor\n* Alexios Branas, Byzantine general\n* Alexios Halebian, American tennis player\n* Alexius Meinong, Austrian philosopher\n* Alexios Mosele (Caesar), Byzantine heir-apparent\n* Alexios Palaiologos (despot), Byzantine heir-apparent\n* Alexios Philanthropenos, Byzantine general\n* Alexios Raoul (protovestiarios), Byzantine general\n* Alexios Strategopoulos, Byzantine general\n* Alexios Xiphias, Byzantine Catepan of Italy",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Alexius" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1887" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Alexius is the Latinized form of the given name Alexios (, polytonic , \"defender\", cf. Alexander), especially common in the later Byzantine Empire. Variants include Alexis with the Russian Aleksey and its Ukrainian counterpart Oleksa/Oleksiy deriving from this form. The female form is Alexia () and its variants such as Alessia (which male form is Alessio) in Italian. \n\nIt may refer to:\n\nRulers \n\n* Alexios I Komnenos (1048–1118), Byzantine emperor\n* Alexios II Komnenos (1167–1183), Byzantine emperor\n* Alexios III, Byzantine emperor\n* Alexios IV, Byzantine emperor\n* Alexios V, Byzantine emperor\n* Alexios I of Trebizond, Emperor of Trebizond\n* Alexios II of Trebizond, Emperor of Trebizond\n* Alexios III of Trebizond, Emperor of Trebizond\n* Alexios IV of Trebizond, Emperor of Trebizond\n* Alexius Mikhailovich (1629–1676), Tsar of Russia\n* Alexius Petrovich (1690–1718), Russian tsarevich\n\nReligious figures\n\n* Alexius, Metropolitan of Moscow (1354–1378)\n* Patriarch Alexius I of Constantinople (1025–1043)\n* Alexius (c. 1425–1488), Russian archpriest who converted to Judaism\n* Patriarch Alexius I of Moscow and All Russia (r. 1945–1970)\n* Patriarch Alexius II of Moscow and All Russia (r. 1990–2008)\n* Alexius of Nicaea, metropolitan bishop\n* Saint Alexius of Rome, fifth-century eastern saint\n* Alexius, a monk and saint of Kiev - see Abraham and Onesimus of Kiev\n\nOther people\n\n* Alexios Apokaukos, Byzantine statesman\n* Alexios Aspietes, Byzantine governor\n* Alexios Branas, Byzantine general\n* Alexios Halebian, American tennis player\n* Alexius Meinong, Austrian philosopher\n* Alexios Mosele (Caesar), Byzantine heir-apparent\n* Alexios Palaiologos (despot), Byzantine heir-apparent\n* Alexios Philanthropenos, Byzantine general\n* Alexios Raoul (protovestiarios), Byzantine general\n* Alexios Strategopoulos, Byzantine general\n* Alexios Xiphias, Byzantine Catepan of Italy. Alexius. http://en.wikipedia.org/?curid=1887."
+  }
+}

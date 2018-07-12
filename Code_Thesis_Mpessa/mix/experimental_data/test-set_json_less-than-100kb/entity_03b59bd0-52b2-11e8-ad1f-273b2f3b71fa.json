@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12613",
+  "eid" : "03b59bd0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778515469,
+  "textBody" : "Grue may refer to:\n* Grue (monster), a predator invented by Jack Vance and featured in the Zork series\n* Grue and bleen, portmanteau words formed from green and blue, coined by Nelson Goodman to illustrate his new riddle of induction\n* Grue, a linguistic and translation concept (see Distinguishing blue from green in language)\n* Grue, Norway, a municipality\n* Crane (bird), a gruiform\n* Grue (Freedom City), an alien race in the role-playing game Mutants and Masterminds\n* Isle-aux-Grues, an island in Quebec, Canada\n* Grues, Vendée, a commune in France\n* Grue (river), a river in north-west Italy \n* Grue (surname), notable people with the surname Grue\n* Grue, an influential science fiction fanzine published by Dean Grennell\n* An early form of Nutraloaf, a food served in prison, known as \"grue\" to prisoners in the Arkansas penal system as described in the 1978 Hutto v. Finney decision \n* A pen name used by cartoonist Johnny Gruelle\n* Grue/Brian Laborn, a supervillain in the web novel Worm\n* Grue, used by Robert Louis Stevenson in David Balfour “But I begin to Grue at the sound of it.” (Chapter 2 early)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Grue" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12613" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Grue may refer to:\n* Grue (monster), a predator invented by Jack Vance and featured in the Zork series\n* Grue and bleen, portmanteau words formed from green and blue, coined by Nelson Goodman to illustrate his new riddle of induction\n* Grue, a linguistic and translation concept (see Distinguishing blue from green in language)\n* Grue, Norway, a municipality\n* Crane (bird), a gruiform\n* Grue (Freedom City), an alien race in the role-playing game Mutants and Masterminds\n* Isle-aux-Grues, an island in Quebec, Canada\n* Grues, Vendée, a commune in France\n* Grue (river), a river in north-west Italy \n* Grue (surname), notable people with the surname Grue\n* Grue, an influential science fiction fanzine published by Dean Grennell\n* An early form of Nutraloaf, a food served in prison, known as \"grue\" to prisoners in the Arkansas penal system as described in the 1978 Hutto v. Finney decision \n* A pen name used by cartoonist Johnny Gruelle\n* Grue/Brian Laborn, a supervillain in the web novel Worm\n* Grue, used by Robert Louis Stevenson in David Balfour “But I begin to Grue at the sound of it.” (Chapter 2 early). Grue. http://en.wikipedia.org/?curid=12613."
+  }
+}

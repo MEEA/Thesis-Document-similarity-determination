@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15663",
+  "eid" : "1e0a54d0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778559645,
+  "textBody" : "This article is about the demographic features of the population of Jamaica, including population density, education level, health of the populace, economic status, religious affiliations and other aspects of the population.\n\nPopulation\n\nAccording to  the total population was  in , compared to only 1,403,000 in 1950. The proportion of children below the age of 15 in 2010 was 29%, 63.1% was between 15 and 65 years of age, while 7.8% was 65 years or older\n.\n\nStructure of the population\n\nStructure of the population (04.04.2011) (Census):\n\nVital statistics\n\nCIA World Factbook \n\nThe following demographic statistics are from the CIA World Factbook unless otherwise referenced.\n\nLanguages\n\n*English\n*Jamaican patois\n\nReligion\n\n*Protestant 64.8%\n**Seventh Day Adventist 12.0%\n**Pentecostal 11.0%\n**Church of God 9.2%\n**New Testament Church of God 7.2%\n**Baptist 6.7%\n**Church of God in Jamaica 4.8%\n**Church of God of Prophecy 4.5%\n**Anglican 2.8%\n**United Church 2.1%\n**Methodist 1.6%\n**Revived 1.4%\n**Brethren 0.9%\n**Moravian 0.7%\n*Roman Catholic 2.2%\n*Jehovah's Witness 1.9%\n*Rastafarian 1.1%\n*Other 6.5%\n*None 21.3%\n*Unspecified 2.3%\n\nEthnic groups\n\n*Black 92.1%\n*Mixed 6.0%\n*East Indian 0.8%\n*Other 0.4%\n*Unspecified 0.7%\n\nPopulation\n\n*2,200,210\n\nNet migration rate\n\n*-4.66 migrant(s)/1,000 population\n\nUrbanization\n\n*Urban population: 74.8% of total population  \n*Rate of urbanization: 0.9% annual rate of change\n\nInfant mortality rate\n\n*Total: 13.37 deaths/1,000 live births\n*Male: 13.93 deaths/1,000 live births\n*Female: 12.78 deaths/1,000 live births (2015 est.)\n\nLife expectancy at birth\n\n*Total population: 73.55 years\n*Male: 71.93 years\n*Female: 75.24 years (2015 est.)\n\nNationality\n\n*Noun: Jamaican(s)\n*Adjective: Jamaican\n\nEducation expenditures\n\n*6% of GDP\n\nLiteracy\n\n*Total population:100%\n*Male: 100%\n*Female:100% (2015 est.)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Demographics of Jamaica" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15663" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "This article is about the demographic features of the population of Jamaica, including population density, education level, health of the populace, economic status, religious affiliations and other aspects of the population.\n\nPopulation\n\nAccording to  the total population was  in , compared to only 1,403,000 in 1950. The proportion of children below the age of 15 in 2010 was 29%, 63.1% was between 15 and 65 years of age, while 7.8% was 65 years or older\n.\n\nStructure of the population\n\nStructure of the population (04.04.2011) (Census):\n\nVital statistics\n\nCIA World Factbook \n\nThe following demographic statistics are from the CIA World Factbook unless otherwise referenced.\n\nLanguages\n\n*English\n*Jamaican patois\n\nReligion\n\n*Protestant 64.8%\n**Seventh Day Adventist 12.0%\n**Pentecostal 11.0%\n**Church of God 9.2%\n**New Testament Church of God 7.2%\n**Baptist 6.7%\n**Church of God in Jamaica 4.8%\n**Church of God of Prophecy 4.5%\n**Anglican 2.8%\n**United Church 2.1%\n**Methodist 1.6%\n**Revived 1.4%\n**Brethren 0.9%\n**Moravian 0.7%\n*Roman Catholic 2.2%\n*Jehovah's Witness 1.9%\n*Rastafarian 1.1%\n*Other 6.5%\n*None 21.3%\n*Unspecified 2.3%\n\nEthnic groups\n\n*Black 92.1%\n*Mixed 6.0%\n*East Indian 0.8%\n*Other 0.4%\n*Unspecified 0.7%\n\nPopulation\n\n*2,200,210\n\nNet migration rate\n\n*-4.66 migrant(s)/1,000 population\n\nUrbanization\n\n*Urban population: 74.8% of total population  \n*Rate of urbanization: 0.9% annual rate of change\n\nInfant mortality rate\n\n*Total: 13.37 deaths/1,000 live births\n*Male: 13.93 deaths/1,000 live births\n*Female: 12.78 deaths/1,000 live births (2015 est.)\n\nLife expectancy at birth\n\n*Total population: 73.55 years\n*Male: 71.93 years\n*Female: 75.24 years (2015 est.)\n\nNationality\n\n*Noun: Jamaican(s)\n*Adjective: Jamaican\n\nEducation expenditures\n\n*6% of GDP\n\nLiteracy\n\n*Total population:100%\n*Male: 100%\n*Female:100% (2015 est.). Demographics of Jamaica. http://en.wikipedia.org/?curid=15663."
+  }
+}

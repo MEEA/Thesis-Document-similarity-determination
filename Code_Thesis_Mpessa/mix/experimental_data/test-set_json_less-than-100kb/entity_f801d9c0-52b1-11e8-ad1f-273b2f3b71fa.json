@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10839",
+  "eid" : "f801d9c0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778495836,
+  "textBody" : "Some notable institutions celebrating film, including both national film institutes and independent and non-profit organizations. For the purposes of this list, institutions that do not have their own article on Wikipedia are not considered notable.\n\n* American Film Institute\n* Australian Film Institute\n* British Film Institute \n* Canadian Film Institute \n* Danish Film Institute\n* Doha Film Institute\n* Film and Television Institute of India\n* Finnish Film Foundation\n* Irish Film Institute\n* Mumbai Film Academy\n* Norwegian Film Institute\n* Sundance Institute \n* Swedish Film Institute\n* Film and Television Institute of India (FTII)\n* K. R. Narayanan National Institute of Visual Science and Arts\n* Asian Academy of Film & Television",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "List of film institutes" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10839" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Some notable institutions celebrating film, including both national film institutes and independent and non-profit organizations. For the purposes of this list, institutions that do not have their own article on Wikipedia are not considered notable.\n\n* American Film Institute\n* Australian Film Institute\n* British Film Institute \n* Canadian Film Institute \n* Danish Film Institute\n* Doha Film Institute\n* Film and Television Institute of India\n* Finnish Film Foundation\n* Irish Film Institute\n* Mumbai Film Academy\n* Norwegian Film Institute\n* Sundance Institute \n* Swedish Film Institute\n* Film and Television Institute of India (FTII)\n* K. R. Narayanan National Institute of Visual Science and Arts\n* Asian Academy of Film & Television. List of film institutes. http://en.wikipedia.org/?curid=10839."
+  }
+}

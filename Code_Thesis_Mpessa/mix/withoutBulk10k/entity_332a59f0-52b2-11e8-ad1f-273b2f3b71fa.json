@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18477",
+  "eid" : "332a59f0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778595087,
+  "textBody" : "Lulach mac Gille Coemgáin (Modern Gaelic: Lughlagh mac Gille Chomghain,Lulach mac Gille Coemgáin is the Mediaeval Gaelic form. known in English simply as Lulach, and nicknamed Tairbith, \"the Unfortunate\"Skene, Chronicles, p. 102. and Fatuus, \"the Simple-minded\" or \"the Foolish\";Anderson, Early Sources, vol. i, p. 603. before 1033 – 17 March 1058) was King of Scots between 15 August 1057 and 17 March 1058.\n\nLulach was the son of Gruoch of Scotland, from her first marriage to Gille Coemgáin, Mormaer of Moray, and thus the stepson of Macbeth (Mac Bethad mac Findlaích). Following the death at the Battle of Lumphanan of Macbeth on 15 August 1057, the king's followers placed Lulach on the throne. He has the distinction of being the first king of Scotland of whom there are coronation details available: he was crowned, probably on 8 September 1057 at Scone. Lulach appears to have been a weak king, as his nicknames suggest, and ruled only for a few months before being assassinated and usurped by Malcolm III (Máel Coluim mac Donnchada).\n\nLulach's son Máel Snechtai was Mormaer of Moray, while Óengus of Moray was the son of Lulach's daughter. \n\nHe is believed to be buried on Saint Columba's Holy Island of Iona in or around the monastery. The exact position of his grave is unknown.\n\nDepictions in fiction\n\nLulach is an important secondary character in Dorothy Dunnett's historical novel King Hereafter, where he is portrayed as a seer. In the novel, Dunnett used Lulach as a mouthpiece for researched information about the real Macbeth.\n\nLulach is also one of the protagonists in Jackie French's children's novel Macbeth and Son  and in Susan Fraser King's novel Lady MacBeth.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Lulach" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18477" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Lulach mac Gille Coemgáin (Modern Gaelic: Lughlagh mac Gille Chomghain,Lulach mac Gille Coemgáin is the Mediaeval Gaelic form. known in English simply as Lulach, and nicknamed Tairbith, \"the Unfortunate\"Skene, Chronicles, p. 102. and Fatuus, \"the Simple-minded\" or \"the Foolish\";Anderson, Early Sources, vol. i, p. 603. before 1033 – 17 March 1058) was King of Scots between 15 August 1057 and 17 March 1058.\n\nLulach was the son of Gruoch of Scotland, from her first marriage to Gille Coemgáin, Mormaer of Moray, and thus the stepson of Macbeth (Mac Bethad mac Findlaích). Following the death at the Battle of Lumphanan of Macbeth on 15 August 1057, the king's followers placed Lulach on the throne. He has the distinction of being the first king of Scotland of whom there are coronation details available: he was crowned, probably on 8 September 1057 at Scone. Lulach appears to have been a weak king, as his nicknames suggest, and ruled only for a few months before being assassinated and usurped by Malcolm III (Máel Coluim mac Donnchada).\n\nLulach's son Máel Snechtai was Mormaer of Moray, while Óengus of Moray was the son of Lulach's daughter. \n\nHe is believed to be buried on Saint Columba's Holy Island of Iona in or around the monastery. The exact position of his grave is unknown.\n\nDepictions in fiction\n\nLulach is an important secondary character in Dorothy Dunnett's historical novel King Hereafter, where he is portrayed as a seer. In the novel, Dunnett used Lulach as a mouthpiece for researched information about the real Macbeth.\n\nLulach is also one of the protagonists in Jackie French's children's novel Macbeth and Son  and in Susan Fraser King's novel Lady MacBeth. Lulach. http://en.wikipedia.org/?curid=18477."
+  }
+}

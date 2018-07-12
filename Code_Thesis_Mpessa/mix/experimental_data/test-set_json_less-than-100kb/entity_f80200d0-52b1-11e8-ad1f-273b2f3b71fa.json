@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10841",
+  "eid" : "f80200d0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778495837,
+  "textBody" : "Forth or FORTH may refer to:\n\nMedia\n\n* forth magazine, an English language Irish Internet magazine\n* Forth (album), the fourth and final studio album by the English alternative rock band The Verve\n* Forth (album), the fourth and final studio album by the American progressive rock band Proto-Kaw\n* Radio Forth, a group of three Independent Local Radio stations serving Lothian and Fife\n\nPlaces\n\n* Forth, South Lanarkshire, a small village in South Lanarkshire, Scotland\n* Forth, Tasmania, a small village in north-west Tasmania on the Forth River\n* Forth River (Tasmania), a perennial river located in northwest Tasmania, Australia\n* River Forth, the major river draining the eastern part of the central belt of Scotland\n** Firth of Forth, the estuary or firth of Scotland's River Forth\n** Islands of the Forth, in the Firth of Forth\n\nPeople\n\n* Eric Forth (1944–2006), British politician\n* Frederick Forth (1808–1876), British colonial administrator\n* Hugh Forth (1610–1676), English politician\n* Jane Forth (born 1953), American actress and model\n* John Forth (c. 1769–1848), British jockey and racehorse trainer\n* Lisette Denison Forth (c. 1786–1866), American slave who became a landowner and philanthropist\n* Tasman Forth, pen name of Alexander Rud Mills (1885–1964), Australian Odinist\n\nShips\n\n*, several ships of the Royal Navy\n*, a sailing ship built at Calcutta, British India\n*, a sailing ship built at Leith, Scotland\n\nOther\n\n* Forth (programming language), an imperative stack-based computer programming language and environment\n* Foundation for Research & Technology – Hellas, a research center in Greece",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Forth" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10841" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Forth or FORTH may refer to:\n\nMedia\n\n* forth magazine, an English language Irish Internet magazine\n* Forth (album), the fourth and final studio album by the English alternative rock band The Verve\n* Forth (album), the fourth and final studio album by the American progressive rock band Proto-Kaw\n* Radio Forth, a group of three Independent Local Radio stations serving Lothian and Fife\n\nPlaces\n\n* Forth, South Lanarkshire, a small village in South Lanarkshire, Scotland\n* Forth, Tasmania, a small village in north-west Tasmania on the Forth River\n* Forth River (Tasmania), a perennial river located in northwest Tasmania, Australia\n* River Forth, the major river draining the eastern part of the central belt of Scotland\n** Firth of Forth, the estuary or firth of Scotland's River Forth\n** Islands of the Forth, in the Firth of Forth\n\nPeople\n\n* Eric Forth (1944–2006), British politician\n* Frederick Forth (1808–1876), British colonial administrator\n* Hugh Forth (1610–1676), English politician\n* Jane Forth (born 1953), American actress and model\n* John Forth (c. 1769–1848), British jockey and racehorse trainer\n* Lisette Denison Forth (c. 1786–1866), American slave who became a landowner and philanthropist\n* Tasman Forth, pen name of Alexander Rud Mills (1885–1964), Australian Odinist\n\nShips\n\n*, several ships of the Royal Navy\n*, a sailing ship built at Calcutta, British India\n*, a sailing ship built at Leith, Scotland\n\nOther\n\n* Forth (programming language), an imperative stack-based computer programming language and environment\n* Foundation for Research & Technology – Hellas, a research center in Greece. Forth. http://en.wikipedia.org/?curid=10841."
+  }
+}

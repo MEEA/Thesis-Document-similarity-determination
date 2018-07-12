@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14026",
+  "eid" : "110840d0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778537821,
+  "textBody" : "House of Orange may refer to:\n\n*House of Orange-Nassau, branch of the House of Nassau active in European politics\n*House of Orange-Chalon, medieval Frankish dynasty of Burgundian; see Anscarids\n*The House of Orange (song)  Stan Rogers song about The Troubles",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "House of Orange (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14026" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "House of Orange may refer to:\n\n*House of Orange-Nassau, branch of the House of Nassau active in European politics\n*House of Orange-Chalon, medieval Frankish dynasty of Burgundian; see Anscarids\n*The House of Orange (song)  Stan Rogers song about The Troubles. House of Orange (disambiguation). http://en.wikipedia.org/?curid=14026."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13108",
+  "eid" : "06ab3520-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778520434,
+  "textBody" : "Glendower may refer to:\n\n*Owain Glyndŵr (Owen Glendower), medieval Welsh nobleman\n*Glendower State Memorial, a historic house in Lebanon, Ohio\n*Shandon, Ohio, which was originally called Glendower\n*Glendower Circuit, a region in Toronto, Canada\n*The Glendower (whiskey), a brand of Scotch whisky\n* Glendower, Virginia",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Glendower" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13108" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Glendower may refer to:\n\n*Owain Glyndŵr (Owen Glendower), medieval Welsh nobleman\n*Glendower State Memorial, a historic house in Lebanon, Ohio\n*Shandon, Ohio, which was originally called Glendower\n*Glendower Circuit, a region in Toronto, Canada\n*The Glendower (whiskey), a brand of Scotch whisky\n* Glendower, Virginia. Glendower. http://en.wikipedia.org/?curid=13108."
+  }
+}

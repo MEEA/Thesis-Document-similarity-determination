@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10879",
+  "eid" : "f83ee2c0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778496236,
+  "textBody" : "Sigmund Freud (1856–1939) was the inventor of psychoanalysis, psychosexual stages, and the personality theory of Ego, Superego, and Id.\n\nFreud may also refer to:\n* Freud (crater), a lunar crater\n* Freud (miniseries), a 1984 mini-series starring David Suchet\n* Freud: The Secret Passion, a 1962 film by John Huston and starring Montgomery Clift\n* Freud, a chimpanzee in the Kasakela community\n\nPeople with the surname\n\nThe Freud family:\n* Amalia Nathansohn Freud (1835–1930), mother of Sigmund, born at Brody\n* Anna Freud, daughter of Sigmund Freud, famous for contributions to child psychology and developmental psychology\n* Ernst Ludwig Freud, architect, son of Sigmund Freud\n** Lucian Freud, Ernst's son, painter\n*** Esther Freud, Lucian's daughter, novelist\n***Bella Freud, Lucian's daughter, fashion designer\n** Clement Freud, Ernst's son, English politician, writer, chef and raconteur\n*** Matthew Freud, Clement's son, publicist\n*** Emma Freud, Clement's daughter, journalist\n*Walter Freud, Sigmund's grandson, chemical engineer, member of Royal Pioneer Corps and British Special Operations Executive\n**David Freud, Baron Freud, Walter's son, journalist, businessman, Parliamentary Under Secretary of State for Work and Pensions",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Freud (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10879" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Sigmund Freud (1856–1939) was the inventor of psychoanalysis, psychosexual stages, and the personality theory of Ego, Superego, and Id.\n\nFreud may also refer to:\n* Freud (crater), a lunar crater\n* Freud (miniseries), a 1984 mini-series starring David Suchet\n* Freud: The Secret Passion, a 1962 film by John Huston and starring Montgomery Clift\n* Freud, a chimpanzee in the Kasakela community\n\nPeople with the surname\n\nThe Freud family:\n* Amalia Nathansohn Freud (1835–1930), mother of Sigmund, born at Brody\n* Anna Freud, daughter of Sigmund Freud, famous for contributions to child psychology and developmental psychology\n* Ernst Ludwig Freud, architect, son of Sigmund Freud\n** Lucian Freud, Ernst's son, painter\n*** Esther Freud, Lucian's daughter, novelist\n***Bella Freud, Lucian's daughter, fashion designer\n** Clement Freud, Ernst's son, English politician, writer, chef and raconteur\n*** Matthew Freud, Clement's son, publicist\n*** Emma Freud, Clement's daughter, journalist\n*Walter Freud, Sigmund's grandson, chemical engineer, member of Royal Pioneer Corps and British Special Operations Executive\n**David Freud, Baron Freud, Walter's son, journalist, businessman, Parliamentary Under Secretary of State for Work and Pensions. Freud (disambiguation). http://en.wikipedia.org/?curid=10879."
+  }
+}

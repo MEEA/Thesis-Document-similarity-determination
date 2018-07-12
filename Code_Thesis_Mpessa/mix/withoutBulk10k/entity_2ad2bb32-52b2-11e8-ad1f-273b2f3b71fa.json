@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17179",
+  "eid" : "2ad2bb32-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778581091,
+  "textBody" : "KL1, or Kernel Language 1 is an experimental AND-parallel version of KL0 developed for the ICOT Fifth Generation Computer project. KL1 is an implementation of Flat GHC (a subset of the Guarded Horn Clauses language by Kazunori Ueda), making it a parallelised Prolog variant.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "KL1" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17179" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "KL1, or Kernel Language 1 is an experimental AND-parallel version of KL0 developed for the ICOT Fifth Generation Computer project. KL1 is an implementation of Flat GHC (a subset of the Guarded Horn Clauses language by Kazunori Ueda), making it a parallelised Prolog variant. KL1. http://en.wikipedia.org/?curid=17179."
+  }
+}

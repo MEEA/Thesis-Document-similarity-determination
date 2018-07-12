@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2170",
+  "eid" : "be4a27a0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778399002,
+  "textBody" : "ABCD is a list of the first four letters in the English alphabet.  It may also refer to:\n\nMedicine\n\n* ABC (medicine), also known as ABCD, a mnemonic for steps in resuscitation\n* ABCD rating, a staging system for prostate cancer\n* ABCD syndrome, a genetic disorder\n* ABCD guideline, a heuristic for detecting melanomas\n* ABCD² score, a score for determining the risk of stroke after TIA\n* ABCD1, a protein\n\nScience\n\n* ABCD matrix analysis, a type of ray tracing technique used in the design of some optical systems\n* ABCD-parameters, a type of properties describing the electrical behavior of linear electrical networks\n* ABCD Schema, a highly structured data exchange and access model for taxon occurrence data (specimens, observations, etc. of living organisms), i.e. primary biodiversity data\n\nFilm\n\n* ABCD: American-Born Confused Desi, a 2013 Malayalam comedy film\n* ABCD: Any Body Can Dance, a 2013 Bollywood film\n* ABCD 2, a 2015 film based on dance\n* ABCD (2005 film), a Tamil film released in India\n\nOther uses\n\n*ABCd, American streaming service\n* Action for Boston Community Development, a Boston, Massachusetts-based non-profit social services agency\n* Asset-based community development, a methodology that seeks to uncover and highlight the strengths within communities\n* CompTIA, also known as the Association of Better Computer Dealers\n* ABCD Region, an industrial district outside of São Paulo, Brazil\n* American-Born Confused Desi, refers to American youth of South Asian descent\n* ABCD: add, browse, change, delete, another representation of Create, read, update and delete \n* ABCD line, a Japanese term for embargoes placed against Japan by the Americans, British, Chinese and Dutch, as well as other countries\n* ABCD ships, The first four steel ships built during the \"New Navy\" period of U.S. Naval history - Atlanta, Boston, Chicago and Dolphin\n* Four major agriculture commodity companies\n** Archer Daniels Midland\n** Bunge\n** Cargill\n** Louis Dreyfus",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "ABCD" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2170" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "ABCD is a list of the first four letters in the English alphabet.  It may also refer to:\n\nMedicine\n\n* ABC (medicine), also known as ABCD, a mnemonic for steps in resuscitation\n* ABCD rating, a staging system for prostate cancer\n* ABCD syndrome, a genetic disorder\n* ABCD guideline, a heuristic for detecting melanomas\n* ABCD² score, a score for determining the risk of stroke after TIA\n* ABCD1, a protein\n\nScience\n\n* ABCD matrix analysis, a type of ray tracing technique used in the design of some optical systems\n* ABCD-parameters, a type of properties describing the electrical behavior of linear electrical networks\n* ABCD Schema, a highly structured data exchange and access model for taxon occurrence data (specimens, observations, etc. of living organisms), i.e. primary biodiversity data\n\nFilm\n\n* ABCD: American-Born Confused Desi, a 2013 Malayalam comedy film\n* ABCD: Any Body Can Dance, a 2013 Bollywood film\n* ABCD 2, a 2015 film based on dance\n* ABCD (2005 film), a Tamil film released in India\n\nOther uses\n\n*ABCd, American streaming service\n* Action for Boston Community Development, a Boston, Massachusetts-based non-profit social services agency\n* Asset-based community development, a methodology that seeks to uncover and highlight the strengths within communities\n* CompTIA, also known as the Association of Better Computer Dealers\n* ABCD Region, an industrial district outside of São Paulo, Brazil\n* American-Born Confused Desi, refers to American youth of South Asian descent\n* ABCD: add, browse, change, delete, another representation of Create, read, update and delete \n* ABCD line, a Japanese term for embargoes placed against Japan by the Americans, British, Chinese and Dutch, as well as other countries\n* ABCD ships, The first four steel ships built during the \"New Navy\" period of U.S. Naval history - Atlanta, Boston, Chicago and Dolphin\n* Four major agriculture commodity companies\n** Archer Daniels Midland\n** Bunge\n** Cargill\n** Louis Dreyfus. ABCD. http://en.wikipedia.org/?curid=2170."
+  }
+}

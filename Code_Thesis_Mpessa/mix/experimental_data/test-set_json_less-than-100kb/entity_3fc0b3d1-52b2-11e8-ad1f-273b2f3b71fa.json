@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=20079",
+  "eid" : "3fc0b3d1-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778616205,
+  "textBody" : "Martin Luther King Jr. (1929–1968) was a minister and Civil Rights activist.\n\nMartin Luther King may also refer to:\n*Martin Luther King Sr., Baptist minister and father of Martin Luther King Jr.\n*Martin Luther King III, son of Martin Luther King Jr. and a former head of the Southern Christian Leadership Conference\n* Martin Luther King, Jr. (Wilson), a 1986 public artwork by American sculptor John Wilson",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Martin Luther King (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=20079" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Martin Luther King Jr. (1929–1968) was a minister and Civil Rights activist.\n\nMartin Luther King may also refer to:\n*Martin Luther King Sr., Baptist minister and father of Martin Luther King Jr.\n*Martin Luther King III, son of Martin Luther King Jr. and a former head of the Southern Christian Leadership Conference\n* Martin Luther King, Jr. (Wilson), a 1986 public artwork by American sculptor John Wilson. Martin Luther King (disambiguation). http://en.wikipedia.org/?curid=20079."
+  }
+}

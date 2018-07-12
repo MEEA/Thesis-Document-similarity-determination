@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=3805",
+  "eid" : "c8e91e50-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778416821,
+  "textBody" : "In baseball statistics, total bases (TBs) is the number of bases a player has gained with hits. It is a weighted sum for which the weight value is 1 for a single, 2 for a double, 3 for a triple and 4 for a home run. Only bases attained from hits count toward this total. Reaching base by other means (such as a base on balls) or advancing further after the hit (such as when a subsequent batter gets a hit) does not increase the player's total bases.\n\nThe total bases divided by the number of at bats is the player's slugging average.\n\nHank Aaron is the career leader in total bases with 6,856. Stan Musial (6,134) and Willie Mays (6,066) are the only other players with at least 6,000 career total bases.\n\nKey\n\nList\n\n* Stats updated as of the 2017 season.\n\nNotes",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "List of Major League Baseball career total bases leaders" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=3805" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "In baseball statistics, total bases (TBs) is the number of bases a player has gained with hits. It is a weighted sum for which the weight value is 1 for a single, 2 for a double, 3 for a triple and 4 for a home run. Only bases attained from hits count toward this total. Reaching base by other means (such as a base on balls) or advancing further after the hit (such as when a subsequent batter gets a hit) does not increase the player's total bases.\n\nThe total bases divided by the number of at bats is the player's slugging average.\n\nHank Aaron is the career leader in total bases with 6,856. Stan Musial (6,134) and Willie Mays (6,066) are the only other players with at least 6,000 career total bases.\n\nKey\n\nList\n\n* Stats updated as of the 2017 season.\n\nNotes. List of Major League Baseball career total bases leaders. http://en.wikipedia.org/?curid=3805."
+  }
+}

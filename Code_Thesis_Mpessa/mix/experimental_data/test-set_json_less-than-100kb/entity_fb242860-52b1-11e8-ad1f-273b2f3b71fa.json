@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11355",
+  "eid" : "fb242860-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778501094,
+  "textBody" : "Freehold may refer to:\n\nIn real estate\n\n*Freehold (law), the tenure of property in fee simple.\n*Customary freehold, a form of feudal tenure of land in England\n*Parson's freehold, where a Church of England rector or vicar of holds title to benefice property\n\nPlaces\n\n*Freehold, Greater Manchester, an area of Oldham, in North West England\n**Freehold Metrolink station, a light rail stop in Greater Manchester, England\n*Freehold, a Victorian terraced area in the north east of Lancaster, Lancashire, England\n*Freehold Borough, New Jersey, United States\n*Freehold Township, New Jersey, United States\n*Freehold, New York, United States\n*Freehold Township, Warren County, Pennsylvania, United States\n\nIn fiction\n\n*Farnham's Freehold, a novel written by Robert A. Heinlein in 1965\n*Freehold (novel), 2004 science fiction novel by Michael Z. Williamson\n*Valyrian Freehold, an ancient civilization in 1996 fantasy novel A Song of Ice and Fire by George R. R. Martin\n*Drazi Freehold, a world in the Babylon 5 universe\n*Freehold, Iowa, the fictional location of the headquarters of the satirical Landover Baptist Church\n\nOther\n\n*, a United States Navy minesweeper and tug in commission from 1917 to 1919\n*Freeheld (disambiguation)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Freehold" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11355" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Freehold may refer to:\n\nIn real estate\n\n*Freehold (law), the tenure of property in fee simple.\n*Customary freehold, a form of feudal tenure of land in England\n*Parson's freehold, where a Church of England rector or vicar of holds title to benefice property\n\nPlaces\n\n*Freehold, Greater Manchester, an area of Oldham, in North West England\n**Freehold Metrolink station, a light rail stop in Greater Manchester, England\n*Freehold, a Victorian terraced area in the north east of Lancaster, Lancashire, England\n*Freehold Borough, New Jersey, United States\n*Freehold Township, New Jersey, United States\n*Freehold, New York, United States\n*Freehold Township, Warren County, Pennsylvania, United States\n\nIn fiction\n\n*Farnham's Freehold, a novel written by Robert A. Heinlein in 1965\n*Freehold (novel), 2004 science fiction novel by Michael Z. Williamson\n*Valyrian Freehold, an ancient civilization in 1996 fantasy novel A Song of Ice and Fire by George R. R. Martin\n*Drazi Freehold, a world in the Babylon 5 universe\n*Freehold, Iowa, the fictional location of the headquarters of the satirical Landover Baptist Church\n\nOther\n\n*, a United States Navy minesweeper and tug in commission from 1917 to 1919\n*Freeheld (disambiguation). Freehold. http://en.wikipedia.org/?curid=11355."
+  }
+}

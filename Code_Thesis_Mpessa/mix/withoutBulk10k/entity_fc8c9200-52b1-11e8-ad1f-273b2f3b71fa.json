@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11589",
+  "eid" : "fc8c9200-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778503456,
+  "textBody" : "FSK may refer to:\n\n* FSK (band), a German band\n* Federal Counterintelligence Service, (Russian ') of Russia\n* Fiskerton railway station, in England\n* Forskolin, a diterpene\n* Forsvarets Spesialkommando, a Norwegian special forces unit\n* Fort Scott Municipal Airport, in Kansas, United States\n* Francis Scott Key Bridge (disambiguation)\n* Francis Scott Key High School, in  Union Bridge, Maryland, United States\n* Freiwillige Selbstkontrolle der Filmwirtschaft, a German movie rating organization\n* Frequency-shift keying\n* Friends School Kamusinga, in Kenya\n* Kosovo Security Force, (Albanian: ')",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "FSK" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11589" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "FSK may refer to:\n\n* FSK (band), a German band\n* Federal Counterintelligence Service, (Russian ') of Russia\n* Fiskerton railway station, in England\n* Forskolin, a diterpene\n* Forsvarets Spesialkommando, a Norwegian special forces unit\n* Fort Scott Municipal Airport, in Kansas, United States\n* Francis Scott Key Bridge (disambiguation)\n* Francis Scott Key High School, in  Union Bridge, Maryland, United States\n* Freiwillige Selbstkontrolle der Filmwirtschaft, a German movie rating organization\n* Frequency-shift keying\n* Friends School Kamusinga, in Kenya\n* Kosovo Security Force, (Albanian: '). FSK. http://en.wikipedia.org/?curid=11589."
+  }
+}

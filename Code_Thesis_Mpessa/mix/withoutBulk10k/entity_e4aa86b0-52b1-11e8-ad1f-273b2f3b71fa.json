@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8008",
+  "eid" : "e4aa86b0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778463387,
+  "textBody" : "The  direct examination or examination-in-chief is one stage in the process of adducing evidence from witnesses in a court of law. Direct examination is the questioning of a witness by the party who called him or her, in a trial.  Direct examination is usually performed to elicit evidence in support of facts which will satisfy a required element of a party's claim or defense.\n\nIn direct examination, one is generally prohibited from asking leading questions. This prevents a lawyer from feeding answers to a favorable witness. An exception to this rule occurs if one side has called a witness, but it is either understood, or becomes clear, that the witness is hostile to the questioner's side of the controversy. The lawyer may then ask the court to declare the person he or she has called to the stand a hostile witness. If the court does so, the lawyer may thereafter ask witness leading questions during direct examination.\n\nThe techniques of direct examination are taught in courses on trial advocacy.Lubet, Steven; Modern Trial Advocacy, NITA, New York, NY 2004 pp. 45 et. seq.   Each direct examination is integrated with the overall case strategy through either a theme and theory or, with more advanced strategies, a line of effort.Dreier, A.S.; Strategy, Planning & Litigating to Win; Conatus, Boston, MA, 2012, pp. 46-73;",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Direct examination" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8008" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The  direct examination or examination-in-chief is one stage in the process of adducing evidence from witnesses in a court of law. Direct examination is the questioning of a witness by the party who called him or her, in a trial.  Direct examination is usually performed to elicit evidence in support of facts which will satisfy a required element of a party's claim or defense.\n\nIn direct examination, one is generally prohibited from asking leading questions. This prevents a lawyer from feeding answers to a favorable witness. An exception to this rule occurs if one side has called a witness, but it is either understood, or becomes clear, that the witness is hostile to the questioner's side of the controversy. The lawyer may then ask the court to declare the person he or she has called to the stand a hostile witness. If the court does so, the lawyer may thereafter ask witness leading questions during direct examination.\n\nThe techniques of direct examination are taught in courses on trial advocacy.Lubet, Steven; Modern Trial Advocacy, NITA, New York, NY 2004 pp. 45 et. seq.   Each direct examination is integrated with the overall case strategy through either a theme and theory or, with more advanced strategies, a line of effort.Dreier, A.S.; Strategy, Planning & Litigating to Win; Conatus, Boston, MA, 2012, pp. 46-73;. Direct examination. http://en.wikipedia.org/?curid=8008."
+  }
+}

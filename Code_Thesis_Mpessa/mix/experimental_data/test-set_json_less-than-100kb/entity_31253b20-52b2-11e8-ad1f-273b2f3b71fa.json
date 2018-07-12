@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18142",
+  "eid" : "31253b20-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778591698,
+  "textBody" : "The Loudon Classic, held at the New Hampshire Motor Speedway (formerly Bryar Motorsport Park and New Hampshire International Speedway) is the longest running motorcycle race in the United States, and is held every year on Father's Day. While it is popularly known as Laconia, the location of the race was moved from Belknap Recreation Area to Loudon in 1964.[http://www.oldnh.com/bikeweek.html]",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Loudon Classic" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18142" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The Loudon Classic, held at the New Hampshire Motor Speedway (formerly Bryar Motorsport Park and New Hampshire International Speedway) is the longest running motorcycle race in the United States, and is held every year on Father's Day. While it is popularly known as Laconia, the location of the race was moved from Belknap Recreation Area to Loudon in 1964.[http://www.oldnh.com/bikeweek.html]. Loudon Classic. http://en.wikipedia.org/?curid=18142."
+  }
+}

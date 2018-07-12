@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15321",
+  "eid" : "1b55e330-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778555107,
+  "textBody" : "The Inca Empire was the largest empire in pre-Columbian America.\n\nInca, Inka, or İncə may also refer to:\n* Inca civilization, centered in what is now Peru\n* Sapa Inca or Inka, the main ruler of the Inca Empire\n\nPlaces\n\n* İncə, Goychay, Azerbaijan\n* İncə, Shaki, Azerbaijan\n* Inca, Spain, a town on the island of Majorca in the Mediterranean Sea\n\nShips\n\n* Inca (schooner), the first five-masted schooner built on the United States western coast, in 1896\n* USS Inca (1898), a screw steamer\n* USS Inca (1911), a steam ferry\n* USS Inca (SP-1212), a motor boat built in 1917\n* USS Inca (ID-3219), an iron tugboat built in 1879\n* USS Inca (IX-229), an unclassified miscellaneous vessel\n\nOther uses\n\n* Inca (genus), a genus of beetles in the sub-family Cetoniinae\n* Inca (hummingbird), the common name for several hummingbirds in the genus Coeligena\n* INCA (software),  measurement, calibration and diagnostic software published by ETAS\n* Inca (video game), an adventure game by Coktel Vision\n* Inka (beverage), a Polish roasted grain drink\n* Inca Kola, a carbonated soft drink from Peru\n* INCA Internet, South Korean company\n* SEAT Inca, a panel van\n* Inka shōmei, a form of dharma transmission in Zen Buddhism\n* Glaucineis Martins or Inca, Brazilian footballer\n*Garcilaso de la Vega (chronicler) or El Inca, Spanish Peruvian writer\n* Ion and Neutral Camera (INCA), an instrument aboard the Cassini–Huygens spacecraft\n* Inka (La Paz), a mountain in the La Paz Department, Bolivia\n* Industri Kereta Api (INKA), a rolling stock manufacturer in Indonesia\n* El Inca (film), a 2017 film\n* INCA (singer), a French singer\n* Inca, a leading trademark of a vegetable shortening sold in Mexico, made out of cottonseed oil, firstly manufactured by Anderson, Clayton and Company, since 1950, and subsequently by ACH Foods México.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Inca (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15321" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The Inca Empire was the largest empire in pre-Columbian America.\n\nInca, Inka, or İncə may also refer to:\n* Inca civilization, centered in what is now Peru\n* Sapa Inca or Inka, the main ruler of the Inca Empire\n\nPlaces\n\n* İncə, Goychay, Azerbaijan\n* İncə, Shaki, Azerbaijan\n* Inca, Spain, a town on the island of Majorca in the Mediterranean Sea\n\nShips\n\n* Inca (schooner), the first five-masted schooner built on the United States western coast, in 1896\n* USS Inca (1898), a screw steamer\n* USS Inca (1911), a steam ferry\n* USS Inca (SP-1212), a motor boat built in 1917\n* USS Inca (ID-3219), an iron tugboat built in 1879\n* USS Inca (IX-229), an unclassified miscellaneous vessel\n\nOther uses\n\n* Inca (genus), a genus of beetles in the sub-family Cetoniinae\n* Inca (hummingbird), the common name for several hummingbirds in the genus Coeligena\n* INCA (software),  measurement, calibration and diagnostic software published by ETAS\n* Inca (video game), an adventure game by Coktel Vision\n* Inka (beverage), a Polish roasted grain drink\n* Inca Kola, a carbonated soft drink from Peru\n* INCA Internet, South Korean company\n* SEAT Inca, a panel van\n* Inka shōmei, a form of dharma transmission in Zen Buddhism\n* Glaucineis Martins or Inca, Brazilian footballer\n*Garcilaso de la Vega (chronicler) or El Inca, Spanish Peruvian writer\n* Ion and Neutral Camera (INCA), an instrument aboard the Cassini–Huygens spacecraft\n* Inka (La Paz), a mountain in the La Paz Department, Bolivia\n* Industri Kereta Api (INKA), a rolling stock manufacturer in Indonesia\n* El Inca (film), a 2017 film\n* INCA (singer), a French singer\n* Inca, a leading trademark of a vegetable shortening sold in Mexico, made out of cottonseed oil, firstly manufactured by Anderson, Clayton and Company, since 1950, and subsequently by ACH Foods México. Inca (disambiguation). http://en.wikipedia.org/?curid=15321."
+  }
+}

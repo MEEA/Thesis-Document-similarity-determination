@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12464",
+  "eid" : "02b82900-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778513808,
+  "textBody" : "Gylfaginning (Old Norse pronunciation [ˈgʏlvaˌgɪnːɪŋg];; either Tricking of Gylfi or Gylfi's empowerment; c. 20,000 words), is the first part of Snorri Sturluson's Prose Edda after Prologue. The Gylfaginning deals with the creation and destruction of the world of the Norse gods, and many other aspects of Norse mythology. The second part of the Prose Edda is called the Skáldskaparmál and the third Háttatal.\n\nSummary \n\nThe Gylfaginning tells the story of Gylfi, a king of \"the land that men now call Sweden\", who after being tricked by one of the goddesses of the Æsir, wonders if all Æsir use magic and tricks for their will to be done. This is why he journeys to Asgard, but on the way he is tricked by the gods and arrives in some other place, where he finds a great palace. Inside the palace he encounters a man who asks Gylfi's name and so King Gylfi introduces himself as Gangleri. Gangleri then is taken to the king of the palace and comes upon three men; High, Just-As-High, and Third.\n\nGangleri is then challenged to show his wisdom by asking questions, as is the custom in many Norse sagas. Each question made to High, Just-As-High, and Third is about an aspect of the Norse mythology or its gods, and also about the creation and destruction of the world (Ragnarök). In the end all the palace and its people just vanish and Gylfi is left standing on empty ground. It is then implied that as Gylfi returns to his nation, he retells the tales he was told. It can be argued that Snorri used this narrative device as a means of being able to safely document a vanishing and largely oral tradition within a Christian context.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Gylfaginning" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12464" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Gylfaginning (Old Norse pronunciation [ˈgʏlvaˌgɪnːɪŋg];; either Tricking of Gylfi or Gylfi's empowerment; c. 20,000 words), is the first part of Snorri Sturluson's Prose Edda after Prologue. The Gylfaginning deals with the creation and destruction of the world of the Norse gods, and many other aspects of Norse mythology. The second part of the Prose Edda is called the Skáldskaparmál and the third Háttatal.\n\nSummary \n\nThe Gylfaginning tells the story of Gylfi, a king of \"the land that men now call Sweden\", who after being tricked by one of the goddesses of the Æsir, wonders if all Æsir use magic and tricks for their will to be done. This is why he journeys to Asgard, but on the way he is tricked by the gods and arrives in some other place, where he finds a great palace. Inside the palace he encounters a man who asks Gylfi's name and so King Gylfi introduces himself as Gangleri. Gangleri then is taken to the king of the palace and comes upon three men; High, Just-As-High, and Third.\n\nGangleri is then challenged to show his wisdom by asking questions, as is the custom in many Norse sagas. Each question made to High, Just-As-High, and Third is about an aspect of the Norse mythology or its gods, and also about the creation and destruction of the world (Ragnarök). In the end all the palace and its people just vanish and Gylfi is left standing on empty ground. It is then implied that as Gylfi returns to his nation, he retells the tales he was told. It can be argued that Snorri used this narrative device as a means of being able to safely document a vanishing and largely oral tradition within a Christian context. Gylfaginning. http://en.wikipedia.org/?curid=12464."
+  }
+}

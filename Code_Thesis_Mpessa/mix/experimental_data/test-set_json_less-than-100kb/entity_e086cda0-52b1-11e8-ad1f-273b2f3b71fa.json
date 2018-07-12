@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7230",
+  "eid" : "e086cda0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778456442,
+  "textBody" : "A conspiracy is a secret agreement by people to commit something wrong or illegal.  Depending on the circumstances, a conspiracy may be a crime, or a civil wrong.\n\nA \"conspiracy theory\" is an explanation of an event or situation that invokes an unwarranted conspiracy. \n\nTypes of conspiracies\n\n* Conspiracy (civil), an agreement between people to deceive, mislead, or defraud others of their legal rights or to gain an unfair advantage\n* Conspiracy (criminal), an agreement between people to break the law in the future, in some cases having committed an act to further that agreement\n* Conspiracy (political), an agreement between people with the goal of gaining political power or meeting a political objective\n* Hub-and-spoke conspiracy, a conspiracy in which one or more principal conspirators (the \"hub\") enter into several similar agreements with others (the \"spokes\") who know concerted action is contemplated, usually where the success of the concerted action depends on the participation of the other spokes",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Conspiracy" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7230" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A conspiracy is a secret agreement by people to commit something wrong or illegal.  Depending on the circumstances, a conspiracy may be a crime, or a civil wrong.\n\nA \"conspiracy theory\" is an explanation of an event or situation that invokes an unwarranted conspiracy. \n\nTypes of conspiracies\n\n* Conspiracy (civil), an agreement between people to deceive, mislead, or defraud others of their legal rights or to gain an unfair advantage\n* Conspiracy (criminal), an agreement between people to break the law in the future, in some cases having committed an act to further that agreement\n* Conspiracy (political), an agreement between people with the goal of gaining political power or meeting a political objective\n* Hub-and-spoke conspiracy, a conspiracy in which one or more principal conspirators (the \"hub\") enter into several similar agreements with others (the \"spokes\") who know concerted action is contemplated, usually where the success of the concerted action depends on the participation of the other spokes. Conspiracy. http://en.wikipedia.org/?curid=7230."
+  }
+}

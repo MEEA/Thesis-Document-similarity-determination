@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18095",
+  "eid" : "30d916f0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778591199,
+  "textBody" : "A linguist may be:\n* A specialist in linguistics\n* A language professional such as a translator or interpreter \n\nLinguist may also refer to:\n* The Linguist, a bimonthly magazine of the Chartered Institute of Linguists\n* Polyglot (person), a person skilled in multiple languages",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Linguist (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18095" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A linguist may be:\n* A specialist in linguistics\n* A language professional such as a translator or interpreter \n\nLinguist may also refer to:\n* The Linguist, a bimonthly magazine of the Chartered Institute of Linguists\n* Polyglot (person), a person skilled in multiple languages. Linguist (disambiguation). http://en.wikipedia.org/?curid=18095."
+  }
+}

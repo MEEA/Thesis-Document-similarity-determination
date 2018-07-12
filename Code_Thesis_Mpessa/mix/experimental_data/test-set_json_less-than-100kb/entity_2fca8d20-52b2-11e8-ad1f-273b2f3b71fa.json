@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17968",
+  "eid" : "2fca8d20-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778589426,
+  "textBody" : "Louchébem or loucherbem is Parisian and Lyonnaise butchers' (French boucher) slang, similar to Pig Latin and Verlan. It originated in the mid-19th century and was in common use until the 1950s.\n\nProcess\n\nThe louchébem word-creation process resembles that of largonji, verlan, and javanais, in that existing words are camouflaged according to a set of rules.  Strictly speaking, louchébem is a more rigid variety of largonji in which the ending -èm is obligatory.  Largonji substitutes  for the consonant or consonant cluster at the beginning of the word, or, if the word begins with an  or a vowel, the second syllable; the initial consonant is then reattached to the end of the word along with a suffix particular to the argot: -ji, -oc, -ic, -uche, -ès, or in the case of louchébem, -em/ème.\n\nNote that louchébem is first and foremost an oral language, and spelling is usually phoneticized.\n\nHistory\n\nDespite the name, louchébem seems to have been created not by butchers but by inmates at Brest Prison, with records dating back to 1821.\n\nEdmund Clerihew Bentley used the language as a plot point in his 1937 short story \"The Old-Fashioned Apache\".\n\nDuring the Nazi occupation louchébem was used by Parisian members of the Resistance.\n\nEven today, louchébem is still well-known and used among those working at point-of-sale in the meat retail industry.  Some words have even leaked into common, everyday use by the masses; an example is the word loufoque, meaning \"eccentric\".\n\nExamples \n\nHere are a few example Louchébem words.\n\nThere is another French argot called largonji, which differs from louchébem only in the suffix that is added (-i instead of -em); the term is derived from jargon.\n\nNotes\n\nBibliography\n\n* Marcel Schwob, Étude sur l’argot français. Paris: Émile Bouillon, 1889.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Louchébem" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17968" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Louchébem or loucherbem is Parisian and Lyonnaise butchers' (French boucher) slang, similar to Pig Latin and Verlan. It originated in the mid-19th century and was in common use until the 1950s.\n\nProcess\n\nThe louchébem word-creation process resembles that of largonji, verlan, and javanais, in that existing words are camouflaged according to a set of rules.  Strictly speaking, louchébem is a more rigid variety of largonji in which the ending -èm is obligatory.  Largonji substitutes  for the consonant or consonant cluster at the beginning of the word, or, if the word begins with an  or a vowel, the second syllable; the initial consonant is then reattached to the end of the word along with a suffix particular to the argot: -ji, -oc, -ic, -uche, -ès, or in the case of louchébem, -em/ème.\n\nNote that louchébem is first and foremost an oral language, and spelling is usually phoneticized.\n\nHistory\n\nDespite the name, louchébem seems to have been created not by butchers but by inmates at Brest Prison, with records dating back to 1821.\n\nEdmund Clerihew Bentley used the language as a plot point in his 1937 short story \"The Old-Fashioned Apache\".\n\nDuring the Nazi occupation louchébem was used by Parisian members of the Resistance.\n\nEven today, louchébem is still well-known and used among those working at point-of-sale in the meat retail industry.  Some words have even leaked into common, everyday use by the masses; an example is the word loufoque, meaning \"eccentric\".\n\nExamples \n\nHere are a few example Louchébem words.\n\nThere is another French argot called largonji, which differs from louchébem only in the suffix that is added (-i instead of -em); the term is derived from jargon.\n\nNotes\n\nBibliography\n\n* Marcel Schwob, Étude sur l’argot français. Paris: Émile Bouillon, 1889. Louchébem. http://en.wikipedia.org/?curid=17968."
+  }
+}

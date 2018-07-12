@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10259",
+  "eid" : "f4a149a0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778490170,
+  "textBody" : "In archaeology, the Epipaleolithic is the final period of the Upper Palaeolithic, occurring at the end of the last glacial period, and leading without interruption into the Mesolithic.Bahn, Paul, The Penguin Archaeology Guide, Penguin, London, pp. 141. \nThe period is generally dated from  BP to  BP, having emerged from the Palaeolithic era.Byrnes, Andie. \"Epipalaeolithic.\" Epipalaeolithic. N.p., 2005. Web. December 2014.\n\nThe Natufian culture in the Levant is considered to be a late epipaleolithic culture.\n\nTerm usage \n\nThe term is sometimes used synonymous with Mesolithic. When a distinction is made, Epipaleolithic stresses the continuity with the Upper Paleolithic and Mesolithic as it is understood today, whilst Protoneolithic stresses a subsequent transition to the Neolithic.\nAlfonso Moure says in this respect:\n\nSome authors reserve the term Mesolithic for the cultures of Europe, where the extinction of the megafauna had a great impact on the Paleolithic populations at the end of the Ice Age, from  BCE until the advent of the Neolithic (Sauveterrian, Tardenoisian, Maglemosian, etc.).\n\nHunter-gatherers\n\nEpipalaeolithic hunter-gatherers, generally nomadic, made relatively advanced tools from small flint or obsidian blades, known as microliths, that were hafted in wooden implements.\n\nAnimal food sources\n\nThe Epipaleolithic is best understood when discussing the southern Levant, as the period is well documented due to good preservation at the site.\nThe most prevalent animal food sources in the Levant during this period were:\n* Gazelle\n* Wild equids\n* Wild boar\n* Deer\n* Wild cattle\n* Ibex\n* Wild goat\n* Wild sheep\n\nThese were most likely the main food sources throughout the Pre-Pottery Neolithic A (PPNA) period. Of these animals, it is likely that only the equids were migrational.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Epipaleolithic" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10259" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "In archaeology, the Epipaleolithic is the final period of the Upper Palaeolithic, occurring at the end of the last glacial period, and leading without interruption into the Mesolithic.Bahn, Paul, The Penguin Archaeology Guide, Penguin, London, pp. 141. \nThe period is generally dated from  BP to  BP, having emerged from the Palaeolithic era.Byrnes, Andie. \"Epipalaeolithic.\" Epipalaeolithic. N.p., 2005. Web. December 2014.\n\nThe Natufian culture in the Levant is considered to be a late epipaleolithic culture.\n\nTerm usage \n\nThe term is sometimes used synonymous with Mesolithic. When a distinction is made, Epipaleolithic stresses the continuity with the Upper Paleolithic and Mesolithic as it is understood today, whilst Protoneolithic stresses a subsequent transition to the Neolithic.\nAlfonso Moure says in this respect:\n\nSome authors reserve the term Mesolithic for the cultures of Europe, where the extinction of the megafauna had a great impact on the Paleolithic populations at the end of the Ice Age, from  BCE until the advent of the Neolithic (Sauveterrian, Tardenoisian, Maglemosian, etc.).\n\nHunter-gatherers\n\nEpipalaeolithic hunter-gatherers, generally nomadic, made relatively advanced tools from small flint or obsidian blades, known as microliths, that were hafted in wooden implements.\n\nAnimal food sources\n\nThe Epipaleolithic is best understood when discussing the southern Levant, as the period is well documented due to good preservation at the site.\nThe most prevalent animal food sources in the Levant during this period were:\n* Gazelle\n* Wild equids\n* Wild boar\n* Deer\n* Wild cattle\n* Ibex\n* Wild goat\n* Wild sheep\n\nThese were most likely the main food sources throughout the Pre-Pottery Neolithic A (PPNA) period. Of these animals, it is likely that only the equids were migrational. Epipaleolithic. http://en.wikipedia.org/?curid=10259."
+  }
+}

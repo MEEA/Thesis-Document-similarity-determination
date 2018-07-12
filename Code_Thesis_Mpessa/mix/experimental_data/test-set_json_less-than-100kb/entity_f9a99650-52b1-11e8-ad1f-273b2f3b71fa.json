@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11112",
+  "eid" : "f9a99650-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778498613,
+  "textBody" : "FIPS or Fips may refer to:\n\nComputing\n\n*FIPS (computer program), First nondestructive Interactive Partition Splitter, a disk partitioner\n*Federal Information Processing Standards, United States government standards\n\nPeople\n\n*Werner Fürbringer (1888–1982), German U-boat commander\n*Philipp Rupprecht (1900–1975), pen name of the German cartoonist",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "FIPS" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11112" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "FIPS or Fips may refer to:\n\nComputing\n\n*FIPS (computer program), First nondestructive Interactive Partition Splitter, a disk partitioner\n*Federal Information Processing Standards, United States government standards\n\nPeople\n\n*Werner Fürbringer (1888–1982), German U-boat commander\n*Philipp Rupprecht (1900–1975), pen name of the German cartoonist. FIPS. http://en.wikipedia.org/?curid=11112."
+  }
+}

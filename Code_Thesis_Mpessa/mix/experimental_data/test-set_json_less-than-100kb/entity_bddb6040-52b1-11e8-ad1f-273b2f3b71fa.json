@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2127",
+  "eid" : "bddb6040-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778398276,
+  "textBody" : "An Aromatic hydrocarbon or Arene is a hydrocarbon with alternating double and single bonds between carbon atoms forming rings.\n\nArene may also refer to:\n\n*an aromatic hydrocarbon\n*Arene (gastropod), a genus of marine snails in the family Areneidae\n*Arene (mythology), the wife of Aphareus and mother of Idas and Lynceus in Greek mythology\n*Arene, Elis, an ancient town in Elis, Greece, also known as Makistos, Samia or Samiko\n*a French surname, Arène, derived from the Latin (h)arena, meaning sand \n\nPeople with the surname\n\n*Paul Arène (1843–1896), Provençal poet and French writer\n*Jean Arènes (1898–1960), French botanist who described many new species of the genus Dombeya",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Arene (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2127" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "An Aromatic hydrocarbon or Arene is a hydrocarbon with alternating double and single bonds between carbon atoms forming rings.\n\nArene may also refer to:\n\n*an aromatic hydrocarbon\n*Arene (gastropod), a genus of marine snails in the family Areneidae\n*Arene (mythology), the wife of Aphareus and mother of Idas and Lynceus in Greek mythology\n*Arene, Elis, an ancient town in Elis, Greece, also known as Makistos, Samia or Samiko\n*a French surname, Arène, derived from the Latin (h)arena, meaning sand \n\nPeople with the surname\n\n*Paul Arène (1843–1896), Provençal poet and French writer\n*Jean Arènes (1898–1960), French botanist who described many new species of the genus Dombeya. Arene (disambiguation). http://en.wikipedia.org/?curid=2127."
+  }
+}

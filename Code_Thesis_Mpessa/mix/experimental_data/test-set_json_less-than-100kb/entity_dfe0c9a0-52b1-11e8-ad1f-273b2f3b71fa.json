@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7074",
+  "eid" : "dfe0c9a0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778455354,
+  "textBody" : "This article lists transport in the Cook Islands.\n\n; Railways:\n0.1 km (Rarotonga Steam Railway)\n; Highways:\n* Total: 320 km\n* Paved: 33 km\n* Unpaved: 287 km (2003 est.)\n; Ports and harbours:\nAvarua, Avatiu\n; Merchant marine:\n* Total: 1 ship (1,000 GRT or over) totalling 2,310 GRT/\n* Ships by type: Cargo 1 (1999 est.)\n; Airports:\n7 (1999 est.)\n; Airports - with paved runways:\n* Total: 2\n* 1,524 to 2,437 m: 1 (1999 est.)\n; Airports - with unpaved runways:\n* Total: 6\n* 1,524 to 2,437 m: 3\n* 914 to 1,523 m: 3 (1999 est.)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Transport in the Cook Islands" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7074" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "This article lists transport in the Cook Islands.\n\n; Railways:\n0.1 km (Rarotonga Steam Railway)\n; Highways:\n* Total: 320 km\n* Paved: 33 km\n* Unpaved: 287 km (2003 est.)\n; Ports and harbours:\nAvarua, Avatiu\n; Merchant marine:\n* Total: 1 ship (1,000 GRT or over) totalling 2,310 GRT/\n* Ships by type: Cargo 1 (1999 est.)\n; Airports:\n7 (1999 est.)\n; Airports - with paved runways:\n* Total: 2\n* 1,524 to 2,437 m: 1 (1999 est.)\n; Airports - with unpaved runways:\n* Total: 6\n* 1,524 to 2,437 m: 3\n* 914 to 1,523 m: 3 (1999 est.). Transport in the Cook Islands. http://en.wikipedia.org/?curid=7074."
+  }
+}

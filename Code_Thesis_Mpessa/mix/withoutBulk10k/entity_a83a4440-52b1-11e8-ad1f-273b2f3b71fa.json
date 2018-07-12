@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=885",
+  "eid" : "a83a4440-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778361988,
+  "textBody" : "Altenberg (German for \"old mountain\") may refer to:\n\nPlaces\n\nGermany\n\n* Altenberg, Saxony, a town in the Free State of Saxony\n** Altenberg bobsleigh, luge, and skeleton track, a venue for bobsleigh, luge and skeleton located in Altenberg, Saxony\n* Altenberg (Bergisches Land), an area in Odenthal, North Rhine-Westphalia, Germany\n** Altenberg Abbey, Cistercian monastery in Altenberg (Bergisches Land)\n** \"Altenberg Cathedral\", the former church of this Cistercian monastery\n* Altenberg, part of Oberasbach, Bavaria\n* Altenberg, part of Denkendorf, Bavaria\n* Altenberg, part of Syrgenstein, Bavaria\n* Altenberg is also a lost town and archaeological site in the Kreis Siegen-Wittgenstein, North Rhine-Westphalia\n* Altenberga, municipality in the Saale-Holzfeld district, Thuringia\n* Altenberg Abbey, Hesse, a former Premonstratensian nunnery near Wetzlar in Hesse\n* Altenberg, a former zinc factory in Oberhausen, North Rhine-Westphalia, now the Rheinische Industriemuseum\n* Grube Altenberg, a derelict mine near Müsen in the Siegerland\n\nAustria\n\n* Altenberg in Tulln near Vienna, part of Sankt Andrä-Wördern in Lower Austria\n* Altenberg bei Linz, in Upper Austria\n* Altenberg an der Rax, in Styria\n\nSwitzerland\n\n* Altenberg, a district in the city of Bern\n\nBelgium\n\n* Altenberg, the German name for Moresnet and Neutral Moresnet\n** Altenberg, the German name for Vieille Montagne (\"old mountain\" in French), the former zinc mine in Kelmis, Moresnet\n\nPeople\n\nAny place called Altenberg may have given rise to Altenberg as a family name, such as:\n* Jakob Altenberg (1875-1944), Austrian businessman\n* Peter Altenberg (1859-1919), Austrian writer and poet\n* Altenberg Publishing (1880-1934), a family business in Poland",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Altenberg" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=885" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Altenberg (German for \"old mountain\") may refer to:\n\nPlaces\n\nGermany\n\n* Altenberg, Saxony, a town in the Free State of Saxony\n** Altenberg bobsleigh, luge, and skeleton track, a venue for bobsleigh, luge and skeleton located in Altenberg, Saxony\n* Altenberg (Bergisches Land), an area in Odenthal, North Rhine-Westphalia, Germany\n** Altenberg Abbey, Cistercian monastery in Altenberg (Bergisches Land)\n** \"Altenberg Cathedral\", the former church of this Cistercian monastery\n* Altenberg, part of Oberasbach, Bavaria\n* Altenberg, part of Denkendorf, Bavaria\n* Altenberg, part of Syrgenstein, Bavaria\n* Altenberg is also a lost town and archaeological site in the Kreis Siegen-Wittgenstein, North Rhine-Westphalia\n* Altenberga, municipality in the Saale-Holzfeld district, Thuringia\n* Altenberg Abbey, Hesse, a former Premonstratensian nunnery near Wetzlar in Hesse\n* Altenberg, a former zinc factory in Oberhausen, North Rhine-Westphalia, now the Rheinische Industriemuseum\n* Grube Altenberg, a derelict mine near Müsen in the Siegerland\n\nAustria\n\n* Altenberg in Tulln near Vienna, part of Sankt Andrä-Wördern in Lower Austria\n* Altenberg bei Linz, in Upper Austria\n* Altenberg an der Rax, in Styria\n\nSwitzerland\n\n* Altenberg, a district in the city of Bern\n\nBelgium\n\n* Altenberg, the German name for Moresnet and Neutral Moresnet\n** Altenberg, the German name for Vieille Montagne (\"old mountain\" in French), the former zinc mine in Kelmis, Moresnet\n\nPeople\n\nAny place called Altenberg may have given rise to Altenberg as a family name, such as:\n* Jakob Altenberg (1875-1944), Austrian businessman\n* Peter Altenberg (1859-1919), Austrian writer and poet\n* Altenberg Publishing (1880-1934), a family business in Poland. Altenberg. http://en.wikipedia.org/?curid=885."
+  }
+}

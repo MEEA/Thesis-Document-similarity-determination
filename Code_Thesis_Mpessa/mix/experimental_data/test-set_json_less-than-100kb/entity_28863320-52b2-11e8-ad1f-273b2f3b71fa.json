@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16781",
+  "eid" : "28863320-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778577234,
+  "textBody" : "A kylix is a type of drinking cup used in ancient Greece \n\nKylix may also refer to:\n* Kylix (gastropod), a genus of snails in the family Drilliidae\n* Kylix (software), a programming tool",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Kylix (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16781" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A kylix is a type of drinking cup used in ancient Greece \n\nKylix may also refer to:\n* Kylix (gastropod), a genus of snails in the family Drilliidae\n* Kylix (software), a programming tool. Kylix (disambiguation). http://en.wikipedia.org/?curid=16781."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17427",
+  "eid" : "2bf12380-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778582968,
+  "textBody" : "Elah may refer to:\n\n* Allah, as a variant spelling\n* Elah, one of the names of the Judaic god during those times when Aramaic was the dominant language\n* King Elah of Israel\n* The Valley of Elah, where the biblical David fought Goliath\n* Elah (Edom), a member of the Edomite clan\n* Pistacia palaestina, one of the trees also known as terebinth",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Elah" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17427" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Elah may refer to:\n\n* Allah, as a variant spelling\n* Elah, one of the names of the Judaic god during those times when Aramaic was the dominant language\n* King Elah of Israel\n* The Valley of Elah, where the biblical David fought Goliath\n* Elah (Edom), a member of the Edomite clan\n* Pistacia palaestina, one of the trees also known as terebinth. Elah. http://en.wikipedia.org/?curid=17427."
+  }
+}

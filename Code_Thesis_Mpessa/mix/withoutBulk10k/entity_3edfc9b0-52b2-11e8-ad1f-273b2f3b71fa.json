@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19938",
+  "eid" : "3edfc9b0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778614731,
+  "textBody" : "Mega is a unit prefix in metric systems of units denoting a factor of one million (106 or 1000000 (number)|). It has the unit symbol M. It was confirmed for use in the International System of Units (SI) in 1960. Mega comes from the Greek  , meaning \"great\".\n\nCommon examples of usage\n\n* Megapixel: 1 million pixels in a digital camera\n* One megatonne of TNT equivalent amounts to approx. 4 petajoules and is the approximate energy released on igniting one million tonnes of TNT. The unit is often used in measuring the explosive power of nuclear weapons. \n* Megahertz: frequency of electromagnetic radiation for radio and television broadcasting, GSM, etc. 1 MHz = 1,000,000 Hz.\n* Megabyte: unit of information equal to- depending on definition- either one million bytes (SI standard) or 1048576 bytes (traditional).\n* Megawatt: equal to one million watts of power.  It is commonly used to measure the output of power plants, as well as the power consumption of electric locomotives, data centers, and other entities that heavily consume electricity.\n\nExponentiation\n\nWhen units occur in exponentiation, such as in square and cubic forms, any multiples-prefix is considered part of the unit, and thus included in the exponentiation.\n* 1 Mm2 means one square megametre or the size of a square of  by  or , and not  (106 m2).\n* 1 Mm3 means one cubic megametre or the size of a cube of  by  by  or 1018 m3, and not  (106 m3)\n\nComputing\n\nIn some fields of computing, mega may sometimes denote 1,048,576 (220) of information units, for example, a megabyte, a megaword, but denotes  (106) units of other quantities, for example, transfer rates:  = . The prefix mebi- has been suggested as a prefix for 220 to avoid ambiguity.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Mega-" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19938" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Mega is a unit prefix in metric systems of units denoting a factor of one million (106 or 1000000 (number)|). It has the unit symbol M. It was confirmed for use in the International System of Units (SI) in 1960. Mega comes from the Greek  , meaning \"great\".\n\nCommon examples of usage\n\n* Megapixel: 1 million pixels in a digital camera\n* One megatonne of TNT equivalent amounts to approx. 4 petajoules and is the approximate energy released on igniting one million tonnes of TNT. The unit is often used in measuring the explosive power of nuclear weapons. \n* Megahertz: frequency of electromagnetic radiation for radio and television broadcasting, GSM, etc. 1 MHz = 1,000,000 Hz.\n* Megabyte: unit of information equal to- depending on definition- either one million bytes (SI standard) or 1048576 bytes (traditional).\n* Megawatt: equal to one million watts of power.  It is commonly used to measure the output of power plants, as well as the power consumption of electric locomotives, data centers, and other entities that heavily consume electricity.\n\nExponentiation\n\nWhen units occur in exponentiation, such as in square and cubic forms, any multiples-prefix is considered part of the unit, and thus included in the exponentiation.\n* 1 Mm2 means one square megametre or the size of a square of  by  or , and not  (106 m2).\n* 1 Mm3 means one cubic megametre or the size of a cube of  by  by  or 1018 m3, and not  (106 m3)\n\nComputing\n\nIn some fields of computing, mega may sometimes denote 1,048,576 (220) of information units, for example, a megabyte, a megaword, but denotes  (106) units of other quantities, for example, transfer rates:  = . The prefix mebi- has been suggested as a prefix for 220 to avoid ambiguity. Mega-. http://en.wikipedia.org/?curid=19938."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2502",
+  "eid" : "c0ac81a0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778403002,
+  "textBody" : "The Acantharea (Acantharia) are a group of radiolarian protozoa, distinguished mainly by their skeletons.\n\nStructure\n\nThe skeletons are composed of strontium sulfate crystals,\n which do not fossilize, and take the form of either ten diametric or twenty radial spines.  The central capsule is made up of microfibrils arranged into twenty  plates, each with a hole through which one spine projects, and there is also a microfibrillar cortex linked to the spines by myonemes.  These assist in flotation, together with the vacuoles in the ectoplasm, which often contain zooxanthellae.\n\nClassification by spine arrangement\n\nThe arrangement of the spines is very precise, and is described by what is called the Müllerian law, which can be described in terms of lines of latitude and longitude – the spines lie on the intersections between five of the former, symmetric about an equator, and eight of the latter, spaced uniformly.  Each line of longitude carries either two tropical spines or one equatorial and two polar spines, in alternation.  The way that the spines are joined together at the center of the cell varies and is one of the primary characteristics by which acanthareans are classified.\n* Holacanthida – diametric spines, simply crossed\n* Symphyacanthida – radial spines, with free bases\n* Chaunacanthida – radial spines, with articulated bases\n* Arthracanthida – radial spines, with pyramidal bases packed together\n\nThe axopods are fixed in number.\n\nLife cycle\n\nAdults are usually multinucleated. Reproduction is thought to take place by formation of swarmer cells (formerly referred to as \"spores\"), which may be flagellate.  Not all life cycle stages have been observed, and study of these organisms has been hampered mainly by an inability to maintain these organisms in culture through successive generations.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Acantharea" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2502" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The Acantharea (Acantharia) are a group of radiolarian protozoa, distinguished mainly by their skeletons.\n\nStructure\n\nThe skeletons are composed of strontium sulfate crystals,\n which do not fossilize, and take the form of either ten diametric or twenty radial spines.  The central capsule is made up of microfibrils arranged into twenty  plates, each with a hole through which one spine projects, and there is also a microfibrillar cortex linked to the spines by myonemes.  These assist in flotation, together with the vacuoles in the ectoplasm, which often contain zooxanthellae.\n\nClassification by spine arrangement\n\nThe arrangement of the spines is very precise, and is described by what is called the Müllerian law, which can be described in terms of lines of latitude and longitude – the spines lie on the intersections between five of the former, symmetric about an equator, and eight of the latter, spaced uniformly.  Each line of longitude carries either two tropical spines or one equatorial and two polar spines, in alternation.  The way that the spines are joined together at the center of the cell varies and is one of the primary characteristics by which acanthareans are classified.\n* Holacanthida – diametric spines, simply crossed\n* Symphyacanthida – radial spines, with free bases\n* Chaunacanthida – radial spines, with articulated bases\n* Arthracanthida – radial spines, with pyramidal bases packed together\n\nThe axopods are fixed in number.\n\nLife cycle\n\nAdults are usually multinucleated. Reproduction is thought to take place by formation of swarmer cells (formerly referred to as \"spores\"), which may be flagellate.  Not all life cycle stages have been observed, and study of these organisms has been hampered mainly by an inability to maintain these organisms in culture through successive generations. Acantharea. http://en.wikipedia.org/?curid=2502."
+  }
+}

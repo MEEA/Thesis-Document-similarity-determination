@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7118",
+  "eid" : "dffe15a0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778455546,
+  "textBody" : "Churnsike Lodge () was an early Victorian hunting lodge situated in the parish of Greystead,  West Northumberland, England. It was built in 1850 as a shooting lodge and was part of the Hesleyside estate (Hesleyside house is situated in the North Tyne valley near Bellingham). When the estate was sold in 1889, Churnsike Lodge was purchased by the Chesters Estate (near Hexham, Northumberland).http://discovery.nationalarchives.gov.uk/details/rd/fd9409d0-ae3d-4bd7-8c65-65d76020f2a3 The \"cairnsyke\" estate comprised several thousand acres of grouse moor and is referred to in the sale catalogue of 1889 as the \"Finest grouse moor in the Kingdom\". The property included stables for 6 horses, a gamekeepers bothy and well-appointed dog kennels which housed the Irthing head and Kielder houndshttp://woolshed1.blogspot.co.uk/2008_12_01_archive.html (headed by famous fox hunter William Dodd, as referred to in \"Wanny Blossoms\"). Situated 10 miles north of Gilsland and 13 miles west of Bellingham, the former grouse moor is now part of the Wark forest.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Churnsike Lodge" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7118" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Churnsike Lodge () was an early Victorian hunting lodge situated in the parish of Greystead,  West Northumberland, England. It was built in 1850 as a shooting lodge and was part of the Hesleyside estate (Hesleyside house is situated in the North Tyne valley near Bellingham). When the estate was sold in 1889, Churnsike Lodge was purchased by the Chesters Estate (near Hexham, Northumberland).http://discovery.nationalarchives.gov.uk/details/rd/fd9409d0-ae3d-4bd7-8c65-65d76020f2a3 The \"cairnsyke\" estate comprised several thousand acres of grouse moor and is referred to in the sale catalogue of 1889 as the \"Finest grouse moor in the Kingdom\". The property included stables for 6 horses, a gamekeepers bothy and well-appointed dog kennels which housed the Irthing head and Kielder houndshttp://woolshed1.blogspot.co.uk/2008_12_01_archive.html (headed by famous fox hunter William Dodd, as referred to in \"Wanny Blossoms\"). Situated 10 miles north of Gilsland and 13 miles west of Bellingham, the former grouse moor is now part of the Wark forest. Churnsike Lodge. http://en.wikipedia.org/?curid=7118."
+  }
+}

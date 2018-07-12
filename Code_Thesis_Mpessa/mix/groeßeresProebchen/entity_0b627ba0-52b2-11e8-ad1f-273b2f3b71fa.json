@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13601",
+  "eid" : "0b627ba0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778528346,
+  "textBody" : "The Hebrew language is a language native to Israel.\n\nHebrew may also refer to:\n\nEntomology \n\n*Hebrew character\n*Hebrew moth\n*Setaceous Hebrew character\n\nEthnic groups \n\n*The Hebrews, an ancient people of the Levant region\n**Children of Eber, the earliest cultural Hebrews\n**The Israelites, descendants of Jacob, seven generations removed from Eber\n**The Jews\n*A member of a people who spoke Canaanite languages, including the Ammonites, Edomites, Hebrews, Moabites, and Phoenicians\n\nLinguistics \n\n* A form of the Hebrew language:\n** Biblical Hebrew\n** Modern Hebrew\n* The Hebrew alphabet, used to write Hebrew and other Jewish languages\n** Hebrew (Unicode block), a block of Hebrew characters in Unicode.\n** Paleo-Hebrew alphabet\n\nOther \n\n* He’Brew, a beer produced by the Shmaltz Brewing Company\n* Hebrew College of Jewish studies in Newton Centre, Massachusetts",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Hebrew (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13601" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The Hebrew language is a language native to Israel.\n\nHebrew may also refer to:\n\nEntomology \n\n*Hebrew character\n*Hebrew moth\n*Setaceous Hebrew character\n\nEthnic groups \n\n*The Hebrews, an ancient people of the Levant region\n**Children of Eber, the earliest cultural Hebrews\n**The Israelites, descendants of Jacob, seven generations removed from Eber\n**The Jews\n*A member of a people who spoke Canaanite languages, including the Ammonites, Edomites, Hebrews, Moabites, and Phoenicians\n\nLinguistics \n\n* A form of the Hebrew language:\n** Biblical Hebrew\n** Modern Hebrew\n* The Hebrew alphabet, used to write Hebrew and other Jewish languages\n** Hebrew (Unicode block), a block of Hebrew characters in Unicode.\n** Paleo-Hebrew alphabet\n\nOther \n\n* He’Brew, a beer produced by the Shmaltz Brewing Company\n* Hebrew College of Jewish studies in Newton Centre, Massachusetts. Hebrew (disambiguation). http://en.wikipedia.org/?curid=13601."
+  }
+}

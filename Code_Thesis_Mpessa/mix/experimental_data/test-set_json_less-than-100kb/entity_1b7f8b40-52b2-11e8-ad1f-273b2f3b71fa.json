@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15365",
+  "eid" : "1b7f8b40-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778555380,
+  "textBody" : "The International Airlines Travel Agent Network (IATAN) is an industry association in the USA designed to represent the interests of its member companies.\n\nIn addition, it (along with the IATA) is the body responsible for the standard international codes for airlines, airports, hotels, cities and car rental firms (for example, the three-digit codes that designate London Heathrow Airport as LHR). These codes provide a method to link international travel network with international suppliers. [http://www.iatan.org/iatan/about/mission.htm IATAN About Us] official site",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "International Association of Travel Agents Network" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15365" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The International Airlines Travel Agent Network (IATAN) is an industry association in the USA designed to represent the interests of its member companies.\n\nIn addition, it (along with the IATA) is the body responsible for the standard international codes for airlines, airports, hotels, cities and car rental firms (for example, the three-digit codes that designate London Heathrow Airport as LHR). These codes provide a method to link international travel network with international suppliers. [http://www.iatan.org/iatan/about/mission.htm IATAN About Us] official site. International Association of Travel Agents Network. http://en.wikipedia.org/?curid=15365."
+  }
+}

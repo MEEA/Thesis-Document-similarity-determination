@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14309",
+  "eid" : "13861210-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778542001,
+  "textBody" : "Holger Pedersen may refer to:\n* Holger Pedersen (linguist), Danish linguist (1867–1953)\n* Holger Pedersen (astronomer), Danish astronomer (b. 1946), at the European Southern Observatory\n* Holger Petersen, Canadian radio personality",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Holger Pedersen" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14309" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Holger Pedersen may refer to:\n* Holger Pedersen (linguist), Danish linguist (1867–1953)\n* Holger Pedersen (astronomer), Danish astronomer (b. 1946), at the European Southern Observatory\n* Holger Petersen, Canadian radio personality. Holger Pedersen. http://en.wikipedia.org/?curid=14309."
+  }
+}

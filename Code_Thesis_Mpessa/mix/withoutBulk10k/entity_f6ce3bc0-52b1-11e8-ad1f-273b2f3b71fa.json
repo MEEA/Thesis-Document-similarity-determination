@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10651",
+  "eid" : "f6ce3bc0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778493820,
+  "textBody" : "Floating Point is an album by John McLaughlin, released in 2008 through the record label Abstract Logix. The album reached number fourteen on Billboards Top Jazz Albums chart.\n\nTrack listing\n\n# \"Abbaji (For Alla Rakha)\" (McLaughlin) – 9:01\n# \"Raju\" (McLaughlin) – 8:21\n# \"Maharina\" (McLaughlin) – 6:09\n# \"Off the One\" (McLaughlin) – 6:55\n# \"The Voice\" (McLaughlin) – 9:19\n# \"Inside Out\" (McLaughlin) – 8:30\n# \"1 4 U\" (McLaughlin) – 7:07\n# \"Five Peace Band\" (McLaughlin) – 7:06\n\nPersonnel\n\n* John McLaughlin: guitar synthesizer, guitar (2, 4, 6, 8)\n* Hadrien Feraud: bass guitar\n* Louis Banks: keyboards\n* Ranjit Barot: drums\n* Sivamani: percussion, konokol (6)\n* George Brooks: soprano saxophone (1)\n* Debashish Bhattacharya: Hindustani slide guitar (2)\n* Shashank Subramanyam: bamboo flute (4)\n* Shankar Mahadevan: voice (5)\n* U Rajesh: electric mandolin (6)\n* Naveen Kumar: bamboo flute (7)\n* Niladri Kumar: sitar (8)\n\nReception\n\nMichael G. Nastos of AllMusic calls the album \"a surprisingly fine effort, ebbing and flowing from track to track, with McLaughlin's high-level musicianship shining through, same as it ever was.\"\nJohn Kelman in All About Jazz wrote \"One of the most fluent, evocative and powerful albums in a career filled with high points\"\nand concludes \"McLaughlin's Indian friends may not have jazz in their blood the way it is in the guitarist's, but by approaching unmistakably western-informed music with an eastern mindset, they make Floating Point an album that, in McLaughlin's lengthy discography, is one of his most successful fusion records\".",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Floating Point" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10651" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Floating Point is an album by John McLaughlin, released in 2008 through the record label Abstract Logix. The album reached number fourteen on Billboards Top Jazz Albums chart.\n\nTrack listing\n\n# \"Abbaji (For Alla Rakha)\" (McLaughlin) – 9:01\n# \"Raju\" (McLaughlin) – 8:21\n# \"Maharina\" (McLaughlin) – 6:09\n# \"Off the One\" (McLaughlin) – 6:55\n# \"The Voice\" (McLaughlin) – 9:19\n# \"Inside Out\" (McLaughlin) – 8:30\n# \"1 4 U\" (McLaughlin) – 7:07\n# \"Five Peace Band\" (McLaughlin) – 7:06\n\nPersonnel\n\n* John McLaughlin: guitar synthesizer, guitar (2, 4, 6, 8)\n* Hadrien Feraud: bass guitar\n* Louis Banks: keyboards\n* Ranjit Barot: drums\n* Sivamani: percussion, konokol (6)\n* George Brooks: soprano saxophone (1)\n* Debashish Bhattacharya: Hindustani slide guitar (2)\n* Shashank Subramanyam: bamboo flute (4)\n* Shankar Mahadevan: voice (5)\n* U Rajesh: electric mandolin (6)\n* Naveen Kumar: bamboo flute (7)\n* Niladri Kumar: sitar (8)\n\nReception\n\nMichael G. Nastos of AllMusic calls the album \"a surprisingly fine effort, ebbing and flowing from track to track, with McLaughlin's high-level musicianship shining through, same as it ever was.\"\nJohn Kelman in All About Jazz wrote \"One of the most fluent, evocative and powerful albums in a career filled with high points\"\nand concludes \"McLaughlin's Indian friends may not have jazz in their blood the way it is in the guitarist's, but by approaching unmistakably western-informed music with an eastern mindset, they make Floating Point an album that, in McLaughlin's lengthy discography, is one of his most successful fusion records\". Floating Point. http://en.wikipedia.org/?curid=10651."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15347",
+  "eid" : "1b6d62d0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778555261,
+  "textBody" : "Intelligence is one or more capacities of the mind.\n\nIntelligence may also refer to:\n\nInformation, including its acquisition \n\n* Information in any useful form\n* Espionage, the clandestine acquisition of confidential information\n* Business intelligence, transforming data into meaningful and useful information for business analysis purposes\n* Intelligence assessment, the evaluation of sensitive state, military, commercial, or scientific information\n* Intelligence cycle, the stages of intelligence information processing\n* Military intelligence, the gathering and assessment of strategic, tactical, and policy information\n**Strategic intelligence\n* Police intelligence, the gathering of information about crime in order to track and predict it with a view to curbing it\n\nAcademic\n\n* Intelligence (journal), a scientific journal dealing with intelligence and psychometrics\n* Nous (intelligence), in classical and medieval philosophy, theology, and cosmology\n\nMedia\n\n* Intelligence (newspaper), a newspaper published in Bowral, New South Wales, Australia\n* Television:\n** Intelligence (Canadian TV series), a Canadian television show that ran 2006–2007 on CBC Television\n** Intelligence (U.S. TV series), a 2014 American cyber-themed action/adventure television series\n*Music:\n** \"Intelligence\", a song by ...And You Will Know Us by the Trail of Dead from their 2003 EP The Secret of Elena's Tomb\n** The Intelligence, a noise rock band from Seattle with releases on In the Red Records\n\nOther\n\n* Intelligence (solitaire), a card game",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Intelligence (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15347" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Intelligence is one or more capacities of the mind.\n\nIntelligence may also refer to:\n\nInformation, including its acquisition \n\n* Information in any useful form\n* Espionage, the clandestine acquisition of confidential information\n* Business intelligence, transforming data into meaningful and useful information for business analysis purposes\n* Intelligence assessment, the evaluation of sensitive state, military, commercial, or scientific information\n* Intelligence cycle, the stages of intelligence information processing\n* Military intelligence, the gathering and assessment of strategic, tactical, and policy information\n**Strategic intelligence\n* Police intelligence, the gathering of information about crime in order to track and predict it with a view to curbing it\n\nAcademic\n\n* Intelligence (journal), a scientific journal dealing with intelligence and psychometrics\n* Nous (intelligence), in classical and medieval philosophy, theology, and cosmology\n\nMedia\n\n* Intelligence (newspaper), a newspaper published in Bowral, New South Wales, Australia\n* Television:\n** Intelligence (Canadian TV series), a Canadian television show that ran 2006–2007 on CBC Television\n** Intelligence (U.S. TV series), a 2014 American cyber-themed action/adventure television series\n*Music:\n** \"Intelligence\", a song by ...And You Will Know Us by the Trail of Dead from their 2003 EP The Secret of Elena's Tomb\n** The Intelligence, a noise rock band from Seattle with releases on In the Red Records\n\nOther\n\n* Intelligence (solitaire), a card game. Intelligence (disambiguation). http://en.wikipedia.org/?curid=15347."
+  }
+}

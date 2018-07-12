@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17016",
+  "eid" : "2a1d9c00-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778579904,
+  "textBody" : "Kuleshov () and Kuleshova (; feminine) is a common Russian surname that traces its origins to  Ukraine\n\nPeople with this surname include:\n* Aleksey Kuleshov (b. 1979), a Russian  volleyball player\n* Alla Kuleshova (b. 1945), Russian rower\n* Arkadi Kuleshov (b. 1914), a Belorussian poet and translator\n* Lev Kuleshov (1899–1970), a Soviet filmmaker and film theorist\n* Mikhail Kuleshov (b. 1981), a Russian ice hockey player\n* Oleg Kuleshov (b. 1974), a Russian handball player\n* Vladimir Kuleshov (b. 1986), a Russian footballer",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Kuleshov" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17016" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Kuleshov () and Kuleshova (; feminine) is a common Russian surname that traces its origins to  Ukraine\n\nPeople with this surname include:\n* Aleksey Kuleshov (b. 1979), a Russian  volleyball player\n* Alla Kuleshova (b. 1945), Russian rower\n* Arkadi Kuleshov (b. 1914), a Belorussian poet and translator\n* Lev Kuleshov (1899–1970), a Soviet filmmaker and film theorist\n* Mikhail Kuleshov (b. 1981), a Russian ice hockey player\n* Oleg Kuleshov (b. 1974), a Russian handball player\n* Vladimir Kuleshov (b. 1986), a Russian footballer. Kuleshov. http://en.wikipedia.org/?curid=17016."
+  }
+}

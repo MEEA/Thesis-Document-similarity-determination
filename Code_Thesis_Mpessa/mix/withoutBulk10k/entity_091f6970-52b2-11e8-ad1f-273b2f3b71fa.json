@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=13412",
+  "eid" : "091f6970-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778524551,
+  "textBody" : "Hong Kong is a special administrative region of the China, and formerly a British crown colony. As such, it has never had any military force of its own, and defence have always been the responsibilities of the sovereign power. Currently, defence of the territory is the duty of the People's Liberation Army Hong Kong Garrison. Before 1997, it was the duty of the British Forces Overseas Hong Kong. Commonwealth forces were also deployed to station in the territory shortly before the Second World War.\n\nThe territory has nevertheless maintained a Government Flying Service, formerly the Royal Hong Kong Auxiliary Air Force, that is responsible for search and rescue operations, air ambulance services, and other air services for the Hong Kong Government. The GFS also took over some responsibilities from the Royal Air Force and the Army Air Corp.http://www.legco.gov.hk/yr08-09/english/panels/ps/papers/ps1215cb1-310-1-e.pdf#page=178 The Hong Kong Police Force also has a highly trained and equipped counter terrorism unit, the Special Duties Unit, trained by United Kingdom's SAS and SBS, and a Marine Police force.  These forces have been heavily armed since before the handover in 1997, and are within the portfolio of the Secretary for Security (which, before 1973, was named Secretary for Defence).\n\nThe Fire Service Department also took over some diving rescue responsibilities from the British Forces Overseas.http://www.legco.gov.hk/yr08-09/english/panels/ps/papers/ps1215cb1-310-1-e.pdf#page=155\n\nThe Royal Hong Kong Regiment (The Volunteers) was disbanded in 1995 prior to the handover in 1997. It was funded by and was a branch of the Hong Kong Government, yet  under command of the Commander British Forces.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Military of Hong Kong" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=13412" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Hong Kong is a special administrative region of the China, and formerly a British crown colony. As such, it has never had any military force of its own, and defence have always been the responsibilities of the sovereign power. Currently, defence of the territory is the duty of the People's Liberation Army Hong Kong Garrison. Before 1997, it was the duty of the British Forces Overseas Hong Kong. Commonwealth forces were also deployed to station in the territory shortly before the Second World War.\n\nThe territory has nevertheless maintained a Government Flying Service, formerly the Royal Hong Kong Auxiliary Air Force, that is responsible for search and rescue operations, air ambulance services, and other air services for the Hong Kong Government. The GFS also took over some responsibilities from the Royal Air Force and the Army Air Corp.http://www.legco.gov.hk/yr08-09/english/panels/ps/papers/ps1215cb1-310-1-e.pdf#page=178 The Hong Kong Police Force also has a highly trained and equipped counter terrorism unit, the Special Duties Unit, trained by United Kingdom's SAS and SBS, and a Marine Police force.  These forces have been heavily armed since before the handover in 1997, and are within the portfolio of the Secretary for Security (which, before 1973, was named Secretary for Defence).\n\nThe Fire Service Department also took over some diving rescue responsibilities from the British Forces Overseas.http://www.legco.gov.hk/yr08-09/english/panels/ps/papers/ps1215cb1-310-1-e.pdf#page=155\n\nThe Royal Hong Kong Regiment (The Volunteers) was disbanded in 1995 prior to the handover in 1997. It was funded by and was a branch of the Hong Kong Government, yet  under command of the Commander British Forces. Military of Hong Kong. http://en.wikipedia.org/?curid=13412."
+  }
+}

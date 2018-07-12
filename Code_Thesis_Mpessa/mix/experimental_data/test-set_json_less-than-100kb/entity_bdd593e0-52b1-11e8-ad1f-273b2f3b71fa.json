@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2123",
+  "eid" : "bdd593e0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778398238,
+  "textBody" : "Abyssinia may refer to:\n\nPlaces \n\n* The Ethiopian Empire, which was historically known as Abyssinia, a nation that comprised the northern half of present-day Ethiopia. Note that \"Abyssinia\" does not refer to the ancient Kingdom of Aksum \"Axumite Empire\".\n** Abyssinia Crisis, a Mussolini-engineered occupation and colonialism of Eastern Africa (1935–1944)\n* Ethiopia, the modern nation remains known by its pars pro toto Abyssinia (used in limited context, for example in literature) \n* Apostolic Vicariate of Abyssinia (initially Apostolic Prefecture of Abyssinia, later Apostolic Vicariate of Addis Abeba, Apostolic Exarchate of Addis Abeba, ultimately Metropolitanate sui iuris of Addis Abeba), the former Eastern Catholic missionary\n\nArts and media \n\n* Abyssinia (musical)\n* \"Abyssinia\", a song by the Patti Smith Group on Radio Ethiopia\n* \"Abyssinia, Henry\", the 72nd episode of the television series M*A*S*H\n\nVessels \n\n* SS Abyssinia, an 1870 Canadian Pacific steamship\n* HMS Abyssinia (1870), a British armoured ship\n\nOther uses \n\n* Abyssinia (battle honour)\n* Abyssinian (disambiguation)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Abyssinia" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2123" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Abyssinia may refer to:\n\nPlaces \n\n* The Ethiopian Empire, which was historically known as Abyssinia, a nation that comprised the northern half of present-day Ethiopia. Note that \"Abyssinia\" does not refer to the ancient Kingdom of Aksum \"Axumite Empire\".\n** Abyssinia Crisis, a Mussolini-engineered occupation and colonialism of Eastern Africa (1935–1944)\n* Ethiopia, the modern nation remains known by its pars pro toto Abyssinia (used in limited context, for example in literature) \n* Apostolic Vicariate of Abyssinia (initially Apostolic Prefecture of Abyssinia, later Apostolic Vicariate of Addis Abeba, Apostolic Exarchate of Addis Abeba, ultimately Metropolitanate sui iuris of Addis Abeba), the former Eastern Catholic missionary\n\nArts and media \n\n* Abyssinia (musical)\n* \"Abyssinia\", a song by the Patti Smith Group on Radio Ethiopia\n* \"Abyssinia, Henry\", the 72nd episode of the television series M*A*S*H\n\nVessels \n\n* SS Abyssinia, an 1870 Canadian Pacific steamship\n* HMS Abyssinia (1870), a British armoured ship\n\nOther uses \n\n* Abyssinia (battle honour)\n* Abyssinian (disambiguation). Abyssinia. http://en.wikipedia.org/?curid=2123."
+  }
+}

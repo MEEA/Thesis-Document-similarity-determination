@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18475",
+  "eid" : "33294880-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778595080,
+  "textBody" : "Lucius Afranius was an ancient Roman comic poet, who lived at the beginning of the 1st century BC.  \n\nLife\n\nAfranius' comedies described Roman scenes and manners (the genre called comoediae togatae) and the subjects were mostly taken from the life of the lower classes (comoediae tabernariae). They were considered by some ancients to be frequently polluted with disgraceful amours, which, according to Quintilian, were only a representation of the conduct of Afranius.Quintilian, x. 1. § 100  He depicted, however, Roman life with such accuracy that he is classed with Menander, from whom indeed he borrowed largely.Horace, Epodes ii.1.57Macrobius, Saturnalia vi.1Cicero, De Finibus Bonorum et Malorum i.3  He imitated the style of Gaius Titius, and his language is praised by Cicero.Cicero, Brutus 45  His comedies are spoken of in the highest terms by the ancient writers, and under the Empire they not only continued to be read, but were even acted, of which an example occurs in the time of Nero.Vellius Paterculus, i.17, ii.19Gellius, xiii.8Suetonius, Nero 11  They seem to have been well known even at the latter end of the 4th century AD.Ausonius, Epigr. 71  \n\nSurviving Titles and Fragments\n\nAfranius wrote many comedies. The titles of forty-two of his plays are still preserved, along with associated fragments and quotations:",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Lucius Afranius (poet)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18475" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Lucius Afranius was an ancient Roman comic poet, who lived at the beginning of the 1st century BC.  \n\nLife\n\nAfranius' comedies described Roman scenes and manners (the genre called comoediae togatae) and the subjects were mostly taken from the life of the lower classes (comoediae tabernariae). They were considered by some ancients to be frequently polluted with disgraceful amours, which, according to Quintilian, were only a representation of the conduct of Afranius.Quintilian, x. 1. § 100  He depicted, however, Roman life with such accuracy that he is classed with Menander, from whom indeed he borrowed largely.Horace, Epodes ii.1.57Macrobius, Saturnalia vi.1Cicero, De Finibus Bonorum et Malorum i.3  He imitated the style of Gaius Titius, and his language is praised by Cicero.Cicero, Brutus 45  His comedies are spoken of in the highest terms by the ancient writers, and under the Empire they not only continued to be read, but were even acted, of which an example occurs in the time of Nero.Vellius Paterculus, i.17, ii.19Gellius, xiii.8Suetonius, Nero 11  They seem to have been well known even at the latter end of the 4th century AD.Ausonius, Epigr. 71  \n\nSurviving Titles and Fragments\n\nAfranius wrote many comedies. The titles of forty-two of his plays are still preserved, along with associated fragments and quotations:. Lucius Afranius (poet). http://en.wikipedia.org/?curid=18475."
+  }
+}

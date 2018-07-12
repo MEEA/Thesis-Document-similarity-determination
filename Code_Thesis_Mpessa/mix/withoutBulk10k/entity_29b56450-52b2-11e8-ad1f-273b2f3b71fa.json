@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=16915",
+  "eid" : "29b56450-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778579221,
+  "textBody" : "The KAB-500Krhttps://www.globalsecurity.org/military/world/russia/kab-500.htm is an electro-optical TV-guided fire and forget bomb developed by the Soviet Air Force in the 1980s.  It remains in service with the CIS and various export customers.\n\nThe KAB-500Kr is analogous to the American GBU-15 weapon.  It uses a standard Soviet/Russian FAB-500 general-purpose bomb, with a nominal weight of 500 kg (1,102 lb), as a warhead, adding a low-light television seeker and guidance fins to turn it into a guided, unpowered glide bomb.\n\nThe bomb is 3.05 m (10 ft) long and weighs 520 kg (1,150 lb), of which 380 kg (837 lb) is a hardened, armor-piercing warhead capable of penetrating up to 1.5 m (4 ft 11 in) of reinforced concrete.  The weapon's seeker can lock onto a target at ranges of up to 15 to 17 km (9.4 to 10.6 miles), depending on visibility. The KAB-500-OD variant is equipped with a fuel-air explosive warhead. The technology of KAB-500Kr is also used for larger bombs, such as KAB-1500Kr based on the 1500 kg class FAB-1500 iron bomb.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "KAB-500KR" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=16915" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The KAB-500Krhttps://www.globalsecurity.org/military/world/russia/kab-500.htm is an electro-optical TV-guided fire and forget bomb developed by the Soviet Air Force in the 1980s.  It remains in service with the CIS and various export customers.\n\nThe KAB-500Kr is analogous to the American GBU-15 weapon.  It uses a standard Soviet/Russian FAB-500 general-purpose bomb, with a nominal weight of 500 kg (1,102 lb), as a warhead, adding a low-light television seeker and guidance fins to turn it into a guided, unpowered glide bomb.\n\nThe bomb is 3.05 m (10 ft) long and weighs 520 kg (1,150 lb), of which 380 kg (837 lb) is a hardened, armor-piercing warhead capable of penetrating up to 1.5 m (4 ft 11 in) of reinforced concrete.  The weapon's seeker can lock onto a target at ranges of up to 15 to 17 km (9.4 to 10.6 miles), depending on visibility. The KAB-500-OD variant is equipped with a fuel-air explosive warhead. The technology of KAB-500Kr is also used for larger bombs, such as KAB-1500Kr based on the 1500 kg class FAB-1500 iron bomb. KAB-500KR. http://en.wikipedia.org/?curid=16915."
+  }
+}

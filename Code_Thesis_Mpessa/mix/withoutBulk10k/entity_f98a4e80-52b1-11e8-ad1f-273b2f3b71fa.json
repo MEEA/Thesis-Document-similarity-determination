@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11108",
+  "eid" : "f98a4e80-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778498408,
+  "textBody" : "FAO may refer to:\n\nPlaces\n\n*Fao, Iraq\n**Fao Peninsula\n*Fão, Portugal\n*Faro Airport, in Portugal, airport code FAO\n\nMilitary and insurgents\n\n*Al-Fao, an Iraqi artillery system\n*Western Armed Forces (French: '), a Chadian insurgent group\n\nProfessions\n\n*Flight Activities Officer, a NASA flight controller\n*Foreign area officer of the United States Armed Forces \n\nOther uses\n\n*Fao (god), a god of Niue\n*Fao festival, in Ghana\n*FAO Schwarz, an American toy retailer\n*Faroese language, language code Fao\n*Food and Agriculture Organization, an agency of the United Nations\n*Football Association of Odisha, in India",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "FAO (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11108" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "FAO may refer to:\n\nPlaces\n\n*Fao, Iraq\n**Fao Peninsula\n*Fão, Portugal\n*Faro Airport, in Portugal, airport code FAO\n\nMilitary and insurgents\n\n*Al-Fao, an Iraqi artillery system\n*Western Armed Forces (French: '), a Chadian insurgent group\n\nProfessions\n\n*Flight Activities Officer, a NASA flight controller\n*Foreign area officer of the United States Armed Forces \n\nOther uses\n\n*Fao (god), a god of Niue\n*Fao festival, in Ghana\n*FAO Schwarz, an American toy retailer\n*Faroese language, language code Fao\n*Food and Agriculture Organization, an agency of the United Nations\n*Football Association of Odisha, in India. FAO (disambiguation). http://en.wikipedia.org/?curid=11108."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18325",
+  "eid" : "3237e3a0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778593498,
+  "textBody" : "Labour or Labor may refer to:\n\n* Labour Party (disambiguation), in several countries\n* Labor, a physiological process leading to childbirth\n\nEmployment\n\n* Bonded labour, a system of unfree labour where a person must work to pay off a debt\n* Child labour, the employment of children under an age determined by law or custom\n* Contract labour or Employment, a relationship between an employer and an employee\n* Manual labour, physical work done by people\n* Unfree labour, work relations in which people are employed against their will\n* Wage labour, delivery of services by person for payment\n* Labour Day, a national holiday in many countries\n* Labour economics, the functioning and dynamics of the markets for labour\n* Labor force, the people of a country or other geographic entity actively employed or seeking employment\n* Labour movement, the development of a collective organisation of working people\n* Labor pool or Workforce, the people working in a company, industry, nation or other group\n* Labor relations, the study of the relationship between management and workers\n* Labour union or trade union, an association of wage-earners meant to maintain or improve conditions of employment\n\nArts and media\n\n* Labor (album), a 2013 album by JD Samson & MEN\n* Labor, robots in the anime franchise Patlabor\n* Labour/Le Travail, an academic journal focusing on the Canadian labour movement\n\nOther uses\n\n* Labor, Koper, a village in Slovenia\n* Labor, an obsolete unit of area of Spanish customary units\n* Josef Labor (1842–1924), Czech composer, pianist, organist, and teacher",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Labour" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18325" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Labour or Labor may refer to:\n\n* Labour Party (disambiguation), in several countries\n* Labor, a physiological process leading to childbirth\n\nEmployment\n\n* Bonded labour, a system of unfree labour where a person must work to pay off a debt\n* Child labour, the employment of children under an age determined by law or custom\n* Contract labour or Employment, a relationship between an employer and an employee\n* Manual labour, physical work done by people\n* Unfree labour, work relations in which people are employed against their will\n* Wage labour, delivery of services by person for payment\n* Labour Day, a national holiday in many countries\n* Labour economics, the functioning and dynamics of the markets for labour\n* Labor force, the people of a country or other geographic entity actively employed or seeking employment\n* Labour movement, the development of a collective organisation of working people\n* Labor pool or Workforce, the people working in a company, industry, nation or other group\n* Labor relations, the study of the relationship between management and workers\n* Labour union or trade union, an association of wage-earners meant to maintain or improve conditions of employment\n\nArts and media\n\n* Labor (album), a 2013 album by JD Samson & MEN\n* Labor, robots in the anime franchise Patlabor\n* Labour/Le Travail, an academic journal focusing on the Canadian labour movement\n\nOther uses\n\n* Labor, Koper, a village in Slovenia\n* Labor, an obsolete unit of area of Spanish customary units\n* Josef Labor (1842–1924), Czech composer, pianist, organist, and teacher. Labour. http://en.wikipedia.org/?curid=18325."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=8932",
+  "eid" : "eb7284c0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778474764,
+  "textBody" : "Deimos, a Greek word for dread, may refer to:\n\n*Deimos (deity), one of the sons of Ares and Aphrodite in Greek mythology\n*Deimos (moon), the smaller and outermost of Mars' two natural satellites\n*Elecnor Deimos, a Spanish aerospace company\n*Deimos-1, an artificial Earth observation satellite\n*Deimos-2, an artificial Earth observation satellite\n*Deimos (comics), villain for the Warlord comic series\n*DEIMOS, an early message passing OS for the Cray-1, replaced by the Cray Time Sharing System\n*Deimos (Doctor Who audio), an audio drama\n*Deimos, the brother of Kratos in the God of War series\n*The USS Deimos (AK-78), a ship in the US navy in World War II",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Deimos" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=8932" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Deimos, a Greek word for dread, may refer to:\n\n*Deimos (deity), one of the sons of Ares and Aphrodite in Greek mythology\n*Deimos (moon), the smaller and outermost of Mars' two natural satellites\n*Elecnor Deimos, a Spanish aerospace company\n*Deimos-1, an artificial Earth observation satellite\n*Deimos-2, an artificial Earth observation satellite\n*Deimos (comics), villain for the Warlord comic series\n*DEIMOS, an early message passing OS for the Cray-1, replaced by the Cray Time Sharing System\n*Deimos (Doctor Who audio), an audio drama\n*Deimos, the brother of Kratos in the God of War series\n*The USS Deimos (AK-78), a ship in the US navy in World War II. Deimos. http://en.wikipedia.org/?curid=8932."
+  }
+}

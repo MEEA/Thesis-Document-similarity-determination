@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=15052",
+  "eid" : "19c5cd50-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778552485,
+  "textBody" : "Image and Scanner Interface Specification (ISIS) is an industry standard interface for image scanning technologies, developed by Pixel Translations in 1990 (which became EMC Corporation's Captiva Software and later acquired by OpenText).\n\nISIS is an open standard for scanner control and a complete image-processing framework. It is currently supported by a number of application and scanner vendors.\n\nFunctions\n\nThe modular design allows the scanner to be accessed both directly or with built-in routines to handle most situations automatically.\n\nA message-based interface with tags is used so that features, operations, and formats not yet supported by ISIS can be added as desired without waiting for a new version of the specification.\n\nThe standard addresses all of the issues that an application using a scanner needs to be concerned with. Functions include but are not limited to selecting, installing, and configuring a new scanner; setting scanner-specific parameters; scanning, reading and writing files, and fast image scaling, rotating, displaying, and printing. Drivers have been written to dynamically process data for operations such as converting grayscale to binary image data.\n\nAn ISIS interface can run scanners at or above their rated speed by linking drivers together in a pipe so that data flows from a scanner driver to compression driver, to packaging driver, to a file, viewer, or printer in a continuous stream, usually without the need to buffer more than a small portion of the full image. As a result of using the piping method, each driver can be optimised to perform one function well. Drivers are typically small and modular in order to make it simple to add new functionality to an existing application.\n\nSDKs\n\n* [http://www.emc.com/products/detail/software/pixtools.htm EMC Captiva PixTools - imaging SDKs for C++/.NET]\n* [http://www.atalasoft.com/products/dotimage/ Atalasoft DotImage - imaging SDK for .NET]",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Image and Scanner Interface Specification" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=15052" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Image and Scanner Interface Specification (ISIS) is an industry standard interface for image scanning technologies, developed by Pixel Translations in 1990 (which became EMC Corporation's Captiva Software and later acquired by OpenText).\n\nISIS is an open standard for scanner control and a complete image-processing framework. It is currently supported by a number of application and scanner vendors.\n\nFunctions\n\nThe modular design allows the scanner to be accessed both directly or with built-in routines to handle most situations automatically.\n\nA message-based interface with tags is used so that features, operations, and formats not yet supported by ISIS can be added as desired without waiting for a new version of the specification.\n\nThe standard addresses all of the issues that an application using a scanner needs to be concerned with. Functions include but are not limited to selecting, installing, and configuring a new scanner; setting scanner-specific parameters; scanning, reading and writing files, and fast image scaling, rotating, displaying, and printing. Drivers have been written to dynamically process data for operations such as converting grayscale to binary image data.\n\nAn ISIS interface can run scanners at or above their rated speed by linking drivers together in a pipe so that data flows from a scanner driver to compression driver, to packaging driver, to a file, viewer, or printer in a continuous stream, usually without the need to buffer more than a small portion of the full image. As a result of using the piping method, each driver can be optimised to perform one function well. Drivers are typically small and modular in order to make it simple to add new functionality to an existing application.\n\nSDKs\n\n* [http://www.emc.com/products/detail/software/pixtools.htm EMC Captiva PixTools - imaging SDKs for C++/.NET]\n* [http://www.atalasoft.com/products/dotimage/ Atalasoft DotImage - imaging SDK for .NET]. Image and Scanner Interface Specification. http://en.wikipedia.org/?curid=15052."
+  }
+}

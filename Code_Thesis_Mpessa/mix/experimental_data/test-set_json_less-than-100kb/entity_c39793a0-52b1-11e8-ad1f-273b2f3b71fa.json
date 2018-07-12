@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2991",
+  "eid" : "c39793a0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778407898,
+  "textBody" : "An amphibian is an ectothermic, tetrapod vertebrate.\n\nAmphibian may also refer to:\n*Amphibian (comics), a superhero\n*Amphibious vehicle\n*Amphibious aircraft\n*Hovercraft\n*Vostok Amphibia, one of the Vostok watches\n*Amphibian (song), a song by Björk\n*Mark I Amphibian Mark II Amphibian, Mark III Amphibian, Mark IV Amphibian: 4 types of World War II period British frogman's rebreather",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Amphibian (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2991" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "An amphibian is an ectothermic, tetrapod vertebrate.\n\nAmphibian may also refer to:\n*Amphibian (comics), a superhero\n*Amphibious vehicle\n*Amphibious aircraft\n*Hovercraft\n*Vostok Amphibia, one of the Vostok watches\n*Amphibian (song), a song by Björk\n*Mark I Amphibian Mark II Amphibian, Mark III Amphibian, Mark IV Amphibian: 4 types of World War II period British frogman's rebreather. Amphibian (disambiguation). http://en.wikipedia.org/?curid=2991."
+  }
+}

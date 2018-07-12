@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1603",
+  "eid" : "baacb590-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778392937,
+  "textBody" : "Alexander II may refer to:\n\n* Alexander II of Macedon, King of Macedon from 370 to 368 BC\n* Alexander II of Epirus (died 260 BC), King of Epirus in 272 BC\n* Pope Alexander II, Pope from 1061 to 1073\n* Alexander II of Scotland (1198–1249), King of Scots\n* Alexander II of Imereti (1478, 1483–1510), King of Georgia and of Imereti\n* Alexander II of Kakheti (1574–1605), King of Kakheti\n* Alexander II of Russia (1818–1881), Emperor of Russia\n* Alexander II of Yugoslavia (born 1945), Crown Prince of Serbia",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Alexander II" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1603" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Alexander II may refer to:\n\n* Alexander II of Macedon, King of Macedon from 370 to 368 BC\n* Alexander II of Epirus (died 260 BC), King of Epirus in 272 BC\n* Pope Alexander II, Pope from 1061 to 1073\n* Alexander II of Scotland (1198–1249), King of Scots\n* Alexander II of Imereti (1478, 1483–1510), King of Georgia and of Imereti\n* Alexander II of Kakheti (1574–1605), King of Kakheti\n* Alexander II of Russia (1818–1881), Emperor of Russia\n* Alexander II of Yugoslavia (born 1945), Crown Prince of Serbia. Alexander II. http://en.wikipedia.org/?curid=1603."
+  }
+}

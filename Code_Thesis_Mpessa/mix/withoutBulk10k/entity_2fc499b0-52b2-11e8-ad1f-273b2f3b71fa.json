@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17964",
+  "eid" : "2fc499b0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778589387,
+  "textBody" : "Literary cycles are groups of stories grouped around common figures, often (though not necessarily) based on mythical figures or loosely on historic ones.\n\nExamples from folk and classical literature\n\n*The Anansi tales, which center on the Ashanti  of Ghana trickster spider-spirit Anansi, and its variations in the Americas as Ti Malice and Bouki in Haiti, Br'er Rabbit or John and Old Master in the Southern US.\n*The tales of the Arabian nights, brought together by the frame story of the tale of Scheherazade and Shahryār.\n*The four troubadours Bernart d'Auriac, Pere Salvatge, Roger Bernard III of Foix, and Peter III of Aragon composed a cycle of four sirventes in the summer of 1285 concerning the Aragonese Crusade.\n*The Matter of Britain (or the \"Arthurian cycle\"), which centers on King Arthur and the Knights of the Round Table\n*The Matter of France (or the \"Carolingian cycle\"), which centers on Charlemagne and the Twelve Peers\n*The Henriad, the four plays of Shakespeare centered on Henry V.\n* Two examples of Japanese cycles are: the Matter of Japan (Kojiki, Nihon Shoki, etc.) and the Genji-Heike Cycle (The Tale of the Heike, Gikeiki about Minamoto no Yoshitsune, etc.). Allso popular are the Soga Brothers and Forty-Seven Ronin cycles.\n*The Matter of Rome (or the \"cycle of Rome\"), which centers on Julius Caesar and Alexander the Great\n*The Mythological Cycle, which centers on the Celtic pantheon\n*The Fenian Cycle, which centers on Fionn mac Cumhaill and the Fianna\n*The Cycle of the Kings, which centers on the monarchy of Ireland\n*The Reynard cycle, which centers on the fabular fox Reynard\n*Der Ring des Nibelungen (or the \"Ring cycle\"), which centers on the Ring and the Norse pantheon\n*The voyages of Sinbad the sailor, the hero of a cycle of tales of monsters, magical places, and supernatural phenomena met on his successive voyages.\n*The epic cycle centering on the Trojan War\n*The Ulster Cycle, which centers on Cú Chulainn and the Kingdom of Ulster\n*The Reynard Cycle",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "List of literary cycles" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17964" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Literary cycles are groups of stories grouped around common figures, often (though not necessarily) based on mythical figures or loosely on historic ones.\n\nExamples from folk and classical literature\n\n*The Anansi tales, which center on the Ashanti  of Ghana trickster spider-spirit Anansi, and its variations in the Americas as Ti Malice and Bouki in Haiti, Br'er Rabbit or John and Old Master in the Southern US.\n*The tales of the Arabian nights, brought together by the frame story of the tale of Scheherazade and Shahryār.\n*The four troubadours Bernart d'Auriac, Pere Salvatge, Roger Bernard III of Foix, and Peter III of Aragon composed a cycle of four sirventes in the summer of 1285 concerning the Aragonese Crusade.\n*The Matter of Britain (or the \"Arthurian cycle\"), which centers on King Arthur and the Knights of the Round Table\n*The Matter of France (or the \"Carolingian cycle\"), which centers on Charlemagne and the Twelve Peers\n*The Henriad, the four plays of Shakespeare centered on Henry V.\n* Two examples of Japanese cycles are: the Matter of Japan (Kojiki, Nihon Shoki, etc.) and the Genji-Heike Cycle (The Tale of the Heike, Gikeiki about Minamoto no Yoshitsune, etc.). Allso popular are the Soga Brothers and Forty-Seven Ronin cycles.\n*The Matter of Rome (or the \"cycle of Rome\"), which centers on Julius Caesar and Alexander the Great\n*The Mythological Cycle, which centers on the Celtic pantheon\n*The Fenian Cycle, which centers on Fionn mac Cumhaill and the Fianna\n*The Cycle of the Kings, which centers on the monarchy of Ireland\n*The Reynard cycle, which centers on the fabular fox Reynard\n*Der Ring des Nibelungen (or the \"Ring cycle\"), which centers on the Ring and the Norse pantheon\n*The voyages of Sinbad the sailor, the hero of a cycle of tales of monsters, magical places, and supernatural phenomena met on his successive voyages.\n*The epic cycle centering on the Trojan War\n*The Ulster Cycle, which centers on Cú Chulainn and the Kingdom of Ulster\n*The Reynard Cycle. List of literary cycles. http://en.wikipedia.org/?curid=17964."
+  }
+}

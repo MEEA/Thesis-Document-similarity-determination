@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=19369",
+  "eid" : "3a4d9760-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778607062,
+  "textBody" : "Matteo Carcassi (1792 – 16 January 1853) was a famous Italian guitarist and composer.\n\nLife\n\nCarcassi was born in Florence, Italy, and first studied the piano, but learned guitar when still a child. He quickly gained a reputation as a virtuoso concert guitarist.\n\nHe moved to Germany in 1810, gaining almost immediate success. In 1815, he was living in Paris, earning his living as a teacher of both the piano and the guitar. On a concert tour in Germany in 1819, he met his friend Antoine Meissonnier for the first time. Also a famous guitarist, Meissonnier published many of Carcassi's works in his Paris publishing house. For Meissonnier he also arranged a number of popular songs for guitar that were originally written for piano, including works by Théodore Labarre and Loïsa Puget.\n\nFrom 1820 on, Carcassi spent the majority of his time in Paris. In 1823, he performed an extremely successful series of concerts in London that earned him great fame, both as a performing artist and as a teacher. However, in Paris, a long time passed before his talents were truly recognized, partly because of the presence of Ferdinando Carulli.\n\nCarcassi was in Germany again during autumn 1824. Afterwards he performed in London, where his reputation now gave him access to more prestigious concert halls. Finally he returned to Paris. For several years, he made concert trips from here to the most important cultural towns of Europe, including London. After a short return to performing in 1836, he quit his concert practice around 1840 and died in Paris in 1853.\n\nMusic\n\nCarcassi wrote a method for guitar (op. 59), first published with Schott in Mainz, in 1836. It is still valuable, relevant and interesting. His most famous works are collected in his 25 Etudes op. 60. In these, he managed to blend technical skills and brilliant romantic music. This is the reason his music is still played by so many classical guitarists today.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Matteo Carcassi" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=19369" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Matteo Carcassi (1792 – 16 January 1853) was a famous Italian guitarist and composer.\n\nLife\n\nCarcassi was born in Florence, Italy, and first studied the piano, but learned guitar when still a child. He quickly gained a reputation as a virtuoso concert guitarist.\n\nHe moved to Germany in 1810, gaining almost immediate success. In 1815, he was living in Paris, earning his living as a teacher of both the piano and the guitar. On a concert tour in Germany in 1819, he met his friend Antoine Meissonnier for the first time. Also a famous guitarist, Meissonnier published many of Carcassi's works in his Paris publishing house. For Meissonnier he also arranged a number of popular songs for guitar that were originally written for piano, including works by Théodore Labarre and Loïsa Puget.\n\nFrom 1820 on, Carcassi spent the majority of his time in Paris. In 1823, he performed an extremely successful series of concerts in London that earned him great fame, both as a performing artist and as a teacher. However, in Paris, a long time passed before his talents were truly recognized, partly because of the presence of Ferdinando Carulli.\n\nCarcassi was in Germany again during autumn 1824. Afterwards he performed in London, where his reputation now gave him access to more prestigious concert halls. Finally he returned to Paris. For several years, he made concert trips from here to the most important cultural towns of Europe, including London. After a short return to performing in 1836, he quit his concert practice around 1840 and died in Paris in 1853.\n\nMusic\n\nCarcassi wrote a method for guitar (op. 59), first published with Schott in Mainz, in 1836. It is still valuable, relevant and interesting. His most famous works are collected in his 25 Etudes op. 60. In these, he managed to blend technical skills and brilliant romantic music. This is the reason his music is still played by so many classical guitarists today. Matteo Carcassi. http://en.wikipedia.org/?curid=19369."
+  }
+}

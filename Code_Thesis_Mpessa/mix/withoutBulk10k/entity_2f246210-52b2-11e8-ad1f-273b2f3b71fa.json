@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17891",
+  "eid" : "2f246210-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778588337,
+  "textBody" : "Latin is an Italic language, originally spoken in ancient Rome and its empire.\n\nLatin can also refer to:\n\nEthnic groups and cultures \n\n* Latins, the different groups historically referred to by that name\n* Latins (Italic tribe), an ancient Italic tribe inhabiting ancient central Italy\n* Latin peoples, peoples belonging to modern Romance speaking, Roman derived cultures\n\nLanguage and languages \n\n* Latin languages, an alternate name for Romance languages\n* Latin alphabet, which became the basic script used by most European languages\n* Wheelock's Latin, a textbook for teaching the Latin predominant\n\nMusic \n\n* Latin music (genre)\n\nAlbums\n\n* Latin (George Dalaras album), 1987\n* Latin (Holy Fuck album), an album by the band Holy Fuck\n* \"Latin\", the fourth movement of Mike Oldfield's Tubular Bells 2003 album\n\nPeople with the surname \n\n* Denis Latin (born 1966), a Croatian television host\n* Ivo Latin (1929–2002), former speaker of the Parliament of Croatia and Mayor of Zagreb",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Latin (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17891" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Latin is an Italic language, originally spoken in ancient Rome and its empire.\n\nLatin can also refer to:\n\nEthnic groups and cultures \n\n* Latins, the different groups historically referred to by that name\n* Latins (Italic tribe), an ancient Italic tribe inhabiting ancient central Italy\n* Latin peoples, peoples belonging to modern Romance speaking, Roman derived cultures\n\nLanguage and languages \n\n* Latin languages, an alternate name for Romance languages\n* Latin alphabet, which became the basic script used by most European languages\n* Wheelock's Latin, a textbook for teaching the Latin predominant\n\nMusic \n\n* Latin music (genre)\n\nAlbums\n\n* Latin (George Dalaras album), 1987\n* Latin (Holy Fuck album), an album by the band Holy Fuck\n* \"Latin\", the fourth movement of Mike Oldfield's Tubular Bells 2003 album\n\nPeople with the surname \n\n* Denis Latin (born 1966), a Croatian television host\n* Ivo Latin (1929–2002), former speaker of the Parliament of Croatia and Mayor of Zagreb. Latin (disambiguation). http://en.wikipedia.org/?curid=17891."
+  }
+}

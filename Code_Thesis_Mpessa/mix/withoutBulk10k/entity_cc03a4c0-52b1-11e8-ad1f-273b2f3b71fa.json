@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=4219",
+  "eid" : "cc03a4c0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778422028,
+  "textBody" : "The British Open is the Open Championship men's golf tournament.\n\nBritish Open may also refer to:\n* Women's British Open of golf\n* The Wimbledon Championships of tennis\n* British Open Show Jumping Championships\n* British Open Squash Championships\n* British Open (snooker), a now defunct tournament\n* British Open Wheelchair Championships, a wheelchair tennis tournament that is part of the ITF super series\n* BDO British Open, one of the oldest competitive darts tournaments in the world\n* The dancing competitions of the Blackpool Dance Festival",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "British Open (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=4219" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The British Open is the Open Championship men's golf tournament.\n\nBritish Open may also refer to:\n* Women's British Open of golf\n* The Wimbledon Championships of tennis\n* British Open Show Jumping Championships\n* British Open Squash Championships\n* British Open (snooker), a now defunct tournament\n* British Open Wheelchair Championships, a wheelchair tennis tournament that is part of the ITF super series\n* BDO British Open, one of the oldest competitive darts tournaments in the world\n* The dancing competitions of the Blackpool Dance Festival. British Open (disambiguation). http://en.wikipedia.org/?curid=4219."
+  }
+}

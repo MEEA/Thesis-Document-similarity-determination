@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=14173",
+  "eid" : "1288ed60-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778540342,
+  "textBody" : "Hol or HOL may refer to:\n\nArt and entertainment\n\n* Hol (role-playing game)\n* House of Leaves, a novel by Mark Z. Danielewski\n* Hounds of Love, an album by Kate Bush\n\nPeople \n\n* Hol (surname)\n* K'inich Popol Hol, 5th-century Mayan king\n\nPlaces\n\n* Hol, a municipality in Buskerud county, Norway\n** Old Hol Church, a 13th-century church in Hol, Buskerud county\n* Hol, Tjeldsund, the administrative centre of Tjeldsund municipality, Nordland county\n* Hol, Nordland, a former municipality in Lofoten, Nordland county\n* Hol Church (Nordland), a church in Vestvågøy municipality, Nordland county\n* Holton Heath railway station, in England\n\nScience and technology\n\n* HOL (proof assistant), a family of interactive theorem proving systems\n* Head-of-line blocking, a performance-limiting phenomenon in computer networking\n* Higher-order logic, a branch of symbolic logic\n* Holonomy, in differential geometry\n* Holin, a group of proteins\n\nSport\n\n* Hol IL, a sports club in Hol municipality, Buskerud county\n* HOL, the abbreviation for Netherlands at the Olympics prior to 1992 (now NED)\n\nOther uses\n\n* Hands On Learning, a student re-engagement program implemented by Hands On Learning Australia\n* Hellas On-Line, a Greek Internet service provider\n* Holiday\n* Holu language, spoken in Angola and the Democratic Republic of the Congo\n* House of Lords, the upper house of the UK parliament\n* tlhIngan Hol, the Klingon language",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "HOL" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=14173" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Hol or HOL may refer to:\n\nArt and entertainment\n\n* Hol (role-playing game)\n* House of Leaves, a novel by Mark Z. Danielewski\n* Hounds of Love, an album by Kate Bush\n\nPeople \n\n* Hol (surname)\n* K'inich Popol Hol, 5th-century Mayan king\n\nPlaces\n\n* Hol, a municipality in Buskerud county, Norway\n** Old Hol Church, a 13th-century church in Hol, Buskerud county\n* Hol, Tjeldsund, the administrative centre of Tjeldsund municipality, Nordland county\n* Hol, Nordland, a former municipality in Lofoten, Nordland county\n* Hol Church (Nordland), a church in Vestvågøy municipality, Nordland county\n* Holton Heath railway station, in England\n\nScience and technology\n\n* HOL (proof assistant), a family of interactive theorem proving systems\n* Head-of-line blocking, a performance-limiting phenomenon in computer networking\n* Higher-order logic, a branch of symbolic logic\n* Holonomy, in differential geometry\n* Holin, a group of proteins\n\nSport\n\n* Hol IL, a sports club in Hol municipality, Buskerud county\n* HOL, the abbreviation for Netherlands at the Olympics prior to 1992 (now NED)\n\nOther uses\n\n* Hands On Learning, a student re-engagement program implemented by Hands On Learning Australia\n* Hellas On-Line, a Greek Internet service provider\n* Holiday\n* Holu language, spoken in Angola and the Democratic Republic of the Congo\n* House of Lords, the upper house of the UK parliament\n* tlhIngan Hol, the Klingon language. HOL. http://en.wikipedia.org/?curid=14173."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=11317",
+  "eid" : "fb135f80-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778500984,
+  "textBody" : "Frankish  may refer to:\n\n* Franks, a Germanic tribe and their culture\n** Frankish language or its modern descendants, Franconian languages\n* Francia\n* Crusaders\n* Levantines (Latin Christians)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Frankish" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=11317" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Frankish  may refer to:\n\n* Franks, a Germanic tribe and their culture\n** Frankish language or its modern descendants, Franconian languages\n* Francia\n* Crusaders\n* Levantines (Latin Christians). Frankish. http://en.wikipedia.org/?curid=11317."
+  }
+}

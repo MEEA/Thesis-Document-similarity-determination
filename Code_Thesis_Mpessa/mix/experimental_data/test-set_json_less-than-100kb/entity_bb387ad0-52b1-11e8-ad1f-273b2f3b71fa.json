@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1663",
+  "eid" : "bb387ad0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778393853,
+  "textBody" : "There has not been a monarch known as Alphonso or Alfonso I of Spain, the first king of that name of the unified Spain being Alfonso XII of Spain (1874–1885).\n\nSeveral precursor kingdoms have had an Alfonso I. You may be looking for:\n*Alfonso I of Asturias (739–757).\n*Alfonso I of Aragon and Navarre (1104–1134), known as the Battler\n*Alfonso II of Aragon, a.k.a. Alfons I, Count of Barcelona, (1162–1196) known as el Cast (the Chaste) or el Trobador (the Troubadour)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Alphonso I of Spain" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1663" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "There has not been a monarch known as Alphonso or Alfonso I of Spain, the first king of that name of the unified Spain being Alfonso XII of Spain (1874–1885).\n\nSeveral precursor kingdoms have had an Alfonso I. You may be looking for:\n*Alfonso I of Asturias (739–757).\n*Alfonso I of Aragon and Navarre (1104–1134), known as the Battler\n*Alfonso II of Aragon, a.k.a. Alfons I, Count of Barcelona, (1162–1196) known as el Cast (the Chaste) or el Trobador (the Troubadour). Alphonso I of Spain. http://en.wikipedia.org/?curid=1663."
+  }
+}

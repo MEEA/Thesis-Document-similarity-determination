@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10033",
+  "eid" : "f36d8490-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778488153,
+  "textBody" : "Early music is music, especially Western art music, composed prior to the Classical era.Michael Kennedy, \"Early Music\"\", in The Oxford Dictionary of Music, second revised edition, Associate Editor Joyce Bourne. Oxford: Oxford University Press, 1994. . The term generally comprises Medieval music (500–1400) and Renaissance music (1400–1600), but can also include Baroque music (1600–1760), and, according to some authorities such as Kennedy (who excludes Baroque), Ancient music (before 500 AD). According to the UK's National Centre for Early Music, the term \"early music\" refers to both a repertory (European music written between 1250 and 1750 embracing Medieval, Renaissance and the Baroque) – and a historically informed approach to the performance of that music. However, today this term has come to include \"any music for which a historically appropriate style of performance must be reconstructed on the basis of surviving scores, treatises, instruments and other contemporary evidence.\"Harry Haskell, \"Early Music\", The New Grove Dictionary of Music and Musicians, second edition, edited by Stanley Sadie and John Tyrrell. London: Macmillan Publishers, 2001.\n\nRevival\n\nPerformance practice\n\nAccording to Margaret Bent, \"Renaissance notation is under-prescriptive by our standards; when translated into modern form it acquires a prescriptive weight that overspecifies and distorts its original openness. Accidentals … may or may not have been notated, but what modern notation requires would then have been perfectly apparent without notation to a singer versed in counterpoint\".Bent, Margaret. 1998. \"The Grammar of Early Music: Preconditions for Analysis\", p. 25. In Tonal Structures in Early Music, edited by Cristle Collins Judd, 15–59. Garland Reference Library of the Humanities 1998; Criticism and Analysis of Early Music 1. New York: Garland Publishing. .",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Early music" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10033" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Early music is music, especially Western art music, composed prior to the Classical era.Michael Kennedy, \"Early Music\"\", in The Oxford Dictionary of Music, second revised edition, Associate Editor Joyce Bourne. Oxford: Oxford University Press, 1994. . The term generally comprises Medieval music (500–1400) and Renaissance music (1400–1600), but can also include Baroque music (1600–1760), and, according to some authorities such as Kennedy (who excludes Baroque), Ancient music (before 500 AD). According to the UK's National Centre for Early Music, the term \"early music\" refers to both a repertory (European music written between 1250 and 1750 embracing Medieval, Renaissance and the Baroque) – and a historically informed approach to the performance of that music. However, today this term has come to include \"any music for which a historically appropriate style of performance must be reconstructed on the basis of surviving scores, treatises, instruments and other contemporary evidence.\"Harry Haskell, \"Early Music\", The New Grove Dictionary of Music and Musicians, second edition, edited by Stanley Sadie and John Tyrrell. London: Macmillan Publishers, 2001.\n\nRevival\n\nPerformance practice\n\nAccording to Margaret Bent, \"Renaissance notation is under-prescriptive by our standards; when translated into modern form it acquires a prescriptive weight that overspecifies and distorts its original openness. Accidentals … may or may not have been notated, but what modern notation requires would then have been perfectly apparent without notation to a singer versed in counterpoint\".Bent, Margaret. 1998. \"The Grammar of Early Music: Preconditions for Analysis\", p. 25. In Tonal Structures in Early Music, edited by Cristle Collins Judd, 15–59. Garland Reference Library of the Humanities 1998; Criticism and Analysis of Early Music 1. New York: Garland Publishing. . Early music. http://en.wikipedia.org/?curid=10033."
+  }
+}

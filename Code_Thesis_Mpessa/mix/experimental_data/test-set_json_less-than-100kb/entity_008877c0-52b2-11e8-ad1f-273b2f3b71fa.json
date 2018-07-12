@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12137",
+  "eid" : "008877c0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778510140,
+  "textBody" : "The United States, Venezuela, Cuba, and the People's Republic of China have embassies in Grenada. Grenada has been recognized by most members of the United Nations and maintains diplomatic missions in the United Kingdom, the United States, Venezuela, and Canada.\n\nGrenada is a member of the Caribbean Development Bank, CARICOM, the Organization of Eastern Caribbean States (OECS), and the Commonwealth of Nations. It joined the United Nations in 1974, and the World Bank, the International Monetary Fund, and the Organization of American States in 1975. Grenada also is a member of the Eastern Caribbean's Regional Security System (RSS).\n\nBilateral relations\n\nInternational recognition of Grenada\n\nUN member states\n\nNon-UN member states\n\nGrenada and the Commonwealth of Nations\n\nGrenada has been an independent Commonwealth realm since 1974. \n\nEven under the People's Revolutionary Government, Grenada was never declared a republic, but remained a Commonwealth realm, albeit, under the dictatorship of the New Jewel Movement's leader, Maurice Bishop.\n\nIllicit drugs\n\nSmall-scale cannabis cultivation; lesser transshipment point for cannabis and cocaine to the US.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Foreign relations of Grenada" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12137" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The United States, Venezuela, Cuba, and the People's Republic of China have embassies in Grenada. Grenada has been recognized by most members of the United Nations and maintains diplomatic missions in the United Kingdom, the United States, Venezuela, and Canada.\n\nGrenada is a member of the Caribbean Development Bank, CARICOM, the Organization of Eastern Caribbean States (OECS), and the Commonwealth of Nations. It joined the United Nations in 1974, and the World Bank, the International Monetary Fund, and the Organization of American States in 1975. Grenada also is a member of the Eastern Caribbean's Regional Security System (RSS).\n\nBilateral relations\n\nInternational recognition of Grenada\n\nUN member states\n\nNon-UN member states\n\nGrenada and the Commonwealth of Nations\n\nGrenada has been an independent Commonwealth realm since 1974. \n\nEven under the People's Revolutionary Government, Grenada was never declared a republic, but remained a Commonwealth realm, albeit, under the dictatorship of the New Jewel Movement's leader, Maurice Bishop.\n\nIllicit drugs\n\nSmall-scale cannabis cultivation; lesser transshipment point for cannabis and cocaine to the US. Foreign relations of Grenada. http://en.wikipedia.org/?curid=12137."
+  }
+}

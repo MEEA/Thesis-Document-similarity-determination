@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=2742",
+  "eid" : "c20ab210-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778405297,
+  "textBody" : "Abila is the name of several places:\n\n;Cities\n*Abila (Decapolis), also called Seleucia, northeast of Irbid, Jordan\n*Abilene (biblical)\n*Abila Lysaniou, capital of ancient Abilene, northwest of Damascus, Syria\n*Abila (Peraea), northeast of the northern shore of the Dead Sea, currently in northwestern Jordan\n*Abila, a Latin name for Ávila, Spain\n\n;Mountains\n*Abila Mons, the southern of the Pillars of Hercules on the African side of the Strait of Gibraltar. It is not clear whether it referred to Monte Hacho, in the Spanish enclave of Ceuta, or Jebel Musa in northern Morocco.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Abila" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=2742" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Abila is the name of several places:\n\n;Cities\n*Abila (Decapolis), also called Seleucia, northeast of Irbid, Jordan\n*Abilene (biblical)\n*Abila Lysaniou, capital of ancient Abilene, northwest of Damascus, Syria\n*Abila (Peraea), northeast of the northern shore of the Dead Sea, currently in northwestern Jordan\n*Abila, a Latin name for Ávila, Spain\n\n;Mountains\n*Abila Mons, the southern of the Pillars of Hercules on the African side of the Strait of Gibraltar. It is not clear whether it referred to Monte Hacho, in the Spanish enclave of Ceuta, or Jebel Musa in northern Morocco. Abila. http://en.wikipedia.org/?curid=2742."
+  }
+}

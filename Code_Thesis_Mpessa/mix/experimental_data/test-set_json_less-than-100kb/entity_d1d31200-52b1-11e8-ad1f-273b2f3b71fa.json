@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=5011",
+  "eid" : "d1d31200-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778431776,
+  "textBody" : "Balance, balanced or balancing may refer to:\n\nMost common meanings\n\n* Balance (ability) in biomechanics\n* Balance (accounting)\n* Balance (device for weighing) or weighing scale\n* Equilibrioception, the physiological sense of balance\n\nArts, entertainment, and media\n\nCard games\n\n* Several distinct meanings in the game of contract bridge, including:\n** Balanced hand\n** Balancing (bridge)\nFilms\n\n* Balance (1983 film), a Bulgarian film\n* Balance (1989 film), a short animated film\n* La Balance, a 1982 French film\nMusic \n\n* Balance (band), a 1980s pop-rock group\n* Balance (Van Halen album), 1995\n* Balance (Kim-Lian album), 2004\n* Balance (Akrobatik album), 2003\n* Balance (Leo Kottke album), 1978\n* Balance (Swollen Members album), 1999\n* Balance (Ty Tabor album), 2008\n* Balance (Joe Morris album), 2014\n* \"The Balance\", a Moody Blues song on the 1970 album A Question of Balance \n* \"Balance\", a song by Axium from The Story Thus Far\n\nOther arts, entertainment, and media\n\n* Balance (advertisement), a 1989 award-winning television advertisement for the Lexus LS 400\n* Balance (game design), the concept and the practice of tuning relationships between a game's component systems\n* \"Balance\", a poem by Patti Smith from the book kodak\n* \"Balancing\", an episode of the television series Teletubbies\n* Balance: Television for Living Well, a Canadian television talk show\n\nOther uses \n\n* Balance (metaphysics), a desirable point between two or more opposite forces\n* Balance (puzzle), a mathematical puzzle\n* Balance wheel, the timing device in mechanical watches\n* Balanced, one of the wine tasting descriptors\n* Balancing (international relations)\n* Balancing and deranking, in grammar the use in subordinate clauses of verb forms identical to those in main clauses",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Balance" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=5011" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Balance, balanced or balancing may refer to:\n\nMost common meanings\n\n* Balance (ability) in biomechanics\n* Balance (accounting)\n* Balance (device for weighing) or weighing scale\n* Equilibrioception, the physiological sense of balance\n\nArts, entertainment, and media\n\nCard games\n\n* Several distinct meanings in the game of contract bridge, including:\n** Balanced hand\n** Balancing (bridge)\nFilms\n\n* Balance (1983 film), a Bulgarian film\n* Balance (1989 film), a short animated film\n* La Balance, a 1982 French film\nMusic \n\n* Balance (band), a 1980s pop-rock group\n* Balance (Van Halen album), 1995\n* Balance (Kim-Lian album), 2004\n* Balance (Akrobatik album), 2003\n* Balance (Leo Kottke album), 1978\n* Balance (Swollen Members album), 1999\n* Balance (Ty Tabor album), 2008\n* Balance (Joe Morris album), 2014\n* \"The Balance\", a Moody Blues song on the 1970 album A Question of Balance \n* \"Balance\", a song by Axium from The Story Thus Far\n\nOther arts, entertainment, and media\n\n* Balance (advertisement), a 1989 award-winning television advertisement for the Lexus LS 400\n* Balance (game design), the concept and the practice of tuning relationships between a game's component systems\n* \"Balance\", a poem by Patti Smith from the book kodak\n* \"Balancing\", an episode of the television series Teletubbies\n* Balance: Television for Living Well, a Canadian television talk show\n\nOther uses \n\n* Balance (metaphysics), a desirable point between two or more opposite forces\n* Balance (puzzle), a mathematical puzzle\n* Balance wheel, the timing device in mechanical watches\n* Balanced, one of the wine tasting descriptors\n* Balancing (international relations)\n* Balancing and deranking, in grammar the use in subordinate clauses of verb forms identical to those in main clauses. Balance. http://en.wikipedia.org/?curid=5011."
+  }
+}

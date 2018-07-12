@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=6801",
+  "eid" : "dde40f40-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778452020,
+  "textBody" : "A crew is a body or a class of people who work at a common activity, generally in a structured or hierarchical organization. A location in which a crew works is called a crewyard or a workyard. The word has nautical resonances: the tasks involved in operating a ship, particularly a sailing ship, providing numerous specialities within a ship's crew, often organised with a chain of command. Traditional nautical usage strongly distinguishes officers from crew, though the two groups combined form the ship's company. Members of a crew are often referred to by the title Crewman.\n\nCrew also refers to the sport of rowing, where teams row competitively in racing shells.",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Crew" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=6801" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "A crew is a body or a class of people who work at a common activity, generally in a structured or hierarchical organization. A location in which a crew works is called a crewyard or a workyard. The word has nautical resonances: the tasks involved in operating a ship, particularly a sailing ship, providing numerous specialities within a ship's crew, often organised with a chain of command. Traditional nautical usage strongly distinguishes officers from crew, though the two groups combined form the ship's company. Members of a crew are often referred to by the title Crewman.\n\nCrew also refers to the sport of rowing, where teams row competitively in racing shells. Crew. http://en.wikipedia.org/?curid=6801."
+  }
+}

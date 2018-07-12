@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=5474",
+  "eid" : "d546dc00-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778437568,
+  "textBody" : "Communications in the Cayman Islands\n\nTelephone \n\nTelephones - main lines in use: 37,400 (2009) \n\nTelephones - mobile cellular: 99,900 (2004)\n\nTelephone system:\nDomestic: Reasonably good overall telephone system with a high fixed-line teledensity. Liberalization of telecom market in 2003; introduction of competition in the mobile-cellular market in 2004.  [http://discoverflow.ky FLOW Cayman], [http://www.digicelcayman.com Digicel]\nInternational: Landing points for the MAYA-1, Eastern Caribbean Fiber System, and the Cayman-Jamaica Fiber System submarine cables that provide links to the US and parts of Central and South America. Satellite earth station - 1 Intelsat (Atlantic Ocean) (2007) Intelsat (Atlantic Ocean)\n\nRadio \n\nRadio broadcast stations: AM 0, FM 17, shortwave 0 (2006)\n* List of radio stations in Cayman Islands\n\nRadios: 36,000 (1997)\n\nTelevision \n\nTelevision broadcast stations: [http://www.cayman27.com.ky Cayman27]\n\nInternet \n\nInternet Service Providers (ISPs): 3 (2009) [http://www.candw.ky Cable & Wireless], [http://www.logic.ky Logic], [http://www.telecayman.com Tele Cayman]\n\nCountry code (Top-level domain): KY",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Telecommunications in the Cayman Islands" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=5474" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Communications in the Cayman Islands\n\nTelephone \n\nTelephones - main lines in use: 37,400 (2009) \n\nTelephones - mobile cellular: 99,900 (2004)\n\nTelephone system:\nDomestic: Reasonably good overall telephone system with a high fixed-line teledensity. Liberalization of telecom market in 2003; introduction of competition in the mobile-cellular market in 2004.  [http://discoverflow.ky FLOW Cayman], [http://www.digicelcayman.com Digicel]\nInternational: Landing points for the MAYA-1, Eastern Caribbean Fiber System, and the Cayman-Jamaica Fiber System submarine cables that provide links to the US and parts of Central and South America. Satellite earth station - 1 Intelsat (Atlantic Ocean) (2007) Intelsat (Atlantic Ocean)\n\nRadio \n\nRadio broadcast stations: AM 0, FM 17, shortwave 0 (2006)\n* List of radio stations in Cayman Islands\n\nRadios: 36,000 (1997)\n\nTelevision \n\nTelevision broadcast stations: [http://www.cayman27.com.ky Cayman27]\n\nInternet \n\nInternet Service Providers (ISPs): 3 (2009) [http://www.candw.ky Cable & Wireless], [http://www.logic.ky Logic], [http://www.telecayman.com Tele Cayman]\n\nCountry code (Top-level domain): KY. Telecommunications in the Cayman Islands. http://en.wikipedia.org/?curid=5474."
+  }
+}

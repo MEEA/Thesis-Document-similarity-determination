@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10881",
+  "eid" : "f840b780-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778496248,
+  "textBody" : "Fetish may refer to:\n\nAnthropological uses\n\n* Fetishism, the attribution of religious or mystical qualities to inanimate objects, known as fetishes\n* Zuni fetishes, small carvings from various stones made by the Zuni Indians\n* Imiut fetish, in ancient Egypt a stuffed, headless animal skin tied by the tail to a pole\n* Fetish priest, in countries of West Africa, a person who serves as a mediator between the spirit and the living\n\nSexual\n\n* Sexual fetishism, a sexual attraction to objects or body parts of lesser sexual importance (or none at all) such as feet or certain types of clothing\n* Fetish subculture, a social movement constructed around sexual fetishism\n* Fetish magazine, a type of erotic magazine\n* Fetish art\n** List of fetish artists\n* Fetish fashion\n\nArts\n\n* Fetish (album) (1999), by Joan Jett and the Blackhearts\n* \"Fetish\" (song) (2017), by Selena Gomez\n* Fetish, a fictional superheroine in the Bomb Queen series\n* The Great Fetish, a science fiction novel by L. Sprague de Camp\n\nBusiness\n\n* Commodity fetishism, a Marxist concept of valuation in capitalist markets\n* Venturi Fétish, a car produced by Venturi Automobilesiguation\n* Growth Fetish, a 2003 book by Clive Hamilton advocating a zero-growth economy among \"developed\" nations",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Fetish" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10881" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Fetish may refer to:\n\nAnthropological uses\n\n* Fetishism, the attribution of religious or mystical qualities to inanimate objects, known as fetishes\n* Zuni fetishes, small carvings from various stones made by the Zuni Indians\n* Imiut fetish, in ancient Egypt a stuffed, headless animal skin tied by the tail to a pole\n* Fetish priest, in countries of West Africa, a person who serves as a mediator between the spirit and the living\n\nSexual\n\n* Sexual fetishism, a sexual attraction to objects or body parts of lesser sexual importance (or none at all) such as feet or certain types of clothing\n* Fetish subculture, a social movement constructed around sexual fetishism\n* Fetish magazine, a type of erotic magazine\n* Fetish art\n** List of fetish artists\n* Fetish fashion\n\nArts\n\n* Fetish (album) (1999), by Joan Jett and the Blackhearts\n* \"Fetish\" (song) (2017), by Selena Gomez\n* Fetish, a fictional superheroine in the Bomb Queen series\n* The Great Fetish, a science fiction novel by L. Sprague de Camp\n\nBusiness\n\n* Commodity fetishism, a Marxist concept of valuation in capitalist markets\n* Venturi Fétish, a car produced by Venturi Automobilesiguation\n* Growth Fetish, a 2003 book by Clive Hamilton advocating a zero-growth economy among \"developed\" nations. Fetish. http://en.wikipedia.org/?curid=10881."
+  }
+}

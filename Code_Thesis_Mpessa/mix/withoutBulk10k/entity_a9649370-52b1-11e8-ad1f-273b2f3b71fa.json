@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=1072",
+  "eid" : "a9649370-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778363943,
+  "textBody" : "This article is about communications systems in Antigua and Barbuda. \n\nTelephone\n\nTelephones – main lines in use: 37,500 (2006)\ncountry comparison to the world: 168\n\nTelephones – mobile cellular: 110,200 (2006) (APUA PCS, Cable & Wireless, Digicel)\ncountry comparison to the world: 177\n\nTelephone system:\ndomestic: good automatic telephone system\ninternational: 3 fiber optic submarine cables (2 to Saint Kitts and 1 to Guadeloupe); satellite earth station – 1 Intelsat (Atlantic Ocean)\n\nRadio\n\nRadio broadcast stations: AM 4, FM 6, shortwave 0 (2002)\n\nRadios: 36,000 (1997)\n\nTelevision\n\nTelevision broadcast stations: 2 (1997)\n\nTelevisions: 31,000 (1997)\n\nInternet\n\nInternet Service Providers (ISPs): Cable & Wireless, Antigua Computer Technologies (ACT), Antigua Public Utilities Authority (APUA INET)\n\nInternet hosts: 2,215 (2008)\ncountry comparison to the world: 140\n\nInternet users: 60,000 (2007)\ncountry comparison to the world: 158\n\nCountry codes: AG",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Telecommunications in Antigua and Barbuda" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=1072" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "This article is about communications systems in Antigua and Barbuda. \n\nTelephone\n\nTelephones – main lines in use: 37,500 (2006)\ncountry comparison to the world: 168\n\nTelephones – mobile cellular: 110,200 (2006) (APUA PCS, Cable & Wireless, Digicel)\ncountry comparison to the world: 177\n\nTelephone system:\ndomestic: good automatic telephone system\ninternational: 3 fiber optic submarine cables (2 to Saint Kitts and 1 to Guadeloupe); satellite earth station – 1 Intelsat (Atlantic Ocean)\n\nRadio\n\nRadio broadcast stations: AM 4, FM 6, shortwave 0 (2002)\n\nRadios: 36,000 (1997)\n\nTelevision\n\nTelevision broadcast stations: 2 (1997)\n\nTelevisions: 31,000 (1997)\n\nInternet\n\nInternet Service Providers (ISPs): Cable & Wireless, Antigua Computer Technologies (ACT), Antigua Public Utilities Authority (APUA INET)\n\nInternet hosts: 2,215 (2008)\ncountry comparison to the world: 140\n\nInternet users: 60,000 (2007)\ncountry comparison to the world: 158\n\nCountry codes: AG. Telecommunications in Antigua and Barbuda. http://en.wikipedia.org/?curid=1072."
+  }
+}

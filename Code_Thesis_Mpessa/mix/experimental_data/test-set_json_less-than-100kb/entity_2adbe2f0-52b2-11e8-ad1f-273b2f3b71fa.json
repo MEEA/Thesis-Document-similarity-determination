@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=17206",
+  "eid" : "2adbe2f0-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778581151,
+  "textBody" : "KMS may refer to:.\n\nOrganizations\n\n* National Survey and Cadastre of Denmark, or Kort & Matrikelstyrelsen\n* Krueger Middle School, a school in San Antonio, Texas\n* Kemper Military School, a defunct military academy in Boonville, Missouri\n* Kealing Middle School, a magnet program in Austin, Texas\n* Keaau Middle School, a school in Keaau, Hawaii\n\nMedical\n\n* Kabuki makeup syndrome, now called Kabuki syndrome\n* Kasabach-Merritt syndrome\n\nTechnology\n\n* Kernel mode-setting, setting up screen mode and resolution in operating system kernels\n** KMS driver, Linux kernel device driver for display controllers\n* KMS (hypertext), the Knowledge Management System hypertext system\n* Kaspersky Mobile Security\n* Key Management Service, a Microsoft technology\n* Kerio MailServer\n* Kwangmyŏngsŏng (disambiguation), a class of experimental satellites developed by North Korea\n\nTransport\n\n* Kyoto Municipal Subway\n\nOther\n\n* KMS state\n* King's Medal for Service in the Cause of Freedom, distinguished from King's Medal for Courage in the Cause of Freedom",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "KMS" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=17206" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "KMS may refer to:.\n\nOrganizations\n\n* National Survey and Cadastre of Denmark, or Kort & Matrikelstyrelsen\n* Krueger Middle School, a school in San Antonio, Texas\n* Kemper Military School, a defunct military academy in Boonville, Missouri\n* Kealing Middle School, a magnet program in Austin, Texas\n* Keaau Middle School, a school in Keaau, Hawaii\n\nMedical\n\n* Kabuki makeup syndrome, now called Kabuki syndrome\n* Kasabach-Merritt syndrome\n\nTechnology\n\n* Kernel mode-setting, setting up screen mode and resolution in operating system kernels\n** KMS driver, Linux kernel device driver for display controllers\n* KMS (hypertext), the Knowledge Management System hypertext system\n* Kaspersky Mobile Security\n* Key Management Service, a Microsoft technology\n* Kerio MailServer\n* Kwangmyŏngsŏng (disambiguation), a class of experimental satellites developed by North Korea\n\nTransport\n\n* Kyoto Municipal Subway\n\nOther\n\n* KMS state\n* King's Medal for Service in the Cause of Freedom, distinguished from King's Medal for Courage in the Cause of Freedom. KMS. http://en.wikipedia.org/?curid=17206."
+  }
+}

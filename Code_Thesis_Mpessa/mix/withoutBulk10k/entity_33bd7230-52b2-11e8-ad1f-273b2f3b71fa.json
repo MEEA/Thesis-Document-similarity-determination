@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=18581",
+  "eid" : "33bd7230-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778596051,
+  "textBody" : "Limburg or Limbourg may refer to:\n\nRegions\n\n* Limburg (Belgium), a province since 1839 in the Flanders region of Belgium\n* Limburg (Netherlands), a province since 1839 in the south of the Netherlands\n* Diocese of Limburg, Roman Catholic Diocese in Germany\n* Province of Limburg (1815–39), a former province of the United Kingdom of the Netherlands\n* Duchy of Limburg (1065–1794), a state in the Holy Roman Empire\n* Duchy of Limburg (1839–67), a part of the German Confederation\n* Limburg of the States (1633–1685), one of the Generality Lands, a dependent territory of the United Provinces of the Netherlands\n\nOther places\n\n* Limbourg, a town in Liège, Wallonia, Belgium\n* Limburg (Weilheim an der Teck), a mountain in Baden-Württemberg, Germany\n* Limburg an der Lahn, a city, the district seat of Limburg-Weilburg,  Hesse, Germany\n* Limburg an der Lenne, now called Hagen-Hohenlimburg,  North Rhine-Westphalia, Germany, the former chief town of the county of Limburg-Hohenlimburg\n* Limburg, a castle in Sasbach am Kaiserstuhl,  Baden-Württemberg, Germany\n* Limburg Abbey, a ruined abbey near Bad Dürkheim,  Rhineland-Palatinate, Germany\n* Limburg Airfield, an abandoned World War II military airfield near Limburg an der Lahn, Hessen, Germany\n\nPeople\n\n* Limbourg brothers (fl. 1385–1416), Dutch painters Herman, Paul, and Johan\n* Various members of the German higher nobility and mediatised House of Limburg-Stirum\n* Baermann of Limburg, German writer \n* Helge Limburg (born 1982), German politician\n* Olga Limburg (1881–1970), German actor\n\nOther uses\n\n* Limburg (tanker), a French oil tanker bombed off Yemen",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Limburg" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=18581" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Limburg or Limbourg may refer to:\n\nRegions\n\n* Limburg (Belgium), a province since 1839 in the Flanders region of Belgium\n* Limburg (Netherlands), a province since 1839 in the south of the Netherlands\n* Diocese of Limburg, Roman Catholic Diocese in Germany\n* Province of Limburg (1815–39), a former province of the United Kingdom of the Netherlands\n* Duchy of Limburg (1065–1794), a state in the Holy Roman Empire\n* Duchy of Limburg (1839–67), a part of the German Confederation\n* Limburg of the States (1633–1685), one of the Generality Lands, a dependent territory of the United Provinces of the Netherlands\n\nOther places\n\n* Limbourg, a town in Liège, Wallonia, Belgium\n* Limburg (Weilheim an der Teck), a mountain in Baden-Württemberg, Germany\n* Limburg an der Lahn, a city, the district seat of Limburg-Weilburg,  Hesse, Germany\n* Limburg an der Lenne, now called Hagen-Hohenlimburg,  North Rhine-Westphalia, Germany, the former chief town of the county of Limburg-Hohenlimburg\n* Limburg, a castle in Sasbach am Kaiserstuhl,  Baden-Württemberg, Germany\n* Limburg Abbey, a ruined abbey near Bad Dürkheim,  Rhineland-Palatinate, Germany\n* Limburg Airfield, an abandoned World War II military airfield near Limburg an der Lahn, Hessen, Germany\n\nPeople\n\n* Limbourg brothers (fl. 1385–1416), Dutch painters Herman, Paul, and Johan\n* Various members of the German higher nobility and mediatised House of Limburg-Stirum\n* Baermann of Limburg, German writer \n* Helge Limburg (born 1982), German politician\n* Olga Limburg (1881–1970), German actor\n\nOther uses\n\n* Limburg (tanker), a French oil tanker bombed off Yemen. Limburg. http://en.wikipedia.org/?curid=18581."
+  }
+}

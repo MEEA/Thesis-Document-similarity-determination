@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=7199",
+  "eid" : "e05a1850-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778456149,
+  "textBody" : "The following list of cat breeds includes only domestic cat breeds and domestic × wild hybrids. The list includes established breeds recognized by various cat registries, new and experimental breeds, distinct domestic populations not being actively developed, and lapsed breeds.   The International Cat Association (TICA) recognizes 58,[http://tica.org/public/breeds.php The International Cat Association - TICA Breed Standards]\n the Cat Fanciers' Association (CFA) recognizes 44,[https://web.archive.org/web/20070629034229/http://www.cfa.org/breeds.html Cat Fanciers' Association - CFA Breed Standards]\n and Fédération Internationale Féline (FIFe) recognizes 43.[https://www.webcitation.org/6ErvWYADX?url=http://fifeweb.org/wp/breeds/breeds_prf_stn.php Fédération Internationale Féline - FIFe Breed Standards]\n\nInconsistency in breed classification among registries means that an individual animal may be considered different breeds by different registries. For example, TICA's Himalayan is considered a colorpoint version of the Persian by CFA, while CFA's Javanese is considered a color variation of the Balinese by TICA.\n\nThe domestic short-haired and domestic long-haired cat types are not breeds but terms used (with various spellings) in the cat fancy to describe cats of a general type, by coat length, that do not belong to a particular breed.\n\nBreeds",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "List of cat breeds" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=7199" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "The following list of cat breeds includes only domestic cat breeds and domestic × wild hybrids. The list includes established breeds recognized by various cat registries, new and experimental breeds, distinct domestic populations not being actively developed, and lapsed breeds.   The International Cat Association (TICA) recognizes 58,[http://tica.org/public/breeds.php The International Cat Association - TICA Breed Standards]\n the Cat Fanciers' Association (CFA) recognizes 44,[https://web.archive.org/web/20070629034229/http://www.cfa.org/breeds.html Cat Fanciers' Association - CFA Breed Standards]\n and Fédération Internationale Féline (FIFe) recognizes 43.[https://www.webcitation.org/6ErvWYADX?url=http://fifeweb.org/wp/breeds/breeds_prf_stn.php Fédération Internationale Féline - FIFe Breed Standards]\n\nInconsistency in breed classification among registries means that an individual animal may be considered different breeds by different registries. For example, TICA's Himalayan is considered a colorpoint version of the Persian by CFA, while CFA's Javanese is considered a color variation of the Balinese by TICA.\n\nThe domestic short-haired and domestic long-haired cat types are not breeds but terms used (with various spellings) in the cat fancy to describe cats of a general type, by coat length, that do not belong to a particular breed.\n\nBreeds. List of cat breeds. http://en.wikipedia.org/?curid=7199."
+  }
+}

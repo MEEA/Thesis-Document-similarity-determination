@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=12662",
+  "eid" : "03ec3c30-52b2-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778515827,
+  "textBody" : "Francisco Goya (1746–1828) was a Spanish romantic painter and printmaker.\n\nGoya may also refer to:\n\nUses related to Francisco Goya \n\n*Goya: A Life in Song, a musical by Maury Yeston\n*Goya (opera), an opera by Gian Carlo Menotti\n*Goya, a biography by Lion Feuchtwanger\n*Goya, a biography by Robert Hughes\n*Goya Awards, Spain's main national film awards\n*Goya Museum, Castres, France\n\nPlaces \n\n*Goya, Argentina, a city in Corrientes Province, Argentina\n*Goya Department, Corrientes Province, Argentina\n\nOther uses \n\n*Francis Goya, a Belgian musician\n*Goya Foods, a food manufacturer and distributor in the U.S. and Latin America\n*Goya (band), a Polish pop group\n*Goya (moth), a genus of moth\n*Goya (ship), a German ship during World War II\n*Goya (surname)\n*Goya (wrestler), ring name of Mexican professional wrestler Gloria Alvarado Nava\n*SS Goya, a Norwegian ship that carried eastern European refugees to New Zealand  in 1951\n*Greek Orthodox Youth of America (GOYA), a Greek-American youth group\n*6592 Goya, a Main-belt asteroid\n*Goya, the Okinawan and Japanese name of the bitter melon, a tropical and subtropical vine with edible fruit\n*Goya guitars, a line of acoustic guitars created by Levin\n*Goya, name marketed in the USA for electric guitars by Hagström\n*Goya, a nightclub in the former Neues Schauspielhaus, Berlin, Germany\n*Goya or the Hard Way to Enlightenment, a 1971 East German film",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Goya (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=12662" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Francisco Goya (1746–1828) was a Spanish romantic painter and printmaker.\n\nGoya may also refer to:\n\nUses related to Francisco Goya \n\n*Goya: A Life in Song, a musical by Maury Yeston\n*Goya (opera), an opera by Gian Carlo Menotti\n*Goya, a biography by Lion Feuchtwanger\n*Goya, a biography by Robert Hughes\n*Goya Awards, Spain's main national film awards\n*Goya Museum, Castres, France\n\nPlaces \n\n*Goya, Argentina, a city in Corrientes Province, Argentina\n*Goya Department, Corrientes Province, Argentina\n\nOther uses \n\n*Francis Goya, a Belgian musician\n*Goya Foods, a food manufacturer and distributor in the U.S. and Latin America\n*Goya (band), a Polish pop group\n*Goya (moth), a genus of moth\n*Goya (ship), a German ship during World War II\n*Goya (surname)\n*Goya (wrestler), ring name of Mexican professional wrestler Gloria Alvarado Nava\n*SS Goya, a Norwegian ship that carried eastern European refugees to New Zealand  in 1951\n*Greek Orthodox Youth of America (GOYA), a Greek-American youth group\n*6592 Goya, a Main-belt asteroid\n*Goya, the Okinawan and Japanese name of the bitter melon, a tropical and subtropical vine with edible fruit\n*Goya guitars, a line of acoustic guitars created by Levin\n*Goya, name marketed in the USA for electric guitars by Hagström\n*Goya, a nightclub in the former Neues Schauspielhaus, Berlin, Germany\n*Goya or the Hard Way to Enlightenment, a 1971 East German film. Goya (disambiguation). http://en.wikipedia.org/?curid=12662."
+  }
+}

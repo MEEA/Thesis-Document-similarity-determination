@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=10661",
+  "eid" : "f6d826d0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778493885,
+  "textBody" : "Modes of transport in Fiji include rail, road, water, and air. The rail network is mainly used for movement of sugar cane. Suva and Lautoka are the largest seaports. There are 122km of navigable inland waterways. There are two international airports, one other paved airport, and over 20 with unpaved runways. With 333 tropical islands that make up this country, expect to use various modes of transport to get to your destination.\nRailways \n\nTotal: 597 km; 597 km 0.610-m gauge (1995)\n\nNarrow gauge: Note: belongs to the government-owned Fiji Sugar Corporation The railway is not for passenger or public use.\n\nWaterways \n\n203 km; 122 km navigable by motorized craft and 200-metric-ton barges\n\nPorts and harbors \n\nLabasa, Lautoka, Levuka, Savusavu, Suva\n\nMerchant marine \n\nTotal: 6 ships (1,000 GRT or over) totaling 11,870 GRT/\nShips by type: chemical tanker 2, passenger 1, petroleum tanker 1, roll-on/roll-off 1, specialized tanker 1 (1999 est.)\n\nAirports \n\nMajor airports include:\n*Nadi International Airport\n**Many services fly in and out of Nadi - You can book flights to Fiji, and [https://exclusives.webjet.com.au/deals/special-deals/fiji/cheap-fiji-deals/ travel packages] online or in person. Expect that booking on the day tends to incur additional charges.\n*Nausori International Airport\nTotal 25 (1999 est.)\n\nAirports with paved runways \n\nTotal: 3\nOver 3,047 m: 1\n1,524 to 2,437 m: 1\n914 to 1,523 m: 1 (1999 est.)\n\nAirports with unpaved runways \n\nTotal: 22\n914 to 1,523 m: 5\nUnder 914 m: 17 (1999 est.)",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Transport in Fiji" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=10661" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "Modes of transport in Fiji include rail, road, water, and air. The rail network is mainly used for movement of sugar cane. Suva and Lautoka are the largest seaports. There are 122km of navigable inland waterways. There are two international airports, one other paved airport, and over 20 with unpaved runways. With 333 tropical islands that make up this country, expect to use various modes of transport to get to your destination.\nRailways \n\nTotal: 597 km; 597 km 0.610-m gauge (1995)\n\nNarrow gauge: Note: belongs to the government-owned Fiji Sugar Corporation The railway is not for passenger or public use.\n\nWaterways \n\n203 km; 122 km navigable by motorized craft and 200-metric-ton barges\n\nPorts and harbors \n\nLabasa, Lautoka, Levuka, Savusavu, Suva\n\nMerchant marine \n\nTotal: 6 ships (1,000 GRT or over) totaling 11,870 GRT/\nShips by type: chemical tanker 2, passenger 1, petroleum tanker 1, roll-on/roll-off 1, specialized tanker 1 (1999 est.)\n\nAirports \n\nMajor airports include:\n*Nadi International Airport\n**Many services fly in and out of Nadi - You can book flights to Fiji, and [https://exclusives.webjet.com.au/deals/special-deals/fiji/cheap-fiji-deals/ travel packages] online or in person. Expect that booking on the day tends to incur additional charges.\n*Nausori International Airport\nTotal 25 (1999 est.)\n\nAirports with paved runways \n\nTotal: 3\nOver 3,047 m: 1\n1,524 to 2,437 m: 1\n914 to 1,523 m: 1 (1999 est.)\n\nAirports with unpaved runways \n\nTotal: 22\n914 to 1,523 m: 5\nUnder 914 m: 17 (1999 est.). Transport in Fiji. http://en.wikipedia.org/?curid=10661."
+  }
+}

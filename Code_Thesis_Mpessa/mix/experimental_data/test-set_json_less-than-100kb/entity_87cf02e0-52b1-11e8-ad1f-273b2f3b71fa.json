@@ -1,0 +1,23 @@
+{
+  "datasourceIdentifier" : "awesome wiki export",
+  "backlink" : "http://en.wikipedia.org/?curid=661",
+  "eid" : "87cf02e0-52b1-11e8-ad1f-273b2f3b71fa",
+  "loadTime" : 1525778307598,
+  "textBody" : "In logic and philosophy, an argument is an attempt to persuade someone of something, or give evidence or reasons for accepting a particular conclusion.\n\nArgument may also refer to: \n\nMathematics and computer science\n\n*Argument (complex analysis), a function which returns the polar angle of a complex number\n*Parameter (computer programming), a piece of data provided as input to a subroutine\n*Argument principle, a theorem in complex analysis \n*An argument of a function, also known as an independent variable\n\nLanguage and rhetoric\n\n*Argument (literature), a brief summary, often in prose, of a poem or section of a poem or other work\n*Argument (linguistics), a phrase  that appears in a syntactic relationship with the verb in a clause\n*Oral argument, in US law, a spoken presentation to a judge or appellate court by a lawyer (or parties when representing themselves) of the legal reasons why they should prevail\n*Closing argument, in law, the concluding statement of each party's counsel reiterating the important arguments in a court case\n\nMusic\n\n*Musical argument, a concept in the theory of musical form\n\nOther uses\n\n*Argument (ship), an Australian sloop wrecked in 1809\n*The Argument, the sixth studio album from the post-hardcore band Fugazi\n*Argument Clinic, a Monty Python sketch\n*A disagreement between two or more parties or the discussion of the disagreement",
+  "entityProperties" : [ {
+    "name" : "title",
+    "type" : "String",
+    "values" : [ "Argument (disambiguation)" ],
+    "synthetic" : false
+  }, {
+    "name" : "url",
+    "type" : "String",
+    "values" : [ "http://en.wikipedia.org/?curid=661" ],
+    "synthetic" : false
+  } ],
+  "classifications" : [ "xml-export" ],
+  "technicalAttributes" : {
+    "technicalAttributes" : null,
+    "aggregatedText" : "In logic and philosophy, an argument is an attempt to persuade someone of something, or give evidence or reasons for accepting a particular conclusion.\n\nArgument may also refer to: \n\nMathematics and computer science\n\n*Argument (complex analysis), a function which returns the polar angle of a complex number\n*Parameter (computer programming), a piece of data provided as input to a subroutine\n*Argument principle, a theorem in complex analysis \n*An argument of a function, also known as an independent variable\n\nLanguage and rhetoric\n\n*Argument (literature), a brief summary, often in prose, of a poem or section of a poem or other work\n*Argument (linguistics), a phrase  that appears in a syntactic relationship with the verb in a clause\n*Oral argument, in US law, a spoken presentation to a judge or appellate court by a lawyer (or parties when representing themselves) of the legal reasons why they should prevail\n*Closing argument, in law, the concluding statement of each party's counsel reiterating the important arguments in a court case\n\nMusic\n\n*Musical argument, a concept in the theory of musical form\n\nOther uses\n\n*Argument (ship), an Australian sloop wrecked in 1809\n*The Argument, the sixth studio album from the post-hardcore band Fugazi\n*Argument Clinic, a Monty Python sketch\n*A disagreement between two or more parties or the discussion of the disagreement. Argument (disambiguation). http://en.wikipedia.org/?curid=661."
+  }
+}
